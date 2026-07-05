@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build a static website from the Ultimentality markdown vault.
+"""Build a static website from the Ultimentality markdown relicquary.
 
 - Converts each .md -> .html via pandoc (gfm + tex math), resolving [[wikilinks]].
 - Bespoke responsive template: sidebar nav (parsed from home.md), client-side
@@ -223,7 +223,7 @@ def downloads_footer(slug):
     name = f"{slug}.md"
     return (
         '<footer class="downloads"><span class="dl-h">Download</span>'
-        f'<a href="vault/{name}" download="{name}">This page (.md)</a>'
+        f'<a href="relics/{name}" download="{name}">This page (.md)</a>'
         '<a href="ultimentality-wiki-complete.md" download="ultimentality-wiki-complete.md">Full corpus (one .md)</a>'
         '<a href="ultimentality-wiki-md.zip" download="ultimentality-wiki-md.zip">All pages (.zip)</a>'
         '</footer>'
@@ -232,7 +232,7 @@ def downloads_footer(slug):
 def build_monolith(pages, nav):
     parts = ["# Ultimentality — Complete Wiki\n",
              "> The entire Ultimentality wiki as a single Markdown document. "
-             "Cross-references use Obsidian-style `[[wikilinks]]`; "
+             "Cross-references use double-bracket `[[wikilinks]]`; "
              "every load-bearing claim carries its dual epistemic (E) / alethic (A) marks.\n",
              "\n## Contents\n", "\n**Home**\n"]
     nav_slugs = []
@@ -265,7 +265,7 @@ def main():
     os.makedirs(OUT, exist_ok=True)
     # clean ONLY generated artifacts; preserve .git, README, CNAME, etc.
     KEEP = {".git", "README.md", "CNAME", ".gitignore"}
-    GEN = {"style.css", "app.js", "search.json", ".nojekyll", "vault",
+    GEN = {"style.css", "app.js", "search.json", ".nojekyll", "relics",
            "ultimentality-wiki-complete.md", "ultimentality-wiki-md.zip"}
     for fn in os.listdir(OUT):
         if fn in KEEP:
@@ -317,13 +317,13 @@ def main():
     open(os.path.join(OUT, ".nojekyll"), "w").write("")
     if SITE_DOMAIN:
         open(os.path.join(OUT, "CNAME"), "w").write(SITE_DOMAIN)
-    # keep the markdown vault in-repo for provenance
-    vault = os.path.join(OUT, "vault")
-    os.makedirs(vault, exist_ok=True)
+    # keep the markdown relics in-repo for provenance
+    relics = os.path.join(OUT, "relics")
+    os.makedirs(relics, exist_ok=True)
     for dirpath, _dirs, files in os.walk(SRC):
         for fn in files:
             if fn.endswith(".md"):
-                shutil.copy(os.path.join(dirpath, fn), os.path.join(vault, fn))
+                shutil.copy(os.path.join(dirpath, fn), os.path.join(relics, fn))
     # monolithic single-file corpus
     open(os.path.join(OUT, "ultimentality-wiki-complete.md"), "w", encoding="utf-8").write(
         build_monolith(pages, nav))

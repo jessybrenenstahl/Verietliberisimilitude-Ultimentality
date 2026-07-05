@@ -110,4 +110,4 @@ The whole edition is governed by one posture: every claim is **Derived**, held a
 
 ---
 
-*Source: `ultimentality_treatise_v14_0_two_axis.md` (canonical) and `ultimentality_framework_rewrite.md` (verified faithful restatement). Pages mark provenance as **canonical**, **treatise-side**, or **seed**, exactly as the source does. Links use Obsidian-style double-bracket wiki syntax (a slug with an optional title alias).*
+*Source: `ultimentality_treatise_v14_0_two_axis.md` (canonical) and `ultimentality_framework_rewrite.md` (verified faithful restatement). Pages mark provenance as **canonical**, **treatise-side**, or **seed**, exactly as the source does. Links use double-bracket wiki syntax (a slug with an optional title alias).*
