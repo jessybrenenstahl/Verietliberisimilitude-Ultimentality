@@ -27,6 +27,7 @@ The whole edition is governed by one posture: every claim is **Derived**, held a
 - [[open-proof-burden|The Open Proof-Burden]]
 - [[the-2026-adversarial-run|The 2026 Adversarial Run]]
 - [[provenance-as-testimony|Provenance as Testimony]]
+- [[coalescence-by-non-contradictory-fit|Coalescence-by-Non-Contradictory-Fit]]
 
 ## I. The Axiom & VLS
 
@@ -98,10 +99,6 @@ The whole edition is governed by one posture: every claim is **Derived**, held a
 - [[nihil|The Nihil]] · [[mortality-hevel|Mortality / Hevel]]
 - [[matter-meaning-cycle|The Matter–Meaning Cycle]] · [[why-how-inversion|The Why/How Inversion]] *(treatise-side)*
 - [[mathematics|Mathematics]] *(treatise-side)*
-
-## VII. Provenance & Evidential Status
-
-- [[coalescence-by-non-contradictory-fit|Coalescence-by-Non-Contradictory-Fit]]
 
 ## VIII. The Two-Axis Ledger
 
