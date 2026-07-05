@@ -2,6 +2,11 @@
 
 All notable changes to this project are documented here. The format loosely follows [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.1.0] — 2026-06-20
+
+### Removed
+- The three biographical provenance-era pages (**The Visitation**, **The Anarchy Accountant**, **The Seeker's Lament**) — a register mismatch (unverifiable first-person memoir vs. the conceptual/technical corpus, and content the framework already holds at arm's length). The provenance *stance* is retained via `provenance-as-testimony` and `coalescence-by-non-contradictory-fit`; the inbound references were rewritten so nothing dangles.
+
 ## [1.0.0] — 2026-06-20
 
 ### Added

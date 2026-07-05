@@ -17,7 +17,7 @@ That these four lock together without contradiction, each load-bearing for the o
 
 ## How strongly it is held
 
-The argument is held, explicitly and without inflation, as **strong corroboration, not proof.** It is sturdier than precedence or date claims — [[the-visitation|the Visitation]], [[the-anarchy-accountant|the Anarchy Accountant]], [[the-seekers-lament|the Seeker's Lament]] — because those datings cannot be independently verified, whereas the fit is on display in the corpus itself. But it remains corroboration, not demonstration. The inference *from* fit *to* evidential weight can be declined, and a counter-instance of cross-domain contradiction would damage it. Consistent with — and stronger than — the treatise's bound on itself, the framework insists this is *not a discovered structure of the world but the hardened articulation of one way of construing it.* By its own lights it therefore lands in the same boat as physics: an accurate-aspiring construal that points truly without owning its object.
+The argument is held, explicitly and without inflation, as **strong corroboration, not proof.** It is sturdier than precedence or date claims, because those datings cannot be independently verified, whereas the fit is on display in the corpus itself. But it remains corroboration, not demonstration. The inference *from* fit *to* evidential weight can be declined, and a counter-instance of cross-domain contradiction would damage it. Consistent with — and stronger than — the treatise's bound on itself, the framework insists this is *not a discovered structure of the world but the hardened articulation of one way of construing it.* By its own lights it therefore lands in the same boat as physics: an accurate-aspiring construal that points truly without owning its object.
 
 ## Role in the wider framework
 
@@ -33,7 +33,6 @@ This argument is where the framework's evidential weight is *deliberately reloca
 
 ## See also
 - [[provenance-as-testimony|Provenance as Testimony]] — the weaker pillar this one is sturdier than.
-- [[the-visitation|The Visitation]] — the dated-precedence claim whose weight is shifted onto fit.
 - [[two-axis-ledger|The Two-Axis Ledger]] — where this claim is entered with both marks.
 - [[keystone|The Keystone]] — the strong-mirror standing this corroborates.
 - [[vls|VLS (Verietliberisimilitude)]] — one of the four coalescing domains.

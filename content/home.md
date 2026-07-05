@@ -101,9 +101,6 @@ The whole edition is governed by one posture: every claim is **Derived**, held a
 
 ## VII. Provenance & Evidential Status
 
-- [[the-visitation|The Visitation]]
-- [[the-anarchy-accountant|The Anarchy Accountant]]
-- [[the-seekers-lament|The Seeker's Lament]]
 - [[coalescence-by-non-contradictory-fit|Coalescence-by-Non-Contradictory-Fit]]
 
 ## VIII. The Two-Axis Ledger

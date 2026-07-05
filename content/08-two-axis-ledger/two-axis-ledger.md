@@ -22,7 +22,7 @@ One **exception** is written into the table: phenomenological glosses — what a
 
 ## Role in the wider framework
 
-The ledger is the apparatus that *assigns* the marks the rest of the framework relies on, so its rows span the full range — FT, CV, AC, plus [[provenance-as-testimony|Testimony]] for the dated eras and one row left frankly **Open** (whether experienced meaning must be defined against [[nihil|the nihil]] at all). It sits directly beneath the [[keystone|keystone]]: the deflation from a prior "Forced" tier to uniform Derived is what made a *second*, alethic axis necessary, and the ledger is where that second axis is recorded. Its existence is also a load-bearing claim in the [[falsification-standard|falsification standard]] — the new "two-axis gate" simply *is* the demand that every claim carry both marks, kept independent.
+The ledger is the apparatus that *assigns* the marks the rest of the framework relies on, so its rows span the full range — FT, CV, AC, plus [[provenance-as-testimony|Testimony]] for provenance and dated precedence, and one row left frankly **Open** (whether experienced meaning must be defined against [[nihil|the nihil]] at all). It sits directly beneath the [[keystone|keystone]]: the deflation from a prior "Forced" tier to uniform Derived is what made a *second*, alethic axis necessary, and the ledger is where that second axis is recorded. Its existence is also a load-bearing claim in the [[falsification-standard|falsification standard]] — the new "two-axis gate" simply *is* the demand that every claim carry both marks, kept independent.
 
 ## Common misreadings
 
