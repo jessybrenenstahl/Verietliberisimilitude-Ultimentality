@@ -1,0 +1,11 @@
+Ultimentality — Verietliberisimilitude
+Copyright (c) 2026 the Ultimentality system builder.
+
+Content (everything under content/, and any wiki/site generated from it):
+  Licensed under CC BY-NC-ND 4.0 — see LICENSE.
+  SPDX-License-Identifier: CC-BY-NC-ND-4.0
+  Share verbatim, with attribution, non-commercially, no derivatives.
+  All other rights reserved.
+
+Build tooling (tools/), CI, and repository scaffolding:
+  Licensed under the MIT License — see tools/LICENSE.

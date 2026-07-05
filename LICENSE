@@ -1,17 +1,3 @@
-Ultimentality — Framework Content
-Copyright (c) 2026 the Ultimentality system builder.
-
-The content of this repository (everything under content/, and any wiki or
-site generated from it) is licensed under the Creative Commons
-Attribution-NonCommercial-NoDerivatives 4.0 International License.
-SPDX-License-Identifier: CC-BY-NC-ND-4.0
-Summary: https://creativecommons.org/licenses/by-nc-nd/4.0/
-
-The build tooling under tools/ is licensed separately under the MIT License
-(see tools/LICENSE). The full CC BY-NC-ND 4.0 legal text follows.
-
------------------------------------------------------------------------
-
 Attribution-NonCommercial-NoDerivatives 4.0 International
 
 =======================================================================
