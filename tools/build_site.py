@@ -13,6 +13,7 @@ SRC = os.path.join(ROOT, "content")
 OUT = os.path.join(ROOT, "site")
 SITE_TITLE = "Ultimentality"
 SITE_SUB = "A wiki of the framework"
+SITE_DOMAIN = "ultimentality.relicquary.com"  # GitHub Pages custom domain; set "" to disable CNAME output
 
 WIKILINK_ALIAS = re.compile(r"\[\[([^|\]]+)\|([^\]]+)\]\]")
 WIKILINK_BARE  = re.compile(r"\[\[([^|\]]+)\]\]")
@@ -314,6 +315,8 @@ def main():
     open(os.path.join(OUT, "style.css"), "w", encoding="utf-8").write(CSS)
     open(os.path.join(OUT, "app.js"), "w", encoding="utf-8").write(APP_JS)
     open(os.path.join(OUT, ".nojekyll"), "w").write("")
+    if SITE_DOMAIN:
+        open(os.path.join(OUT, "CNAME"), "w").write(SITE_DOMAIN)
     # keep the markdown vault in-repo for provenance
     vault = os.path.join(OUT, "vault")
     os.makedirs(vault, exist_ok=True)
