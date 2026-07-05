@@ -29,7 +29,7 @@ This argument is where the framework's evidential weight is *deliberately reloca
 - Hearing "coalesced, not architected" as "no design at all." The claim is about *how the pieces came together* — independently, then found to fit — not that no thinking occurred.
 - Treating it as a claim to have discovered the world's structure. It claims a hardened articulation of one construal, not possession of the object.
 
-> **Formal status.** *Part VII (Where the weight actually rests).* **E: Derived, CV (treatise-side)** — strong corroboration, contestable by counter-instance or by declining the inference from fit to evidential weight. **A:** the argument aspires to map a real evidential asymmetry — cross-domain fit is harder to fabricate than single-domain fit — and holds itself to corroboration, not possession of proof. Provenance: **treatise-side** — explicitly flagged as the writer's scaffolding, held at the [[carving-tier|carving tier]].
+> **Formal status.** *Epistemic apparatus — where the weight actually rests.* **E: Derived, CV (treatise-side)** — strong corroboration, contestable by counter-instance or by declining the inference from fit to evidential weight. **A:** the argument aspires to map a real evidential asymmetry — cross-domain fit is harder to fabricate than single-domain fit — and holds itself to corroboration, not possession of proof. Provenance: **treatise-side** — explicitly flagged as the writer's scaffolding, held at the [[carving-tier|carving tier]].
 
 ## See also
 - [[provenance-as-testimony|Provenance as Testimony]] — the weaker pillar this one is sturdier than.

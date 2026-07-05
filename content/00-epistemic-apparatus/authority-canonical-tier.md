@@ -22,7 +22,7 @@ Reading the two columns of the [[two-axis-ledger|Two-Axis Ledger]] together expo
 
 ## Formal status
 
-> **Formal status.** *Expository tier-term: AC names a position on the epistemic axis rather than asserting a load-bearing claim of its own.* Claims placed here carry the epistemic mark **E: Derived, AC — contestable by contesting the authority**; their alethic mapping-accuracy is marked independently and may be maximal. Note: treating the benchmark *itself* as a foundation rather than a contestable ranking authority is the textual Nephilim; treating any prior edition or the reliquary as canon over the benchmark is an error; some claims are split-provenance (e.g. [[transparentocracy|transparentocracy]] is seed-root AC with treatise-side CV elaboration). Provenance: **canonical** — benchmark-fixed; "canon" *means* this tier (Preamble contestability gradient; Two-Axis Ledger tier key, Part VIII).
+> **Formal status.** *Expository tier-term: AC names a position on the epistemic axis rather than asserting a load-bearing claim of its own.* Claims placed here carry the epistemic mark **E: Derived, AC — contestable by contesting the authority**; their alethic mapping-accuracy is marked independently and may be maximal. Note: treating the benchmark *itself* as a foundation rather than a contestable ranking authority is the textual Nephilim; treating any prior edition or the reliquary as canon over the benchmark is an error; some claims are split-provenance (e.g. [[transparentocracy|transparentocracy]] is seed-root AC with treatise-side CV elaboration). Provenance: **canonical** — benchmark-fixed; "canon" *means* this tier (Preamble contestability gradient; Two-Axis Ledger tier key, Part VII).
 
 ## See also
 

@@ -22,7 +22,7 @@ CV is not only about counts. The framework files its own treatise-side coinages 
 
 ## Formal status
 
-> **Formal status.** *Expository tier-term: CV names a position on the epistemic axis rather than asserting a load-bearing claim of its own.* Claims placed here carry the epistemic mark **E: Derived, CV — contestable by counter-instance**; their alethic mapping-accuracy is marked independently and may remain high even where the closure is defeated. Provenance: **canonical** — benchmark-fixed (Preamble contestability gradient; Two-Axis Ledger tier key, Part VIII).
+> **Formal status.** *Expository tier-term: CV names a position on the epistemic axis rather than asserting a load-bearing claim of its own.* Claims placed here carry the epistemic mark **E: Derived, CV — contestable by counter-instance**; their alethic mapping-accuracy is marked independently and may remain high even where the closure is defeated. Provenance: **canonical** — benchmark-fixed (Preamble contestability gradient; Two-Axis Ledger tier key, Part VII).
 
 ## See also
 

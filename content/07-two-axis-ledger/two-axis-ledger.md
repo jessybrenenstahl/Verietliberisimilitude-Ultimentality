@@ -30,7 +30,7 @@ The ledger is the apparatus that *assigns* the marks the rest of the framework r
 - Looking for a "verifier" or "Forced" tier. There is none; every claim is Derived, and there is no foundation to verify against.
 - Treating the phenomenological-gloss exception as a loophole for real claims. It applies only to items that assert nothing on their own.
 
-> **Formal status.** *Part VIII (the ledger).* The ledger is the *structural apparatus* that assigns marks; it is not itself a marked world-claim. Its rows carry every load-bearing claim's **E** (Derived, at FT / CV / AC, plus Testimony and one Open) and **A** (mapping-accuracy aspiration). Provenance: **treatise-side** scaffolding organizing canonical and seed claims; the second, alethic axis is new to this edition.
+> **Formal status.** *Part VII (the ledger).* The ledger is the *structural apparatus* that assigns marks; it is not itself a marked world-claim. Its rows carry every load-bearing claim's **E** (Derived, at FT / CV / AC, plus Testimony and one Open) and **A** (mapping-accuracy aspiration). Provenance: **treatise-side** scaffolding organizing canonical and seed claims; the second, alethic axis is new to this edition.
 
 ## See also
 - [[two-mark-system|The Two-Mark System]] — the E/A pairing this ledger systematizes.

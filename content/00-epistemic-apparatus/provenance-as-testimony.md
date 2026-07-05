@@ -21,7 +21,7 @@ There are two distinct things under "provenance," held at two different marks. T
 
 ## Formal status
 
-> **Formal status.** **E:** Derived, **AC** for the testimony's content; the corroboration argument is a treatise-side carving (**CV**); the eras and datings carry the distinct ledger mark **Derived, Testimony** — an unverifiable first-person account, outside the FT/CV/AC gradient. **A:** the testimony aspires to map a history it cannot independently verify; the corroboration aspires to map the framework's coherence accurately. The load-bearing point: the framework's weight does **not** rest on the testimony. Provenance: **seed-adjacent / treatise-side** (Preamble, "Provenance held as testimony"; Part VII corroboration; Two-Axis Ledger row, Part VIII).
+> **Formal status.** **E:** Derived, **AC** for the testimony's content; the corroboration argument is a treatise-side carving (**CV**); the datings and provenance carry the distinct ledger mark **Derived, Testimony** — an unverifiable first-person account, outside the FT/CV/AC gradient. **A:** the testimony aspires to map a history it cannot independently verify; the corroboration aspires to map the framework's coherence accurately. The load-bearing point: the framework's weight does **not** rest on the testimony. Provenance: **seed-adjacent / treatise-side** (Preamble, "Provenance held as testimony"; the corroboration by non-contradictory fit; Two-Axis Ledger row, Part VII).
 
 ## See also
 

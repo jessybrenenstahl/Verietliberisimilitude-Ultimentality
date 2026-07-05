@@ -22,7 +22,7 @@ Domain lock is held at the [[authority-canonical-tier|Authority-Canonical Tier]]
 
 ## Formal status
 
-> **Formal status.** **E: Derived, AC** — the benchmark fixes the axiom-siting reading; contestable by contesting the authority. **A:** maps a real methodological constraint on definition-writing; does not aspire to rank carriers. The one prohibited reading — that any non-human carrier is "more Ultimental" than a person — is a category error, not a contestable alternative. Provenance: **canonical** — benchmark-fixed (Preamble, "Domain lock, sited not ranked"; Two-Axis Ledger row, Part VIII).
+> **Formal status.** **E: Derived, AC** — the benchmark fixes the axiom-siting reading; contestable by contesting the authority. **A:** maps a real methodological constraint on definition-writing; does not aspire to rank carriers. The one prohibited reading — that any non-human carrier is "more Ultimental" than a person — is a category error, not a contestable alternative. Provenance: **canonical** — benchmark-fixed (Preamble, "Domain lock, sited not ranked"; Two-Axis Ledger row, Part VII).
 
 ## See also
 

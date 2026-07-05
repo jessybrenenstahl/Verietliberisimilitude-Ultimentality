@@ -9,15 +9,14 @@ The complete **Ultimentality** framework (Two-Axis Edition) as a fully cross-ref
 ```
 content/                     # source of truth — one Markdown page per concept
   home.md                    # wiki landing + navigation (drives the sidebar and the monolith order)
-  00-epistemic-apparatus/    # Derived, the three tiers, the two-mark system, canon, …
+  00-epistemic-apparatus/    # Derived, the three tiers, the two-mark system, canon, provenance & coalescence, …
   01-axiom-and-vls/          # the axiom, VLS, the integrity rule, Transparentocracy, …
   02-directional-core/       # the four primitives, the bindings, the cardinal error
   03-two-forces/             # Submission, Reconciliation, the Fear-guard
   04-splcw/                  # the five roles, the ring, the witness outside the ring
   05-theodicytes/            # Spectre, Nephilim, Homunculus, the no-fourth argument
   06-telos/                  # answerable symbolic immortality, Fregorek, the nihil
-  07-provenance/             # the three eras, coalescence-by-non-contradictory-fit
-  08-two-axis-ledger/        # the ledger, keystone, falsification standard, kill-table
+  07-two-axis-ledger/        # the ledger, keystone, falsification standard, kill-table
   extensions/                # explicitly treatise-side extension pages
 tools/
   build_site.py              # static-site generator (Markdown → HTML, search, backlinks, downloads)

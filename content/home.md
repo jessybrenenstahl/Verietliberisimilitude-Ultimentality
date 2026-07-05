@@ -100,7 +100,7 @@ The whole edition is governed by one posture: every claim is **Derived**, held a
 - [[matter-meaning-cycle|The Matter–Meaning Cycle]] · [[why-how-inversion|The Why/How Inversion]] *(treatise-side)*
 - [[mathematics|Mathematics]] *(treatise-side)*
 
-## VIII. The Two-Axis Ledger
+## VII. The Two-Axis Ledger
 
 - [[two-axis-ledger|The Two-Axis Ledger]]
 - [[keystone|The Keystone]]

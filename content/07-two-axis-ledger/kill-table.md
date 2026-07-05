@@ -33,7 +33,7 @@ The kill-table is the enforcement organ of the [[falsification-standard|falsific
 - Treating the run-side entries as overruling the benchmark. They are adopted under the open proof-burden, not above it.
 - Thinking the three-corruption entry could be dropped for brevity. Dropping it would itself be the textual Nephilim.
 
-> **Formal status.** *Part VIII (what the falsification refuted; the acceptance gate).* The kill-table is the *enforcement record*, not a marked claim of its own; each entry points to a ledger row and records what kills it on each axis. Provenance: **treatise-side** standing record; the refutations it lists are red-team-run-side findings adopted under the benchmark's canonical open proof-burden, with the precedence-superlative Nephilim-kill enforced by the corpus's own [[integrity-rule|integrity rule]].
+> **Formal status.** *Part VII (what the falsification refuted; the acceptance gate).* The kill-table is the *enforcement record*, not a marked claim of its own; each entry points to a ledger row and records what kills it on each axis. Provenance: **treatise-side** standing record; the refutations it lists are red-team-run-side findings adopted under the benchmark's canonical open proof-burden, with the precedence-superlative Nephilim-kill enforced by the corpus's own [[integrity-rule|integrity rule]].
 
 ## See also
 - [[falsification-standard|The Falsification Standard]] — the threefold gate the kill-table serves.

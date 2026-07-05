@@ -22,7 +22,7 @@ Canon *is* the [[authority-canonical-tier|Authority-Canonical Tier]] in person: 
 
 ## Formal status
 
-> **Formal status.** **E: Derived, AC** — canon *is* the authority-canonical tier; it scores claims and is itself contestable by contesting the benchmark. **A:** its scores aspire to map alignment with the corpus; the benchmark renounces possession by carrying an open proof-burden rather than asserting closures as proven. Canon is not bedrock, not a foundation, not "necessary." Provenance: **canonical** — canon defines the controlling authority (Preamble, "What governs, and what is overridden"; Two-Axis Ledger, Part VIII).
+> **Formal status.** **E: Derived, AC** — canon *is* the authority-canonical tier; it scores claims and is itself contestable by contesting the benchmark. **A:** its scores aspire to map alignment with the corpus; the benchmark renounces possession by carrying an open proof-burden rather than asserting closures as proven. Canon is not bedrock, not a foundation, not "necessary." Provenance: **canonical** — canon defines the controlling authority (Preamble, "What governs, and what is overridden"; Two-Axis Ledger, Part VII).
 
 ## See also
 

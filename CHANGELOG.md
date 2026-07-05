@@ -8,7 +8,8 @@ All notable changes to this project are documented here. The format loosely foll
 - The three biographical provenance-era pages (**The Visitation**, **The Anarchy Accountant**, **The Seeker's Lament**) — a register mismatch (unverifiable first-person memoir vs. the conceptual/technical corpus, and content the framework already holds at arm's length). The provenance *stance* is retained via `provenance-as-testimony` and `coalescence-by-non-contradictory-fit`; the inbound references were rewritten so nothing dangles.
 
 ### Changed
-- Folded the remaining provenance page (**Coalescence-by-Non-Contradictory-Fit**) into the epistemic-apparatus section beside **Provenance as Testimony**, and dropped the now-single-page *Provenance & Evidential Status* nav section (moved the file into `content/00-epistemic-apparatus/`). Canonical Part numbers are unchanged: the ledger is still **Part VIII** and Provenance is still **Part VII** in the source treatise — the wiki simply presents Part VII's conceptual content within the apparatus grouping now.
+- Folded the remaining provenance page (**Coalescence-by-Non-Contradictory-Fit**) into the epistemic-apparatus section beside **Provenance as Testimony**, and dropped the standalone *Provenance & Evidential Status* Part (moved the file into `content/00-epistemic-apparatus/`).
+- **Renumbered the Two-Axis Ledger from Part VIII to Part VII**, so the wiki's Part sequence is contiguous (Preamble, then I–VII) now that Provenance is no longer a numbered Part. Swept every internal Part reference to match: 12 ledger signposts rebased VIII→VII, and the 2 references to the dissolved Provenance Part re-homed to the epistemic apparatus. Folder renamed `content/08-two-axis-ledger/` → `content/07-two-axis-ledger/`. The wiki now carries its own contiguous Part numbering, diverging by design from the source treatise's index in service of internal consistency; the source file itself remains cited verbatim.
 
 ## [1.0.0] — 2026-06-20
 

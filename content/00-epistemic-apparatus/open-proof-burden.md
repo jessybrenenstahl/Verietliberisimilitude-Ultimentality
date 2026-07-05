@@ -22,7 +22,7 @@ The framework's acceptance condition is not internal elegance but *survivable re
 
 ## Formal status
 
-> **Formal status.** **E: Derived, AC** — a fact about the benchmark authority's own stance, contestable by contesting the benchmark. **A:** maps the real epistemic posture of the controlling authority — that it holds the closures open rather than possessing them as proven. It licenses *demotion to carving* only, never promotion to a founded tier (there is none); it is why the three-corruption count is demoted on the same footing as all others; and it is the benchmark's stance, not the run's claim — the run never outranks the benchmark. Provenance: **canonical** — a stance of the benchmark authority (Preamble, "What governs, and what is overridden"; Part VIII, the acceptance gate).
+> **Formal status.** **E: Derived, AC** — a fact about the benchmark authority's own stance, contestable by contesting the benchmark. **A:** maps the real epistemic posture of the controlling authority — that it holds the closures open rather than possessing them as proven. It licenses *demotion to carving* only, never promotion to a founded tier (there is none); it is why the three-corruption count is demoted on the same footing as all others; and it is the benchmark's stance, not the run's claim — the run never outranks the benchmark. Provenance: **canonical** — a stance of the benchmark authority (Preamble, "What governs, and what is overridden"; Part VII, the acceptance gate).
 
 ## See also
 

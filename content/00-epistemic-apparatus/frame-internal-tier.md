@@ -27,7 +27,7 @@ Being least-contestable says nothing about being most accurate. The [[alethic-ax
 
 ## Formal status
 
-> **Formal status.** *Expository tier-term: FT names a position on the epistemic axis rather than asserting a load-bearing claim of its own.* Claims *placed* at FT carry the epistemic mark **E: Derived, FT — contestable only by declining the frame**; their alethic accuracy is marked independently and may still be in question. Provenance: **canonical** — the tier is benchmark-fixed, part of the controlling apparatus (Preamble contestability gradient; Two-Axis Ledger tier key, Part VIII).
+> **Formal status.** *Expository tier-term: FT names a position on the epistemic axis rather than asserting a load-bearing claim of its own.* Claims *placed* at FT carry the epistemic mark **E: Derived, FT — contestable only by declining the frame**; their alethic accuracy is marked independently and may still be in question. Provenance: **canonical** — the tier is benchmark-fixed, part of the controlling apparatus (Preamble contestability gradient; Two-Axis Ledger tier key, Part VII).
 
 ## See also
 

@@ -22,7 +22,7 @@ The keystone is where the framework's epistemic temperament is stated in a sente
 - Looking for the old "Forced" tier or a "verifier." Both are gone; there is no foundation to verify against.
 - Reading the deflation as a loss of accuracy. It removed only the foundation-and-possession pretension; not one accuracy-aspiration was lowered.
 
-> **Formal status.** *Part VIII (the keystone).* The keystone is the *standing under which all marks are read*, not a marked row of its own. Its substance is the most direct statement of the no-possession ceiling and the reason the two-axis ledger exists. To certify the corpus complete or founded from inside would be the [[textual-nephilim|textual Nephilim]]. Provenance: **treatise-side** — deflates a prior canonical phrasing ("strong mirror, unproven verifier") by removing the verifier tier; the uniform count-closure demotion is enforced under the benchmark's open proof-burden (canonical), with counter-instances from the red-team run (run-side, not canon).
+> **Formal status.** *Part VII (the keystone).* The keystone is the *standing under which all marks are read*, not a marked row of its own. Its substance is the most direct statement of the no-possession ceiling and the reason the two-axis ledger exists. To certify the corpus complete or founded from inside would be the [[textual-nephilim|textual Nephilim]]. Provenance: **treatise-side** — deflates a prior canonical phrasing ("strong mirror, unproven verifier") by removing the verifier tier; the uniform count-closure demotion is enforced under the benchmark's open proof-burden (canonical), with counter-instances from the red-team run (run-side, not canon).
 
 ## See also
 - [[two-axis-ledger|The Two-Axis Ledger]] — the two independent axes the keystone names.

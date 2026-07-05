@@ -25,7 +25,7 @@ The framework is emphatic about the chain of authority. The run *exhibited* the 
 
 ## Formal status
 
-> **Formal status.** The run is the *source* of the demotions, not itself a load-bearing claim of the corpus; its findings drive each count-claim to **E: Derived, CV** (each surviving on the alethic axis as an accurate mapping). It refutes **closures, not mappings**. Provenance: **red-team-run-side / treatise-side** — explicitly *not* benchmark canon, never a higher court over the benchmark, and adopted only under the benchmark's open proof-burden (Preamble; Part VIII, the falsification ledger).
+> **Formal status.** The run is the *source* of the demotions, not itself a load-bearing claim of the corpus; its findings drive each count-claim to **E: Derived, CV** (each surviving on the alethic axis as an accurate mapping). It refutes **closures, not mappings**. Provenance: **red-team-run-side / treatise-side** — explicitly *not* benchmark canon, never a higher court over the benchmark, and adopted only under the benchmark's open proof-burden (Preamble; Part VII, the falsification ledger).
 
 ## See also
 
