@@ -11,3 +11,4 @@ All notable changes to this project are documented here. The format loosely foll
 - **Link-integrity validator** (`tools/check_links.py`) as the project's test: fails on any dangling `[[wikilink]]` or missing `[[home]]` backlink.
 - **CI** (`.github/workflows/build.yml`): validate → build → deploy to GitHub Pages on every push to `main`.
 - Five treatise-side **extension** pages under `content/extensions/` (corruption-stratification, self-application, mathematics, why-how-inversion, matter-meaning-cycle), each flagged treatise-side and held contestable.
+- **Licensing:** framework content under **CC BY-NC-ND 4.0** (attribution, non-commercial, no derivatives — the most protective standard content license); build tooling under **MIT** (`tools/LICENSE`).

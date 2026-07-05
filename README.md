@@ -57,4 +57,6 @@ Every built page carries a footer linking to: its own page `.md`, the whole corp
 
 ## License
 
-The **build tooling** in `tools/` is released under the MIT License (see [LICENSE](LICENSE)). The **framework content** in `content/` is © the Ultimentality system builder — all rights reserved unless separately licensed. To open the content under a Creative Commons or other license, replace the content notice in `LICENSE`.
+The **framework content** — everything under `content/` and any site generated from it — is licensed under **[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)** (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International). You may copy and redistribute it in any medium or format, **with attribution**, for **non-commercial** purposes only, and you **may not distribute modified/derivative** versions. All other rights reserved © 2026 the Ultimentality system builder. Full text in [LICENSE](LICENSE).
+
+The **build tooling** in `tools/` is licensed separately under the **MIT License** (see [tools/LICENSE](tools/LICENSE)), so the pipeline can be freely reused without affecting the content's protections.
