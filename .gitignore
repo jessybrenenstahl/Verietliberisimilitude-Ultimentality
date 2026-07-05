@@ -1,0 +1,9 @@
+# generated static site (produced by tools/build_site.py; deployed by CI)
+site/
+
+# python
+__pycache__/
+*.pyc
+
+# os
+.DS_Store
