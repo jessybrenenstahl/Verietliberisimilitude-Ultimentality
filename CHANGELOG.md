@@ -2,6 +2,18 @@
 
 All notable changes to this project are documented here. The format loosely follows [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.2.0] — 2026-07-06
+
+### Added
+- **59 new relation-completing pages** across six new sections — *Structural Interlocks*, *Meaning, Substrate, and Identity*, *Answerability and Anti-Capture*, *Postfalsifiability and Crystallization*, *Hypercompression and Reconstruction*, and *Synthesis and Navigation* — making the wiki relation-complete rather than merely term-complete. Each load-bearing page carries the mandated anatomy (Definition → Type and formal status → What it regulates / regulated by → Valid attack surface → What happens if isolated → What larger property emerges → What would kill the claim → Prohibited misreadings → See also), a machine-readable YAML front-matter block, and both marks; each is flagged **treatise-side** and held contestable.
+- **6 machine-readable relation files** under `data/` — `wiki-couplings`, `wiki-dependencies`, `wiki-attack-surfaces`, `wiki-prohibited-collapses`, `wiki-reader-paths`, `wiki-interactions` — published to `/data/`.
+- The **coupled foundation** stated directly on the home page — *nothing stands outside meaning; nothing meaningful stands outside correction* — with a revised start path and a **System Reference** block.
+
+### Changed
+- **15 existing pages revised** to wire in the new architecture. Most notably, the Two-Mark System's long-standing open question — *"is the apparatus an exempt level?"* — is now **resolved** ("No exempt level: closure and marking cross-regulate").
+- The build strips the new YAML front matter before rendering; **`check_links.py` now also fails on any reference to an excluded slug and on any recreated excluded page**, alongside the existing dangling-link / missing-backlink / duplicate-slug checks.
+- **The corpus is now 158 pages**, up from 99.
+
 ## [1.1.0] — 2026-06-20
 
 ### Removed

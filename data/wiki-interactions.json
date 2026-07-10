@@ -1,0 +1,2306 @@
+[
+  {
+    "source": "attack-surface-matrix",
+    "target": "unlocated attacks",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "attack-surface-matrix",
+    "target": "attack/claim-type mismatch",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "attack-surface-matrix",
+    "target": "page-to-mark drift",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "self-sealing-test",
+    "target": "attack-surface-matrix",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-falsifiability",
+    "target": "attack-surface-matrix",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "attack-surface-matrix",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "attack-type-matching",
+    "target": "type-blind attack",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "attack-type-matching",
+    "target": "category-error refutation",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "attack-type-matching",
+    "target": "spurious retyping",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "attack-type-matching",
+    "target": "attack-as-shield",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "outcomes-of-attack",
+    "target": "attack-type-matching",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "attack-type-matching",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-falsifiability",
+    "target": "attack-type-matching",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "strengthening-without-absolutization",
+    "target": "attack-type-matching",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "capture-of-corrective-layer",
+    "target": "totalization-boundary",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "capture-of-corrective-layer",
+    "target": "captured-propagation",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "capture-of-corrective-layer",
+    "target": "correction preserved but neutralized",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "causal-error-mark",
+    "target": "capture-of-corrective-layer",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "self-sealing-test",
+    "target": "capture-of-corrective-layer",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "legitimate integration of correction",
+    "target": "capture-of-corrective-layer",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "category-error-atlas",
+    "target": "cross-layer attack (contesting a claim from the wrong altitude)",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "category-error-atlas",
+    "target": "type collapse",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "category-error-atlas",
+    "target": "primitive/binding inversion",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "category-error-atlas",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "attack-type-matching",
+    "target": "category-error-atlas",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "prohibited-collapses",
+    "target": "category-error-atlas",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-error-mark",
+    "target": "ornamental humility (marking that cannot move what it marks)",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "causal-error-mark",
+    "target": "answerability-predicate",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-error-mark",
+    "target": "integrity-rule",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "causal-error-mark",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "causal-error-mark",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "scar-record",
+    "target": "causal-error-mark",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "capture-of-corrective-layer",
+    "target": "causal-error-mark",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-falsifiability",
+    "target": "falsification-standard",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-falsifiability",
+    "target": "answerability-predicate",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-falsifiability",
+    "target": "effective-and-ornamental-answerability",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "outcomes-of-attack",
+    "target": "causal-falsifiability",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "causal-falsifiability",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "scar-record",
+    "target": "causal-falsifiability",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-source-and-experiential-format",
+    "target": "externality-without-extra-symbolic-access",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-source-and-experiential-format",
+    "target": "symbolic-is-not-linguistic",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-source-and-experiential-format",
+    "target": "the source→format collapse (external ⇒ unmediated)",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "causal-source-and-experiential-format",
+    "target": "the format→source collapse (symbolic ⇒ internal/unreal)",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "no-escape-no-exemption",
+    "target": "causal-source-and-experiential-format",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "externality-without-extra-symbolic-access",
+    "target": "causal-source-and-experiential-format",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "causal-source-and-experiential-format",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "causal-source-and-experiential-format",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "closure-without-totalization",
+    "target": "formal-closure-claim",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "closure-without-totalization",
+    "target": "totalization-boundary",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "closure-without-totalization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "self-application",
+    "target": "closure-without-totalization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "closure-without-totalization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-error-mark",
+    "target": "closure-without-totalization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "compression-without-false-closure",
+    "target": "false closure (a compressed carving read as exhaustive)",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "compression-without-false-closure",
+    "target": "hypercompression",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "compression-without-false-closure",
+    "target": "ultimental-kernel",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "compression-without-false-closure",
+    "target": "minimal-rebuild-string",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "compression-without-false-closure",
+    "target": "one-page-reconstruction",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "compression-without-false-closure",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "negative-information",
+    "target": "compression-without-false-closure",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "scar-record",
+    "target": "compression-without-false-closure",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "self-verifying-not-self-certifying",
+    "target": "compression-without-false-closure",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "minimal-rebuild-string",
+    "target": "compression-without-false-closure",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "constitutive-medium-and-mortal-message",
+    "target": "textual-nephilim",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "constitutive-medium-and-mortal-message",
+    "target": "absolutization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "constitutive-medium-and-mortal-message",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "constitutive-medium-and-mortal-message",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "self-application",
+    "target": "constitutive-medium-and-mortal-message",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "frame-condition-and-formulation",
+    "target": "constitutive-medium-and-mortal-message",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "continuation-and-colonization",
+    "target": "symbolic-immortality",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "continuation-and-colonization",
+    "target": "continuity",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "continuation-and-colonization",
+    "target": "raw outlasting",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "continuation-and-colonization",
+    "target": "colonizing succession",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "responsible-successor",
+    "target": "continuation-and-colonization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-error-mark",
+    "target": "continuation-and-colonization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "effective-and-ornamental-answerability",
+    "target": "continuation-and-colonization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "refusal-as-participation",
+    "target": "continuation-and-colonization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "correction-without-regress",
+    "target": "regress",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "correction-without-regress",
+    "target": "paralysis",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "correction-without-regress",
+    "target": "the demand for an extra-symbolic certifier",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "correction-without-regress",
+    "target": "the infinite stack of uncorrected judges",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "correction-without-regress",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "self-application",
+    "target": "correction-without-regress",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-error-mark",
+    "target": "correction-without-regress",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "coupling-graph",
+    "target": "silent-symmetry-assumption",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "coupling-graph",
+    "target": "inference-of-couplings-from-scattered-pages",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "system-invariants",
+    "target": "coupling-graph",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "attack-surface-matrix",
+    "target": "coupling-graph",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "interaction-matrix",
+    "target": "coupling-graph",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "cross-regulated-necessity",
+    "target": "false necessity (circularity or redundancy relabeled as architecture)",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "cross-regulated-necessity",
+    "target": "premature dissolution (a genuine coupling dismissed as merely circular)",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "self-application",
+    "target": "cross-regulated-necessity",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "strengthening-without-absolutization",
+    "target": "cross-regulated-necessity",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "kill-table",
+    "target": "cross-regulated-necessity",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "crystallization",
+    "target": "absolutization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "crystallization",
+    "target": "textual-nephilim",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "crystallization",
+    "target": "fossilization of survived forms",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "crystallization",
+    "target": "hardness read as proof",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "causal-falsifiability",
+    "target": "crystallization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "self-sealing-test",
+    "target": "crystallization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "scar-record",
+    "target": "crystallization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "crystallization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "decompression-map",
+    "target": "derivation read as chronology",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "decompression-map",
+    "target": "collapse of derivation into operation",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "decompression-map",
+    "target": "breadth read as many independent foundations",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "system-invariants",
+    "target": "decompression-map",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "ultimental-kernel",
+    "target": "decompression-map",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "reciprocal-attack-surfaces",
+    "target": "decompression-map",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "description-length-and-explanatory-surface",
+    "target": "hypercompression",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "description-length-and-explanatory-surface",
+    "target": "one-generator-many-domains",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "description-length-and-explanatory-surface",
+    "target": "compression-ratio claims made without an encoding",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "description-length-and-explanatory-surface",
+    "target": "the inference length-of-exposition ⇒ number-of-foundations",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "minimal-rebuild-string",
+    "target": "description-length-and-explanatory-surface",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "system-invariants",
+    "target": "description-length-and-explanatory-surface",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "description-length-and-explanatory-surface",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "postfalsifiability",
+    "target": "description-length-and-explanatory-surface",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "dynamic-fixed-point",
+    "target": "static self-approval",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "dynamic-fixed-point",
+    "target": "arbitrary mutation claiming continuity",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "dynamic-fixed-point",
+    "target": "self-application",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-error-mark",
+    "target": "dynamic-fixed-point",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "correction-without-regress",
+    "target": "dynamic-fixed-point",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "reciprocal-attack-surfaces",
+    "target": "dynamic-fixed-point",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "effective-and-ornamental-answerability",
+    "target": "answerability-predicate",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "effective-and-ornamental-answerability",
+    "target": "the display-without-effect excess",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "causal-error-mark",
+    "target": "effective-and-ornamental-answerability",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "capture-of-corrective-layer",
+    "target": "effective-and-ornamental-answerability",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "emotion-as-regulated-binding",
+    "target": "cardinal-error",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "emotion-as-regulated-binding",
+    "target": "emotion-as-primitive misreading",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "emotion-as-regulated-binding",
+    "target": "feeling-as-definition drift",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "emotion-as-regulated-binding",
+    "target": "free-floating cornerstone names",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "predicate-binding",
+    "target": "emotion-as-regulated-binding",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "regulated-error-signal",
+    "target": "emotion-as-regulated-binding",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-error-mark",
+    "target": "emotion-as-regulated-binding",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "fear-guard",
+    "target": "emotion-as-regulated-binding",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "externality-without-extra-symbolic-access",
+    "target": "closure read as self-enclosure",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "externality-without-extra-symbolic-access",
+    "target": "self-produced confirmation",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "externality-without-extra-symbolic-access",
+    "target": "qualia-as-narrative-compression",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "formal-closure-claim",
+    "target": "externality-without-extra-symbolic-access",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "symbolic-is-not-linguistic",
+    "target": "externality-without-extra-symbolic-access",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "frame-condition-and-formulation",
+    "target": "formulation-death read as frame-death (brittleness)",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "frame-condition-and-formulation",
+    "target": "the standing of the condition smuggled onto a favored formulation (exemption)",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "self-application",
+    "target": "frame-condition-and-formulation",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "system-invariants",
+    "target": "frame-condition-and-formulation",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "refutation-and-frame-declension",
+    "target": "frame-condition-and-formulation",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "hypercompression",
+    "target": "loose doctrinal aggregation (the grab-bag reading)",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "hypercompression",
+    "target": "sloganization",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "hypercompression",
+    "target": "accretion mistaken for coverage",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "minimal-rebuild-string",
+    "target": "hypercompression",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "system-invariants",
+    "target": "hypercompression",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "negative-information",
+    "target": "hypercompression",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "identity-across-substrates",
+    "target": "substrate reductionism",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "identity-across-substrates",
+    "target": "type inflation",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "identity-across-substrates",
+    "target": "token/type confusion",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "identity-across-substrates",
+    "target": "substrate/function confusion",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "identity-across-substrates",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "participant-as-process",
+    "target": "identity-across-substrates",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "prohibited-collapses",
+    "target": "identity-across-substrates",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "meaning-as-weight",
+    "target": "occurrent-and-sedimented-meaning",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "meaning-as-weight",
+    "target": "semantic-transformer",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "meaning-as-weight",
+    "target": "emotion-as-regulated-binding",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "meaning-as-weight",
+    "target": "meaning as detached inert content",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "symbolic-is-not-linguistic",
+    "target": "meaning-as-weight",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "meaning-maker",
+    "target": "meaning-as-weight",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "carving-tier",
+    "target": "meaning-as-weight",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "derived",
+    "target": "meaning-as-weight",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "meaning-maker",
+    "target": "panparticipation (arbitrary causation counted as participation)",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "meaning-maker",
+    "target": "carrier chauvinism (participation gated on consciousness",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "meaning-maker",
+    "target": "personhood",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "meaning-maker",
+    "target": "biology",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "meaning-maker",
+    "target": "or language)",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "meaning-maker",
+    "target": "one-generator-many-domains",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "regulated-error-signal",
+    "target": "meaning-maker",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "matter-meaning-cycle",
+    "target": "meaning-maker",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "meaning-maker",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "meaning-maker",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "minimal-rebuild-string",
+    "target": "ultimental-kernel",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "minimal-rebuild-string",
+    "target": "decompression-drift",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "minimal-rebuild-string",
+    "target": "unfalsifiable-minimality-claim",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "system-invariants",
+    "target": "minimal-rebuild-string",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "self-application",
+    "target": "minimal-rebuild-string",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "minimal-rebuild-string",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "necessary-seam",
+    "target": "self-sealing drift",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "necessary-seam",
+    "target": "ornamental answerability",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "necessary-seam",
+    "target": "cosmetic smoothing of contradiction",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "scar-record",
+    "target": "necessary-seam",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "necessary-seam",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "cross-regulated-necessity",
+    "target": "necessary-seam",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "negative-information",
+    "target": "crystallization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "negative-information",
+    "target": "argument-from-silence excess",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "negative-information",
+    "target": "positive-inventory reading",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "negative-information",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-falsifiability",
+    "target": "negative-information",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "scar-record",
+    "target": "negative-information",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "kill-table",
+    "target": "negative-information",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "carving-tier",
+    "target": "negative-information",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "no-escape-no-exemption",
+    "target": "totalization",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "no-escape-no-exemption",
+    "target": "regress",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "no-escape-no-exemption",
+    "target": "textual-nephilim",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "no-escape-no-exemption",
+    "target": "absolutization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "self-application",
+    "target": "no-escape-no-exemption",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "no-escape-no-exemption",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "reciprocal-attack-surfaces",
+    "target": "no-escape-no-exemption",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "no-escape-no-exemption",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "occurrent-and-sedimented-meaning",
+    "target": "present-only reading of significance",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "occurrent-and-sedimented-meaning",
+    "target": "inert-storage reading of sediment",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "occurrent-and-sedimented-meaning",
+    "target": "activation-is-consciousness conflation",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "causal-error-mark",
+    "target": "occurrent-and-sedimented-meaning",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "matter-meaning-cycle",
+    "target": "occurrent-and-sedimented-meaning",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "occurrent-and-sedimented-meaning",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "one-generator-many-domains",
+    "target": "transfer-by-verbal-analogy",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "one-generator-many-domains",
+    "target": "scope inflation by resemblance",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "one-generator-many-domains",
+    "target": "breadth read as many independent foundations",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "hypercompression",
+    "target": "one-generator-many-domains",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "one-generator-many-domains",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "identity-across-substrates",
+    "target": "one-generator-many-domains",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "one-page-reconstruction",
+    "target": "category-error-atlas",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "one-page-reconstruction",
+    "target": "hypercompression",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "system-invariants",
+    "target": "one-page-reconstruction",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "minimal-rebuild-string",
+    "target": "one-page-reconstruction",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "decompression-map",
+    "target": "one-page-reconstruction",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "outcomes-of-attack",
+    "target": "postfalsifiability",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "outcomes-of-attack",
+    "target": "confirmation-as-default-outcome",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "outcomes-of-attack",
+    "target": "unstructured attack bookkeeping",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "outcomes-of-attack",
+    "target": "the failed-attack / invariant-recognition boundary",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "causal-falsifiability",
+    "target": "outcomes-of-attack",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "outcomes-of-attack",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "attack-type-matching",
+    "target": "outcomes-of-attack",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "outcomes-of-attack",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "participant-as-process",
+    "target": "substance-self reification",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "participant-as-process",
+    "target": "the possessor illusion",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "participant-as-process",
+    "target": "unearned unity of the identity token",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "identity-across-substrates",
+    "target": "participant-as-process",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "participant-as-process",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "dynamic-fixed-point",
+    "target": "participant-as-process",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "continuable-structure",
+    "target": "participant-as-process",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "continuity",
+    "target": "participant-as-process",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "postfalsifiability",
+    "target": "falsification-standard",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "postfalsifiability",
+    "target": "founded-invariant drift (Textual Nephilim)",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "postfalsifiability",
+    "target": "one-shot falsifiability amnesia",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "causal-falsifiability",
+    "target": "postfalsifiability",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "kill-table",
+    "target": "postfalsifiability",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "scar-record",
+    "target": "postfalsifiability",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "postfalsifiability",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "prohibited-collapses",
+    "target": "type-collapse",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "prohibited-collapses",
+    "target": "category-error-across-load-bearing-pages",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "prohibited-collapses",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "self-sealing-test",
+    "target": "prohibited-collapses",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "category-error-atlas",
+    "target": "prohibited-collapses",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "qualia-as-narrative-compression",
+    "target": "phenomenal-substance reification",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "qualia-as-narrative-compression",
+    "target": "eliminative reduction of experience",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "qualia-as-narrative-compression",
+    "target": "owned report promoted to a founded given",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "causal-source-and-experiential-format",
+    "target": "qualia-as-narrative-compression",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "participant-as-process",
+    "target": "qualia-as-narrative-compression",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "qualia-as-narrative-compression",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "reader-paths",
+    "target": "arbitrary reading order that inverts dependencies",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "reader-paths",
+    "target": "an index mistaken for the argument it indexes",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "decompression-map",
+    "target": "reader-paths",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "system-invariants",
+    "target": "reader-paths",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "reciprocal-attack-surfaces",
+    "target": "closure-without-totalization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "reciprocal-attack-surfaces",
+    "target": "correction-without-regress",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "reciprocal-attack-surfaces",
+    "target": "totalization-boundary",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "cross-regulated-necessity",
+    "target": "reciprocal-attack-surfaces",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "reciprocal-attack-surfaces",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "self-sealing-test",
+    "target": "reciprocal-attack-surfaces",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "recursive-self-specification",
+    "target": "minimal-rebuild-string",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "recursive-self-specification",
+    "target": "symbolic-immortality",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "recursive-self-specification",
+    "target": "continuity",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "continuable-structure",
+    "target": "recursive-self-specification",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "dynamic-fixed-point",
+    "target": "recursive-self-specification",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "responsible-successor",
+    "target": "recursive-self-specification",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "self-application",
+    "target": "recursive-self-specification",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "refusal-as-participation",
+    "target": "totalization-boundary",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "refusal-as-participation",
+    "target": "capture-of-corrective-layer",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "refusal-as-participation",
+    "target": "consent-inference excess",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "refusal-as-participation",
+    "target": "coercive enclosure",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "no-escape-no-exemption",
+    "target": "refusal-as-participation",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "effective-and-ornamental-answerability",
+    "target": "refusal-as-participation",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-error-mark",
+    "target": "refusal-as-participation",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "refusal-as-participation",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "refutation-and-frame-declension",
+    "target": "flattening of the attack surface into one kind",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "refutation-and-frame-declension",
+    "target": "declension used as a shield",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "refutation-and-frame-declension",
+    "target": "refutation treated as the only permissible attack",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "refutation-and-frame-declension",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "self-sealing-test",
+    "target": "refutation-and-frame-declension",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-falsifiability",
+    "target": "refutation-and-frame-declension",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "refusal-as-participation",
+    "target": "refutation-and-frame-declension",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "responsible-successor",
+    "target": "symbolic-immortality",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "responsible-successor",
+    "target": "continuity",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "responsible-successor",
+    "target": "identity-enforcement",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "responsible-successor",
+    "target": "faithful-transmission",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "capture-of-corrective-layer",
+    "target": "responsible-successor",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "effective-and-ornamental-answerability",
+    "target": "responsible-successor",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-error-mark",
+    "target": "responsible-successor",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "totalization-boundary",
+    "target": "responsible-successor",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "responsible-successor",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "falsification-standard",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "level-mismatched refutation counted as defeat",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "self-sealing-test",
+    "target": "same-level-attack-rule",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-falsifiability",
+    "target": "same-level-attack-rule",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "refutation-and-frame-declension",
+    "target": "same-level-attack-rule",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "scar-record",
+    "target": "constraint-amnesia (silent deletion of load-bearing constraints)",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "causal-falsifiability",
+    "target": "scar-record",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-error-mark",
+    "target": "scar-record",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "self-sealing-test",
+    "target": "scar-record",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "scar-record",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "self-sealing-test",
+    "target": "postfalsifiability",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "self-sealing-test",
+    "target": "self-sealing drift toward totalization",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "self-sealing-test",
+    "target": "failed-attack-logged-as-confirmation",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "self-application",
+    "target": "self-sealing-test",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-falsifiability",
+    "target": "self-sealing-test",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "self-sealing-test",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "strengthening-without-absolutization",
+    "target": "self-sealing-test",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "self-sealing-test",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "self-verifying-not-self-certifying",
+    "target": "self-certification",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "self-verifying-not-self-certifying",
+    "target": "self-sealing",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "self-verifying-not-self-certifying",
+    "target": "failed-attack-as-confirmation",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "self-verifying-not-self-certifying",
+    "target": "textual-nephilim",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "self-verifying-not-self-certifying",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "outcomes-of-attack",
+    "target": "self-verifying-not-self-certifying",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "formal-closure-claim",
+    "target": "self-verifying-not-self-certifying",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "self-sealing-test",
+    "target": "self-verifying-not-self-certifying",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "totalization",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "regress",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "formal-closure-claim",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "two-mark-system",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "reciprocal-attack-surfaces",
+    "target": "semantic-closure-and-recursive-marking",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "cross-regulated-necessity",
+    "target": "semantic-closure-and-recursive-marking",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "self-application",
+    "target": "semantic-closure-and-recursive-marking",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "strengthening-without-absolutization",
+    "target": "semantic-closure-and-recursive-marking",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "semantic-natural-selection",
+    "target": "crystallization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "semantic-natural-selection",
+    "target": "survival-as-truth conflation",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "semantic-natural-selection",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "alethic-axis",
+    "target": "semantic-natural-selection",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "semantic-natural-selection",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-falsifiability",
+    "target": "semantic-natural-selection",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "semantic-transformer",
+    "target": "architecture-capture",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "semantic-transformer",
+    "target": "pan-transformation",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "semantic-transformer",
+    "target": "carrier-privileging-by-exemplar",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "meaning-maker",
+    "target": "semantic-transformer",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "one-generator-many-domains",
+    "target": "semantic-transformer",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "matter-meaning-cycle",
+    "target": "semantic-transformer",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "semantic-transformer",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "semantic-transformer",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "strengthening-without-absolutization",
+    "target": "absolutization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "strengthening-without-absolutization",
+    "target": "textual-nephilim",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "strengthening-without-absolutization",
+    "target": "contestability-gradient",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "self-application",
+    "target": "strengthening-without-absolutization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "outcomes-of-attack",
+    "target": "strengthening-without-absolutization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "kill-table",
+    "target": "strengthening-without-absolutization",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "symbolic-is-not-linguistic",
+    "target": "linguistic parochialism",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "symbolic-is-not-linguistic",
+    "target": "verbal reduction of participant-access",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "symbolic-is-not-linguistic",
+    "target": "privileging one carrier as the medium",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "meaning-maker",
+    "target": "symbolic-is-not-linguistic",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "semantic-transformer",
+    "target": "symbolic-is-not-linguistic",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "symbolic-is-not-linguistic",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "system-invariants",
+    "target": "silent loss of a load-bearing relation across a rewrite",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "system-invariants",
+    "target": "promotion of the checklist into a Forced or founded tier",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "system-invariants",
+    "target": "conflation of a current count with an invariant",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "self-application",
+    "target": "system-invariants",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "postfalsifiability",
+    "target": "system-invariants",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "outcomes-of-attack",
+    "target": "system-invariants",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "self-sealing-test",
+    "target": "system-invariants",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "system-invariants",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "term-as-operator",
+    "target": "coinage-without-constraint",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "term-as-operator",
+    "target": "sloganization",
+    "relation": "regulates",
+    "target_in_wiki": false
+  },
+  {
+    "source": "self-sealing-test",
+    "target": "term-as-operator",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "derived",
+    "target": "term-as-operator",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "term-as-operator",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "effective-and-ornamental-answerability",
+    "target": "totalization-boundary",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "totalization-boundary",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "totalization-boundary",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "capture-of-corrective-layer",
+    "target": "transparentocracy-as-cross-regulation",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "totalization-boundary",
+    "target": "transparentocracy-as-cross-regulation",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "effective-and-ornamental-answerability",
+    "target": "transparentocracy-as-cross-regulation",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-error-mark",
+    "target": "transparentocracy-as-cross-regulation",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "ultimental-kernel",
+    "target": "hypercompression",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "ultimental-kernel",
+    "target": "textual-nephilim",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "ultimental-kernel",
+    "target": "cardinal-error",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "ultimental-kernel",
+    "target": "prohibited-collapses",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "ultimental-kernel",
+    "target": "description-length-and-explanatory-surface",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "decompression-map",
+    "target": "ultimental-kernel",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "system-invariants",
+    "target": "ultimental-kernel",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "ultimental-kernel",
+    "relation": "regulates",
+    "target_in_wiki": true
+  },
+  {
+    "source": "strengthening-without-absolutization",
+    "target": "ultimental-kernel",
+    "relation": "regulates",
+    "target_in_wiki": true
+  }
+]

@@ -34,6 +34,12 @@ The scheme is instantiated four times, once per primitive, each verbatim across 
 
 Three readings are explicitly out of bounds. First, treating a binding as a *primitive* — the cardinal inversion. Second, treating it as a *conserved invariant* — the capped invariant-preservation error. Third, identifying the binding with its *surface expression* — mistaking the spoken apology for the loop-back it expresses. All three flatten the (p, eₚ) structure that makes a binding a binding.
 
+## Bindings may regulate principles without collapsing type layers
+
+The binding scheme *B(p) = (p, eₚ)* is defined for the cornerstone emotions, but the *shape* of a controller that drives an error signal toward zero is not the private property of the affective layer. The framework's foundational pair — constitutive semantic closure and recursive marking — can be read as a higher-order **cross-regulation**, each term bounding the characteristic excess of the other: closure without marking totalizes, marking without closure regresses. That is the same [[cross-regulated-necessity|cross-regulated necessity]] a binding exhibits in miniature — a discrepancy is held open, and its persistence carries [[causal-error-mark|causal force]] over what the system does next rather than sitting inert.
+
+The resemblance is structural, not categorical, and the strict derivation order still holds. Closure and marking are **not** emotions, **not** [[directional-primitives|directional primitives]], and **not** additional cornerstone bindings. They live at a different type layer: they are a condition on, and a correction of, whole formulations, whereas a binding harnesses one actuator to one regulated error. Reading the higher-order cross-regulators as a "fifth binding" would repeat exactly the flattening this page forbids — smuggling the controller-shape upward as though it licensed a new entry in the four-fold scheme. The primitives come first; the bindings are built on top of them; the closure–marking coupling regulates the frame in which all of that machinery is stated. Naming the coupling adds no primitive, promotes no binding, and does not reopen the count.
+
 > **Formal status.** Epistemic: Derived, authority-canonical — the binding model and the rejection of invariant-preservation are fixed and *capped* by the controlling authority; contestable only by contesting that authority. Alethic: the controller model aspires to map what an emotion structurally *is* across conscious and non-conscious carriers alike, so the invariant-preservation reading is not merely disallowed but maps the structure *wrongly*. Provenance: **canonical**; the source phrase *emotion here means predicate binding at the system level* is from the seed.
 
 ## See also
@@ -47,3 +53,5 @@ Three readings are explicitly out of bounds. First, treating a binding as a *pri
 - [[conceptual-derivatives|Conceptual Derivatives]] — nouns abstracted from bound primitives
 - [[cardinal-error|The Cardinal Error]] — the inversion this structure forbids
 - [[human-gloss|The Human Gloss]] — the felt texture that carries no probative weight
+- [[cross-regulated-necessity|Cross-Regulated Necessity]] — the coupled-controller shape a binding shows in miniature
+- [[causal-error-mark|The Error Mark With Causal Force]] — why a held error must be able to change what it marks

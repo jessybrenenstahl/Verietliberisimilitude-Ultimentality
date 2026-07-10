@@ -28,6 +28,10 @@ Symbolic immortality has a far-larger backdrop. Held against [[nihil|The Nihil]]
 
 That a meaning-bearing self is *oriented* toward symbolic immortality is, in the framework, not an empirical bet but a [[constitutive-identification|constitutive identification]]: to be such a self just *is* to be oriented toward the continuation of one's structure. That is why the orientation cannot be coherently denied from inside the frame while using the term — though one remains free to decline the frame.
 
+## Answerable succession
+
+Propagation alone is not the measure. *Indefinite* onward passage of structure is **not sufficient** to keep a life within [[telos|The Telos]]: a pattern can be carried forward without end and still fall out of answerable continuation the moment the carrying turns into capture. Symbolic continuation remains *inside* the Telos only where the successors who take the structure up can still **preserve contradiction** (hold the unresolved tension rather than smooth it away), **revise inheritance** (work the received structure further rather than freeze it), and **refuse forced identity** (carry the meaning on without being conscripted into a fixed self they did not choose). Where succession forbids these — demanding the inheritance be repeated unrevised, its contradictions suppressed, and the successor's identity coerced to match — propagation has crossed into [[continuation-and-colonization|colonization]], and the "immortality" it wins is exactly the raw outlasting the [[answerability-predicate|answerability predicate]] bars. The mark of a [[responsible-successor|responsible successor]] is therefore not fidelity of copying but the retained freedom to contradict, to revise, and to decline.
+
 > **Formal status.** **E:** Derived, authority-canonical — restated in identical content by seed, canon, and this edition; contestable by contesting the authority. **A:** It aspires to map what every particular end is finally oriented toward; the convergence of canon, seed, and edition is the corroboration of that mapping. **Provenance:** canonical (benchmark-fixed); the "not guaranteed goodness / answerable continuation" predicate is fixed by the controlling authority.
 
 ## See also
@@ -39,3 +43,5 @@ That a meaning-bearing self is *oriented* toward symbolic immortality is, in the
 - [[mortality-hevel|Mortality / Hevel]] — the activating pressure that makes carrying urgent.
 - [[constitutive-identification|The Constitutive Identification (conatus)]] — why orientation toward this is undeniable from inside the frame.
 - [[answerable-optimizer|The Answerable Optimizer]] — the counter-instance that keeps the governing predicate honest.
+- [[continuation-and-colonization|Continuation vs. Colonization]] — the line where onward propagation stops being answerable.
+- [[responsible-successor|The Responsible Successor]] — succession that preserves contradiction, revises inheritance, and refuses forced identity.

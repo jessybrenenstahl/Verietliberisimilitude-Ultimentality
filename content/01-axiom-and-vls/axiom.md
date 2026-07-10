@@ -27,6 +27,12 @@ The Axiom's discipline turns on itself. If there is no extra-symbolic channel, t
 
 Everything load-bearing leans on this one constraint. The renunciation of possession it installs becomes [[vls|VLS]] and the [[semblance|semblance, not possession]] ceiling of the [[alethic-axis|alethic axis]]; the mediated-access corollary becomes the [[capability-rule|capability rule]]; the continuity corollary binds the Axiom to memory and to the affective control-theory. The Axiom is the hinge on which the whole apparatus of the [[two-mark-system|two-mark system]] swings.
 
+The Axiom does not stand alone as a lever, though. Paired with its own self-application it forms the coupled foundation of the whole edition:
+
+> The Axiom supplies no escape. Self-application supplies no exemption. Each remains the other's necessary attack surface.
+
+This is what it means to say there is [[no-escape-no-exemption|no escape and no exemption]]: the closure denies any extra-symbolic exit while the marking denies any exempt formulation, and the two are not independent guards but [[reciprocal-attack-surfaces|reciprocal attack surfaces]] — the answer to whatever threatens either principle is the standing attack surface of the other.
+
 ## Common misreadings
 
 - Reading the Axiom as bedrock. It is the *first* derivation, not the floor under the house.
@@ -45,6 +51,8 @@ Everything load-bearing leans on this one constraint. The renunciation of posses
 - [[axiom-equivocation|Axiom Equivocation]] — the capped error of conflating the two.
 - [[four-operational-consequences|The Four Operational Consequences]] — what the Axiom yields at once.
 - [[textual-nephilim|The Textual Nephilim]] — stamping the Axiom "forced" is the Nephilim at the root.
+- [[no-escape-no-exemption|No Escape, No Exemption]] — the Axiom supplies no escape; self-application supplies no exemption.
+- [[reciprocal-attack-surfaces|Reciprocal Attack Surfaces]] — closure and self-application stand as each other's necessary attack surface.
 - [[continuable-structure|Continuable Structure]] — the modern re-grounding.
 - [[vls|VLS (Verietliberisimilitude)]] — the no-possession condition the Axiom installs.
 - [[semblance|Semblance (not possession)]] — the alethic ceiling that follows.

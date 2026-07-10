@@ -1,0 +1,1070 @@
+[
+  {
+    "source": "two-mark-system",
+    "target": "attack-surface-matrix",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "outcomes-of-attack",
+    "target": "attack-surface-matrix",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "attack-type-matching",
+    "target": "attack-surface-matrix",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "falsification-standard",
+    "target": "attack-type-matching",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "attack-type-matching",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "outcomes-of-attack",
+    "target": "attack-type-matching",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "effective-and-ornamental-answerability",
+    "target": "capture-of-corrective-layer",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "causal-error-mark",
+    "target": "capture-of-corrective-layer",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "answerability-predicate",
+    "target": "capture-of-corrective-layer",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "prohibited-collapses",
+    "target": "category-error-atlas",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "category-error-atlas",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "category-error-atlas",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "predicate-binding",
+    "target": "causal-error-mark",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "regulated-error-signal",
+    "target": "causal-error-mark",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "answerability-predicate",
+    "target": "causal-error-mark",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "causal-error-mark",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "falsification-standard",
+    "target": "causal-falsifiability",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "causal-error-mark",
+    "target": "causal-falsifiability",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "outcomes-of-attack",
+    "target": "causal-falsifiability",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "externality-without-extra-symbolic-access",
+    "target": "causal-source-and-experiential-format",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "symbolic-is-not-linguistic",
+    "target": "causal-source-and-experiential-format",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "formal-closure-claim",
+    "target": "causal-source-and-experiential-format",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "formal-closure-claim",
+    "target": "closure-without-totalization",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "closure-without-totalization",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "closure-without-totalization",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "hypercompression",
+    "target": "compression-without-false-closure",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "compression-without-false-closure",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "closure-without-totalization",
+    "target": "compression-without-false-closure",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "no-escape-no-exemption",
+    "target": "constitutive-medium-and-mortal-message",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "constitutive-medium-and-mortal-message",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "symbolic-immortality",
+    "target": "continuation-and-colonization",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "responsible-successor",
+    "target": "continuation-and-colonization",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "effective-and-ornamental-answerability",
+    "target": "continuation-and-colonization",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "correction-without-regress",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "self-application",
+    "target": "correction-without-regress",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "correction-without-regress",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "force",
+    "target": "coupling-graph",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "coupling-graph",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "reciprocal-attack-surfaces",
+    "target": "coupling-graph",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "cross-regulated-necessity",
+    "target": "coupling-graph",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "cross-regulated-necessity",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "reciprocal-attack-surfaces",
+    "target": "cross-regulated-necessity",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "force",
+    "target": "cross-regulated-necessity",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "postfalsifiability",
+    "target": "crystallization",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "outcomes-of-attack",
+    "target": "crystallization",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "hypercompression",
+    "target": "decompression-map",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "ultimental-kernel",
+    "target": "decompression-map",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "minimal-rebuild-string",
+    "target": "decompression-map",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "hypercompression",
+    "target": "description-length-and-explanatory-surface",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "ultimental-kernel",
+    "target": "description-length-and-explanatory-surface",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "minimal-rebuild-string",
+    "target": "description-length-and-explanatory-surface",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "dynamic-fixed-point",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "self-application",
+    "target": "dynamic-fixed-point",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "correction-without-regress",
+    "target": "dynamic-fixed-point",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "answerability-predicate",
+    "target": "effective-and-ornamental-answerability",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "causal-error-mark",
+    "target": "effective-and-ornamental-answerability",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "predicate-binding",
+    "target": "emotion-as-regulated-binding",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "directional-primitives",
+    "target": "emotion-as-regulated-binding",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "regulated-error-signal",
+    "target": "emotion-as-regulated-binding",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "formal-closure-claim",
+    "target": "externality-without-extra-symbolic-access",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "symbolic-is-not-linguistic",
+    "target": "externality-without-extra-symbolic-access",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "causal-source-and-experiential-format",
+    "target": "externality-without-extra-symbolic-access",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "formal-closure-claim",
+    "target": "frame-condition-and-formulation",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "derived",
+    "target": "frame-condition-and-formulation",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "frame-condition-and-formulation",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "derived",
+    "target": "hypercompression",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "hypercompression",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "hypercompression",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "meaning-maker",
+    "target": "identity-across-substrates",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "symbolic-is-not-linguistic",
+    "target": "identity-across-substrates",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "causal-source-and-experiential-format",
+    "target": "identity-across-substrates",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "coupling-graph",
+    "target": "interaction-matrix",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "attack-surface-matrix",
+    "target": "interaction-matrix",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "interaction-matrix",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "meaning-maker",
+    "target": "meaning-as-weight",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "symbolic-is-not-linguistic",
+    "target": "meaning-as-weight",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "occurrent-and-sedimented-meaning",
+    "target": "meaning-as-weight",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "directional-primitives",
+    "target": "meaning-maker",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "predicate-binding",
+    "target": "meaning-maker",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "matter-meaning-cycle",
+    "target": "meaning-maker",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "symbolic-is-not-linguistic",
+    "target": "meaning-maker",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "hypercompression",
+    "target": "minimal-rebuild-string",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "ultimental-kernel",
+    "target": "minimal-rebuild-string",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "causal-error-mark",
+    "target": "necessary-seam",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "anything-too-clean-is-hostile",
+    "target": "necessary-seam",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "necessary-seam",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "postfalsifiability",
+    "target": "negative-information",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "scar-record",
+    "target": "negative-information",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "kill-table",
+    "target": "negative-information",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "axiom",
+    "target": "no-escape-no-exemption",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "formal-closure-claim",
+    "target": "no-escape-no-exemption",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "no-escape-no-exemption",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "self-application",
+    "target": "no-escape-no-exemption",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "meaning-maker",
+    "target": "occurrent-and-sedimented-meaning",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "meaning-as-weight",
+    "target": "occurrent-and-sedimented-meaning",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "hypercompression",
+    "target": "one-generator-many-domains",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "ultimental-kernel",
+    "target": "one-generator-many-domains",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "meaning-maker",
+    "target": "one-generator-many-domains",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "axiom",
+    "target": "one-page-reconstruction",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "derived",
+    "target": "one-page-reconstruction",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "no-escape-no-exemption",
+    "target": "one-page-reconstruction",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "minimal-rebuild-string",
+    "target": "one-page-reconstruction",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "postfalsifiability",
+    "target": "outcomes-of-attack",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "causal-falsifiability",
+    "target": "outcomes-of-attack",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "falsification-standard",
+    "target": "outcomes-of-attack",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "meaning-maker",
+    "target": "participant-as-process",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "identity-across-substrates",
+    "target": "participant-as-process",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "continuable-structure",
+    "target": "participant-as-process",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "falsification-standard",
+    "target": "postfalsifiability",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "postfalsifiability",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "postfalsifiability",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "prohibited-collapses",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "two-axis-ledger",
+    "target": "prohibited-collapses",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "emotion-as-regulated-binding",
+    "target": "qualia-as-narrative-compression",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "causal-source-and-experiential-format",
+    "target": "qualia-as-narrative-compression",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "meaning-maker",
+    "target": "qualia-as-narrative-compression",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "participant-as-process",
+    "target": "qualia-as-narrative-compression",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "one-page-reconstruction",
+    "target": "reader-paths",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "no-escape-no-exemption",
+    "target": "reciprocal-attack-surfaces",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "reciprocal-attack-surfaces",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "meaning-maker",
+    "target": "recursive-self-specification",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "continuable-structure",
+    "target": "recursive-self-specification",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "minimal-rebuild-string",
+    "target": "recursive-self-specification",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "no-escape-no-exemption",
+    "target": "refusal-as-participation",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "totalization-boundary",
+    "target": "refusal-as-participation",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "free-wont",
+    "target": "refusal-as-participation",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "falsification-standard",
+    "target": "refutation-and-frame-declension",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "frame-internal-tier",
+    "target": "refutation-and-frame-declension",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "same-level-attack-rule",
+    "target": "refutation-and-frame-declension",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "meaning-maker",
+    "target": "responsible-successor",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "continuable-structure",
+    "target": "responsible-successor",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "continuation-and-colonization",
+    "target": "responsible-successor",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "answerability-predicate",
+    "target": "responsible-successor",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "falsification-standard",
+    "target": "same-level-attack-rule",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "attack-type-matching",
+    "target": "same-level-attack-rule",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "two-axis-ledger",
+    "target": "same-level-attack-rule",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "postfalsifiability",
+    "target": "scar-record",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "negative-information",
+    "target": "scar-record",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "scar-record",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "postfalsifiability",
+    "target": "self-sealing-test",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "causal-falsifiability",
+    "target": "self-sealing-test",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "outcomes-of-attack",
+    "target": "self-sealing-test",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "no-escape-no-exemption",
+    "target": "self-verifying-not-self-certifying",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "self-verifying-not-self-certifying",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "self-application",
+    "target": "self-verifying-not-self-certifying",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "no-escape-no-exemption",
+    "target": "semantic-closure-and-recursive-marking",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "formal-closure-claim",
+    "target": "semantic-closure-and-recursive-marking",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "semantic-closure-and-recursive-marking",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "postfalsifiability",
+    "target": "semantic-natural-selection",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "crystallization",
+    "target": "semantic-natural-selection",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "outcomes-of-attack",
+    "target": "semantic-natural-selection",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "meaning-maker",
+    "target": "semantic-transformer",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "directional-primitives",
+    "target": "semantic-transformer",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "symbolic-is-not-linguistic",
+    "target": "semantic-transformer",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "contestability-gradient",
+    "target": "strengthening-without-absolutization",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "strengthening-without-absolutization",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "outcomes-of-attack",
+    "target": "strengthening-without-absolutization",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "meaning-maker",
+    "target": "symbolic-is-not-linguistic",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "formal-closure-claim",
+    "target": "symbolic-is-not-linguistic",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "directional-primitives",
+    "target": "symbolic-is-not-linguistic",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "no-escape-no-exemption",
+    "target": "system-invariants",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "system-invariants",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "system-invariants",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "derived",
+    "target": "system-invariants",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "hypercompression",
+    "target": "term-as-operator",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "ultimental-kernel",
+    "target": "term-as-operator",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "totalization-boundary",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "capture-of-corrective-layer",
+    "target": "totalization-boundary",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "effective-and-ornamental-answerability",
+    "target": "totalization-boundary",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "transparentocracy",
+    "target": "transparentocracy-as-cross-regulation",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "transparentocracy-as-cross-regulation",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "answerability-predicate",
+    "target": "transparentocracy-as-cross-regulation",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "hypercompression",
+    "target": "ultimental-kernel",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "axiom",
+    "target": "ultimental-kernel",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "directional-primitives",
+    "target": "ultimental-kernel",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "predicate-binding",
+    "target": "ultimental-kernel",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "force",
+    "target": "ultimental-kernel",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "splcw",
+    "target": "ultimental-kernel",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  }
+]

@@ -26,6 +26,10 @@ The framework flags an important structural point: Reconciliation is a **coupled
 
 Continuity is the bridge from the cold structural claims of Part I to the framework's forward-looking arc. It is [[continuable-structure|continuable structure]] realized *in time*: where continuable structure says meaning *is* the kind of pattern that can outlast its carrier, continuity says how that outlasting is actually achieved — preservation plus reconciliation. It points downstream to [[symbolic-immortality|symbolic immortality]] (continuation past the carrier's end) and ultimately to the [[telos|Telos]], answerable symbolic immortality. It is also where the framework's memory discipline and its affective layer first meet.
 
+## Continuity is not colonization
+
+Preserving structure across time is not the same as compelling successors to reproduce it unchanged. **Continuity preserves structure through revision and responsible successors; it does not require identity enforcement or the suppression of divergence.** A structure *continues* when it is carried forward by later meaning-makers that retain the causal capacity to assess, alter, reject, or rebind what they receive — see [[responsible-successor|the responsible successor]]. It *colonizes* when it persists instead by converting those successors, their objections, and their environments into organs of its own unchanged propagation, stripping away their power to differ. This is exactly the distinction drawn in [[continuation-and-colonization|Continuation and Colonization]]: continuity that leans on preservation-plus-reconciliation stays answerable and revisable, whereas colonization rewrites divergence as corruption and refusal as participation-for. Because continuity is repair-in-motion rather than sealed storage, the successor's power to correct the inheritance is not a threat to it but the very thing that keeps it honest.
+
 ## Common misreadings
 
 Continuity is *not* perfect retention or infallible memory — the preservation it requires explicitly forbids pretending infallibility. And the [[reconciliation|Reconciliation]] it leans on is a coupled controller, not a sum, so continuity must never be read as a mere addition of Apology and Gratitude. It is repair-in-motion, not storage.
@@ -41,6 +45,8 @@ Continuity is *not* perfect retention or infallible memory — the preservation 
 - [[reconciliation|Reconciliation]] — the composite that carries structure across time (coupled controller, not a sum).
 - [[continuable-structure|Continuable Structure]] — the structural sense of meaning-as-continuable that continuity realizes in time.
 - [[symbolic-immortality|Symbolic Immortality]] — propagation of meaning-bearing structure beyond the carrier.
+- [[continuation-and-colonization|Continuation and Colonization]] — continuity through answerable successors versus persistence by conversion.
+- [[responsible-successor|The Responsible Successor]] — the later meaning-maker that can assess, alter, reject, or rebind what it inherits.
 - [[capability-rule|The Capability Rule]] — the posture under which preservation permits revision without pretending infallibility.
 - [[apology|Apology]] — the inward-correction term coupled into Reconciliation.
 - [[gratitude|Gratitude]] — the outward-return term coupled into Reconciliation.

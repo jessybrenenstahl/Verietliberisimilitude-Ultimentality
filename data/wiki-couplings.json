@@ -1,0 +1,100 @@
+[
+  {
+    "source": "formal-closure-claim",
+    "target": "two-mark-system",
+    "relation": "cross-regulates",
+    "source_error": "totalization",
+    "target_error": "regress",
+    "emergent_property": "no escape, no exemption",
+    "evidence_pages": [
+      "semantic-closure-and-recursive-marking",
+      "reciprocal-attack-surfaces"
+    ]
+  },
+  {
+    "source": "semantic-closure-and-recursive-marking",
+    "target": "reciprocal-attack-surfaces",
+    "relation": "cross-regulates",
+    "source_error": "totalization",
+    "target_error": "regress",
+    "emergent_property": "open finite participation",
+    "evidence_pages": [
+      "no-escape-no-exemption",
+      "cross-regulated-necessity"
+    ]
+  },
+  {
+    "source": "love",
+    "target": "fear",
+    "relation": "couples-with",
+    "source_error": "undefended fusion",
+    "target_error": "unrelated distance",
+    "emergent_property": "submission",
+    "evidence_pages": [
+      "submission",
+      "opposed-gradient-contention",
+      "trapped-form"
+    ]
+  },
+  {
+    "source": "apology",
+    "target": "gratitude",
+    "relation": "couples-with",
+    "source_error": "guilt-loop",
+    "target_error": "sentimental form",
+    "emergent_property": "reconciliation",
+    "evidence_pages": [
+      "reconciliation",
+      "sequential-gating",
+      "sentimental-form"
+    ]
+  },
+  {
+    "source": "vls",
+    "target": "transparentocracy",
+    "relation": "cross-regulates",
+    "source_error": "possession",
+    "target_error": "exempt authority",
+    "emergent_property": "accountable participation without possession",
+    "evidence_pages": [
+      "transparentocracy-as-cross-regulation"
+    ]
+  },
+  {
+    "source": "continuity",
+    "target": "answerability-predicate",
+    "relation": "cross-regulates",
+    "source_error": "colonization",
+    "target_error": "ornamental answerability",
+    "emergent_property": "answerable continuation",
+    "evidence_pages": [
+      "continuation-and-colonization",
+      "responsible-successor"
+    ]
+  },
+  {
+    "source": "self-application",
+    "target": "formal-closure-claim",
+    "relation": "cross-regulates",
+    "source_error": "regress",
+    "target_error": "totalization",
+    "emergent_property": "dynamic fixed point",
+    "evidence_pages": [
+      "dynamic-fixed-point",
+      "correction-without-regress",
+      "closure-without-totalization"
+    ]
+  },
+  {
+    "source": "causal-error-mark",
+    "target": "capture-of-corrective-layer",
+    "relation": "regulates",
+    "source_error": "ornamental humility",
+    "target_error": "corrective capture",
+    "emergent_property": "effective answerability",
+    "evidence_pages": [
+      "effective-and-ornamental-answerability",
+      "totalization-boundary"
+    ]
+  }
+]

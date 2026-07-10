@@ -1,0 +1,116 @@
+[
+  {
+    "a": "access",
+    "b": "possession",
+    "damage": "treats symbolic access as ownership of the mapped case",
+    "bridge": "semblance"
+  },
+  {
+    "a": "meaning",
+    "b": "language",
+    "damage": "narrows significance to the verbal",
+    "bridge": "symbolic-is-not-linguistic"
+  },
+  {
+    "a": "symbolic",
+    "b": "propositional",
+    "damage": "limits the symbolic to statements",
+    "bridge": "symbolic-is-not-linguistic"
+  },
+  {
+    "a": "external",
+    "b": "extra-symbolic",
+    "damage": "reads a returned constraint as access outside meaning",
+    "bridge": "externality-without-extra-symbolic-access"
+  },
+  {
+    "a": "contestable",
+    "b": "probably wrong",
+    "damage": "collapses epistemic exposure into low accuracy",
+    "bridge": "two-mark-system"
+  },
+  {
+    "a": "accurate",
+    "b": "exhaustive",
+    "damage": "reads a closed medium as a complete local account",
+    "bridge": "closure-without-totalization"
+  },
+  {
+    "a": "primitive",
+    "b": "predicate binding",
+    "damage": "inverts the derivation order (the cardinal error)",
+    "bridge": "predicate-binding"
+  },
+  {
+    "a": "binding",
+    "b": "invariant preservation",
+    "damage": "turns regulation toward a setpoint into a conserved quantity",
+    "bridge": "predicate-binding"
+  },
+  {
+    "a": "composite",
+    "b": "arithmetic sum",
+    "damage": "reads the coupled-controller operator as addition",
+    "bridge": "force"
+  },
+  {
+    "a": "role",
+    "b": "personality",
+    "damage": "reifies a faculty into a character",
+    "bridge": "function-not-personality"
+  },
+  {
+    "a": "persistence",
+    "b": "answerable continuation",
+    "damage": "counts raw outlasting as the Telos",
+    "bridge": "symbolic-immortality"
+  },
+  {
+    "a": "recorded criticism",
+    "b": "effective correction",
+    "damage": "mistakes stored objection for a live update path",
+    "bridge": "effective-and-ornamental-answerability"
+  },
+  {
+    "a": "participation",
+    "b": "consent",
+    "damage": "reads unavoidable participation as agreement",
+    "bridge": "refusal-as-participation"
+  },
+  {
+    "a": "plurality",
+    "b": "causal independence",
+    "damage": "treats separation or number as retained corrective leverage",
+    "bridge": "capture-of-corrective-layer"
+  },
+  {
+    "a": "substrate difference",
+    "b": "type difference",
+    "damage": "lets carrier material defeat a shared operation",
+    "bridge": "identity-across-substrates"
+  },
+  {
+    "a": "functional identity",
+    "b": "equal capacity",
+    "damage": "erases speed, depth, and reach differences",
+    "bridge": "identity-across-substrates"
+  },
+  {
+    "a": "semantic closure",
+    "b": "doctrinal completion",
+    "damage": "reads the access condition as a finished doctrine",
+    "bridge": "closure-without-totalization"
+  },
+  {
+    "a": "compression",
+    "b": "omission",
+    "damage": "reads a small kernel as dropped content",
+    "bridge": "hypercompression"
+  },
+  {
+    "a": "self-verification",
+    "b": "self-certification",
+    "damage": "promotes an enacted medium to a proven account of itself",
+    "bridge": "self-verifying-not-self-certifying"
+  }
+]

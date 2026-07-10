@@ -18,6 +18,10 @@ The single status does **not** flatten everything to equal contestability. That 
 
 Prior editions ran a two-tier *Forced / Derived* ledger. This edition removes the "Forced" tier outright — not as housekeeping but as a safety measure. A "Forced" tier is a standing invitation to [[textual-nephilim|the textual Nephilim]]: a reserved place on the page where a derivation is allowed to forget that it is a derivation and promote itself to ground. Close the place and the temptation has nowhere to live. Everything is Derived; nothing is exempt; the witness's seat stays empty. (Loosely, like Nietzsche sounding idols with a tuning-fork, the deflation taps each claim to hear whether it rings hollow with borrowed bedrock.)
 
+## Unavoidable is not "Forced"
+
+One route back to bedrock is subtler than a reserved ledger row, and closing it completes the abolition. The [[axiom|Axiom]]'s condition — that all participant-access is symbolically mediated — is *constitutively unavoidable*: one cannot step outside it even to deny it, since the denial is itself symbolically mediated. It is tempting to hear "cannot be escaped" as "forced," and "forced" as licence to exempt the condition from derivation. The inference fails. Unavoidability is a property of the *condition*; **Derived** is the status borne by every finite *statement* of it, and a statement does not inherit exemption from the inescapability of what it is about. This is the distinction drawn in [[frame-condition-and-formulation|frame condition and formulation]]: the condition may be unavoidable while each finite formulation of it — this sentence, this wording of the Axiom, this model of "symbolic" — remains Derived, mortal, and open to narrowing, replacement, or a better carving. To let the condition's inescapability rub off on its formulations would smuggle the abolished "Forced" tier back in under the condition's authority: the [[textual-nephilim|textual Nephilim]] wearing a new name. So unavoidability changes only *what it costs* to challenge a formulation — one must decline the frame, not merely find a counter-instance — never *whether* one may.
+
 ## The one apparent exception
 
 There is exactly one thing that is *not* a derived claim — and it is no foundation either. The [[bare-operation-of-inference|bare operation of inference]], the medium in which derivation happens, carries no content and asserts nothing, so it is not a term anything can rest *on*. It is the river, not a stone in it. Naming it does not reopen a back door to bedrock; it closes the last one.
@@ -35,6 +39,7 @@ There is exactly one thing that is *not* a derived claim — and it is no founda
 - [[axiom|The Axiom]] — entails the single Derived status.
 - [[bare-operation-of-inference|The Bare Operation of Inference]] — the one non-derived thing, yet no foundation.
 - [[textual-nephilim|The Textual Nephilim]] — why a "Forced" tier had to be abolished.
+- [[frame-condition-and-formulation|Frame Condition and Formulation]] — the unavoidable condition versus its Derived finite formulations.
 - [[contestability-gradient|The Contestability Gradient]] — how Derived claims still differ in exposure.
 - [[two-mark-system|The Two-Mark System]] — every Derived claim also carries an alethic mark.
 - [[alethic-axis|The Alethic Axis]] — Derived (contestable) is orthogonal to accuracy.

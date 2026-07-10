@@ -18,6 +18,7 @@ SITE_DOMAIN = "ultimentality.relicquary.com"  # GitHub Pages custom domain; set 
 WIKILINK_ALIAS = re.compile(r"\[\[([^|\]]+)\|([^\]]+)\]\]")
 WIKILINK_BARE  = re.compile(r"\[\[([^|\]]+)\]\]")
 H1 = re.compile(r"^#\s+(.+?)\s*$", re.M)
+FRONT_MATTER = re.compile(r"\A---\n.*?\n---\n", re.S)  # leading YAML block on new pages
 
 def slug_to_href(slug):
     slug = slug.strip()
@@ -31,6 +32,7 @@ def read_pages():
                 continue
             slug = fn[:-3]
             raw = open(os.path.join(dirpath, fn), encoding="utf-8").read()
+            raw = FRONT_MATTER.sub("", raw, count=1)  # drop machine-readable front matter before rendering
             m = H1.search(raw)
             title = m.group(1).strip() if m else slug
             pages[slug] = {"slug": slug, "title": title, "raw": raw}
@@ -265,7 +267,7 @@ def main():
     os.makedirs(OUT, exist_ok=True)
     # clean ONLY generated artifacts; preserve .git, README, CNAME, etc.
     KEEP = {".git", "README.md", "CNAME", ".gitignore"}
-    GEN = {"style.css", "app.js", "search.json", ".nojekyll", "relics",
+    GEN = {"style.css", "app.js", "search.json", ".nojekyll", "relics", "data",
            "ultimentality-wiki-complete.md", "ultimentality-wiki-md.zip"}
     for fn in os.listdir(OUT):
         if fn in KEEP:
@@ -317,6 +319,10 @@ def main():
     open(os.path.join(OUT, ".nojekyll"), "w").write("")
     if SITE_DOMAIN:
         open(os.path.join(OUT, "CNAME"), "w").write(SITE_DOMAIN)
+    # publish the machine-readable relation files (data/*.json) if present
+    data_src = os.path.join(ROOT, "data")
+    if os.path.isdir(data_src):
+        shutil.copytree(data_src, os.path.join(OUT, "data"))
     # keep the markdown relics in-repo for provenance
     relics = os.path.join(OUT, "relics")
     os.makedirs(relics, exist_ok=True)

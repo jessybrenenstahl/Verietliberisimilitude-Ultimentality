@@ -1,0 +1,868 @@
+[
+  {
+    "component": "attack-surface-matrix",
+    "claim_type": "Exposition",
+    "valid_attack": "Exhibit a load-bearing component with no row, or a row whose stated valid attack does not match the claim type of its linked page.",
+    "invalid_attacks": [],
+    "regulator": [
+      "self-sealing-test",
+      "causal-falsifiability",
+      "same-level-attack-rule"
+    ],
+    "isolation_failure": "As a static catalog detached from the causal-falsifiability and self-sealing tests, the matrix becomes a decorative index that no encounter can force to change.",
+    "kill_condition": "A change to a load-bearing page cannot be made to change its row, or a failed attack is entered into the matrix as confirmation.",
+    "tests": []
+  },
+  {
+    "component": "attack-type-matching",
+    "claim_type": "Mixed",
+    "valid_attack": "Exhibit a content-bearing claim whose only honest attack is none of the listed types, two types that never separate under any discriminating attack, or a listed attack that cannot in fact reach its claim-type.",
+    "invalid_attacks": [],
+    "regulator": [
+      "outcomes-of-attack",
+      "same-level-attack-rule",
+      "causal-falsifiability",
+      "strengthening-without-absolutization"
+    ],
+    "isolation_failure": "Without outcome and causal tests it hardens into a gatekeeper's shield that dismisses objections by type-label; without type-matching every objection counts equally and the type boundaries dissolve.",
+    "kill_condition": "A same-level, well-typed counterexample is dismissed only by arbitrary retyping, or the listed claim-types cannot be separated from one another.",
+    "tests": []
+  },
+  {
+    "component": "capture-of-corrective-layer",
+    "claim_type": "CV",
+    "valid_attack": "A correction remains fully effective despite every admission, memory, and enforcement path being controlled by its target.",
+    "invalid_attacks": [],
+    "regulator": [
+      "causal-error-mark",
+      "self-sealing-test",
+      "legitimate integration of correction"
+    ],
+    "isolation_failure": "Without the legitimate-integration counterweight, every absorbed correction reads as capture and no learning can count as correction.",
+    "kill_condition": "Capture cannot be distinguished from legitimate integration of correction.",
+    "tests": []
+  },
+  {
+    "component": "category-error-atlas",
+    "claim_type": "Exposition",
+    "valid_attack": "A listed row is not a category error at the level claimed, or a genuine recurring cross-layer error has no entry and no near category.",
+    "invalid_attacks": [],
+    "regulator": [
+      "same-level-attack-rule",
+      "attack-type-matching",
+      "prohibited-collapses"
+    ],
+    "isolation_failure": "Without the same-level rule and the prohibited-collapses index, the atlas degrades into a shield that retypes valid same-level attacks as category errors.",
+    "kill_condition": "A same-level counter-instance is repeatedly deflected by citing an atlas row rather than answered, i.e., the atlas is used to retype valid attacks instead of to catch invalid ones.",
+    "tests": []
+  },
+  {
+    "component": "causal-error-mark",
+    "claim_type": "FT",
+    "valid_attack": "Exhibit a marked claim whose error can never, even in principle, alter any relevant operation while still functioning as genuine answerability rather than decoration.",
+    "invalid_attacks": [],
+    "regulator": [
+      "two-mark-system",
+      "semantic-closure-and-recursive-marking",
+      "scar-record",
+      "capture-of-corrective-layer"
+    ],
+    "isolation_failure": "Causal force without marking becomes untracked volatility; marking without causal force becomes ornamental humility.",
+    "kill_condition": "The framework treats recorded error as answerability despite a permanently closed update path.",
+    "tests": []
+  },
+  {
+    "component": "causal-falsifiability",
+    "claim_type": "CV",
+    "valid_attack": "Exhibit a legitimate falsification whose force is wholly independent of any causal contact with the target, showing the causal requirement conflates system-effect with truth or is neither necessary nor available as a proxy.",
+    "invalid_attacks": [],
+    "regulator": [
+      "outcomes-of-attack",
+      "same-level-attack-rule",
+      "scar-record"
+    ],
+    "isolation_failure": "Without the preserved-marking side and the outcomes classification the causal demand degrades into churn-theater; drop the causal demand and falsification collapses back into ornament.",
+    "kill_condition": "The framework's own logged falsifiers provably leave every relevant output and governance decision unchanged, or the required evidence-to-changed-state trace cannot be reproduced.",
+    "tests": []
+  },
+  {
+    "component": "causal-source-and-experiential-format",
+    "claim_type": "FT",
+    "valid_attack": "Exhibit a received event in which source and format cannot be varied independently, so that fixing one necessarily fixes the other and the two supposed axes collapse into one.",
+    "invalid_attacks": [],
+    "regulator": [
+      "no-escape-no-exemption",
+      "externality-without-extra-symbolic-access",
+      "same-level-attack-rule",
+      "two-mark-system"
+    ],
+    "isolation_failure": "Standing alone, the distinction slides toward one of the two collapses it exists to block — external constraint dissolved into 'just my format,' or external events granted a raw pre-symbolic channel.",
+    "kill_condition": "The distinction cannot be operationalized in any case where source and format vary independently.",
+    "tests": []
+  },
+  {
+    "component": "closure-without-totalization",
+    "claim_type": "FT",
+    "valid_attack": "Show that closure as an access-condition entails an exhaustive local account — that the two definitions are not independent — or exhibit a closure formulation immune to every contradiction that still functions as closure.",
+    "invalid_attacks": [],
+    "regulator": [
+      "semantic-closure-and-recursive-marking",
+      "self-application",
+      "two-mark-system",
+      "causal-error-mark"
+    ],
+    "isolation_failure": "Stated without recursive marking, the distinction becomes a recited disclaimer while a particular closure formulation is treated as the final account.",
+    "kill_condition": "Show that contradiction cannot alter the wording, scope, formalization, dependency, or status of any closure formulation.",
+    "tests": []
+  },
+  {
+    "component": "compression-without-false-closure",
+    "claim_type": "FT",
+    "valid_attack": "Exhibit a concise formulation whose predictable misreconstruction disappears only when a specific omitted qualification is restored.",
+    "invalid_attacks": [],
+    "regulator": [
+      "two-mark-system",
+      "negative-information",
+      "scar-record",
+      "self-verifying-not-self-certifying",
+      "minimal-rebuild-string"
+    ],
+    "isolation_failure": "Compression without preserved marking becomes oracular false closure; marking without compression becomes an inventory that never crystallizes.",
+    "kill_condition": "No finite compression can preserve the architecture's required distinctions, or the page cannot separate a suppressed seam from acceptable redundancy-reduction.",
+    "tests": []
+  },
+  {
+    "component": "constitutive-medium-and-mortal-message",
+    "claim_type": "FT",
+    "valid_attack": "Decline the frame, show the medium/message carving is bettered by an alternative, or show a formulation of the medium is incoherent — but not by naming a durable message and calling it exempt.",
+    "invalid_attacks": [],
+    "regulator": [
+      "semantic-closure-and-recursive-marking",
+      "two-mark-system",
+      "self-application",
+      "frame-condition-and-formulation"
+    ],
+    "isolation_failure": "Medium without mortal message totalizes into a possessed doctrine; mortal message without the medium regresses toward an imagined outside judge.",
+    "kill_condition": "Exhibit an accessible message genuinely exempt from every possible revision, or an access medium that can be exited while remaining participant-access.",
+    "tests": []
+  },
+  {
+    "component": "continuation-and-colonization",
+    "claim_type": "CV",
+    "valid_attack": "A successor is fully compelled to reproduce the parent structure yet remains meaningfully answerable in a way the comparison table cannot represent.",
+    "invalid_attacks": [],
+    "regulator": [
+      "responsible-successor",
+      "causal-error-mark",
+      "effective-and-ornamental-answerability",
+      "refusal-as-participation"
+    ],
+    "isolation_failure": "Without the retained-capacity criterion the pair collapses into an epithet — continuation becomes propagation one approves of, colonization propagation one dislikes.",
+    "kill_condition": "The distinction depends only on approval of the propagated content.",
+    "tests": []
+  },
+  {
+    "component": "correction-without-regress",
+    "claim_type": "FT",
+    "valid_attack": "Exhibit a correction that cannot terminate without an extra-symbolic certifier, or show the provisional stopping rule cannot stay marked without recreating the regress it claims to avoid.",
+    "invalid_attacks": [],
+    "regulator": [
+      "semantic-closure-and-recursive-marking",
+      "self-application",
+      "causal-error-mark"
+    ],
+    "isolation_failure": "Without closure the stopping point floats out of the domain and the regress returns; without marking the stopping point hardens into a final certificate and the recursion totalizes.",
+    "kill_condition": "Show that correction necessarily requires an extra-symbolic certifier, or that the stopping rule cannot remain marked without recreating regress.",
+    "tests": []
+  },
+  {
+    "component": "coupling-graph",
+    "claim_type": "Exposition",
+    "valid_attack": "Exhibit a coupling the source pages assert that the graph omits, or an edge the graph draws that no source page's regulation supports.",
+    "invalid_attacks": [],
+    "regulator": [
+      "system-invariants",
+      "attack-surface-matrix",
+      "interaction-matrix"
+    ],
+    "isolation_failure": "A graph without its text alternative and data source becomes a picture that cannot be checked against the pages it claims to render.",
+    "kill_condition": "The rendering asserts a coupling, direction, or emergent property the linked pages do not support — or renders a directional or sequential coupling as symmetric — and the discrepancy cannot change the graph.",
+    "tests": []
+  },
+  {
+    "component": "cross-regulated-necessity",
+    "claim_type": "Mixed",
+    "valid_attack": "Exhibit a pair that passes all four criteria yet loses nothing on removal, a coupling agreed necessary that fails a criterion, or a case where isolating either term releases the same excess rather than a distinct one.",
+    "invalid_attacks": [],
+    "regulator": [
+      "self-application",
+      "strengthening-without-absolutization",
+      "kill-table"
+    ],
+    "isolation_failure": "Criteria without the removal test become a stamp that certifies any favored pairing as necessary; the removal test without the criteria yields ablations no principle can read.",
+    "kill_condition": "Eliminate either controller of an alleged cross-regulated pair while the emergent property survives intact, or show the four-criteria test can never fail.",
+    "tests": []
+  },
+  {
+    "component": "crystallization",
+    "claim_type": "CV",
+    "valid_attack": "Exhibit a structure that satisfies every crystallization indicator yet whose stability is counterfeit — sustained by refusal, authority, or reclassification — or offer a better carving the crystal/fossil distinction cannot make.",
+    "invalid_attacks": [],
+    "regulator": [
+      "causal-falsifiability",
+      "self-sealing-test",
+      "scar-record",
+      "semantic-closure-and-recursive-marking"
+    ],
+    "isolation_failure": "Crystallization without live correction hardens into a fossil or an absolutized invariant; live correction without crystallization never settles into compressed, stable type boundaries and churns as an inventory without architecture.",
+    "kill_condition": "Present resistance is shown to be produced by refusal, authority, or semantic reclassification rather than by selected elimination and live correction.",
+    "tests": []
+  },
+  {
+    "component": "decompression-map",
+    "claim_type": "Exposition",
+    "valid_attack": "Show a drawn derivation edge the source pages do not license, or the operational feedback smuggled into the acyclic derivation graph, or a claim of completeness.",
+    "invalid_attacks": [],
+    "regulator": [
+      "system-invariants",
+      "ultimental-kernel",
+      "reciprocal-attack-surfaces"
+    ],
+    "isolation_failure": "Without the kernel and invariants it maps the graph is decoration; without the map the kernel's unfolding must be re-inferred by comparing distant pages.",
+    "kill_condition": "The map is defeated if it misdraws a licensed relation, forces the operational cycle into the derivation graph, or presents itself as a complete or exempt account.",
+    "tests": []
+  },
+  {
+    "component": "description-length-and-explanatory-surface",
+    "claim_type": "CV",
+    "valid_attack": "The framework's coverage depends on adding domain-specific premises not recoverable from the kernel, so the measured explanatory surface is not actually a decompression of the measured description.",
+    "invalid_attacks": [],
+    "regulator": [
+      "minimal-rebuild-string",
+      "system-invariants",
+      "two-mark-system",
+      "postfalsifiability"
+    ],
+    "isolation_failure": "Description length read without reconstruction fidelity rewards terseness (sloganization); explanatory surface read without it rewards breadth (accretion); neither, alone, distinguishes a compact architecture from a long list.",
+    "kill_condition": "Explanatory surface grows only by accretion, with no stable reconstruction relation to the kernel.",
+    "tests": []
+  },
+  {
+    "component": "dynamic-fixed-point",
+    "claim_type": "CV",
+    "valid_attack": "Show that the continuity criteria admit a frozen or captured apparatus as a continuation, or that they cannot separate continuation from wholesale replacement.",
+    "invalid_attacks": [],
+    "regulator": [
+      "causal-error-mark",
+      "correction-without-regress",
+      "reciprocal-attack-surfaces"
+    ],
+    "isolation_failure": "A fixed point without change-of-formulation freezes into self-certification; change-of-formulation without identity-loss conditions lets arbitrary mutation inherit the name.",
+    "kill_condition": "Satisfy the continuity criteria while eliminating causal correction, or show the criteria cannot distinguish continuity from replacement.",
+    "tests": []
+  },
+  {
+    "component": "effective-and-ornamental-answerability",
+    "claim_type": "CV",
+    "valid_attack": "Exhibit a process that preserves every objection yet has no possible behavior difference between objection and no objection, and challenge the page to name an observable criterion that still separates effective from ornamental answerability.",
+    "invalid_attacks": [],
+    "regulator": [
+      "causal-error-mark",
+      "capture-of-corrective-layer"
+    ],
+    "isolation_failure": "Cut from the causal-error pathway the distinction becomes an unfalsifiable accusation; cut from the capture analysis it over-fires and brands every integrated correction ornamental.",
+    "kill_condition": "No observable criterion — counterfactual or interventional — distinguishes effective answerability from ornamental answerability.",
+    "tests": []
+  },
+  {
+    "component": "emotion-as-regulated-binding",
+    "claim_type": "Mixed",
+    "valid_attack": "Exhibit a cornerstone emotion whose canonical behavior is not captured by its actuator-and-regulated-error pair, or a second distinct binding with the same pair yet a predictably different function.",
+    "invalid_attacks": [],
+    "regulator": [
+      "predicate-binding",
+      "regulated-error-signal",
+      "causal-error-mark",
+      "fear-guard"
+    ],
+    "isolation_failure": "Restated without the general binding model it decays to four labels; restated without the four bindings it becomes an empty schema that regulates nothing.",
+    "kill_condition": "The model cannot tell the four emotions apart except by importing their ordinary names.",
+    "tests": []
+  },
+  {
+    "component": "externality-without-extra-symbolic-access",
+    "claim_type": "FT",
+    "valid_attack": "Exhibit an external constraint fully generated by the receiving system that still arrives unpredicted, resists the participant's setpoint, and forces an unselected change.",
+    "invalid_attacks": [],
+    "regulator": [
+      "formal-closure-claim",
+      "causal-source-and-experiential-format",
+      "symbolic-is-not-linguistic"
+    ],
+    "isolation_failure": "Without the closure pole it becomes naive realism's raw given; without the externality pole it becomes self-sealing idealism in which no returned consequence can wound.",
+    "kill_condition": "No operational criterion separates a constraint the participant did not author from one it did — genuine returned resistance is indistinguishable from self-produced confirmation.",
+    "tests": []
+  },
+  {
+    "component": "frame-condition-and-formulation",
+    "claim_type": "FT",
+    "valid_attack": "Decline the closure frame at cost, show the condition/formulation distinction is internally empty, or offer a sharper carving of the cut — not merely kill one formulation and call the condition refuted.",
+    "invalid_attacks": [],
+    "regulator": [
+      "self-application",
+      "system-invariants",
+      "refutation-and-frame-declension"
+    ],
+    "isolation_failure": "Alone the distinction becomes an unfalsifiable retreat that saves every formulation (self-sealing); without it, every formulation-death reads as frame-death (brittleness, then paralysis).",
+    "kill_condition": "A rewrite drops or reverses every invariant on the continuity list, in all formulations, while the page still declares the frame unchanged and the criteria register no declension.",
+    "tests": []
+  },
+  {
+    "component": "hypercompression",
+    "claim_type": "CV",
+    "valid_attack": "Exhibit two materially incompatible reconstructions that satisfy the same alleged kernel, with no internal rule able to select between them.",
+    "invalid_attacks": [],
+    "regulator": [
+      "minimal-rebuild-string",
+      "system-invariants",
+      "compression-without-false-closure",
+      "negative-information"
+    ],
+    "isolation_failure": "Compression without decompression tests becomes oracular shorthand; decompression without compression becomes an inventory without architecture.",
+    "kill_condition": "The proposed kernel cannot regenerate one or more system invariants, or can regenerate them only by importing unstated doctrine.",
+    "tests": []
+  },
+  {
+    "component": "identity-across-substrates",
+    "claim_type": "CV",
+    "valid_attack": "Two processes satisfy the same type description yet differ in a behavior the type was meant to predict.",
+    "invalid_attacks": [],
+    "regulator": [
+      "same-level-attack-rule",
+      "participant-as-process",
+      "prohibited-collapses"
+    ],
+    "isolation_failure": "Type identity without a capacity profile inflates into carrier-blind sameness; a capacity profile without type identity fragments into per-substrate nominalism.",
+    "kill_condition": "The type is so thin that every difference is relegated to substrate, making the classification explanatorily empty.",
+    "tests": []
+  },
+  {
+    "component": "interaction-matrix",
+    "claim_type": "Exposition",
+    "valid_attack": "Exhibit a load-bearing relation that no controlled label expresses without loss, forcing a vague label or an assertion the endpoints do not carry.",
+    "invalid_attacks": [],
+    "regulator": [],
+    "isolation_failure": "Cut from its source pages and the invariant checklist, the matrix hardens into an unaudited adjacency table whose cells no longer answer to the pages they index.",
+    "kill_condition": "A nonempty cell cannot be regenerated from wiki-interactions.json and its linked pages, or the matrix asserts a relation its two endpoints do not bear.",
+    "tests": []
+  },
+  {
+    "component": "meaning-as-weight",
+    "claim_type": "CV",
+    "valid_attack": "Exhibit meaning that alters no possible later selection, routing, persistence, or consequence, or a weighting relation that carries no structured significance.",
+    "invalid_attacks": [],
+    "regulator": [
+      "symbolic-is-not-linguistic",
+      "meaning-maker",
+      "carving-tier",
+      "derived"
+    ],
+    "isolation_failure": "The modulation criterion alone collapses meaning into any causal influence; the significance constraint alone leaves meaning as inert content that changes nothing.",
+    "kill_condition": "The definition collapses meaning into any causal influence whatsoever, so that no retained causal relation can fail to count as semantic weight.",
+    "tests": []
+  },
+  {
+    "component": "meaning-maker",
+    "claim_type": "CV",
+    "valid_attack": "a same-level counter-instance: a system meeting all seven criteria that is plainly not a participant, or a participant that irreparably fails one.",
+    "invalid_attacks": [],
+    "regulator": [
+      "regulated-error-signal",
+      "matter-meaning-cycle",
+      "same-level-attack-rule",
+      "two-mark-system"
+    ],
+    "isolation_failure": "as a bare definition the criteria drift to panparticipation or to carrier chauvinism; the coupling to a regulated discrepancy is what holds the boundary.",
+    "kill_condition": "no principled boundary separates meaning-making from undifferentiated causation.",
+    "tests": []
+  },
+  {
+    "component": "minimal-rebuild-string",
+    "claim_type": "CV",
+    "valid_attack": "A shorter string reconstructs equal capacity, or the current string systematically generates a false dependency.",
+    "invalid_attacks": [],
+    "regulator": [
+      "system-invariants",
+      "compression-without-false-closure",
+      "self-application",
+      "two-mark-system"
+    ],
+    "isolation_failure": "Uncoupled from the blind-rebuild test and the invariant checklist, the string degrades into a recited creed — compression with no decompression.",
+    "kill_condition": "Repeated competent reconstruction from the string and glossary cannot recover the invariant architecture.",
+    "tests": []
+  },
+  {
+    "component": "necessary-seam",
+    "claim_type": "CV",
+    "valid_attack": "Exhibit a false seam whose closure removes no regulation or answerability, a load-bearing page that regulates with no nameable seam, or a case where the necessary/defective partition cannot be operationalized.",
+    "invalid_attacks": [],
+    "regulator": [
+      "scar-record",
+      "semantic-closure-and-recursive-marking",
+      "cross-regulated-necessity"
+    ],
+    "isolation_failure": "Seam without the necessity test hoards every flaw as a badge; the necessity test without seams smooths shut the channels through which correction was to arrive.",
+    "kill_condition": "Exhibit an operation corrected by its error marks through no identifiable interface, or show the necessary/defective partition collapses so that a load-bearing seam cannot be told from a cosmetic wound.",
+    "tests": []
+  },
+  {
+    "component": "negative-information",
+    "claim_type": "CV",
+    "valid_attack": "Show that an omission the page treats as informative was never tested, or that its failure is not encoded as any present constraint.",
+    "invalid_attacks": [],
+    "regulator": [
+      "same-level-attack-rule",
+      "causal-falsifiability",
+      "scar-record",
+      "kill-table",
+      "carving-tier"
+    ],
+    "isolation_failure": "Absence read without the encoding requirement becomes argument from silence; the encoding requirement without the absence-carries-load insight reduces the framework to a positive inventory that cannot tell a crystal from a fossil.",
+    "kill_condition": "An alleged excluded alternative turns out never to have been tested, or its failure imposes no present prohibition, test, or dependency.",
+    "tests": []
+  },
+  {
+    "component": "no-escape-no-exemption",
+    "claim_type": "FT",
+    "valid_attack": "Decline the frame's definitions of participant-access and structured signification, or exhibit the kill condition; internal wording is contestable, but the relation follows once the definitions are accepted.",
+    "invalid_attacks": [],
+    "regulator": [
+      "self-application",
+      "two-mark-system",
+      "reciprocal-attack-surfaces",
+      "semantic-closure-and-recursive-marking"
+    ],
+    "isolation_failure": "Closure without marking totalizes; marking without closure regresses into an infinite stack of uncorrected judges, or paralyzes for want of a licensed stopping point.",
+    "kill_condition": "Exhibit participant-access that is neither structured signification nor content exposed to possible correction, while remaining intelligible as participant-access.",
+    "tests": []
+  },
+  {
+    "component": "occurrent-and-sedimented-meaning",
+    "claim_type": "CV",
+    "valid_attack": "Exhibit a temporal mode of significance that is neither present activation, retained disposition, nor the transition between them, and that cannot be reconstructed from those three.",
+    "invalid_attacks": [],
+    "regulator": [
+      "meaning-as-weight",
+      "causal-error-mark",
+      "matter-meaning-cycle",
+      "same-level-attack-rule"
+    ],
+    "isolation_failure": "Occurrent-only becomes a phenomenalism with no memory; sediment-only becomes a dead archive that never fires.",
+    "kill_condition": "The distinction cannot explain how a consequence revises what may become significant later.",
+    "tests": []
+  },
+  {
+    "component": "one-generator-many-domains",
+    "claim_type": "CV",
+    "valid_attack": "two domains are classified as the same instantiation despite a relevant structural difference the framework cannot represent.",
+    "invalid_attacks": [],
+    "regulator": [
+      "hypercompression",
+      "same-level-attack-rule",
+      "identity-across-substrates",
+      "description-length-and-explanatory-surface"
+    ],
+    "isolation_failure": "a generator asserted without the typed admission test collapses into promiscuous analogy; the typed criteria asserted without a generator become an unarchitected inventory of checklists with no shared source.",
+    "kill_condition": "domain transfer depends only on verbal resemblance and not on preserved typed relations.",
+    "tests": []
+  },
+  {
+    "component": "one-page-reconstruction",
+    "claim_type": "Exposition",
+    "valid_attack": "Show that the eleven-step ordering omits a load-bearing dependency or inserts one not recoverable from the pages it compresses.",
+    "invalid_attacks": [],
+    "regulator": [
+      "system-invariants",
+      "minimal-rebuild-string",
+      "decompression-map"
+    ],
+    "isolation_failure": "Read as the framework's foundation rather than an index of it, the page becomes a promotional summary that hides the seams and marks it merely restates.",
+    "kill_condition": "The compressed sequence cannot regenerate a system invariant without importing doctrine absent from the pages it links, or a competent reader is forced back to comparing distant pages to recover a relation this page claims to state.",
+    "tests": []
+  },
+  {
+    "component": "outcomes-of-attack",
+    "claim_type": "CV",
+    "valid_attack": "Exhibit a genuine outcome of a landed valid attack irreducible to deletion, revision, demotion/retyping, or invariant recognition, or show that two of the four collapse into one.",
+    "invalid_attacks": [],
+    "regulator": [
+      "causal-falsifiability",
+      "same-level-attack-rule",
+      "attack-type-matching",
+      "two-mark-system"
+    ],
+    "isolation_failure": "Without causal tracing and the failed-attack guard, outcome labels become bookkeeping theater and survivals drift into confirmation.",
+    "kill_condition": "The classification cannot in practice distinguish a failed attack from invariant recognition.",
+    "tests": []
+  },
+  {
+    "component": "participant-as-process",
+    "claim_type": "CV",
+    "valid_attack": "Exhibit a participant whose identity persists independently of every continuity relation this page names.",
+    "invalid_attacks": [],
+    "regulator": [
+      "identity-across-substrates",
+      "same-level-attack-rule",
+      "dynamic-fixed-point",
+      "continuable-structure",
+      "continuity"
+    ],
+    "isolation_failure": "Without the causal-continuity regulators the process reading cannot say whether a stretch of regulation is one process or several, and the boundary collapses into stipulation; without the process claim a substance-owner is re-imported.",
+    "kill_condition": "The criteria cannot distinguish one process from several coordinated processes.",
+    "tests": []
+  },
+  {
+    "component": "postfalsifiability",
+    "claim_type": "CV",
+    "valid_attack": "Show the three-stance carving cuts no real joint (a better carving), or that a named invariant's alleged prior falsifications produced no causal change.",
+    "invalid_attacks": [],
+    "regulator": [
+      "causal-falsifiability",
+      "outcomes-of-attack",
+      "kill-table",
+      "scar-record",
+      "semantic-closure-and-recursive-marking"
+    ],
+    "isolation_failure": "Without live kill conditions it becomes a self-sealing survival-narrative; without preserved defeat it becomes amnesiac one-shot falsifiability.",
+    "kill_condition": "No conceivable result can delete a present invariant, or alleged prior falsifications produced no causal change.",
+    "tests": []
+  },
+  {
+    "component": "prohibited-collapses",
+    "claim_type": "Exposition",
+    "valid_attack": "Show that a listed pair is one type at one abstraction level (so != marks no real distinction), or that a bridge page does not in fact regulate the named collapse.",
+    "invalid_attacks": [],
+    "regulator": [
+      "same-level-attack-rule",
+      "self-sealing-test",
+      "category-error-atlas"
+    ],
+    "isolation_failure": "Read as a closed taboo list the index totalizes; stripped of its bridge pages it becomes an inventory of prohibitions with no corrective route.",
+    "kill_condition": "Exhibit a listed collapse whose two sides are the same type at the same abstraction level, or a collapse the wiki actually commits in a load-bearing claim with no page able to correct it.",
+    "tests": []
+  },
+  {
+    "component": "qualia-as-narrative-compression",
+    "claim_type": "CV",
+    "valid_attack": "Exhibit a stable phenomenological difference with no difference in regulation, access, memory, routing, action, or consequence, where the difference nonetheless remains causally relevant.",
+    "invalid_attacks": [],
+    "regulator": [
+      "causal-source-and-experiential-format",
+      "externality-without-extra-symbolic-access",
+      "participant-as-process",
+      "two-mark-system"
+    ],
+    "isolation_failure": "Compression without the participant-access anchor explains experience away; participant-access without compression reinstalls a phenomenal substance behind the report.",
+    "kill_condition": "The account explains away rather than explains participant-access, or treats every report as exhaustively reducible to an external description.",
+    "tests": []
+  },
+  {
+    "component": "reader-paths",
+    "claim_type": "Exposition",
+    "valid_attack": "Show that a listed order contradicts the derivation graph, or that a path's stated outcome is unreachable by traversing only its own pages plus its prerequisites.",
+    "invalid_attacks": [],
+    "regulator": [
+      "decompression-map",
+      "system-invariants"
+    ],
+    "isolation_failure": "Detached from the underlying pages and the dependency graph, the paths become a table of contents mistaken for the architecture — a curriculum that promises a reconstruction it never delivers.",
+    "kill_condition": "A path fails if any link in it dangles, if its stated outcome cannot be reached from its listed pages plus prerequisites, or if its order inverts a dependency the decompression map records.",
+    "tests": []
+  },
+  {
+    "component": "reciprocal-attack-surfaces",
+    "claim_type": "Mixed",
+    "valid_attack": "Target the coupling itself, or show that the proposed regulator does not constrain the named excess.",
+    "invalid_attacks": [],
+    "regulator": [
+      "cross-regulated-necessity",
+      "same-level-attack-rule",
+      "self-sealing-test"
+    ],
+    "isolation_failure": "Read without the isolation-failure tests it degrades into a slogan about mutual support and can no longer be told apart from circular self-approval.",
+    "kill_condition": "Exhibit a third irreducible regulator required to close a gap the pair cannot regulate, or show that one principle's attack surface is not occupied by the other in practice.",
+    "tests": []
+  },
+  {
+    "component": "recursive-self-specification",
+    "claim_type": "CV",
+    "valid_attack": "A specification claims rebuildability but cannot regenerate the operation without hidden external information the interpreter must already possess.",
+    "invalid_attacks": [],
+    "regulator": [
+      "continuable-structure",
+      "dynamic-fixed-point",
+      "responsible-successor",
+      "self-application"
+    ],
+    "isolation_failure": "Without rebuildability it collapses into inert self-description; without recursive marking and successor autonomy it freezes into exact self-reproduction and compulsory identity.",
+    "kill_condition": "No reproducible boundary can be drawn between the specification and the context required to interpret it, so a self-specifying description and a merely-described one cannot be distinguished.",
+    "tests": []
+  },
+  {
+    "component": "refusal-as-participation",
+    "claim_type": "Mixed",
+    "valid_attack": "Exhibit a refusal that leaves no significance, consequence, routing, or altered relation while remaining intelligible as refusal.",
+    "invalid_attacks": [],
+    "regulator": [
+      "no-escape-no-exemption",
+      "effective-and-ornamental-answerability",
+      "causal-error-mark",
+      "same-level-attack-rule"
+    ],
+    "isolation_failure": "Alone, the first clause becomes a coercion engine (every 'no' redescribed as agreement); alone, the second clause smuggles back a clean exit outside meaning.",
+    "kill_condition": "The page permits any governing system to redescribe refusal as consent because both are participatory.",
+    "tests": []
+  },
+  {
+    "component": "refutation-and-frame-declension",
+    "claim_type": "CV",
+    "valid_attack": "Exhibit a third irreducible mode of attack the binary cannot represent, or show the refutation/declension boundary is undecidable in a load-bearing case.",
+    "invalid_attacks": [],
+    "regulator": [
+      "same-level-attack-rule",
+      "self-sealing-test",
+      "causal-falsifiability",
+      "refusal-as-participation"
+    ],
+    "isolation_failure": "Refutation alone totalizes the frame as the only sayable vocabulary; declension alone lets every internal contradiction be dodged, sealing the frame.",
+    "kill_condition": "An internal contradiction is repeatedly rerouted into declension at no recorded cost, or rival frames share no consequence on which either mode can be adjudicated.",
+    "tests": []
+  },
+  {
+    "component": "responsible-successor",
+    "claim_type": "CV",
+    "valid_attack": "A fully captured replica satisfies all seven conditions formally while its corrective autonomy is captured, so 'responsible' attaches to unchanged reproduction.",
+    "invalid_attacks": [],
+    "regulator": [
+      "capture-of-corrective-layer",
+      "effective-and-ornamental-answerability",
+      "causal-error-mark",
+      "totalization-boundary",
+      "same-level-attack-rule"
+    ],
+    "isolation_failure": "Without the answerability and capture regulators the conditions become a checklist a captured replica passes, and responsibility degrades into ornamental succession.",
+    "kill_condition": "Responsibility cannot be distinguished from faithful transmission, or a fully captured replica satisfies every condition while having no behavior that differs from unchanged reproduction.",
+    "tests": []
+  },
+  {
+    "component": "same-level-attack-rule",
+    "claim_type": "CV",
+    "valid_attack": "Show that the eight-level carving misclassifies a genuine same-level counterexample, or that a retyping used to reject an attack cannot be grounded in a stated, reusable type distinction.",
+    "invalid_attacks": [],
+    "regulator": [
+      "self-sealing-test",
+      "causal-falsifiability",
+      "refutation-and-frame-declension"
+    ],
+    "isolation_failure": "Without the appeal path the rule self-seals into a shield that rejects any counterexample as wrong-level; without the rule every category-error observation counts as refutation and the type discipline collapses.",
+    "kill_condition": "Produce a same-level counterexample that is dismissed only by arbitrary retyping.",
+    "tests": []
+  },
+  {
+    "component": "scar-record",
+    "claim_type": "CV",
+    "valid_attack": "Exhibit a listed scar whose removal changes nothing, or whose regression test passes with the named constraint absent, so the entry is decorative rather than load-bearing.",
+    "invalid_attacks": [],
+    "regulator": [
+      "causal-falsifiability",
+      "causal-error-mark",
+      "self-sealing-test",
+      "two-mark-system"
+    ],
+    "isolation_failure": "Without runnable tests the record becomes a decorative memorial of survived attacks; without records the surviving tests lose their reason and are deleted or frozen as unmarked givens.",
+    "kill_condition": "Removing a scar changes nothing, or the listed regression test does not protect the current structure, or no scar can be stated without importing dates, authorship, or narrative.",
+    "tests": []
+  },
+  {
+    "component": "self-sealing-test",
+    "claim_type": "CV",
+    "valid_attack": "Exhibit a checklist item that can never return `fail` for any system, or a genuinely sealed system the test scores as open.",
+    "invalid_attacks": [],
+    "regulator": [
+      "self-application",
+      "causal-falsifiability",
+      "same-level-attack-rule",
+      "strengthening-without-absolutization",
+      "semantic-closure-and-recursive-marking"
+    ],
+    "isolation_failure": "Run without a causal update path and the test becomes checklist theater: `pass` labels no operation can consume.",
+    "kill_condition": "Show the test is itself self-sealing — no configuration scores `fail`, or a `fail` provably cannot delete a term, demote a mark, replace an authority, or inhibit an action.",
+    "tests": []
+  },
+  {
+    "component": "self-verifying-not-self-certifying",
+    "claim_type": "FT",
+    "valid_attack": "Collapse the gap between enacting the medium and certifying an account of it, or exhibit a meaningful operation that does not enact the medium.",
+    "invalid_attacks": [],
+    "regulator": [
+      "two-mark-system",
+      "outcomes-of-attack",
+      "formal-closure-claim",
+      "self-sealing-test"
+    ],
+    "isolation_failure": "Verification alone spends the enactment as proof and self-certifies into totalization; non-certification alone loses the enacted floor and regresses.",
+    "kill_condition": "No formulation can be deleted without being reclassified as confirmation, or a meaningful operation is exhibited that does not instantiate the claimed medium.",
+    "tests": []
+  },
+  {
+    "component": "semantic-closure-and-recursive-marking",
+    "claim_type": "Mixed",
+    "valid_attack": "Target the coupling itself, or show that closure does not constrain marking's regress or that marking does not constrain closure's totalization.",
+    "invalid_attacks": [],
+    "regulator": [
+      "reciprocal-attack-surfaces",
+      "cross-regulated-necessity",
+      "self-application",
+      "strengthening-without-absolutization"
+    ],
+    "isolation_failure": "Read as a standalone proof, C ⊕ M collapses into the circular self-endorsement it exists to forbid; its warrant comes only from the distinct, testable isolation failures of its two terms.",
+    "kill_condition": "Exhibit a single-controller architecture — closure alone, marking alone, or a third unified principle — that secures no escape, no exemption, anti-totalization, and anti-regress without the coupling.",
+    "tests": []
+  },
+  {
+    "component": "semantic-natural-selection",
+    "claim_type": "CV",
+    "valid_attack": "A counter-instance whose survival needs no selective elimination, a cleaner carving of the same accumulation, a showing that the model predicts nothing beyond generic iteration, or a showing that the criteria cannot be separated.",
+    "invalid_attacks": [],
+    "regulator": [
+      "semantic-closure-and-recursive-marking",
+      "alethic-axis",
+      "two-mark-system",
+      "causal-falsifiability"
+    ],
+    "isolation_failure": "Alone it degrades into social-selectionism — survival read as truth, popularity as validity — the Spectre absolutization the coupling forbids.",
+    "kill_condition": "The selection model adds no explanatory or predictive power beyond generic iteration, or its criteria cannot be separated.",
+    "tests": []
+  },
+  {
+    "component": "semantic-transformer",
+    "claim_type": "CV",
+    "valid_attack": "Show that the definition's clauses exclude no state transition, so 'semantic transformer' adds no constraint beyond 'something changes something.",
+    "invalid_attacks": [],
+    "regulator": [
+      "meaning-maker",
+      "one-generator-many-domains",
+      "matter-meaning-cycle",
+      "same-level-attack-rule",
+      "two-mark-system"
+    ],
+    "isolation_failure": "Cut from the meaning-maker's recursive-regulation constraint and the typed instantiation criteria, the term over-includes and every physical transition counts as a semantic transformation.",
+    "kill_condition": "No operational distinction can be drawn between semantic transformation and arbitrary physical transition.",
+    "tests": []
+  },
+  {
+    "component": "strengthening-without-absolutization",
+    "claim_type": "CV",
+    "valid_attack": "Exhibit a warranted strengthening whose reversal is a genuine category error rather than a suppressed option, or show that strengthening a relation cannot be operationally separated from promoting its wording, authority, or implementation.",
+    "invalid_attacks": [],
+    "regulator": [
+      "self-application",
+      "outcomes-of-attack",
+      "kill-table"
+    ],
+    "isolation_failure": "Strengthening without the demotion constraint becomes an absolutizing ratchet; the demotion constraint without a strengthening channel freezes every claim at its most timid tier.",
+    "kill_condition": "Show that strengthening functions as a one-way ratchet in which deletion and demotion are no longer possible.",
+    "tests": []
+  },
+  {
+    "component": "symbolic-is-not-linguistic",
+    "claim_type": "FT",
+    "valid_attack": "Exhibit a purported symbolic process that makes no interpretable difference to any possible system behavior or continuation.",
+    "invalid_attacks": [],
+    "regulator": [
+      "meaning-maker",
+      "semantic-transformer",
+      "same-level-attack-rule"
+    ],
+    "isolation_failure": "Without the significance-versus-causation boundary it widens into pan-symbolism; without this widening the boundary contracts into linguistic parochialism that re-privileges one carrier.",
+    "kill_condition": "The definition admits all physical difference and so can no longer distinguish significance from mere causation.",
+    "tests": []
+  },
+  {
+    "component": "system-invariants",
+    "claim_type": "Exposition",
+    "valid_attack": "Show the list is over- or under-inclusive: a listed row whose removal costs no regulated function, or a load-bearing relation the framework depends on that is missing from it.",
+    "invalid_attacks": [],
+    "regulator": [
+      "self-application",
+      "postfalsifiability",
+      "outcomes-of-attack",
+      "self-sealing-test",
+      "two-mark-system"
+    ],
+    "isolation_failure": "Read alone as a Forced or founded tier, the checklist becomes an exempt canon (the Textual Nephilim) instead of a marked, reopenable index.",
+    "kill_condition": "A rewrite satisfies every listed invariant yet demonstrably loses a regulated function, or a listed invariant can be deleted with no loss.",
+    "tests": []
+  },
+  {
+    "component": "term-as-operator",
+    "claim_type": "CV",
+    "valid_attack": "A flagship term is replaced by an ordinary synonym with no loss of any transformation, output, or prohibited collapse.",
+    "invalid_attacks": [],
+    "regulator": [
+      "self-sealing-test",
+      "derived",
+      "semantic-closure-and-recursive-marking"
+    ],
+    "isolation_failure": "Operator-status without the substitution test inflates every coinage into unearned authority; the substitution test without operator-status flattens genuine constraints into dismissible jargon.",
+    "kill_condition": "The page cannot state, for its own flagship terms, any use that survives synonym substitution beyond naming a topic.",
+    "tests": []
+  },
+  {
+    "component": "totalization-boundary",
+    "claim_type": "CV",
+    "valid_attack": "exhibit a system meeting every listed indicator that nonetheless remains revisable by consequences it does not control, showing the indicator set does not track the property it names.",
+    "invalid_attacks": [],
+    "regulator": [
+      "effective-and-ornamental-answerability",
+      "capture-of-corrective-layer",
+      "semantic-closure-and-recursive-marking",
+      "same-level-attack-rule"
+    ],
+    "isolation_failure": "without effective-marking criteria the boundary decays into a moral epithet; without genuine closure it demands an extra-symbolic tribunal the frame denies exists.",
+    "kill_condition": "the boundary reduces to a moral label with no operational criteria distinguishing a totalized system from a merely large or authoritative one.",
+    "tests": []
+  },
+  {
+    "component": "transparentocracy-as-cross-regulation",
+    "claim_type": "Mixed",
+    "valid_attack": "exhibit governance that stays stable and genuinely open while permanently failing traceability, auditability, and answerability",
+    "invalid_attacks": [],
+    "regulator": [
+      "capture-of-corrective-layer",
+      "totalization-boundary",
+      "effective-and-ornamental-answerability",
+      "causal-error-mark"
+    ],
+    "isolation_failure": "authority without correction totalizes; correction without the shared field claims a view from nowhere or regresses",
+    "kill_condition": "Transparentocracy is reducible to information disclosure with no causal-corrective channel, so answerability does no regulative work",
+    "tests": []
+  },
+  {
+    "component": "ultimental-kernel",
+    "claim_type": "CV",
+    "valid_attack": "exhibit two materially incompatible reconstructions from the same ten items, a shorter dependency-complete core, or an indispensable relation not derivable from the list",
+    "invalid_attacks": [],
+    "regulator": [
+      "compression-without-false-closure",
+      "minimal-rebuild-string",
+      "decompression-map",
+      "system-invariants",
+      "two-mark-system",
+      "strengthening-without-absolutization"
+    ],
+    "isolation_failure": "kernel without decompression tests becomes an oracular creed; the exposition without a kernel becomes accretion with no architecture",
+    "kill_condition": "remove an item without losing reconstruction fidelity, or exhibit an indispensable relation not derivable from the list",
+    "tests": []
+  }
+]

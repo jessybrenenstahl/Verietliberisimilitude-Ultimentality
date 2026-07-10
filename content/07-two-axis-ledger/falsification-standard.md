@@ -26,6 +26,21 @@ The falsification standard is the operational form of the framework's deepest co
 - Treating silent tier-promotion or "forced/foundational" stamping as a minor style slip. They are *breakages* of the framework — the textual Nephilim.
 - Imagining the 2026 run overrules the benchmark. The run operates *under* the open proof-burden; it exhibits counter-instances, it does not impose them.
 
+## What a valid attack must satisfy
+
+The three gates decide *admission*; a further discipline governs *refutation itself*, so the standard cannot be dodged by a well-aimed objection landing in the wrong place, nor by a missed objection being laundered into support. An attack counts against a load-bearing claim only when it meets all eight of the following, and an admitted claim survives only until one of them is met:
+
+1. **The attack type matches the claim type.** A frame condition is contested by frame declension or internal incoherence; a carving or count by counter-instance or a better carving; a binding by a wrong actuator, error, or causal effect; a coupled controller by a removal test. Pairing attack to claim is what [[attack-type-matching|attack-type matching]] tabulates.
+2. **The attack occurs at the same abstraction level.** A process offered against an operator, a substrate against a function, a token against a type, does not reach the claim — the [[same-level-attack-rule|same-level attack rule]].
+3. **The target formulation is explicit.** The attacker names the exact sentence, notation, or relation under fire, so that what would change is unambiguous.
+4. **A possible causal effect is defined.** The attack states what it would revise, inhibit, delete, retype, or demote; an objection that could alter nothing is a display, not a falsifier — the demand of [[causal-falsifiability|causal falsifiability]].
+5. **The outcome is classified as deletion, revision, retyping, or invariant recognition.** Every resolution is logged as one of these, never as an unlabeled "win" — the [[outcomes-of-attack|outcomes of attack]].
+6. **Frame declension is not misreported as internal refutation.** Declining the vocabulary, costs, or purposes of a claim is a legitimate move, but it is not a defeat of the claim on its own terms and may not be dressed as one.
+7. **A failed attack is not automatically counted as confirmation.** A refutation that does not land is logged as a failed attack and nothing more; the framework never converts an objection's mere occurrence into evidence for the thing objected to, and never launders un-refuted-so-far into "confirmed."
+8. **Surviving claims remain reopenable.** Passing this standard buys standing, not exemption: a survivor keeps its live kill-condition on the [[kill-table|kill-table]], and the whole discipline is what [[postfalsifiability|postfalsifiability]] accumulates across repeated cycles of attempted destruction and correction.
+
+This expansion is itself [[derived|Derived]], held contestable at the [[carving-tier|carving tier]]: a shorter list, or a demonstration that one requirement collapses into another, would revise it.
+
 ## Open question: is the apparatus an exempt level?
 
 This page describes the apparatus as "a gate that enforces the marks, **not a marked row of its own**" — one that "makes no claim of its own." [[self-application|Self-application]] holds that the apparatus admits **no exempt level**: every claim, including *that contestability should govern*, is itself marked and contestable. These two statements stand in genuine tension, and the framework's own discipline forbids closing it from inside. Two readings are live: **(1)** "enforces but is not a row" is a harmless *type/level* remark (a scoreboard is not a player), leaving the gate contestable at the meta-level — self-application holds without remainder; or **(2)** a gate that "makes no claim of its own" is doing what no other claim may, and that asymmetry is a real exempt level not yet absorbed. The reconciliation is **Open**, pending the controlling authority. See [[self-application|Self-Application]].
@@ -42,3 +57,8 @@ This page describes the apparatus as "a gate that enforces the marks, **not a ma
 - [[textual-nephilim|The Textual Nephilim]] — the breakage the gates forbid.
 - [[keystone|The Keystone]] — the standing the gate secures.
 - [[self-application|Self-Application]] — the no-exempt-level principle and the open exempt-level question.
+- [[attack-type-matching|Attack-Type Matching]] — the table pairing each claim type with its valid attack.
+- [[same-level-attack-rule|The Same-Level Attack Rule]] — an attack must land at the claim's own type and abstraction level.
+- [[causal-falsifiability|Causal Falsifiability]] — a falsifier counts only when it can change the target.
+- [[outcomes-of-attack|The Outcomes of Attack]] — the four dispositions every resolution is logged as.
+- [[postfalsifiability|Postfalsifiability]] — the standing accumulated across repeated cycles of destruction and correction.

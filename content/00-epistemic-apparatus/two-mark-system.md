@@ -37,9 +37,13 @@ The two-mark system is the engine room of the framework's whole epistemic discip
 - Thinking the two marks predict each other. They do not; the columns are independent by design (see [[two-axis-ledger|the two-axis ledger]]).
 - Treating glosses as ordinary marked claims. They are the sole exception: they inherit accuracy, never assert it.
 
-## Open question: is the apparatus an exempt level?
+## No exempt level: closure and marking cross-regulate
 
-This page describes the apparatus as "a gate that enforces the marks, **not a marked row of its own**" — one that "makes no claim of its own." [[self-application|Self-application]] holds that the apparatus admits **no exempt level**: every claim, including *that contestability should govern*, is itself marked and contestable. These two statements stand in genuine tension, and the framework's own discipline forbids closing it from inside. Two readings are live: **(1)** "enforces but is not a row" is a harmless *type/level* remark (a scoreboard is not a player), leaving the gate contestable at the meta-level — self-application holds without remainder; or **(2)** a gate that "makes no claim of its own" is doing what no other claim may, and that asymmetry is a real exempt level not yet absorbed. The reconciliation is **Open**, pending the controlling authority. See [[self-application|Self-Application]].
+The reconciliation once posed here is resolved by the apparatus's own architecture. The two-mark system *as operation* — the recurring act of assigning E and A to a claim — is not identical to any one marked row; asking "what mark does the marking bear?" is a type remark (a scoreboard is not a player), not the discovery of an unmarked claim. But every *content-bearing statement about* the apparatus — that contestability should govern, that E and A never predict each other, that glosses inherit rather than assert — is itself a load-bearing claim, and every such claim takes both marks like any other. So [[self-application|self-application]] holds without remainder: there is no row the discipline exempts, its own descriptions of itself included.
+
+Self-application here does **not** require an external meta-apparatus to mark the marker from some higher vantage — that demand *is* the regress the framework refuses. The two principles the apparatus rests on hold each other in check instead. [[semantic-closure-and-recursive-marking|Semantic closure]] blocks escape into an imagined outside judge: there is no extra-symbolic tribunal from which the apparatus could be certified or condemned, so "who marks the marker?" has no exit into an unmarked outside. [[semantic-closure-and-recursive-marking|Recursive marking]] blocks the opposite failure: no finite formulation of the apparatus is permitted to exempt its own formulations, because marking reapplies to whatever states how marking works. This is [[no-escape-no-exemption|no escape, no exemption]] read at the level of the apparatus itself.
+
+What the coupling yields is a [[dynamic-fixed-point|dynamic fixed point]], not static self-approval — a stance the apparatus re-earns each time it applies its own marks to itself, rather than a verdict it issues once and steps outside of. The apparatus is thereby [[self-verifying-not-self-certifying|self-verifying, not self-certifying]]: it keeps every one of its own claims inside the same correctable field it applies to everything else, which is exactly why nothing here is settled by an unmarked decree.
 
 > **Formal status.** *Preamble (Part 0a).* Exposition / structural rule — the two-mark system is the *convention* by which load-bearing claims receive their E and A marks; it is not itself a marked world-claim. (Glosses are its named exception: they inherit, never assert, an alethic mark.)
 > Provenance: **canonical** — the two-mark marking discipline the benchmark requires.
@@ -52,4 +56,8 @@ This page describes the apparatus as "a gate that enforces the marks, **not a ma
 - [[human-gloss|The Human Gloss]] — the named exception that inherits rather than asserts a mark.
 - [[semblance|Semblance (not possession)]] — what every alethic mark ultimately aspires to.
 - [[kill-table|The Kill-Table]] — what would refute each claim on each axis.
-- [[self-application|Self-Application]] — the no-exempt-level principle this open question belongs to.
+- [[self-application|Self-Application]] — the no-exempt-level principle the resolution above rests on.
+- [[no-escape-no-exemption|No Escape, No Exemption]] — the coupled principle read at the level of the apparatus itself.
+- [[semantic-closure-and-recursive-marking|Semantic Closure and Recursive Marking]] — closure blocks the escape, marking blocks the exemption.
+- [[dynamic-fixed-point|Dynamic Fixed Point]] — what the coupling settles into, not static self-approval.
+- [[self-verifying-not-self-certifying|Self-Verifying, Not Self-Certifying]] — the apparatus keeps its own claims correctable rather than certifying itself.

@@ -1,0 +1,120 @@
+[
+  {
+    "name": "First reconstruction",
+    "path": [
+      "one-page-reconstruction",
+      "axiom",
+      "no-escape-no-exemption",
+      "directional-primitives",
+      "predicate-binding",
+      "force",
+      "splcw",
+      "telos"
+    ],
+    "prerequisites": [],
+    "outcome": "a working mental model of the whole architecture",
+    "skippable": []
+  },
+  {
+    "name": "Epistemic apparatus",
+    "path": [
+      "derived",
+      "contestability-gradient",
+      "alethic-axis",
+      "two-mark-system",
+      "semantic-closure-and-recursive-marking",
+      "self-application",
+      "postfalsifiability"
+    ],
+    "prerequisites": [],
+    "outcome": "how every claim is held and corrected",
+    "skippable": [
+      "alethic-axis"
+    ]
+  },
+  {
+    "name": "Formal and control-theoretic",
+    "path": [
+      "directional-primitives",
+      "selection-axis",
+      "routing-axis",
+      "predicate-binding",
+      "regulated-error-signal",
+      "force",
+      "coupling-graph"
+    ],
+    "prerequisites": [
+      "directional-primitives"
+    ],
+    "outcome": "the control-theoretic spine of the emotion model",
+    "skippable": []
+  },
+  {
+    "name": "Meaning-maker scope",
+    "path": [
+      "meaning-maker",
+      "symbolic-is-not-linguistic",
+      "causal-source-and-experiential-format",
+      "identity-across-substrates",
+      "participant-as-process"
+    ],
+    "prerequisites": [],
+    "outcome": "the substrate-neutral unit of participation and its identity levels",
+    "skippable": []
+  },
+  {
+    "name": "Correction and governance",
+    "path": [
+      "causal-error-mark",
+      "effective-and-ornamental-answerability",
+      "capture-of-corrective-layer",
+      "transparentocracy-as-cross-regulation",
+      "totalization-boundary"
+    ],
+    "prerequisites": [],
+    "outcome": "when correction is real and when it is captured",
+    "skippable": []
+  },
+  {
+    "name": "Continuity",
+    "path": [
+      "continuable-structure",
+      "continuity",
+      "symbolic-immortality",
+      "continuation-and-colonization",
+      "responsible-successor"
+    ],
+    "prerequisites": [],
+    "outcome": "answerable succession vs colonization",
+    "skippable": []
+  },
+  {
+    "name": "Adversarial testing",
+    "path": [
+      "attack-type-matching",
+      "same-level-attack-rule",
+      "causal-falsifiability",
+      "self-sealing-test",
+      "attack-surface-matrix"
+    ],
+    "prerequisites": [],
+    "outcome": "how to run a valid attack and log its outcome",
+    "skippable": []
+  },
+  {
+    "name": "Implementation",
+    "path": [
+      "system-invariants",
+      "decompression-map",
+      "coupling-graph",
+      "interaction-matrix",
+      "prohibited-collapses",
+      "category-error-atlas"
+    ],
+    "prerequisites": [
+      "one-page-reconstruction"
+    ],
+    "outcome": "what must survive every rewrite and where the relations live",
+    "skippable": []
+  }
+]

@@ -4,7 +4,13 @@
 
 This wiki gives one page to every term, topic, and component of Ultimentality (Two-Axis Edition). Each page is faithful to the source treatise — nothing load-bearing dropped, nothing silently added — and every load-bearing claim carries its two marks: **E** (epistemic: *Derived*, at a contestability tier) and **A** (alethic: mapping-accuracy aspiration). A set of explicitly **treatise-side extension** pages develops the framework beyond the restatement; each is flagged as such in its Formal status and held contestable.
 
-**Start here:** [[axiom|The Axiom]] → [[derived|Derived]] → [[two-mark-system|The Two-Mark System]] → [[vls|VLS]] → [[directional-primitives|The Directional Primitives]] → [[force|Force]] → [[splcw|SPLCW]] → [[theodicytes|The Theodicytes]] → [[telos|The Telos]].
+> Ultimentality is absolute semantic participation coupled to recursive answerability: nothing stands outside meaning, and no meaningful formulation stands outside correction.
+
+> The condition is unavoidable within the frame. Every statement of the condition remains Derived, marked, and mortal.
+
+**Start here:** [[one-page-reconstruction|Ultimentality in One Page]] → [[axiom|The Axiom]] → [[derived|Derived]] → [[two-mark-system|The Two-Mark System]] → [[no-escape-no-exemption|No Escape, No Exemption]] → [[semantic-closure-and-recursive-marking|Semantic Closure and Recursive Marking]] → [[directional-primitives|The Directional Primitives]] → [[predicate-binding|Predicate Binding]] → [[force|Force]] → [[splcw|SPLCW]] → [[theodicytes|The Theodicytes]] → [[telos|The Telos]] → [[postfalsifiability|Postfalsifiability]].
+
+**System Reference:** [[system-invariants|System Invariants]] · [[attack-surface-matrix|The Attack-Surface Matrix]] · [[coupling-graph|The Coupling Graph]] · [[interaction-matrix|The Interaction Matrix]] · [[prohibited-collapses|The Prohibited Collapses]] · [[category-error-atlas|The Category-Error Atlas]] · [[reader-paths|Reader Paths]]
 
 ---
 
@@ -28,6 +34,23 @@ The whole edition is governed by one posture: every claim is **Derived**, held a
 - [[the-2026-adversarial-run|The 2026 Adversarial Run]]
 - [[provenance-as-testimony|Provenance as Testimony]]
 - [[coalescence-by-non-contradictory-fit|Coalescence-by-Non-Contradictory-Fit]]
+
+## Structural Interlocks
+
+The coupled foundation. Semantic closure prevents escape into an imagined extra-symbolic tribunal; recursive marking prevents any finite formulation of closure from becoming exempt or total. The answer to the attack surface of either principle is the attack surface of the other.
+
+- [[no-escape-no-exemption|No Escape, No Exemption]]
+- [[semantic-closure-and-recursive-marking|Semantic Closure and Recursive Marking]]
+- [[reciprocal-attack-surfaces|Reciprocal Attack Surfaces]]
+- [[necessary-seam|The Necessary Seam]]
+- [[cross-regulated-necessity|Cross-Regulated Necessity]]
+- [[frame-condition-and-formulation|Frame Condition and Formulation]]
+- [[constitutive-medium-and-mortal-message|The Constitutive Medium and the Mortal Message]]
+- [[closure-without-totalization|Closure Without Totalization]]
+- [[correction-without-regress|Correction Without Regress]]
+- [[dynamic-fixed-point|The Dynamic Fixed Point]]
+- [[self-verifying-not-self-certifying|Self-Verifying, Not Self-Certifying]]
+- [[strengthening-without-absolutization|Strengthening Without Absolutization]]
 
 ## I. The Axiom & VLS
 
@@ -57,6 +80,23 @@ The whole edition is governed by one posture: every claim is **Derived**, held a
 - The four cornerstone bindings: [[love|Love]] · [[fear|Fear]] · [[apology|Apology]] · [[gratitude|Gratitude]]
 - [[conceptual-derivatives|Conceptual Derivatives]]
 - [[cardinal-error|The Cardinal Error]]
+
+## Meaning, Substrate, and Identity
+
+Substrate-neutral units of participation, and the levels at which identity is preserved or lost. Meaning is weight in operation, not a possessed substance; the symbolic is not the merely linguistic; a returned consequence can constrain precisely because it is not fully authored by its receiver.
+
+- [[meaning-maker|The Meaning-Maker]]
+- [[meaning-as-weight|Meaning as Weight]]
+- [[occurrent-and-sedimented-meaning|Occurrent Meaning and Sedimented Meaning]]
+- [[symbolic-is-not-linguistic|Symbolic Is Not Linguistic]]
+- [[externality-without-extra-symbolic-access|Externality Without Extra-Symbolic Access]]
+- [[causal-source-and-experiential-format|Causal Source and Experiential Format]]
+- [[qualia-as-narrative-compression|Qualia as Narrative Compression]]
+- [[emotion-as-regulated-binding|Emotion as Regulated Binding]]
+- [[identity-across-substrates|Identity Across Substrates]]
+- [[participant-as-process|The Participant as Process]]
+- [[semantic-transformer|The Semantic Transformer]]
+- [[recursive-self-specification|Recursive Self-Specification]]
 
 ## III. The Two Forces
 
@@ -100,6 +140,19 @@ The whole edition is governed by one posture: every claim is **Derived**, held a
 - [[matter-meaning-cycle|The Matter–Meaning Cycle]] · [[why-how-inversion|The Why/How Inversion]] *(treatise-side)*
 - [[mathematics|Mathematics]] *(treatise-side)*
 
+## Answerability and Anti-Capture
+
+An error mark counts only where it can regulate what it marks; answerability is effective, not ornamental, only when a returned consequence can actually change the governed process. Continuation stays within the Telos only where successors retain the causal capacity to differ, correct, and refuse.
+
+- [[causal-error-mark|The Error Mark With Causal Force]]
+- [[effective-and-ornamental-answerability|Effective and Ornamental Answerability]]
+- [[capture-of-corrective-layer|Capture of the Corrective Layer]]
+- [[totalization-boundary|The Totalization Boundary]]
+- [[continuation-and-colonization|Continuation and Colonization]]
+- [[responsible-successor|The Responsible Successor]]
+- [[transparentocracy-as-cross-regulation|Transparentocracy as Cross-Regulation]]
+- [[refusal-as-participation|Refusal as Participation]]
+
 ## VII. The Two-Axis Ledger
 
 - [[two-axis-ledger|The Two-Axis Ledger]]
@@ -107,6 +160,48 @@ The whole edition is governed by one posture: every claim is **Derived**, held a
 - [[falsification-standard|The Falsification Standard (the threefold gate)]]
 - [[kill-table|The Kill-Table]]
 - [[self-application|Self-Application]] *(treatise-side)*
+
+## Postfalsifiability and Crystallization
+
+What survives attack, and how high structural compression after repeated falsification differs from mere persistence. A crystal remains answerable under pressure; a fossil only preserves a dead form. A failed attack is logged as a failed attack — never as confirmation.
+
+- [[postfalsifiability|Postfalsifiability]]
+- [[outcomes-of-attack|The Outcomes of Attack]]
+- [[crystallization|Crystallization]]
+- [[semantic-natural-selection|Semantic Natural Selection]]
+- [[negative-information|Negative Information]]
+- [[scar-record|The Scar Record]]
+- [[same-level-attack-rule|The Same-Level Attack Rule]]
+- [[attack-type-matching|Attack-Type Matching]]
+- [[refutation-and-frame-declension|Refutation and Frame Declension]]
+- [[causal-falsifiability|Causal Falsifiability]]
+- [[self-sealing-test|The Self-Sealing Test]]
+- [[attack-surface-matrix|The Attack-Surface Matrix]]
+
+## Hypercompression and Reconstruction
+
+Why an apparently broad framework need not be a loose aggregation of doctrines: a small generative kernel whose repeated, typed decompression regenerates the explanatory surface — carried as much by constraints against invalid reconstructions as by surviving statements.
+
+- [[hypercompression|Hypercompression]]
+- [[ultimental-kernel|The Ultimental Kernel]]
+- [[minimal-rebuild-string|The Minimal Rebuild String]]
+- [[decompression-map|The Decompression Map]]
+- [[one-generator-many-domains|One Generator, Many Domains]]
+- [[description-length-and-explanatory-surface|Description Length and Explanatory Surface]]
+- [[term-as-operator|The Term as Operator]]
+- [[compression-without-false-closure|Compression Without False Closure]]
+
+## Synthesis and Navigation
+
+The implementation reference: what must survive every rewrite, the relation graphs and matrices, the prohibited collapses and category errors, and the ordered reader paths.
+
+- [[system-invariants|System Invariants]]
+- [[coupling-graph|The Coupling Graph]]
+- [[interaction-matrix|The Interaction Matrix]]
+- [[prohibited-collapses|The Prohibited Collapses]]
+- [[category-error-atlas|The Category-Error Atlas]]
+- [[one-page-reconstruction|Ultimentality in One Page]]
+- [[reader-paths|Reader Paths]]
 
 ---
 
