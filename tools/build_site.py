@@ -329,7 +329,8 @@ def main():
     for dirpath, _dirs, files in os.walk(SRC):
         for fn in files:
             if fn.endswith(".md"):
-                shutil.copy(os.path.join(dirpath, fn), os.path.join(relics, fn))
+                txt = open(os.path.join(dirpath, fn), encoding="utf-8").read()
+                open(os.path.join(relics, fn), "w", encoding="utf-8").write(FRONT_MATTER.sub("", txt, count=1))
     # monolithic single-file corpus
     open(os.path.join(OUT, "ultimentality-wiki-complete.md"), "w", encoding="utf-8").write(
         build_monolith(pages, nav))
@@ -340,7 +341,8 @@ def main():
                 if fn.endswith(".md"):
                     full = os.path.join(dirpath, fn)
                     rel = os.path.relpath(full, SRC)
-                    z.write(full, arcname=os.path.join("ultimentality-wiki", rel))
+                    txt = FRONT_MATTER.sub("", open(full, encoding="utf-8").read(), count=1)
+                    z.writestr(os.path.join("ultimentality-wiki", rel), txt)
     print(f"built {len(pages)} pages -> {OUT}")
     print("files:", len([f for f in os.listdir(OUT) if f.endswith('.html')]), "html")
 
