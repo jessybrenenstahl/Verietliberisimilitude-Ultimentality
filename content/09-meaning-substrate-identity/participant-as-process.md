@@ -43,6 +43,8 @@ Process identity is thereby *robust without being a substance*. To deny the poss
 
 The claim regulates the **reification excess**: the standing pull to posit a substance-self — an indivisible owner, subject, or possessor located *behind* the regulating operations and surviving independently of them. It converts that posit into a testable relation: whatever is called "the participant" must show up as continuity of regulation and inherited consequence, or it is not there. It also regulates the **misuse of the identity token** — the inference from "I" to a single, partless bearer — by demanding that unity be *earned* with causal criteria rather than assumed from grammar. The pronoun compresses a process; it does not underwrite an owner.
 
+It also regulates a **plurality excess** that appears in multi-participant applications: the reduction of other participants to the focal participant's *environment*. A process may appear as a returned consequence inside another participant's access while remaining an independently bounded participant in its own right — **perspective-relative appearance as feedback is not an ontological demotion into mere environment**. This does not require every single-perspective model to fully model every other participant; it requires only that the omission remain **marked as omission**, never mistaken for the others' non-existence as participants.
+
 ## What regulates it
 
 Left alone, "the participant is only a process" slides into its own excess — **eliminative dissolution**, the reading that boundaries are unreal, arbitrary, or morally weightless. Several couplers hold that excess down:
@@ -76,6 +78,7 @@ The claim dies if **its criteria cannot distinguish one process from several coo
 - **"One process may span several carriers" ⇒ carrier differences do not matter.** Capacity profile still differs; type identity does not erase it ([[identity-across-substrates|identity across substrates]]).
 - **Robust process identity ⇒ a new unmarked, exempt bearer.** Any reified, revision-proof core would be an [[absolutization|absolutization]]; the participant stays Derived and mortal.
 - **Process = mere flux with no boundary.** Also prohibited — that is the eliminative excess the causal-continuity regulators bound; a process here is *bounded* continuity, not undifferentiated change.
+- **Appears as feedback to P ⇒ merely environmental relative to every participant.** No — a process that shows up as another's returned consequence is not thereby demoted from participant to environment; its own bounded continuity is untouched by how it figures in someone else's access.
 
 ## See also
 

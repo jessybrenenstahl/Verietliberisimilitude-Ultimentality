@@ -2,6 +2,16 @@
 
 All notable changes to this project are documented here. The format loosely follows [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.3.0] — 2026-07-06
+
+### Added
+- **The Fifteen-Interlocutor Adversarial Run** (`the-fifteen-interlocutor-adversarial-run`) — a run-side / exposition ledger recording a second red-team exercise *faithfully*: the exact target, attack type, and outcome (landed / unresolved / frame declension) for each of fifteen interlocutors, the owning page of every resulting edit, and the five proposed additions **rejected** as unearned (*Generative Volition, Operative Marking, Postfalsifiability Coverage Ledger, Structural Reconstruction and Participatory Uptake, Attentive Withholding*). It is not canon, not a higher court, and is adopted only under the benchmark's open proof-burden. It is the sole new page in this iteration.
+- **8 new prohibited collapses**, each bridged to an existing owner: `coupling != symmetry`, `structural reconstruction != enacted participation`, `mechanical replay != generative transformation`, `random variation != volition`, `capacity for innovation != compulsory novelty`, `perspective-relative consequence != merely environmental process`, `revised formulation != revised governing operation`, `originating a form != possessing its return`.
+
+### Changed
+- **~28 existing pages revised** to absorb the run's landed consequences through their existing owners — with **no new primitive, SPLCW role, or affective Force**. The generative/volitionary operation is made explicit (system-commitments, capability-rule, semantic-transformer, poet, sculptor, operator-chain, matter-meaning-cycle, free-wont, sterility); nonpropositional governance is sharpened — *revising the account of a weight is not revising the weight* (meaning-as-weight, causal-error-mark, effective-and-ornamental-answerability, capture-of-corrective-layer); participant plurality is clarified (participant-as-process, identity-across-substrates, transparentocracy-as-cross-regulation, refusal-as-participation); postfalsifiability now distinguishes property from executable coverage (postfalsifiability, attack-surface-matrix); ⊕ directionality is stated (force, reconciliation, sequential-gating); and reconstruction is held apart from enactment (minimal-rebuild-string, recursive-self-specification, term-as-operator, reader-paths).
+- **Corpus is now 159 pages.**
+
 ## [1.2.0] — 2026-07-06
 
 ### Added

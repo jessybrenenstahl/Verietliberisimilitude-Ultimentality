@@ -10,6 +10,10 @@ The Poet is a transducer — a converter between two media. The [[logician|Logic
 
 In the [[operator-chain|operator chain]] the Poet receives ordered meaning from the [[logician|Logician]] and hands forward to the [[sculptor|Sculptor]]: the Poet can make meaning resonant but cannot make it *consequential* — cannot, by itself, leave a trace in the world. Resonance still has to be acted.
 
+The Poet does **not** merely package a completed Logician output. Transduction is itself productive: the Poet can configure relations into a communicable form that was not previously available in that arrangement — the image that first makes a structure sayable, the figure that lets one self carry it to another. This is where the framework's generativity passes through the fourth faculty. But the guard is immediate and load-bearing: **novel configuration is not automatically truthful, useful, or answerable.** A form can be freshly made and still fasten to a lie — which is exactly why the answerability that judges it is *external* (below), and why the Poet's own standing danger is aesthetic fog.
+
+One clarification the transducer image must not flatten: the Poet is not a packaging department. It does not merely wrap a completed Logician output for shipping; transduction can *configure* — bring relations into a communicable form that was not previously available in that arrangement. The image
+
 ## Answerability — and its external check
 
 The Poet carries the framework's **answerability** dimension: it is the faculty that *answers* for what it makes. But answerability has a structural twist that runs deep in the corpus. It *cannot be self-supplied from inside the five*. The one who can be asked "did you fasten truly, or did you fasten to a lie?" stands outside — see [[witness-outside-the-ring|the Witness Outside the Ring]]. The Poet's task is to be answerable; the *seat* from which answerability is certified is not the Poet's to occupy. Taking that seat — certifying one's own symbols from inside — is not poetry but the [[nephilim|Nephilim]].

@@ -51,6 +51,8 @@ effect: could it alter the controller's state or output?
 
 A system can pass recording and fail routing: the objection sits in an archive no decision ever reads. It can pass routing and fail effect: the objection reaches the controller, which has no state the objection can change. Because the levels are independent, a claim of "we are answerable" acquires an *address* — the level at which it is true and the level at which it fails. This is why answerability must not be inferred from transparency alone: visibility discharges at most the first level, and a fully inspectable process can be fully immune.
 
+Concretely, and often: a system may record and answer criticism *in language* — publish a reply, revise its stated rationale, log and even amplify the objection — while preserving the same operative **defaults and routes** ([[meaning-as-weight|the governing weights]]) that produced the criticized result. That is ornamental relative to the governing operation, however fluent the response, because the *effect* level — could the objection alter the controller's state or output? — is exactly where a prose-only answer fails ([[causal-error-mark|a wording change cannot discharge an attack on an operative relation]]).
+
 ## What regulates it
 
 [[causal-error-mark|The error mark with causal force]] regulates this page from below. It supplies the minimum pathway — detected, preserved, routed, able to change the governing formulation, recorded with residue — that makes the *effect* test something other than a rhetorical flourish. Without that pathway there is no operational content to "could it alter the controller"; the effective/ornamental split would be name-calling dressed as diagnosis.

@@ -79,6 +79,18 @@ Postfalsifiability is held in check by the apparatus that prevents it from becom
 - **[[scar-record|The scar record]]** keeps the defeats inspectable, so that "compressed residue" refers to something exhibitable rather than merely asserted.
 - **Recursive marking** — the [[semantic-closure-and-recursive-marking|closure–marking]] coupling — keeps *this* page Derived and CV, so postfalsifiability cannot exempt its own formulation.
 
+## Property versus executable coverage
+
+Postfalsifiability names a **property** and a **standard**, not a certificate of test coverage. Whether every current attack surface is *executable, causally wired, and regression-proven* is a **separate implementation claim**, and the two must not be read off each other:
+
+```text
+articulated kill condition     != runnable test
+runnable test                  != causally effective update path
+causally effective update path != truth certificate
+```
+
+A page can state a live kill condition (articulated) without that condition yet being a runnable fixture; a runnable fixture can pass without being wired to a governing update path; and even a causally effective update path certifies *correction*, never *truth*. Executable coverage is tracked in repository tooling and the [[attack-surface-matrix|attack-surface matrix]]'s regression column — not asserted here. A gap in coverage is a gap in **implementation**, not evidence that the property fails; and no amount of passing coverage promotes a surviving invariant out of [[derived|Derived]].
+
 ## Valid attack surface
 
 Legitimate attacks target the carving or its earning, at its own level:

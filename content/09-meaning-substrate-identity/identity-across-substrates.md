@@ -54,6 +54,8 @@ It holds two opposed excesses apart at once.
 
 It also regulates **token/type confusion** (a distinct occurrence offered as a distinct type) and keeps the [[prohibited-collapses|prohibited collapses]] `substrate difference != type difference` and `functional identity != equal capacity` from fusing.
 
+It further regulates an **identity-merger excess** at the multi-participant level: functional identity does not erase participant *independence*. Multiple participants can instantiate similar functions and remain distinct participants, and a process's **appearing inside another system's causal model does not merge their identities** — being modeled by another is not being absorbed into it. Type-sameness is a fact about the operation, not a licence to fuse the [[participant-as-process|processes]] that run it.
+
 ## What regulates it
 
 - The [[same-level-attack-rule]] fixes the level at which the identity claim may be contested. A valid counter must meet the type at the operator level, not swap in a substrate fact or a token count.
@@ -90,6 +92,7 @@ The type is so thin that every difference is relegated to substrate, making the 
 - **Reading token difference as type difference.** Two runs of one operation are two tokens, not two types.
 - **Treating the four levels as forced.** They are a [[carving-tier|CV carving]]; a better decomposition would replace them. Promoting the count toward exempt or foundational status is the misreading the framework guards against most sharply.
 - **Smuggling a possessor behind the process.** Identity here is [[participant-as-process|process identity]], not a substance the carrier houses.
+- **Same function, or modeled-by-another, ⇒ same participant.** Two participants can run one type and remain two; a process appearing inside another's causal model is not thereby merged with it.
 
 ## See also
 

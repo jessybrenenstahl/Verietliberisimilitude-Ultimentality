@@ -45,6 +45,8 @@ This is the failure named by [[effective-and-ornamental-answerability|effective 
 
 A "no" on 1–4, or a "yes" on 5, marks leverage passing to the target. Independence is not established by multiplicity or physical separation alone: two bodies on one leash is still one hand. The operative issue is retained causal leverage, not headcount.
 
+One capture mode deserves naming because it hides *inside* apparent openness: **the governed layer permits unlimited revision of its explicit account while retaining control of the weights, thresholds, or routes that reproduce the same result.** Every stated rationale is up for revision; the operative [[meaning-as-weight|disposition]] that actually governs is never on the table. This passes recording and routing lavishly — the system looks maximally answerable, even self-critical — and fails *effect* precisely where the governing weight lives, so the volume of account-level change it displays is no evidence against capture. (The legitimate-integration counterweight below still holds: a process that revises the *governing disposition* under correction is integrating, not capturing.)
+
 ## Type and formal status
 
 **E — Derived, CV.** This page carves a failure mode; it is contestable by counter-instance or by a better carving of the same failure, and its five tests are a proposed, revisable instrument, not a fixed roster. Its CV standing does not mean the claim is probably wrong or merely optional — contestable and inaccurate are separate axes.

@@ -19,6 +19,17 @@ The telos has two faces, and they are duals, not rivals:
 
 A telos-level reading of the aphorism — *distinct from* the faculty-mapping on [[epigraph|the epigraph page]]: Nietzsche's hammer = the de-absolutizing / creating will; Christ's nails = sacrificial fixing, reconciliation, love-through-the-wound; Wittgenstein's ladder = the transcendable apparatus ([[self-application|the scaffolding that is system]]); Heidegger's floor = Being, the [[why-how-inversion|I-am-therefore-there-is]] — i.e. *the transcendable apparatus fixed to bare Being, by reconciliation, through will.*
 
+## Productive as well as corrective
+
+The cycle is not only a correction loop; it is a *recodification* loop. A matter-changing act does not merely test a prior meaning against the world and return an error — it can alter the conditions under which later meaning-making happens at all:
+
+```text
+meaning -> matter-changing action -> altered world
+        -> altered significance -> altered future transformation
+```
+
+Each turn can leave the field genuinely reorganized, so that what becomes selectable, routable, and significant next is not what was available before. This is the telos read as generative-and-corrective at once: the framework persists by *making new consequential form*, then holding its return answerable, not merely by conserving and repairing what it inherited. The emphasis changes nothing structural and proves nothing about authorship — the altered significance is still received, not owned; a productive cycle is no more a demonstration of autonomous self-authorship than the corrective reading was.
+
 ## Uniqueness: no alternative with equal power
 
 Run as the framework's sharpest tool — *what is an alternative to the cycle with the same explanatory power?* — every candidate lands in one of three outcomes:

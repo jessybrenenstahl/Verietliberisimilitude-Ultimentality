@@ -36,6 +36,8 @@ Lift this from the affective cornerstone bindings to the claim level and the sam
 
 At the claim level `Delta(p)` may be **revision, inhibition, deletion, retyping, demotion, or recodification**. What it may not be is nothing. Merely attaching an uncertainty label, an objection, a confidence score, or a contradiction record does not satisfy the requirement if the governing claim cannot change. A mark with no reachable `Delta(p)` is not humility; it is decoration wearing humility's clothing.
 
+The reachable change must **match the level of the error.** Where the target is not a claim's wording but an operative governing relation, `Delta(p)` must reach *that* relation: depending on the error, it may need to alter **wording, status, dependency, threshold, route, gain, default, setpoint, or action**. Crucially, a **wording change cannot discharge an attack on an operative routing relation** — editing the account of a governing [[meaning-as-weight|weight]] leaves the weight itself untouched, and the error term is not reduced. A mark that changes only the description while the governing disposition reproduces the same result has not landed; it has been answered at the wrong level.
+
 A mark has causal force when the whole **minimum causal pathway** holds:
 
 1. error is detected

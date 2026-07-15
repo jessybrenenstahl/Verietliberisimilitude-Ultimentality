@@ -32,6 +32,7 @@ The whole edition is governed by one posture: every claim is **Derived**, held a
 - [[canon|Canon (benchmark + equivalence rubric)]]
 - [[open-proof-burden|The Open Proof-Burden]]
 - [[the-2026-adversarial-run|The 2026 Adversarial Run]]
+- [[the-fifteen-interlocutor-adversarial-run|The Fifteen-Interlocutor Adversarial Run]]
 - [[provenance-as-testimony|Provenance as Testimony]]
 - [[coalescence-by-non-contradictory-fit|Coalescence-by-Non-Contradictory-Fit]]
 

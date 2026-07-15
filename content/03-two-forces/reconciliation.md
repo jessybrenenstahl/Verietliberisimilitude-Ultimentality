@@ -14,6 +14,17 @@ Reconciliation is one of the framework's two [[force|Forces]], and like every Fo
 
 The asymmetry of coupling-mode is itself produced by which primitives are coupled: [[selection-axis|Selection]] controllers act on the same domain-side and so oppose; [[routing-axis|Routing]] controllers act on the codomain-side in a natural temporal order — correct inward, then emit outward — and so gate. By analogy, like a craftsman who first admits where the join failed and only then re-glues it stronger than before, the order is not optional decoration; it is the mechanism.
 
+The order **Apology → Gratitude is constitutive**, and four local tests fix it:
+
+```text
+1. remove Apology             -> no Reconciliation
+2. remove Gratitude           -> no Reconciliation
+3. reverse the order          -> not the same operation
+4. Gratitude bypasses Apology -> the sentimental form, not repair
+```
+
+Tests 1–2 show both ingredients are load-bearing; test 3 shows the coupling-mode is *directional*, not a commutative sum — precisely why `⊕` here carries no mirrored reverse arrow ([[sequential-gating|sequential gating]] is not symmetric cross-regulation); test 4 is the failure the order exists to prevent.
+
 ## When it is healthy
 
 Reconciliation becomes healthy when correction can become *renewed participation*: the system admits error, repairs its model, receives the value that remains, and carries it forward. This is the seed made dynamic — *inward correction joined with renewed outward participation; repair that returns to relation rather than stopping at self-reference.* A self that only owns its fault and never re-enters the world has not reconciled; it has merely accused itself.

@@ -8,6 +8,8 @@
 
 The Sculptor externalizes. Everything the prior faculties have prepared — significance detected by the [[warden|Warden]], borne by the [[captive|Captive]], ordered by the [[logician|Logician]], made resonant by the [[poet|Poet]] — finally meets the world here, as an act that changes it. The Poet can make meaning land in another mind; only the Sculptor can make it land in the world as a durable alteration.
 
+The trace it leaves may **establish a new consequential organization**, not merely execute a prior instruction: the act can configure the field so that what is later selectable, routable, and encounterable is different than before. This is the Sculptor's share of the framework's generativity — the productive edge of world-mutation. But originating an act confers no ownership of what follows from it. The Sculptor does not possess its act's **public meaning**, its **downstream consequences**, its **future reinterpretation**, or its **successor forms** — the same no-possession ceiling the [[axiom|axiom]] fixes, here at the point of action. This is the deep root of the page's strongest constraint, below.
+
 But there is one thing the Sculptor cannot do: **control its return.** An act, once committed, escapes its author. The structure it leaves becomes part of the field that future selves encounter. This is why the Sculptor is not the end of the chain but the turn of it: the changed world cycles back to the [[warden|Warden]] as a *new field of significance* — *Warden → Captive → Logician → Poet → Sculptor → changed world → Warden.* There is no final output that does not become future input (see [[operator-chain|the operator chain]]).
 
 ## The standing danger: domination

@@ -103,6 +103,8 @@ Coupled to the blind-rebuild protocol and the invariant checklist, the string yi
 
 This is the reconstruction leg of [[postfalsifiability|Postfalsifiability]] and an indicator of [[crystallization|Crystallization]]: *successful blind reconstruction from compressed forms* is precisely one of crystallization's marks. It is also the transmission case of [[recursive-self-specification|Recursive Self-Specification]] — a continuable description that can rebuild the process it describes in a successor substrate, within declared tolerances, without smuggling in the original context. The emergent property is not "the string is true" but "the architecture can travel and be confirmed intact."
 
+There is a sharp limit on what "travels." **Successful blind reconstruction establishes recoverability of the dependency *structure* — it does not establish that the reconstructed operators govern the rebuilder's later reasoning, action, or response to correction.** A stranger can rebuild the graph from the string and still not be *run by* it; recovering the specification is not adopting it as a disposition. Structural reconstruction is not enacted participation, and this page claims transmissibility, never uptake.
+
 ## What would actually kill the claim
 
 The claim dies if **repeated competent reconstruction cannot recover the invariant architecture** — if implementers given only the string and glossary systematically fail to rebuild the invariant dependency graph, or succeed only by importing unstated doctrine. Either failure means the string is not a rebuild specification, and the page must revise the string or concede that no such compact serialization exists.
@@ -119,6 +121,7 @@ Residue held open: a single failed reconstruction is *not* a kill (protocol step
 - **The string is not exempt.** *Including this one* makes it [[derived|Derived]] and mortal; it is not a founded, forced, or unmarked formula, and reading it as one is the corruption named on [[textual-nephilim|The Textual Nephilim]].
 - **The string does not replace its pages.** It is a compression, not a canon; the decompressed definitions on the linked pages remain load-bearing, and the [[ultimental-kernel|Ultimental Kernel]] is not superseded by its serialization.
 - **Successful reconstruction confirms transmissibility, not truth.** A failed attack on the string is not evidence that every clause of the architecture is correct.
+- **Reconstruction is not enactment.** Rebuilding the architecture from the string is recoverability of *structure*, not evidence that the rebuilder now reasons, acts, or corrects *by* it — `structural reconstruction != enacted participation`.
 - **"Possesses nothing it maps" is not world-skepticism.** It is the no-possession clause of [[semblance|Semblance]] and [[vls|VLS]] — accurate participation without possession — not a denial of externality or of returned resistance.
 
 ## See also

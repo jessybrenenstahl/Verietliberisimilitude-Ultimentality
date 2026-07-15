@@ -116,6 +116,16 @@ This is a **treatise-side navigation extension, held contestable.** It is never 
 
 A first-time reader takes **First reconstruction** and stops when they can place any page. A reader who accepts the spine but doubts the epistemics takes **Epistemic apparatus**. A reader who wants the machinery takes **Formal and control-theoretic**; one who wants the reach takes **Meaning-maker scope**. **Correction and governance** and **Continuity** carry the anti-capture and succession stakes; **Adversarial testing** and **Implementation** are for the maintainer who will attack and rebuild the structure. The paths overlap by design and do not partition the wiki; a reader may combine, reorder, or abandon them, and is expected to.
 
+## What a completed path is, and is not
+
+Traversal has stages, and they must not be conflated. Completing a path can deliver **orientation** (you can place any page), **structural reconstruction** (you can rebuild the dependency graph), or a **novel application** (you use the operators on a case you have not seen) — but none of these is **returned correction** (the architecture tested against consequence in your hands) or **preserved later use** (it governing your subsequent reasoning and action):
+
+```text
+orientation < structural reconstruction < novel application < returned correction < preserved later use
+```
+
+A finished path is at most reconstruction, and **structural reconstruction is not enacted participation** ([[minimal-rebuild-string|the minimal rebuild string]], [[recursive-self-specification|recursive self-specification]]). Completing a path proves neither embodiment, agreement, mastery, nor consent — a reader who traverses it in order to attack it has used it exactly right.
+
 ## Prohibited misreadings
 
 - **Path order is not derivation priority, precedence, or prominence.** The sequence is a reading route for a person, not a ranking of which pages are more fundamental, more authoritative, or more central. Entailment lives in the [[decompression-map|derivation graph]], where edges are directional in ways a linear path deliberately flattens.

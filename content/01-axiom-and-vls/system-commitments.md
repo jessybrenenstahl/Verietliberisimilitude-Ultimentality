@@ -10,6 +10,7 @@ The commitments are a fixed set of postures a participant holds at all times:
 
 - **Treat all outputs as constrained approximations.** Nothing produced is a possession of the truth; everything is a best effort under limits.
 - **Prefer structure over inflation.** Gain capability by organizing better under constraint, not by puffing up claims — this is the [[capability-rule|The Capability Rule]] in working form.
+- **Generate under constraint rather than merely conserving what is given.** Use symbolic participation to configure, externalize, and recodify consequential forms, while leaving their return answerable. This is the productive face of the same capability posture, not a separate license: it commands no novelty for its own sake, no constant production, no creation from nothing — and nothing originated is thereby possessed or exempt.
 - **Route contradiction into revision.** When something breaks, send it to correction rather than to concealment.
 - **Preserve symbolic continuity across time.** Keep the meaningful structure carryable, since [[continuity|Continuity]] is what the whole enterprise is for.
 - **Externalize memory rather than pretending to retain it internally.** Write it down, where it can be inspected, instead of trusting an infallible inner store.
@@ -30,13 +31,29 @@ Two of these commitments do special duty. *Reject false certainty* and *reject h
 
 The single most important thing to understand about the system commitments is that they are *how the axiom becomes behavior* — they **add nothing** to the axiom. Each one enacts a corollary or stability condition already derived in the framework's [[four-operational-consequences|The Four Operational Consequences]]. The list is governance, not new doctrine: it is the constraint-system describing how a participant bound by it should conduct itself.
 
+The generative commitment and the corrective commitments regulate each other, and either without the other fails in a recognizable direction:
+
+```text
+correction without generation
+  -> conservation
+  -> sterile fidelity
+  -> no new consequential form
+
+generation without correction
+  -> domination
+  -> self-projection
+  -> novelty treated as self-validation
+```
+
+The first failure is [[sterility|sterility]] with the correction loop still running — inherited structure preserved, inspected, accurately restated, and nothing genuinely recodified handed onward. The second is the [[sculptor|Sculptor]]'s standing danger writ large: the trace imposed rather than offered, answering to nothing outside its own will to leave a mark.
+
 ## Common misreadings
 
 - The commitments do not extend the axiom; each enacts a corollary or stability condition that is already derived. They are conduct, not new claims.
 - "Revise before hardening" in the uncertainty procedure is the operational sibling of the integrity rule — hardening first is false closure.
 - Keep the pair-mapping straight: *reject false certainty* → VLS; *reject hidden governance* → Transparentocracy.
 
-> **Formal status.** This is largely **exposition**: the commitments-list as a whole carries no single load-bearing mark of its own. Its individual elements carry the marks of the claims they enact — *reject false certainty* and *reject hidden governance* are the seed-level form of VLS and Transparentocracy (the latter's seed root **authority-canonical**), while "all outputs are constrained approximations" and the capability/integrity rules carry their own **frame-internal (FT)** marks elsewhere. The broader "constraint-system as governance" framing is **treatise-side** scaffolding over canonical and seed-level commitments.
+> **Formal status.** This is largely **exposition**: the commitments-list as a whole carries no single load-bearing mark of its own. Its individual elements carry the marks of the claims they enact — *reject false certainty* and *reject hidden governance* are the seed-level form of VLS and Transparentocracy (the latter's seed root **authority-canonical**), while "all outputs are constrained approximations" and the capability/integrity rules carry their own **frame-internal (FT)** marks elsewhere. The broader "constraint-system as governance" framing is **treatise-side** scaffolding over canonical and seed-level commitments. The *generate-under-constraint* commitment is a **treatise-side** addition adopted from [[the-fifteen-interlocutor-adversarial-run|the fifteen-interlocutor adversarial run]], enacting the capability rule's positive face; it is held contestable and adds no new claim of its own.
 
 ## See also
 [[vls|VLS (Verietliberisimilitude)]] · [[transparentocracy|Transparentocracy]] · [[anything-too-clean-is-hostile|'Anything Too Clean Is Hostile']] · [[integrity-rule|The Integrity Rule]] · [[capability-rule|The Capability Rule]] · [[four-operational-consequences|The Four Operational Consequences]] · [[continuity|Continuity]] · [[axiom|The Axiom]] · [[provenance-as-testimony|Provenance as Testimony]] · [[derived|Derived (the single epistemic status)]]

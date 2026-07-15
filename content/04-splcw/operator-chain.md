@@ -16,6 +16,8 @@ The sequence is not arbitrary decoration; each step exists because it solves a p
 
 The final handoff — Sculptor to *changed world* to Warden — is the one that makes the structure a chain that **recurs** rather than a process that ends. The Sculptor can act on the world but cannot govern what the altered world means when it returns; that return is the Warden's business again. So the loop closes without finishing.
 
+The return edge is **not only corrective feedback**. The changed world does not merely report whether the act succeeded or erred; it can alter *what is now available* — salience, the distinctions a participant can draw, routable possibilities, future acts, and future inventions. A world reshaped by the Sculptor is a different field of significance, and so it changes not just the correction but the *generation* that the next turn can perform. This is an explanation of the existing return edge, not a sixth node: there is no `possibility field` faculty added to the five; the productivity lives in the loop the chain already names.
+
 (By analogy only, and not as framework doctrine: control theory describes a feedback loop in which a system's output is sensed and fed back as a new input, so the controller never "completes" but continually re-regulates against a moving world. The operator chain is loosely that shape — sensing, transducing, acting, re-sensing — except that what is sensed is *significance*, not a scalar error. The comparison is meant to build intuition, not to reduce the chain to engineering.)
 
 ## A coordinate, not a script

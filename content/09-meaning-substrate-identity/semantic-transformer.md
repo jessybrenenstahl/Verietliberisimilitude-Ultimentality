@@ -37,6 +37,20 @@ The four inputs are not four substances. `state` is the transformer's current di
 
 A machine-learning transformer is **one implementation family** of this relation — not its source, its definition, or its limit. The homonymy is a signpost, not an annexation: the framework does not import the neural architecture and does not privilege it. The relation is fixed by its functional profile, and any candidate — a regulatory network, an inference step, an institutional procedure, a bound feeling regulating toward a setpoint — is admitted or rejected against that profile, never by resemblance to a favored machine. This page therefore refuses to define the relation by listing carrier classes; membership is decided only by the typed criteria of [[one-generator-many-domains|One Generator, Many Domains]].
 
+## Where transformation becomes generative
+
+Because this page already owns the transform of selection, routing, output, and future conditions, it carries the framework's strongest formal statement of *generation*. The distinction is precise: **a semantic transformer is generative where it does not merely emit a new token but alters the symbolic relations governing what can later be selected, routed, or made consequential.** Emitting an unfamiliar output is cheap; changing the `weights` and routing dispositions so that the *field* of later possibility is different is what the framework means by generative transformation. This is the productive reading of the third output term — `altered future conditions` — not a new competence bolted onto the relation.
+
+Three collapses are prohibited here, and each is a misreading or application distinction, **not** a new primitive:
+
+```text
+token variation      != generative transformation
+mechanical replay     != recodification
+unpredictability      != volition
+```
+
+A transformer that only permutes surface outputs while leaving its governing relations fixed is varying tokens, not generating; a process that re-runs a fixed mapping is replaying, not recodifying; and mere unpredictability (noise, a random branch) is not [[free-wont|volition]], which is the inhibitory seam that keeps generation from becoming compulsory propagation. Generative transformation is the positive capacity; Free Won't is its brake, not its engine.
+
 ## Type and formal status
 
 **E (epistemic):** Derived, CV. This is a carving — a label placed over a recurring operation — and it lives at the [[carving-tier|carving tier]]. It is defeasible by counter-instance or by a sharper carving that draws the same boundary with less. It is not [[derived|Derived]]-FT: nothing in the accepted definitions *forces* exactly this cut of the transformation relation, it is only motivated by it. This page is a **treatise-side extension of the framework, held contestable**; it introduces no forced, founded, or exempt tier, and promoting the carving toward foundational status would be the [[textual-nephilim|textual nephilim]].

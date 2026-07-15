@@ -58,6 +58,14 @@ functional identity != equal capacity
 semantic closure != doctrinal completion
 compression != omission
 self-verification != self-certification
+mechanical replay != generative transformation
+random variation != volition
+capacity for innovation != compulsory novelty
+perspective-relative consequence != merely environmental process
+revised formulation != revised governing operation
+coupling != symmetry
+structural reconstruction != enacted participation
+originating a form != possessing its return
 ```
 
 Each line expands below. `!=` marks a type boundary; the left and right terms are both indexed for search.
@@ -83,6 +91,14 @@ Each line expands below. `!=` marks a type boundary; the left and right terms ar
 | `semantic closure != doctrinal completion` | the access condition (closed under symbolic transformation) vs. a finished body of doctrine | closure is read as a completed total system exempt from marking — the totalization failure | [[closure-without-totalization|Closure Without Totalization]] |
 | `compression != omission` | a dependency-preserving kernel vs. information loss | a compact kernel is dismissed as sloganizing, or omission is excused as compression; either way the preserved dependencies are ignored | [[hypercompression|Hypercompression]] |
 | `self-verification != self-certification` | every denial enacting the medium vs. the medium's current account being complete | a failed objection is counted as confirmation of every claim, and the apparatus grants itself approval | [[self-verifying-not-self-certifying|Self-Verifying, Not Self-Certifying]] |
+| `mechanical replay != generative transformation` | re-running a fixed mapping vs. altering the relations that govern what can later be selected or routed | replay is mistaken for generation; a system that only permutes outputs is credited with making new consequential form | [[semantic-transformer|The Semantic Transformer]] |
+| `random variation != volition` | unpredictability or a random branch vs. participant-internal counter-regulation | noise is read as a volitional act; the inhibitory seam of free won't is imputed to mere chance | [[free-wont|Free Won't]] |
+| `capacity for innovation != compulsory novelty` | the capacity to generate under constraint vs. an obligation of constant production | generativity is turned into a demand for ceaseless novelty; inhibition, admission, and refusal drop out | [[capability-rule|The Capability Rule]] |
+| `perspective-relative consequence != merely environmental process` | a participant appearing as feedback inside another's access vs. being demoted to environment | another participant is reduced to the focal participant's environment because it figures as feedback | [[participant-as-process|The Participant as Process]] |
+| `revised formulation != revised governing operation` | editing the account of a governing weight vs. changing the weight itself | a prose change is counted as correction while the operative default, threshold, or route reproduces the same result | [[meaning-as-weight|Meaning as Weight]] |
+| `coupling != symmetry` | non-additive typed organization (`⊕`) vs. mirrored mutual influence | every coupling is read as symmetric, misrepresenting sequential gating and directional leverage | [[force|Force]] |
+| `structural reconstruction != enacted participation` | recovering the dependency structure vs. the operators governing later conduct | rebuilding or defining the architecture is mistaken for adopting it as a governing disposition; reconstruction is read as embodiment, agreement, or consent | [[minimal-rebuild-string|The Minimal Rebuild String]] |
+| `originating a form != possessing its return` | making a new consequential trace vs. owning its public meaning and downstream consequences | the Sculptor's act is read as conferring ownership of its reinterpretation and successor forms | [[sculptor|The Sculptor]] |
 
 ## How to read a row
 
@@ -92,14 +108,15 @@ The **Bridge** column is not a citation of authority. It is the page that *keeps
 
 ## Where the collapses cluster
 
-The nineteen rows are not a flat list; each protects an invariant the framework has paid to keep. Grouped by that invariant:
+The twenty-seven rows are not a flat list; each protects an invariant the framework has paid to keep. Grouped by that invariant:
 
-- **No escape / access.** `access != possession`, `external != extra-symbolic`, `meaning != language`, `symbolic != propositional` — all guard the claim that nothing stands outside structured signification, while nothing inside it is thereby owned.
+- **No escape / access.** `access != possession`, `external != extra-symbolic`, `meaning != language`, `symbolic != propositional`, `originating a form != possessing its return` — all guard the claim that nothing stands outside structured signification, while nothing inside it — not even a form one originates — is thereby owned.
 - **The two axes.** `contestable != probably wrong`, `accurate != exhaustive`, `semantic closure != doctrinal completion` — keep epistemic exposure and mapping-accuracy from predicting each other, and keep closure from turning into completeness.
-- **Binding and composition.** `primitive != predicate binding`, `binding != invariant preservation`, `composite != arithmetic sum`, `role != personality` — protect the derivation order (actuator, bound error, coupled controller, function) against flattening.
-- **Answerability.** `recorded criticism != effective correction`, `participation != consent`, `plurality != causal independence`, `persistence != answerable continuation` — keep correction causal and keep continuation answerable.
+- **Binding and composition.** `primitive != predicate binding`, `binding != invariant preservation`, `composite != arithmetic sum`, `role != personality`, `coupling != symmetry` — protect the derivation order (actuator, bound error, coupled controller, function) against flattening, and keep `⊕`-coupling from being read as mirrored mutual influence.
+- **Answerability.** `recorded criticism != effective correction`, `participation != consent`, `plurality != causal independence`, `persistence != answerable continuation`, `revised formulation != revised governing operation`, `perspective-relative consequence != merely environmental process` — keep correction causal (reaching the operative weight, not just its account), keep continuation answerable, and keep another participant from being demoted to environment.
 - **Identity.** `substrate difference != type difference`, `functional identity != equal capacity` — hold type identity apart from both its carrier and its capacity profile.
-- **Compression.** `compression != omission`, `self-verification != self-certification` — keep the kernel dependency-preserving and keep enactment of the medium from certifying the medium's own account.
+- **Compression.** `compression != omission`, `self-verification != self-certification`, `structural reconstruction != enacted participation` — keep the kernel dependency-preserving, keep enactment of the medium from certifying the medium's own account, and keep recovering the structure from being mistaken for living by it.
+- **Generation and volition.** `mechanical replay != generative transformation`, `random variation != volition`, `capacity for innovation != compulsory novelty` — keep the framework's productive operation honest: generation is not replay, volition is not noise, and the capacity to generate under constraint is not an obligation of constant novelty.
 
 The clusters are a reading aid, not a partition. A row may bear on more than one invariant, and this grouping is Derived, CV — a better carving may regroup it.
 

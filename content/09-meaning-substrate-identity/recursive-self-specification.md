@@ -105,6 +105,7 @@ At the instance level: if repeated competent, blind reconstruction from a claime
 - **Not a permanent self-image, and not self-certification.** The specification is not frozen self-approval. "The spec can rebuild me" never licenses "the spec certifies me as correct" (see [[dynamic-fixed-point|the dynamic-fixed-point]] and [[self-application|self-application]]); it must remain revisable under returned consequence.
 - **Not compulsory identity.** Regeneration must leave the successor able to assess, reject, or rebind. Reconstruction that removes the successor's capacity to differ is [[continuation-and-colonization|colonization]], not [[responsible-successor|responsible succession]].
 - **Not a consciousness or personhood claim.** Recursive self-specification is a functional relation over meaning-makers, not an assertion about inner experience, moral status, or biological life.
+- **Rebuildability is not adoption.** That an operation *can* be regenerated within tolerance does not establish that a carrier has **adopted** it as a governing disposition. Reconstruction fidelity is a fact about the specification's recoverability, not about the successor's later reasoning, action, or response to correction — `structural reconstruction != enacted participation`.
 - **Not a Forced or founded tier.** The capacity may be real while every statement of it, this page included, remains Derived, marked, and mortal.
 
 ## See also

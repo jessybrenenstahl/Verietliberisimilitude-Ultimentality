@@ -93,6 +93,8 @@ The rows above are the minimum. New load-bearing pages add rows; none is exempt 
 
 **What regulates the matrix.** The matrix does not certify itself. It is held by [[self-sealing-test|the self-sealing test]] — which it must pass like any other structure, and which applies to itself — and by [[causal-falsifiability|causal falsifiability]]: a change to a linked page must be able to change the row, and a row that cannot move is dead. As a carving of the site's seams, it is contestable by a better column set or a missing component.
 
+**Regression tests are articulated, not yet executable.** The `regression_test` column states, for each row, the deterministic check that must keep failing — but stating a protocol is not the same as wiring an executable fixture. Per [[postfalsifiability|postfalsifiability]]'s property-versus-coverage distinction, these entries are currently **articulated / specified** protocols; whether each is additionally **runnable**, **causally wired**, or **regression-evidenced** is an implementation status tracked in repository tooling (and, where present, the `tests` field of `wiki-attack-surfaces.json`), not something the matrix certifies. An empty `tests` array means *not yet executable*, never *not attackable*.
+
 **A failed attack is logged as a failed attack.** The matrix has no `confirmed` column and never acquires one. Surviving an attack does not promote a claim toward *forced* or *founded*; it leaves the row exactly as contestable as before, with its kill condition intact. Counting a failed attack as confirmation is precisely the move the matrix exists to refuse, and it is registered instead among the [[outcomes-of-attack|four outcomes of attack]].
 
 ## Prohibited misreadings

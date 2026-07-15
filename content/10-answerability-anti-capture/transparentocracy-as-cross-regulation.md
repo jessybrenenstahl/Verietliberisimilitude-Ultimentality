@@ -73,6 +73,8 @@ The claim regulates three excesses that appear the moment governance is treated 
 - **The corrector's view from nowhere.** A correction layer that claims an external, extra-symbolic standpoint from which to audit — an auditor accountable to nothing, or an infinite stack of auditors each needing an auditor. The bound-to-the-shared-field clause prevents the correction controller from purchasing its authority by escaping the field.
 - **Ornamental disclosure.** Visibility offered *as if* it were correction: dashboards, publications, and preserved objections that reach no controller and change no act. The three-property ordering exists precisely so that traceability and auditability cannot be counted as answerability. See [[effective-and-ornamental-answerability|effective and ornamental answerability]].
 
+At the **multi-participant application level**, one warning follows directly and is worth stating on its own: a governing system does not become answerable merely because it can *ingest* objections, refusals, or participant responses as feedback. The governed participant must retain the causal capacity to **alter the relation**, rather than being absorbed as the system's own self-correction — the difference between a party that can move the authority and a critic whose dissent is metabolized into the authority's self-image. This is an application of the answerability property and [[capture-of-corrective-layer|corrective capture]], not a new Transparentocracy property.
+
 ## What regulates it
 
 The claim is not self-certifying; it is held open by controllers that can defeat or demote it:

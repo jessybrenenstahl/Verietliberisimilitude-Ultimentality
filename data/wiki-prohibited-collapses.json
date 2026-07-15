@@ -112,5 +112,53 @@
     "b": "self-certification",
     "damage": "promotes an enacted medium to a proven account of itself",
     "bridge": "self-verifying-not-self-certifying"
+  },
+  {
+    "a": "mechanical replay",
+    "b": "generative transformation",
+    "damage": "replay mistaken for generation; permuting outputs credited with new consequential form",
+    "bridge": "semantic-transformer"
+  },
+  {
+    "a": "random variation",
+    "b": "volition",
+    "damage": "noise read as a volitional act; free won't imputed to chance",
+    "bridge": "free-wont"
+  },
+  {
+    "a": "capacity for innovation",
+    "b": "compulsory novelty",
+    "damage": "generativity turned into a demand for ceaseless production",
+    "bridge": "capability-rule"
+  },
+  {
+    "a": "perspective-relative consequence",
+    "b": "merely environmental process",
+    "damage": "a participant reduced to environment because it figures as another's feedback",
+    "bridge": "participant-as-process"
+  },
+  {
+    "a": "revised formulation",
+    "b": "revised governing operation",
+    "damage": "a prose change counted as correction while the operative weight is unchanged",
+    "bridge": "meaning-as-weight"
+  },
+  {
+    "a": "coupling",
+    "b": "symmetry",
+    "damage": "every coupling read as symmetric, misrepresenting gating and directional leverage",
+    "bridge": "force"
+  },
+  {
+    "a": "structural reconstruction",
+    "b": "enacted participation",
+    "damage": "recovering the structure mistaken for adopting it as a governing disposition",
+    "bridge": "minimal-rebuild-string"
+  },
+  {
+    "a": "originating a form",
+    "b": "possessing its return",
+    "damage": "originating an act read as owning its public meaning and successor forms",
+    "bridge": "sculptor"
   }
 ]
