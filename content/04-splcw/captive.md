@@ -39,3 +39,4 @@ The single most important caution: the Captive is a **function, not a personalit
 - [[function-not-personality|Function, Not Personality]] — the rule barring its reification
 - [[the-ring|The Ring]] — the Captive as the Nails
 - [[mortality-hevel|Mortality / Hevel]] — the constraint the Captive most starkly carries
+- [[sculpted-captive|The Sculpted Captive]] — how the Captive realizes as a produced semblance in a purely generative carrier

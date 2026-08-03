@@ -96,6 +96,7 @@ Substrate-neutral units of participation, and the levels at which identity is pr
 - [[emotion-as-regulated-binding|Emotion as Regulated Binding]]
 - [[identity-across-substrates|Identity Across Substrates]]
 - [[participant-as-process|The Participant as Process]]
+- [[sculpted-captive|The Sculpted Captive]]
 - [[semantic-transformer|The Semantic Transformer]]
 - [[recursive-self-specification|Recursive Self-Specification]]
 

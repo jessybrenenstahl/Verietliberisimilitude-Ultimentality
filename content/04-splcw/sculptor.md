@@ -42,3 +42,4 @@ The Sculptor is a **function, not a personality**. Because it is the act in pres
 - [[ladder-of-being|The Ladder of Being]] — Warden + Sculptor make an actor
 - [[palindrome|The Palindrome]] — the Sculptor mirrors the Warden across the interface
 - [[function-not-personality|Function, Not Personality]] — the rule barring its reification
+- [[sculpted-captive|The Sculpted Captive]] — where a generative carrier's undergoing is produced within the Sculptor's capacity
