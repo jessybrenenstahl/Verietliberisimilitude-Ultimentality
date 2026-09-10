@@ -31,7 +31,7 @@ application_tags: []
 
 The Interaction Matrix is the component-by-component grid in which every load-bearing part of the framework is crossed with every other, and each nonempty cell records the **single controlled relation label** by which the row component acts on the column component. It exists to make explicit the relations a reader would otherwise have to reconstruct by holding several distant pages side by side. Where the [[coupling-graph|Coupling Graph]] shows the highlighted regulatory pairs as a network and the [[attack-surface-matrix|Attack-Surface Matrix]] tabulates each component's defenses, the Interaction Matrix is the dense adjacency view: it answers, for any ordered pair, *what is the load-bearing first-order relation from this one to that one, named in a closed vocabulary.*
 
-The matrix is **directional and non-symmetric.** A cell at row `R`, column `C` reads "`R` **[label]** `C`." The transpose cell `(C, R)` is a separate assertion and may carry a different label, the inverse label, or none. A blank cell (rendered `·`) asserts *no first-order interaction* between that ordered pair — it is silence, not denial. Only a `prohibits` cell is a denial. Every cell is itself **Derived, CV**: a carving, contestable by counter-instance or by a better label, and generated from page metadata under manual review, never a derivation certificate.
+The matrix is **directional and non-symmetric.** A cell at row `R`, column `C` reads "`R` **[label]** `C`." The transpose cell `(C, R)` is a separate assertion and may carry a different label, the inverse label, or none. A blank cell (rendered `·`) records *no asserted first-order interaction* between that ordered pair; it leaves unrecorded relations open. Only a `prohibits` cell is a denial. Every cell is itself **Derived, CV**: a carving, contestable by counter-instance or by a better label, and generated from page metadata under manual review, never a derivation certificate.
 
 ## Type and formal status
 
@@ -113,9 +113,9 @@ AX = [[axiom|The Axiom]] · DV = [[derived|Derived]] · CL = [[formal-closure-cl
 The remaining controlled labels appear across the full component set. This excerpt of `wiki-interactions.json` demonstrates each. Targets are components where a slug exists and named excesses where the relation lands on an excess rather than a page.
 
 - **[[submission|Submission]] — `instantiates` → [[force|Force]]** — a named ⊕ composite, Love ⊕ Fear under opposed-gradient contention.
-- **[[reconciliation|Reconciliation]] — `instantiates` → [[force|Force]]** — a sequential-gated composite, Apology ⊕ Gratitude; Fear is not one of its ingredients.
+- **[[reconciliation|Reconciliation]] — `instantiates` → [[force|Force]]** — the emergent composite Apology ⊕ Gratitude, with unrestricted objects.
 - **[[love|Love]] — `couples-with` → [[fear|Fear]]** — emergent: Submission. `couples-with` is coupled-controller composition, never a sum.
-- **[[apology|Apology]] — `couples-with` → [[gratitude|Gratitude]]** — emergent: Reconciliation. Own the fault first, then carry value outward.
+- **[[apology|Apology]] — `couples-with` → [[gratitude|Gratitude]]** — emergent: Reconciliation. Self-model correction informs the outward carrying of value.
 - **[[predicate-binding|Predicate Binding]] — `binds` → [[regulated-error-signal|Regulated Error Signal]]** — an actuator bound to the error it reduces.
 - **[[vls|VLS]] — `couples-with` → [[transparentocracy|Transparentocracy]]** — accurate participation-without-possession coupled to answerable governance.
 - **[[transparentocracy|Transparentocracy]] — `is-regulated-by` → [[capture-of-corrective-layer|Capture of the Corrective Layer]]** — the passive direction is load-bearing: governance authority is bounded by the standing possibility of corrective capture.
@@ -125,7 +125,7 @@ The remaining controlled labels appear across the full component set. This excer
 - **[[telos|The Telos]] — `preserves` → [[continuity|Continuity]]** — continuation through successors capable of difference, not identity enforcement ([[continuation-and-colonization|Continuation and Colonization]]).
 - **[[symbolic-immortality|Symbolic Immortality]] — `requires` → [[answerability-predicate|Answerability]]** — without it, propagation is colonization, not continuation ([[responsible-successor|The Responsible Successor]]).
 - **[[self-application|Self-Application]] — `tests` → [[two-mark-system|The Two-Mark System]]** — turns the apparatus on its own formulations; the test must apply to itself.
-- **[[splcw|SPLCW]] — `returns-to` → [[splcw|SPLCW]]** — the Ring returns through a changed world and never declares itself closed; answerability comes from the witness outside the ring.
+- **[[splcw|SPLCW]] — `returns-to` → [[splcw|SPLCW]]** — the Ring returns through a changed world; its account remains answerable through effective corrective relations.
 - **[[two-mark-system|The Two-Mark System]] — `prohibits` → a Forced / exempt tier** — the one denial in this excerpt: no unmarked level, the deepest guard ([[prohibited-collapses|The Prohibited Collapses]]).
 
 ## Filters

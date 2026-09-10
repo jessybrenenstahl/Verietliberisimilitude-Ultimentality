@@ -10,7 +10,7 @@ The **trapped form** is the framework's name for what happens when [[submission|
 
 ## How it arises — and how it is cured
 
-The framework is precise about both diagnosis and cure. The trap arises *specifically* when [[submission|Submission]] operates **without** the corrective and transmissive work of [[reconciliation|Reconciliation]]. The vertical relation, uncoupled from the restorative relation, has no path out of its own lock-up: there is no mechanism within Submission alone to own a fault and carry value forward, so nothing can release the clamp. The remedy is therefore *structural*, not a matter of feeling more or less. Adding Love does not help; subtracting Fear does not help. What dissolves the trap is the work of [[reconciliation|Reconciliation]] — the ordered repair of [[sequential-gating|sequential gating]] — which gives the self a way to correct and re-emit, and so a way out.
+The trap persists when the current relation admits no effective revision of the conditions that lock it. [[reconciliation|Reconciliation]] supplies a route through self-model correction and renewed outward participation. Changing a gain can affect the lock, but a durable release must alter the conditions that keep reproducing it. The participant need not remain trapped until it has found a personal fault; correction concerns its actual understanding and available continuation.
 
 ## Place among Submission's pathologies
 
@@ -20,15 +20,15 @@ The trapped form is one of three named pathologies of [[submission|Submission]],
 - **Love-gain dominant without boundary** → self-erasure, dependency, boundary collapse.
 - **The trapped form** → mutual lock-up: both gradients hold the actuator shut.
 
-The first two are *imbalances*; the trapped form is *mutual lock*. That distinction matters for diagnosis: an imbalance is corrected by rebalancing the contention, but a lock requires the external structural help of Reconciliation.
+The first two are gain imbalances; the trapped form is mutual lock. This distinction guides diagnosis. Rebalancing a gradient and revising the relation are different interventions, and the relevant test is whether the participant regains effective movement with relation and boundary intact.
 
 ## Role in the wider framework
 
-The trapped form is the mirror, on the [[submission|Submission]] side, of [[reconciliation|Reconciliation]]'s canonical failure, the [[sentimental-form|sentimental form]]. The two named pathologies together show that each [[force|Force]] has a characteristic way of breaking that follows directly from its coupling-mode — contention can lock, gating can be skipped. By analogy, loosely like Heidegger's thrownness curdling into a refusal to take any further step, the trapped form is the vertical relation frozen into a posture it can no longer revise.
+The [[sentimental-form|sentimental form]] concerns ineffective correction in Reconciliation; the trapped form concerns arrested movement in Submission. Together they show why a diagnosis must identify the operative relation rather than infer a pathology from the presence of an emotion.
 
 ## Common misreadings
 
-The trapped form is **not** captured by static conjunction — it is not a region where "Love and Fear both hold," but a *control failure*, a lock-up of opposed gradients. Reading it as a static state is the [[cardinal-error|Cardinal Error]] applied to a pathology. Distinguish it carefully from Submission's gain-dominance modes: those are imbalances of one pull over the other; the trapped form is mutual lock, with both pulls active at once. And its cure is structural — the work of [[reconciliation|Reconciliation]] — never simply "more" or "less" of either primitive.
+The trapped form is a dynamic failure of the Love–Fear coupling. Its evidence is the maintained lock and the conditions sustaining it. [[reconciliation|Reconciliation]] can transform those conditions and restore participation; a proposed remedy is assessed by that effect.
 
 ## Formal status
 

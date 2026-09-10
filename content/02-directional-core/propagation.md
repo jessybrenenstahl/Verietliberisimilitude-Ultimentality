@@ -20,7 +20,7 @@ Propagation should also be kept distinct from the framework's larger aim of outw
 
 ## Common misreadings
 
-The signature mistake is to read **propagation as Gratitude** — to treat the emotion as the primitive. The predicate does not define the primitive, and the primitive is not reducible to the predicate; inverting them is the [[cardinal-error|cardinal error]], which caps any exposition that commits it. A second misreading conflates the bare operator with the Telos's propagation aim; the primitive is the elementary move, not the goal. A third takes propagation as a generous mood; it is bare structure, its felt namesake being gloss with no probative weight. Finally, Routing does not collapse into [[selection-axis|Selection]] — the four primitive combinations are behaviorally distinct.
+The signature mistake is to read **propagation as Gratitude** — to treat the emotion as the primitive. The predicate does not define the primitive, and the primitive is not reducible to the predicate; inverting them is the [[cardinal-error|cardinal error]]. A second misreading conflates the bare operator with the Telos's propagation aim; the primitive is the elementary move, not the goal. A third takes propagation as a generous mood; it is bare structure, its felt namesake being gloss with no probative weight. Finally, Routing does not collapse into [[selection-axis|Selection]] — the four primitive combinations are behaviorally distinct.
 
 ## Formal status
 

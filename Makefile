@@ -3,6 +3,7 @@
 # run the link-integrity validator (the test)
 check:
 	python3 tools/check_links.py
+	python3 tools/test_reference_tables.py
 
 # generate the static site into ./site (validates first)
 build: check

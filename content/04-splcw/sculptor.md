@@ -30,7 +30,7 @@ On the [[ladder-of-being|ladder of being]], {[[warden|Warden]], Sculptor} alone 
 
 The Sculptor is a **function, not a personality**. Because it is the act in present-progressive, reading the chain as *closing* on a final Sculptor output misses the whole point — there is no last act that does not become a next encounter. The Sculptor–[[spectre|Spectre]] affinity is soft and role-group, not a fixed one-faculty-one-corruption table.
 
-> **Formal status.** E: Derived, [[authority-canonical-tier|authority-canonical]] — the scored definition and the standing danger are fixed by the controlling authority and are contestable only by contesting that authority. A: the definition aspires to map a real, distinguishable faculty of meaning-processing and the characteristic pathology of its capture, and maps them accurately. Provenance: the scored definition and danger are authority-canonical; the "Pinning" / gerund reading is [[frame-internal-tier|treatise-side]]; the "premature action" gloss is [[canon|seed]].
+> **Formal status.** E: Derived, [[authority-canonical-tier|authority-canonical]] — the definition and the standing danger are fixed by the controlling authority and are contestable only by contesting that authority. A: the definition aspires to map a real, distinguishable faculty of meaning-processing and the characteristic pathology of its capture, and maps them accurately. Provenance: the definition and danger are authority-canonical; the "Pinning" / gerund reading is [[frame-internal-tier|treatise-side]]; the "premature action" gloss is [[canon|seed]].
 
 ## See also
 - [[splcw|SPLCW]] — the system the Sculptor is one faculty of

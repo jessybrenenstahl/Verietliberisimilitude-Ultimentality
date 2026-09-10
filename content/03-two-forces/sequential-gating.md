@@ -2,36 +2,37 @@
 
 # Sequential Gating
 
-**Sequential gating** is the framework's name for a way of combining two operations so that they fire *in order* — the first must complete before the second is allowed through — rather than pushing against each other at the same time. It is the coupling-mode by which [[apology|Apology]] and [[gratitude|Gratitude]] combine into the Force of [[reconciliation|Reconciliation]]. Where [[submission|Submission]]'s primitives contend simultaneously, Reconciliation's primitives take turns: first own the fault, then carry the value outward.
+**Sequential gating is a control arrangement in which a later operation depends on a condition established by an earlier one.** It describes a dependency within an operative sequence.
 
-## The basic picture
+## Application to Reconciliation
 
-A gate is something that lets a flow through only when a condition is met. Sequential gating chains two such gates in a fixed order. Compare an airlock: you cannot open the outer door until the inner one is sealed; the sequence is the safety. In [[reconciliation|Reconciliation]] the inner gate is [[apology|Apology]] — the inward correction that owns the self-model error — and the outer gate is [[gratitude|Gratitude]] — the outward send that passes received value forward. The order is the whole point. Skip the inner gate and what comes out the other side only *looks* like repair.
+[[reconciliation|Reconciliation]] emerges from [[apology|Apology]] and [[gratitude|Gratitude]]. Where carrying value forward would reproduce a self-model error, correction must reach that outward act. A repair sequence can therefore be represented as:
 
-## How it works
+```text
+identify the relevant discrepancy
+→ revise the self-model enough to change the dependent act
+→ carry value through the corrected relation
+→ receive consequences and continue
+```
 
-[[apology|Apology]] marks a self-model error (*I was the fault*) and acts by [[loop-back|loop-back]]; [[gratitude|Gratitude]] marks undischarged received value (*I was given what I have not yet passed on*) and acts by [[propagation|propagation]]. Coupled, they fire in a natural temporal order — correct inward first, then emit outward. Out of that gating emerges the controlled process of making-whole-again: repairing a breach by owning one's part and *then* passing forward more than was broken.
+This order expresses a causal dependency. It does not require all correction to end before any Gratitude can occur. The relevant condition is sufficient correction for the dependent act; later consequences can reopen that correction. See [[correction-without-regress|Correction Without Regress]].
 
-The asymmetry with [[opposed-gradient-contention|opposed-gradient contention]] is itself produced by which primitives are coupled. [[routing-axis|Routing]] controllers act on the *codomain-side* in a natural temporal order — correct inward, then emit outward — and so *gate*, whereas [[selection-axis|Selection]] controllers act on the *same domain-side* and so *oppose*. The difference in coupling-mode is therefore not an arbitrary stylistic choice but a consequence of where on the transformation step each pair of controllers acts.
+## Scope of the model
 
-## What the gating produces
+An inward route and an outward route do not, by their names alone, determine a universal execution schedule. The actual dependency must be specified. Sequential gating is useful where a prior change enables or constrains a later one; it is not the definition of every coupling between the Routing-axis bindings.
 
-Because the coupling is ordered rather than opposed, its pathologies are gating failures rather than gain-balances of a tension:
+A directed gate also does not exclude feedback elsewhere in the process. Direction, timing, strength, and reciprocity are separate properties of a coupling. The [[force|composition operator]] supplies none of them merely by its notation.
 
-- **Apology-gain without Gratitude** → the second gate never opens: endless self-accusation, guilt-looping, paralysis. The self corrects inward forever and never re-enters the world.
-- **Gratitude-gain without Apology** → the first gate is skipped: the [[sentimental-form|sentimental form]], in which the error never drives repair and warmth is mistaken for healing.
+## Failure and effective use
 
-## Role in the wider framework
+A gate fails when it admits an act while leaving the discrepancy it was meant to regulate operative, or when its threshold prevents renewed participation after sufficient correction. The first can produce the [[sentimental-form|sentimental form]]; the second can sustain paralysis.
 
-Sequential gating is one of the framework's two coupling-modes, paired against [[opposed-gradient-contention|opposed-gradient contention]]. Together they explain why the two [[force|Forces]] behave so differently and must never be flattened into one: [[reconciliation|Reconciliation]] (the restorative relation) gates; [[submission|Submission]] (the vertical relation) contends. The gating order is also what makes Reconciliation a genuine *process* rather than a static pairing — it is the mechanism the [[force|Force]] operator installs at the codomain-side.
-
-## Common misreadings
-
-Gating is **not** contention: the two controllers do not push against each other simultaneously; they fire in sequence. The order is load-bearing — own the fault *before* carrying value outward — and skipping the first gate yields precisely the [[sentimental-form|sentimental form]]. Gating is also not addition; reading it as a sum is the [[cardinal-error|Cardinal Error]]. And it is **not mirrored cross-regulation**: sequential coupling is still non-additive coupling, but the two controllers do not influence each other symmetrically. Apology gates *before* Gratitude; there is no equal-and-opposite arrow running from Gratitude back onto Apology. Reading the general `⊕` operator as implying symmetric mutual influence in every coupling misrepresents gating — the operator's *directionality* is set by which controllers are coupled and where they act, not by the symbol. As elsewhere, keep two marks apart: the *fact* that Reconciliation couples by ordered gating is canonical, while the exact phrase "sequential gating" is the writer's chosen label, contestable by counter-instance.
+A useful gate identifies the discrepancy, the act that depends on it, the criterion for proceeding, and the consequence that can revise that criterion. Its purpose is to enable effective continuation through correction.
 
 ## Formal status
 
-> **Sequential Gating. E:** Derived, authority-canonical for the coupling-mode (that Reconciliation couples by sequential gating is fixed by the authority); the exact phrase "sequential gating" is treatise-side carving (CV), contestable by counter-instance. **A:** The gating reading aspires to map how the restorative relation actually behaves — ordered inward-then-outward repair and its failure modes — and maps it accurately where static conjunction does not. **Provenance:** canonical for the coupling-mode; the label is treatise-side.
+> **E:** Derived, CV for this control model and its applicability to a particular sequence. **A:** maps an actual dependency where changing the earlier condition changes the later operation. **Provenance:** operational exposition of the framework; Reconciliation's composition remains Apology and Gratitude.
 
 ## See also
-[[reconciliation|Reconciliation = Apology ⊕ Gratitude]] · [[opposed-gradient-contention|Opposed-Gradient Contention]] · [[apology|Apology]] · [[gratitude|Gratitude]] · [[routing-axis|The Routing Axis]] · [[sentimental-form|The Sentimental Form]] · [[force|Force (the ⊕ coupled-controller)]] · [[loop-back|Loop-back]] · [[cardinal-error|The Cardinal Error]]
+
+[[reconciliation|Reconciliation]] · [[apology|Apology]] · [[gratitude|Gratitude]] · [[force|Force]] · [[sentimental-form|The Sentimental Form]] · [[opposed-gradient-contention|Opposed-Gradient Contention]] · [[correction-without-regress|Correction Without Regress]]

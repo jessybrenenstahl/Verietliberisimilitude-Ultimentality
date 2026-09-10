@@ -8,6 +8,8 @@ recreates or links to an excluded (deliberately removed) proposal slug. Run via
 `make check` or in CI.
 """
 import os
+import json
+from reference_tables import coupling_table
 import re
 import sys
 
@@ -51,6 +53,11 @@ def main():
     if not os.path.isdir(SRC):
         raise SystemExit(f"content directory not found: {SRC}")
     pages = collect_pages()
+    # Generated references must resolve as well as handwritten wikilinks.
+    coupling_path = os.path.join(ROOT, "data", "wiki-couplings.json")
+    if os.path.isfile(coupling_path):
+        with open(coupling_path, encoding="utf-8") as source:
+            coupling_table(json.load(source), {slug: {"title": slug} for slug in pages})
     errors = []
     for slug, path in sorted(pages.items()):
         raw = open(path, encoding="utf-8").read()

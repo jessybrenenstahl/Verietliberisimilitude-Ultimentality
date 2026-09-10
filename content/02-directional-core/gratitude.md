@@ -20,7 +20,7 @@ Gratitude carries received value onward. In [[reconciliation|Reconciliation]], i
 
 ## Common misreadings
 
-The cardinal error: treating Gratitude as a [[directional-primitives|primitive]] rather than a binding over [[propagation|propagation]] — [[cardinal-error|the cardinal inversion]], which caps any exposition at 72. The characteristic error: equating Gratitude with the *feeling* of being grateful rather than the discharge of received value; hoarding while feeling grateful is ingratitude in the framework's sense. The structural error: letting Gratitude swamp Apology, producing the sentimental form. And the general error: reading the binding as preservation of an invariant rather than regulation toward a setpoint.
+The cardinal error: treating Gratitude as a [[directional-primitives|primitive]] rather than a binding over [[propagation|propagation]] — [[cardinal-error|the cardinal inversion]]. The characteristic error: equating Gratitude with the *feeling* of being grateful rather than the discharge of received value; hoarding while feeling grateful is ingratitude in the framework's sense. The structural error: letting Gratitude swamp Apology, producing the sentimental form. And the general error: reading the binding as preservation of an invariant rather than regulation toward a setpoint.
 
 > **Formal status.** Epistemic: Derived, authority-canonical — fixed verbatim by the controlling authority; contestable by contesting the authority. Alethic: the binding aspires to map the regulated error actually driving the named emotion; extract the regulated error, not the surface delivery channel. Provenance: **canonical**, fixed verbatim across the canon.
 
@@ -31,6 +31,6 @@ The cardinal error: treating Gratitude as a [[directional-primitives|primitive]]
 - [[regulated-error-signal|The Regulated Error Signal]] — Gratitude's signal is undischarged received value
 - [[apology|Apology = (loop-back, self-model error)]] — its Routing-axis counterpart
 - [[reconciliation|Reconciliation = Apology ⊕ Gratitude]] — the composite Gratitude enters
-- [[sequential-gating|Sequential Gating]] — own the fault first, then carry value outward
+- [[sequential-gating|Sequential Gating]] — a dependency between correction and a subsequent act
 - [[sentimental-form|The Sentimental Form]] — Gratitude swamping Apology
 - [[cardinal-error|The Cardinal Error]] — the prohibition that protects Gratitude's status

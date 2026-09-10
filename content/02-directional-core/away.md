@@ -18,7 +18,7 @@ A historical correction lives here. Prior editions (v10, v11) invented "emotion-
 
 ## Common misreadings
 
-The signature mistake is to read **away as Fear** — to treat the emotion as the primitive. The predicate does not define the primitive, and the primitive is not reducible to the predicate; inverting them is the [[cardinal-error|cardinal error]], which caps any exposition that commits it. A second misreading takes away as a metaphor or a fearful temperament; it is bare structure, and its felt namesake is gloss with no probative weight. A third tries to fold away (Selection) into the Routing primitives — but the four primitive combinations are behaviorally distinct, so the axes stay independent.
+The signature mistake is to read **away as Fear** — to treat the emotion as the primitive. The predicate does not define the primitive, and the primitive is not reducible to the predicate; inverting them is the [[cardinal-error|cardinal error]]. A second misreading takes away as a metaphor or a fearful temperament; it is bare structure, and its felt namesake is gloss with no probative weight. A third tries to fold away (Selection) into the Routing primitives — but the four primitive combinations are behaviorally distinct, so the axes stay independent.
 
 ## Formal status
 

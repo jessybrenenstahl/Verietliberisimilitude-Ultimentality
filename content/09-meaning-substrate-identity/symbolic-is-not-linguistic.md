@@ -78,7 +78,7 @@ The claim dies if the definition **admits all physical difference** — if no op
 
 ## Prohibited misreadings
 
-The capped collapses, each refused:
+The distinctions this account preserves:
 
 ```text
 symbolic = verbal

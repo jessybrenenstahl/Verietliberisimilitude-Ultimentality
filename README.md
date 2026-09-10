@@ -12,7 +12,7 @@ content/                     # source of truth — one Markdown page per concept
   00-epistemic-apparatus/    # Derived, the three tiers, the two-mark system, canon, provenance & coalescence, …
   01-axiom-and-vls/          # the axiom, VLS, the integrity rule, Transparentocracy, …
   02-directional-core/       # the four primitives, the bindings, the cardinal error
-  03-two-forces/             # Submission, Reconciliation, the Fear-guard
+  03-two-forces/             # Submission, Reconciliation, coupling and control arrangements
   04-splcw/                  # the five roles, the ring, the witness outside the ring
   05-theodicytes/            # Spectre, Nephilim, Homunculus, the no-fourth argument
   06-telos/                  # answerable symbolic immortality, Fregorek, the nihil
@@ -39,7 +39,7 @@ The `content/` tree is a self-contained **relicquary** of markdown relics — sl
 Requires **Python 3** and **pandoc**.
 
 ```
-make check     # run the link-integrity validator (the test)
+make check     # validate links/data references and test reference publication
 make build     # generate the static site into ./site
 make serve     # build + serve at http://localhost:8000
 ```
@@ -48,14 +48,18 @@ Or directly: `python3 tools/check_links.py && python3 tools/build_site.py`.
 
 ## Downloads (generated into the built site)
 
-Every built page carries a footer linking to: its own page `.md`, the whole corpus as one document (`ultimentality-wiki-complete.md`), and all pages as a `.zip` (`ultimentality-wiki-md.zip`).
+Every built page carries a footer linking to: its own page `.md`, the kernel (`Ult.md`), the whole corpus as one document (`ultimentality-wiki-complete.md`), and all pages as a `.zip` (`ultimentality-wiki-md.zip`).
 
 ## Continuous integration
 
-`.github/workflows/build.yml` runs on every push to `main`: it installs pandoc, runs the link validator, builds the site, and deploys it to **GitHub Pages**. A red check means a dangling wikilink, a missing backlink, or a build failure.
+`.github/workflows/build.yml` runs on every push to `main`: it installs pandoc, runs `make check`, builds the site, and deploys it to **GitHub Pages**. A red check means a dangling wikilink, a missing backlink, or a build failure.
 
 ## License
 
 The **framework content** — everything under `content/` and any site generated from it — is licensed under **[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)** (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International). You may copy and redistribute it in any medium or format, **with attribution**, for **non-commercial** purposes only, and you **may not distribute modified/derivative** versions. All other rights reserved © 2026 the Ultimentality system builder. Full text in [LICENSE](LICENSE).
 
 The **build tooling** in `tools/` is licensed separately under the **MIT License** (see [tools/LICENSE](tools/LICENSE)), so the pipeline can be freely reused without affecting the content's protections.
+
+## Maintained reference data and kernel
+
+`Ult.md` is the versioned kernel and is published unchanged as a download. The coupling table is expanded from `data/wiki-couplings.json` at build time into HTML, individual Markdown, and the monolith. `tools/reference_tables.py` performs that expansion; `tools/test_reference_tables.py` verifies propagation of a data change and rejection of missing evidence targets. Other reference tables remain maintained source and require explicit synchronization; passing these checks does not establish philosophical fidelity.

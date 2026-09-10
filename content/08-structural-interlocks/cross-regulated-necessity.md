@@ -107,7 +107,7 @@ e_C regulated-by M     e_M regulated-by C
 P = no escape, no exemption
 ```
 
-The same shape governs whether any other `⊕` coupling is architecture or ornament. Directional couplings — [[opposed-gradient-contention|opposed-gradient contention]] in [[submission|Submission]], [[sequential-gating|sequential gating]] in [[reconciliation|Reconciliation]] — may satisfy criterion 3 *asymmetrically*; whether they meet the four criteria is a per-case CV judgment, catalogued in the [[coupling-graph|coupling graph]] and the [[attack-surface-matrix|attack-surface matrix]], not settled here. This page fixes the test, not the verdict.
+The same shape governs whether any other `⊕` coupling is architecture or ornament. Couplings and their operative dependencies — including [[opposed-gradient-contention|contention]] and [[sequential-gating|gating]] — may satisfy criterion 3 *asymmetrically*; whether they meet the four criteria is a per-case CV judgment, catalogued in the [[coupling-graph|coupling graph]] and the [[attack-surface-matrix|attack-surface matrix]], not settled here. This page fixes the test, not the verdict.
 
 ## What would actually kill the claim
 

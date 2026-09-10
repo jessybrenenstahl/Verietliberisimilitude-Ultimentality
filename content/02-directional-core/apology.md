@@ -16,11 +16,11 @@ Apology sits on the [[routing-axis|Routing axis]] — the codomain-side of a tra
 
 ## Role in the wider framework
 
-Apology is one of the four cornerstone [[predicate-binding|bindings]], stated verbatim across the [[canon|canon]]. It is an ingredient of [[reconciliation|Reconciliation = Apology ⊕ Gratitude]], coupled with [[gratitude|Gratitude]] not by simple addition but by [[sequential-gating|sequential gating]]: the order is fixed — *own the fault first, then carry value outward*. The self-model must be corrected before the outward discharge of value is allowed to count; gratitude offered while the self-model stays false produces the [[sentimental-form|sentimental form]], a corrupted Reconciliation. Apology is therefore the gate that Gratitude must pass through, which is why its binding cannot be skipped or faked.
+Apology couples with [[gratitude|Gratitude]] in [[reconciliation|Reconciliation]]. Its correction must reach the outward conduct that depends on it; [[sequential-gating|gating]] is one way to express that dependency. Apology also operates independently as self-model correction. Accuracy can require acknowledging responsibility or releasing a false attribution of blame: neither self-exaltation nor self-erasure is its aim.
 
 ## Common misreadings
 
-The cardinal one: treating Apology as a [[directional-primitives|primitive]] rather than a binding over [[loop-back|loop-back]] — [[cardinal-error|the cardinal error]], which caps any exposition at 72. The characteristic one: identifying Apology with the *spoken apology*, mistaking the surface channel for the regulated error; the framework explicitly denies this — the speech is downstream expression, not content. And the general one: reading the binding as preservation of an invariant rather than regulation toward a setpoint.
+The cardinal one: treating Apology as a [[directional-primitives|primitive]] rather than a binding over [[loop-back|loop-back]] — [[cardinal-error|the cardinal error]]. The characteristic one: identifying Apology with the *spoken apology*, mistaking the surface channel for the regulated error; the framework explicitly denies this — the speech is downstream expression, not content. And the general one: reading the binding as preservation of an invariant rather than regulation toward a setpoint.
 
 > **Formal status.** Epistemic: Derived, authority-canonical — fixed verbatim by the controlling authority; contestable by contesting the authority. Alethic: the binding aspires to map the regulated error actually driving the named emotion; extract the regulated error, not the surface delivery channel — a spoken apology is downstream expression, not content. Provenance: **canonical**, fixed verbatim across the canon.
 
@@ -31,6 +31,6 @@ The cardinal one: treating Apology as a [[directional-primitives|primitive]] rat
 - [[regulated-error-signal|The Regulated Error Signal]] — Apology's signal is self-model error
 - [[gratitude|Gratitude = (propagation, undischarged received value)]] — its Routing-axis counterpart
 - [[reconciliation|Reconciliation = Apology ⊕ Gratitude]] — the composite Apology enters
-- [[sequential-gating|Sequential Gating]] — own the fault first, then carry value outward
+- [[sequential-gating|Sequential Gating]] — a dependency between correction and a subsequent act
 - [[sentimental-form|The Sentimental Form]] — what happens when the gate is skipped
 - [[cardinal-error|The Cardinal Error]] — the prohibition that protects Apology's status

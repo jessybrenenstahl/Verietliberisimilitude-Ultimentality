@@ -10,7 +10,7 @@
 
 ## How it works
 
-The two controllers share a single transition while driving **opposed but co-required** [[regulated-error-signal|error signals]] toward tolerable bounds. The opposition is structural rather than accidental: both [[love|Love]] and [[fear|Fear]] are [[selection-axis|Selection]]-axis controllers acting on the *same domain-side* of the transformation step, so their gradients necessarily point against one another. This is precisely *why* the coupling contends rather than gates — and it is also why the contrast with [[reconciliation|Reconciliation]]'s [[sequential-gating|sequential gating]] is not an arbitrary choice. The asymmetry between contention and gating is *produced* by which primitives are coupled, not stipulated after the fact.
+The two controllers share a transition while regulating opposed, co-required discrepancies. Love supports relation and Fear supports boundary. Their Selection-axis directions make contention an apt description of this organization. The Routing-axis composition in [[reconciliation|Reconciliation]] performs different work: correction joined with outward value. A particular execution schedule must be specified by its operative dependencies rather than inferred from the axis names alone.
 
 ## What the contention produces
 
@@ -24,7 +24,7 @@ The healthy equilibrium of the contention is the stance of yielding-to without s
 
 ## Role in the wider framework
 
-Opposed-gradient contention is one of the framework's two coupling-modes, the other being [[sequential-gating|sequential gating]]. Together they account for why the two [[force|Forces]] behave so differently: [[submission|Submission]] (the vertical relation) contends, [[reconciliation|Reconciliation]] (the restorative relation) gates. Understanding the coupling-mode is what keeps a Force from collapsing back into a mere list of feelings; it is the part of the [[force|Force]] operator that does the actual wiring.
+Opposed-gradient contention describes the organization of [[submission|Submission]]. [[sequential-gating|Sequential gating]] describes a different control arrangement: one operation conditions another. These control descriptions explain particular dependencies while the [[force|Force]] is identified by the emergent organization of its bindings.
 
 ## Common misreadings
 

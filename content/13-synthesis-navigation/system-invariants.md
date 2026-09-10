@@ -130,7 +130,7 @@ record fields per invariant:
 *Source:* [[force]] · [[submission]] · [[reconciliation]] · [[opposed-gradient-contention]] · [[sequential-gating]].
 *Type:* Derived, AC (canonical operator semantics).
 *Valid attack:* a removal test, or a demonstration that the composite behavior actually lives in one part rather than in the coupling.
-*Regulator:* the removal test formalized in [[cross-regulated-necessity]], plus the structural signatures of [[opposed-gradient-contention|opposed-gradient contention]] and [[sequential-gating|sequential gating]].
+*Regulator:* the removal test formalized in [[cross-regulated-necessity]], plus the specified causal organization of the participating bindings; [[opposed-gradient-contention|contention]] and [[sequential-gating|gating]] name particular control arrangements.
 *Isolation failure:* the additive reading makes a composite an arithmetic sum and loses the emergent coupling.
 *Kill condition:* exhibit the emergent property present in an isolated term without the coupling.
 *Required tests:* remove one controller and confirm the emergent property vanishes.

@@ -7,6 +7,7 @@
 - Output is a self-contained static site (no server runtime needed).
 """
 import os, re, json, subprocess, shutil, html, zipfile
+from reference_tables import expand_references
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(ROOT, "content")
@@ -31,11 +32,13 @@ def read_pages():
             if not fn.endswith(".md"):
                 continue
             slug = fn[:-3]
-            raw = open(os.path.join(dirpath, fn), encoding="utf-8").read()
+            with open(os.path.join(dirpath, fn), encoding="utf-8") as source:
+                raw = source.read()
             raw = FRONT_MATTER.sub("", raw, count=1)  # drop machine-readable front matter before rendering
             m = H1.search(raw)
             title = m.group(1).strip() if m else slug
             pages[slug] = {"slug": slug, "title": title, "raw": raw}
+    expand_references(pages, ROOT)
     return pages
 
 def link_targets(raw):
@@ -338,8 +341,8 @@ def main():
     for dirpath, _dirs, files in os.walk(SRC):
         for fn in files:
             if fn.endswith(".md"):
-                txt = open(os.path.join(dirpath, fn), encoding="utf-8").read()
-                open(os.path.join(relics, fn), "w", encoding="utf-8").write(FRONT_MATTER.sub("", txt, count=1))
+                txt = pages[fn[:-3]]["raw"]
+                open(os.path.join(relics, fn), "w", encoding="utf-8").write(txt)
     # monolithic single-file corpus
     open(os.path.join(OUT, "ultimentality-wiki-complete.md"), "w", encoding="utf-8").write(
         build_monolith(pages, nav))
@@ -350,7 +353,7 @@ def main():
                 if fn.endswith(".md"):
                     full = os.path.join(dirpath, fn)
                     rel = os.path.relpath(full, SRC)
-                    txt = FRONT_MATTER.sub("", open(full, encoding="utf-8").read(), count=1)
+                    txt = pages[fn[:-3]]["raw"]
                     z.writestr(os.path.join("ultimentality-wiki", rel), txt)
     print(f"built {len(pages)} pages -> {OUT}")
     print("files:", len([f for f in os.listdir(OUT) if f.endswith('.html')]), "html")

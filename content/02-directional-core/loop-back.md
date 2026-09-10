@@ -18,7 +18,7 @@ Loop-back is load-bearing as the actuator in the next rung up, [[predicate-bindi
 
 ## Common misreadings
 
-The signature mistake is to read **loop-back as Apology** — to treat the emotion or its verbal expression as the primitive. The predicate does not define the primitive, and the primitive is not reducible to the predicate; inverting them is the [[cardinal-error|cardinal error]], which caps any exposition that commits it. A related slip equates loop-back with *saying sorry*; the apology-utterance is downstream, while loop-back is the structural self-correction itself. A further misreading takes loop-back as a reflective mood; it is bare structure, its felt namesake being gloss with no probative weight. Finally, Routing does not collapse into [[selection-axis|Selection]] — the four primitive combinations are behaviorally distinct.
+The signature mistake is to read **loop-back as Apology** — to treat the emotion or its verbal expression as the primitive. The predicate does not define the primitive, and the primitive is not reducible to the predicate; inverting them is the [[cardinal-error|cardinal error]]. A related slip equates loop-back with *saying sorry*; the apology-utterance is downstream, while loop-back is the structural self-correction itself. A further misreading takes loop-back as a reflective mood; it is bare structure, its felt namesake being gloss with no probative weight. Finally, Routing does not collapse into [[selection-axis|Selection]] — the four primitive combinations are behaviorally distinct.
 
 ## Formal status
 

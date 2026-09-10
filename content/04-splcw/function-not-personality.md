@@ -26,7 +26,7 @@ The five are **not** subjects, archetypes, sub-persons, or homunculi — "the Ca
 
 ## Formal status
 
-> **Formal status.** *Function, not personality* is [[derived|Derived]], [[authority-canonical-tier|authority-canonical]], and **capped if violated** — reifying the five as personalities or archetypes is a prohibited error that caps an exposition. The **dual-nature** reading is [[derived|Derived]], **treatise-side**. Alethically, function-not-personality maps a real fact — the same faculty recurs across persons and within one decision — that reification misdescribes; the dual-nature gloss aspires to map the part-whole relation accurately. Provenance: **canonical** (the rule) plus **treatise-side** (the dual nature).
+> **Formal status.** *Function, not personality* is [[derived|Derived]], [[authority-canonical-tier|authority-canonical]], — treating the five as permanent personalities loses their functional role. The **dual-nature** reading is [[derived|Derived]], **treatise-side**. Alethically, function-not-personality maps a real fact — the same faculty recurs across persons and within one decision — that reification misdescribes; the dual-nature gloss aspires to map the part-whole relation accurately. Provenance: **canonical** (the rule) plus **treatise-side** (the dual nature).
 
 ## See also
 - [[splcw|SPLCW]]

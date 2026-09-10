@@ -18,7 +18,7 @@ Toward also feeds the [[force|Force]] construction, where coupling primitives co
 
 ## Common misreadings
 
-The signature mistake is to read **toward as Love** — to treat the emotion as if it were the primitive. The framework forbids this: the predicate does not define the primitive, and the primitive is not reducible to the predicate. Inverting them is the [[cardinal-error|cardinal error]], which caps any exposition that commits it. A second misreading takes toward as a metaphor or a personality trait ("a warm, approaching disposition"); it is neither, but bare structure whose felt namesake is gloss with no probative weight. A third tries to collapse toward (Selection) into the Routing primitives — but the four primitive combinations are behaviorally distinct, so the axes do not collapse into each other.
+The signature mistake is to read **toward as Love** — to treat the emotion as if it were the primitive. The framework forbids this: the predicate does not define the primitive, and the primitive is not reducible to the predicate. Inverting them is the [[cardinal-error|cardinal error]]. A second misreading takes toward as a metaphor or a personality trait ("a warm, approaching disposition"); it is neither, but bare structure whose felt namesake is gloss with no probative weight. A third tries to collapse toward (Selection) into the Routing primitives — but the four primitive combinations are behaviorally distinct, so the axes do not collapse into each other.
 
 ## Formal status
 

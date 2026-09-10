@@ -40,12 +40,13 @@
     "source": "apology",
     "target": "gratitude",
     "relation": "couples-with",
-    "source_error": "guilt-loop",
-    "target_error": "sentimental form",
+    "source_error": "stalled self-correction without renewed participation",
+    "target_error": "apparent repair substituting for required correction",
     "emergent_property": "reconciliation",
     "evidence_pages": [
       "reconciliation",
-      "sequential-gating",
+      "apology",
+      "gratitude",
       "sentimental-form"
     ]
   },

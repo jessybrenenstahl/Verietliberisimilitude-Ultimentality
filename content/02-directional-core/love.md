@@ -20,7 +20,7 @@ Love is one of the four cornerstone [[predicate-binding|bindings]], stated autho
 
 ## Common misreadings
 
-The largest error is to treat Love as a primitive — a basic, irreducible ingredient — rather than as a binding over [[toward|toward]]. That is [[cardinal-error|the cardinal error]] of the framework, and committing it caps any exposition at 72, a weak pass at best, regardless of merit elsewhere. A second, lesser error is to read the binding as the *preservation of an invariant* (a fixed quantity of "love" to be conserved) rather than as regulation toward a setpoint; that is a separate capped error. A third is to identify Love with its expressions and miss the relational gap underneath.
+The largest error is to treat Love as a primitive — a basic, irreducible ingredient — rather than as a binding over [[toward|toward]]. That is [[cardinal-error|the cardinal error]] of the framework. A second, lesser error is to read the binding as the *preservation of an invariant* (a fixed quantity of "love" to be conserved) rather than as regulation toward a setpoint. A third is to identify Love with its expressions and miss the relational gap underneath.
 
 > **Formal status.** Epistemic: Derived, authority-canonical — fixed verbatim by the controlling authority; contestable by contesting the authority. Alethic: the binding aspires to map the regulated error actually driving the named emotion, and the method — extract the regulated error, not the surface delivery channel — is the accuracy discipline that keeps that mapping honest. Provenance: **canonical**, fixed verbatim across the canon.
 

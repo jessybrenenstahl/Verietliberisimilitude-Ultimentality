@@ -272,7 +272,7 @@
 
       **3.613** The binding is ordered regulation, not addition.
 
-      **3.614** The error is reduced, not conserved.
+      **3.614** Regulation reduces or controls the discrepancy toward its setpoint; preserving a function does not require conserving its error.
 
    **3.62** Love is Toward bound to relational gap.
 
@@ -338,25 +338,25 @@
 
       **4.262** Love says leaving destroys relation.
 
-      **4.263** Reconciliation supplies the route out that Submission alone lacks.
+      **4.263** Reconciliation can revise the relation and enable continuation where the current coupling supplies no effective route out.
 
 **4.3 Reconciliation is Apology ⊕ Gratitude.**
 
-   **4.31** Reconciliation couples the Routing-axis bindings through sequential gating.
+   **4.31** Reconciliation couples inward self-model correction with the outward carrying of received value.
 
-      **4.311** Apology must precede Gratitude.
+      **4.311** Correction informs the outward acts that depend on it.
 
-      **4.312** The self-model error is owned before received value is carried outward.
+      **4.312** A repair sequence may gate a dependent act until sufficient correction is available; the coupling is not exhausted by that timetable.
 
-   **4.32** Remove Apology and repair loses ownership of fault.
+   **4.32** Remove Apology from the composite and renewed participation loses its self-model correction.
 
-   **4.33** Remove Gratitude and repair remains trapped in self-reference.
+   **4.33** Remove Gratitude from the composite and correction loses its outward carrying of value.
 
-   **4.34** Apology without Gratitude produces guilt-looping and paralysis.
+   **4.34** Repetitive self-accusation that no longer improves the model or supports participation is guilt-looping, not successful Apology.
 
-   **4.35** Gratitude bypassing Apology produces the sentimental form.
+   **4.35** Outward value offered as a substitute for required correction produces the sentimental form.
 
-      **4.351** Surface peace is not repair where the self-model remains false.
+      **4.351** Effective reconciliation joins a corrected relation with renewed participation.
 
 **4.4 Reconciliation can concern any object of the process.**
 
@@ -394,7 +394,7 @@
 
       **5.732** The return may alter what becomes selectable, routable, inferable, or possible next.
 
-   **5.74** The Ring is maximal at five and is never declared closed.
+   **5.74** The Ring articulates five functions whose operation remains open to a changed-world return.
 
       **5.741** The witness stands outside the role-ring.
 
@@ -500,9 +500,9 @@
 
    **7.5** Authority without inspectability tends toward totalization.
 
-   **7.6** A corrective layer owned by the process it audits is captured.
+   **7.6** A corrective layer is captured where the governed process can prevent relevant criticism from having corrective effect.
 
-      **7.61** Capture may preserve the appearance of correction while closing every route to effect.
+      **7.61** Independence is an effective corrective capacity; organizational separation or ownership alone does not establish its presence or absence.
 
 **7.7 Transparentocracy makes emotional regulation and its effects inspectable and correctable.**
 
@@ -586,11 +586,11 @@
 
 **9.5 Fregorek presupposes Reconciliation.**
 
-   **9.51** Apology owns fault without annihilating the self.
+   **9.51** Apology corrects the self-model, acknowledging responsibility where warranted and releasing misplaced blame.
 
    **9.52** Gratitude carries received value without converting it into possession.
 
-   **9.53** Their ordered coupling loosens both pride and guilt.
+   **9.53** Their coupled operation loosens both pride and guilt.
 
 **9.6 Fregorek is not Telos.**
 

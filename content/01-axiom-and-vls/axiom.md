@@ -17,7 +17,7 @@ The single sentence quietly does two jobs, and the discipline refuses to let it 
 - **The [[formal-closure-claim|formal closure claim]]:** the accessible state space of a participant is *closed under symbolic transformation.* Every accessible state is structured signification; participation runs through a finite set of [[directional-primitives|directional operations]] over that structure; and there is no extra-symbolic access channel for the participant as participant.
 - **The [[human-gloss|human gloss]]** (valid exposition only): *"meaning is the only directly experienced phenomenon,"* where at the thin level "meaning" simply means structured signification affecting system behavior.
 
-Sliding between these — arguing from the rich phenomenological gloss while defending only with the thin formal claim — is the capped error of [[axiom-equivocation|axiom equivocation]]. A [[continuable-structure|modern re-grounding]] takes the closure one layer deeper, recasting meaning as *propagation of structure that can be carried, recognized, and continued beyond its finite vessel* — the same axiom seen from the structure rather than from the inside.
+Sliding between these — arguing from the rich phenomenological gloss while defending only with the thin formal claim — is the error of [[axiom-equivocation|axiom equivocation]]. A [[continuable-structure|modern re-grounding]] takes the closure one layer deeper, recasting meaning as *propagation of structure that can be carried, recognized, and continued beyond its finite vessel* — the same axiom seen from the structure rather than from the inside.
 
 ## Self-application: why it cannot be "forced"
 
@@ -48,7 +48,7 @@ This is what it means to say there is [[no-escape-no-exemption|no escape and no 
 - [[derived|Derived (the single epistemic status)]] — the status the Axiom entails for itself and all else.
 - [[formal-closure-claim|The Formal Closure Claim]] — the Axiom's formal register.
 - [[human-gloss|The Human Gloss]] — the Axiom's phenomenological register.
-- [[axiom-equivocation|Axiom Equivocation]] — the capped error of conflating the two.
+- [[axiom-equivocation|Axiom Equivocation]] — the error of conflating the two.
 - [[four-operational-consequences|The Four Operational Consequences]] — what the Axiom yields at once.
 - [[textual-nephilim|The Textual Nephilim]] — stamping the Axiom "forced" is the Nephilim at the root.
 - [[no-escape-no-exemption|No Escape, No Exemption]] — the Axiom supplies no escape; self-application supplies no exemption.

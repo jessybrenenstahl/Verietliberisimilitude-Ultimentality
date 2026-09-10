@@ -66,7 +66,7 @@ Closure without marking totalizes; marking without closure regresses. This is [[
 
 ### 4. Directional core — Toward, Away, Loop-back, Propagation
 
-Participation proceeds through **directional transformation** before it acquires any content. Four [[directional-primitives|directional primitives]] are the actuators: [[toward|Toward]] (closing a gap), [[away|Away]] (opening distance from a violated boundary), [[loop-back|Loop-back]] (returning correction onto the self-model), and [[propagation|Propagation]] (carrying value outward). These are directions, not feelings — a primitive is an operation, and offering a feeling against it is a level error.
+Participation proceeds through **directional transformation** before it acquires any content. Four [[directional-primitives|directional primitives]] are the actuators: [[toward|Toward]] (admission or increased relation), [[away|Away]] (exclusion or decreased relation), [[loop-back|Loop-back]] (routing into prior self-structure), and [[propagation|Propagation]] (routing onward). These are directions, not feelings — a primitive is an operation, and offering a feeling against it is a level error.
 
 ### 5. Binding — B(p) = (p, eₚ)
 
@@ -92,7 +92,7 @@ Gratitude = (Propagation, undischarged received value)
 A **Force** is what *emerges* when two bindings are wired so each shapes the other. `⊕` is emphatically **not** `+`; it names [[force|coupled-controller composition]] over a transition. Two named Forces:
 
 - **[[submission|Submission = Love ⊕ Fear]]** — the vertical relation, [[opposed-gradient-contention|opposed-gradient contention]]; its failure mode is the [[trapped-form|trapped form]].
-- **[[reconciliation|Reconciliation = Apology ⊕ Gratitude]]** — [[sequential-gating|sequential gating]]: own the fault first, then carry value outward; its failure mode is the [[sentimental-form|sentimental form]].
+- **[[reconciliation|Reconciliation = Apology ⊕ Gratitude]]** — inward correction coupled with outward value; its failure mode is the [[sentimental-form|sentimental form]], where apparent repair substitutes for required correction.
 
 Reconciliation can concern any object; its composition is Apology and Gratitude. The object being reconciled does not define a special ingredient or restrict the process’s scope. The general operator `⊕` also represents couplings at other layers, with the participating terms typed accordingly.
 
@@ -104,7 +104,7 @@ Meaning is manufactured by five faculties running as an open loop that returns t
 Warden -> Captive -> Logician -> Poet -> Sculptor -> changed world -> Warden
 ```
 
-The [[warden|Warden]] admits or excludes, the [[captive|Captive]] undergoes constraint, the [[logician|Logician]] differentiates, the [[poet|Poet]] configures significance, the [[sculptor|Sculptor]] externalizes a change ([[splcw|SPLCW]]). These are **functions, not personalities**. The [[the-ring|Ring is maximal at five and is never declared closed]]: answerability arrives from the [[witness-outside-the-ring|witness outside the ring]], and seizing that witness seat — the self installing itself as its own final judge — is the [[nephilim|Nephilim]]. What the self holds is **[[free-wont|free won't]]**, a veto over its own propagation, not sovereign authorship.
+The [[warden|Warden]] admits or excludes, the [[captive|Captive]] undergoes constraint, the [[logician|Logician]] differentiates, the [[poet|Poet]] configures significance, the [[sculptor|Sculptor]] externalizes a change ([[splcw|SPLCW]]). These are **functions, not personalities**. The [[the-ring|Ring connects five functions through an open return]]: answerability arrives from the [[witness-outside-the-ring|witness outside the ring]], and seizing that witness seat — the self installing itself as its own final judge — is the [[nephilim|Nephilim]]. What the self holds is **[[free-wont|free won't]]**, a veto over its own propagation, not sovereign authorship.
 
 ### 8. Corruption — absolutization and the Theodicytes
 

@@ -18,7 +18,7 @@ The standard's authority is the benchmark's [[open-proof-burden|open proof-burde
 
 ## Role in the wider framework
 
-The falsification standard is the operational form of the framework's deepest commitment: the [[vls-as-desire|desire to be proven wrong]], built into the apparatus rather than merely professed. It is what *secures* the [[keystone|keystone]]'s standing — the corpus can be a strong mirror that renounces possession only because it submits, structurally, to its own refutation. The framework's closing self-description states the result plainly: it is offered *derived everywhere, contestable at its tier, accuracy-aspiring throughout, and open at the act, always mid-turn* — ending in the same epistemic boat as physics, owning nothing. Stated positively: since **no system can be confirmed** (induction, underdetermination), "un-refuted-so-far" is the only status available to *any* framework — so the real question is never "is it confirmed?" but **what is its honest relationship to its own unconfirmability?** Most systems are unconfirmable *and hide it* (necessity, god's-eye objectivity, "settled science"); this apparatus *marks* the unconfirmability of each claim rather than laundering un-refuted-so-far into "confirmed." The honest kind keeps its claims where a counter-instance can reach them; the concealed kind makes every observation pre-consistent with itself.
+The falsification standard turns the desire for accuracy into a capacity to examine and revise claims. A failed attack by itself does not demonstrate the truth of its target. A successful prediction, reconstruction, intervention, or correction can nevertheless supply evidence for the particular claim it tests. Evidence can strengthen a warranted judgment without making it infallible; the [[two-mark-system|two marks]] keep those questions distinct.
 
 ## Common misreadings
 
@@ -41,11 +41,11 @@ The three gates decide *admission*; a further discipline governs *refutation its
 
 This expansion is itself [[derived|Derived]], held contestable at the [[carving-tier|carving tier]]: a shorter list, or a demonstration that one requirement collapses into another, would revise it.
 
-## Open question: is the apparatus an exempt level?
+## The standard applies to itself
 
-This page describes the apparatus as "a gate that enforces the marks, **not a marked row of its own**" — one that "makes no claim of its own." [[self-application|Self-application]] holds that the apparatus admits **no exempt level**: every claim, including *that contestability should govern*, is itself marked and contestable. These two statements stand in genuine tension, and the framework's own discipline forbids closing it from inside. Two readings are live: **(1)** "enforces but is not a row" is a harmless *type/level* remark (a scoreboard is not a player), leaving the gate contestable at the meta-level — self-application holds without remainder; or **(2)** a gate that "makes no claim of its own" is doing what no other claim may, and that asymmetry is a real exempt level not yet absorbed. The reconciliation is **Open**, pending the controlling authority. See [[self-application|Self-Application]].
+The standard is an operation whose content-bearing rules and descriptions are themselves marked. Calling the operation a gate does not exempt those propositions. [[self-application|Self-Application]] preserves the distinction between performing a check and asserting that the check is adequate; both the rule and its adequacy claim remain open to effective correction.
 
-> **Formal status.** *Part VII (the falsification standard as acceptance gate).* The standard is the *acceptance gate that enforces the marks*, not a marked row of its own. Provenance: the gate's authority is the benchmark's **open proof-burden (canonical)**; the **two-axis gate is treatise-side**, new to this edition; the run-side counter-instances are adopted *under* the benchmark, never above it.
+> **E:** Derived; the acceptance protocol is a CV specification under the framework's marking discipline. **A:** maps whether a claim can be examined and a demonstrated failure can change it. **Provenance:** operational exposition of the framework's falsifiability and self-application commitments.
 
 ## See also
 - [[kill-table|The Kill-Table]] — the standing record of what refutes each claim on each axis.
@@ -56,7 +56,7 @@ This page describes the apparatus as "a gate that enforces the marks, **not a ma
 - [[the-2026-adversarial-run|The 2026 Adversarial Run]] — supplied the closure counter-instances.
 - [[textual-nephilim|The Textual Nephilim]] — the breakage the gates forbid.
 - [[keystone|The Keystone]] — the standing the gate secures.
-- [[self-application|Self-Application]] — the no-exempt-level principle and the open exempt-level question.
+- [[self-application|Self-Application]] — the marking discipline applied to its own formulations.
 - [[attack-type-matching|Attack-Type Matching]] — the table pairing each claim type with its valid attack.
 - [[same-level-attack-rule|The Same-Level Attack Rule]] — an attack must land at the claim's own type and abstraction level.
 - [[causal-falsifiability|Causal Falsifiability]] — a falsifier counts only when it can change the target.

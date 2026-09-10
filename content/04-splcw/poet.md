@@ -32,7 +32,7 @@ On the [[ladder-of-being|ladder of being]], the Poet (together with the [[logici
 
 The Poet is a **function, not a personality**. Its link to the [[homunculus|Homunculus]] is presented as a soft, role-group affinity (the medium), not a settled one-faculty-one-corruption table — though the Poet happens to be the lone faculty in its corruption-group. And answerability, though the Poet's task, is structurally *external*: self-certifying one's own pinning is the [[nephilim|Nephilim]]'s error, not the Poet's province.
 
-> **Formal status.** E: Derived, [[authority-canonical-tier|authority-canonical]] — the scored definition and the standing danger are fixed by the controlling authority and are contestable only by contesting that authority. A: the definition aspires to map a real, distinguishable faculty of meaning-processing and the characteristic pathology of its capture, and maps them accurately. Provenance: the scored definition and danger are authority-canonical; the "tuning fork" / Hammer reading is [[frame-internal-tier|treatise-side]]; the "communicable without corrupting it" gloss is [[canon|seed]].
+> **Formal status.** E: Derived, [[authority-canonical-tier|authority-canonical]] — the definition and the standing danger are fixed by the controlling authority and are contestable only by contesting that authority. A: the definition aspires to map a real, distinguishable faculty of meaning-processing and the characteristic pathology of its capture, and maps them accurately. Provenance: the definition and danger are authority-canonical; the "tuning fork" / Hammer reading is [[frame-internal-tier|treatise-side]]; the "communicable without corrupting it" gloss is [[canon|seed]].
 
 ## See also
 - [[splcw|SPLCW]] — the system the Poet is one faculty of

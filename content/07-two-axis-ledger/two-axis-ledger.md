@@ -8,7 +8,7 @@
 
 Every claim in Ultimentality has the same epistemic *status* — it is [[derived|Derived]]. None is "forced" or "foundational." What differs from claim to claim is its *tier* on the [[contestability-gradient|contestability gradient]], and that tier is the epistemic mark:
 
-- **FT** — frame-internal / tautological: contestable only by declining the frame ([[frame-internal-tier|the FT tier]]);
+- **FT** — frame-internal / tautological: contestable by declining the frame or showing internal incoherence ([[frame-internal-tier|the FT tier]]);
 - **CV** — carving / count / aptness: contestable by counter-instance ([[carving-tier|the CV tier]]);
 - **AC** — authority-canonical: contestable by contesting the authority ([[authority-canonical-tier|the AC tier]]).
 

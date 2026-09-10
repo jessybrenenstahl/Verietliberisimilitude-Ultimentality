@@ -20,7 +20,7 @@ The gloss is the *experiential side* of the [[axiom|axiom]], and this edition of
 
 ## The hazard the gloss carries
 
-The defining danger attached to the gloss is its misuse in argument. Because it is rich and intuitively forceful, it is tempting to draw argumentative power *from* the gloss while quietly retreating to the thin [[formal-closure-claim|formal closure claim]] whenever pressed. That maneuver — argue from the gloss, defend from the closure claim — is the named, prohibited error of [[axiom-equivocation|axiom equivocation]], and the controlling [[canon|canon]] caps any text that commits it. The gloss is not worthless; it is simply not a second weapon. Treating it as one is the error.
+The defining danger attached to the gloss is its misuse in argument. Because it is rich and intuitively forceful, it is tempting to draw argumentative power *from* the gloss while quietly retreating to the thin [[formal-closure-claim|formal closure claim]] whenever pressed. That maneuver — argue from the gloss, defend from the closure claim — is the named, prohibited error of [[axiom-equivocation|axiom equivocation]], because the premise used to support the inference differs from the premise offered in its defense. The gloss is not worthless; it is simply not a second weapon. Treating it as one is the error.
 
 ## Common misreadings
 

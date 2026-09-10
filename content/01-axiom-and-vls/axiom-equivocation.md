@@ -12,7 +12,7 @@ By analogy, this is the classic motte-and-bailey: you graze your sheep on the de
 
 ## How the framework polices it
 
-The error is not merely discouraged; it is **capped** by the controlling [[canon|canon]]. The authority *requires* the register split and penalizes any exposition that fails to make it. This is a fact about the authority rather than a metaphysical necessity — it sits on the [[authority-canonical-tier|authority-canonical tier]], so it is contestable by contesting the authority itself, since in this framework *canonical does not mean necessary*. But as long as that authority governs, the cap stands and applies on the page.
+The distinction matters because the two claims carry different commitments. A sound account states which register supports its inference and accepts examination at that register. The remedy is to make the premise explicit, not to switch registers when a question becomes difficult.
 
 The defense is procedural and continuous, an instance of the [[two-mark-system|two-mark system]]: keep both registers preserved, and *at every point mark which register is in use.* If you are leaning on the felt richness of "meaning is the only thing you directly experience," say so; if you are leaning on "the accessible state space is closed under symbolic transformation," say that instead — and do not silently slide from one to the other.
 

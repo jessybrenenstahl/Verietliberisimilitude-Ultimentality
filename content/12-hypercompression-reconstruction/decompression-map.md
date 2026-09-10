@@ -126,7 +126,7 @@ Edge list for the operational graph:
 | [[postfalsifiability|Attack]] | returns-to | claim via [[outcomes-of-attack|The Outcomes of Attack]] | operational |
 | revised claim | returns-to | itself as [[dynamic-fixed-point|dynamic fixed point]] | operational |
 
-The [[the-ring|Ring]] is maximal and never declared closed; its closing edge `Sculptor → changed world → Warden` is a **return**, not a proof of completion. Loop 2 is the whole architecture in miniature: the answer to closure's attack surface is marking, the answer to marking's attack surface is closure. Loop 3 never terminates in certification — an outcome is `delete`, `revise`, `retype`, or `invariant recognition`, and a **failed attack is logged as a failed attack**, never counted as confirmation.
+The [[the-ring|Ring]] remains open to a changed-world return; its closing edge `Sculptor → changed world → Warden` is a **return**, not a proof of completion. Loop 2 is the whole architecture in miniature: the answer to closure's attack surface is marking, the answer to marking's attack surface is closure. Loop 3 never terminates in certification — an outcome is `delete`, `revise`, `retype`, or `invariant recognition`, and a **failed attack is logged as a failed attack**, never counted as confirmation.
 
 ## Edge vocabulary
 

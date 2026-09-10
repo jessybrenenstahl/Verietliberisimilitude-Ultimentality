@@ -8,7 +8,7 @@ In this framework, **Fear** is a controller, not a feeling: it is *away-movement
 
 The three parts of the binding: the actuator is [[away|away]], the primitive that excludes or decreases coupling with a signification. The controller is named "Fear." The [[regulated-error-signal|regulated error signal]] is **boundary violation** — the discrepancy between current exposure and acceptable protection against threat. The controller drives that discrepancy toward zero. As with every binding, the accuracy method is to **extract the regulated error, not the surface delivery channel**: the racing heart, the flinch, the flight are downstream expressions; the binding lives in the boundary being defended.
 
-Because Fear is a binding over a primitive, it is not itself a [[directional-primitives|primitive]]. Treating it as one — as a basic, irreducible ingredient of the mind — is [[cardinal-error|the cardinal error]], which caps any exposition at 72 regardless of other merit.
+Because Fear is a binding over a primitive, it is not itself a [[directional-primitives|primitive]]. Treating it as one — as a basic, irreducible ingredient of the mind — is [[cardinal-error|the cardinal error]].
 
 ## A correction written into Fear's error signal
 

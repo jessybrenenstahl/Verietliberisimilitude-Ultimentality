@@ -20,7 +20,7 @@ The choice of *pinning* over *pin* is doing structural work, not stylistic work.
 
 ## From a row to a ring
 
-The five elements are not a left-to-right list. The treatise insists the figure is **not a row but a ring**: *pinning needs the ladder, the ladder rests on the floor, the floor takes the nails, the nails are driven by the hammer, the hammer completes the pinning, and the pinning begins again.* Read this way the aphorism becomes a recursive loop — developed in full under [[the-ring|The Ring]] as the *aphoristic maximal incomplete set*. To call that ring "complete and closed" would be to commit the framework's deepest corruption (see [[textual-nephilim|the Textual Nephilim]]) in the very act of describing the figure that refuses closure. The same loop, given as canonical order rather than as image, is the [[operator-chain|operator chain]].
+The five elements are not a left-to-right list. The treatise insists the figure is **not a row but a ring**: *pinning needs the ladder, the ladder rests on the floor, the floor takes the nails, the nails are driven by the hammer, the hammer completes the pinning, and the pinning begins again.* Read this way the aphorism becomes a recursive loop — developed in full under [[the-ring|The Ring]] as the *aphoristic maximal incomplete set*. Its recurrence remains open to consequences; the image does not confer final authority on the participant's own account. The same loop, given as canonical order rather than as image, is the [[operator-chain|operator chain]].
 
 ## Common misreadings
 

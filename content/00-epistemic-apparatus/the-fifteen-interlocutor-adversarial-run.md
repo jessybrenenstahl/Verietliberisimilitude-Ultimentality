@@ -10,6 +10,8 @@ Every interlocutor here is a *simulated* position, and a simulated interlocutor 
 
 ## The run ledger
 
+This ledger records the exercise as reported. Its formulations are not a separate source of authority for the current framework. Current definitions and subsequent author corrections govern interpretation; in particular, a sequence used in the exercise does not establish a universal timetable for Reconciliation.
+
 Outcomes are recorded faithfully — landed, unresolved, mismatched, failed, or frame declension — with the page that owns any resulting edit. Where "Change" reads *none*, nothing in the corpus was altered.
 
 | Interlocutor | Exact target | Attack type | Result | Owning page(s) | Framework change |

@@ -13,7 +13,7 @@ Epistemic status answers *how a claim is held*: that it is [[derived|Derived]], 
 Two examples carry the whole point:
 
 - **Gravity, the law.** It is a maximally contestable derivation — every term in it is revisable, and physics fully expects to be proven wrong about it someday — *and* it maps the world about as accurately as anything humans have ever written down. Maximal contestability, near-maximal accuracy, no contradiction.
-- **The primes.** They are tautological within arithmetic — true by construction, contestable only by declining the frame — *and* they map a real, stubborn regularity of the world. Frame-internal sturdiness and genuine world-mapping in the same object.
+- **An arithmetic theorem and its application.** A valid proof establishes a result under its mathematical assumptions. Applying it to a situation also requires checking that the situation is accurately represented by those assumptions. Conditional validity and accurate application are distinct achievements.
 
 The lesson the examples teach: *contestable does not mean probably-wrong, and it does not mean merely-optional; it means holdable only in a way that stays open to refutation.* Accuracy is a separate virtue a contestable claim may possess in full. (By analogy, a draftsman's map is always revisable and always "just a drawing" — yet it can still guide you home without error. Revisable and accurate are different properties of the same map.)
 

@@ -10,7 +10,7 @@ The convention exists because those two questions are genuinely different, and c
 
 For each load-bearing claim:
 
-- **E — the epistemic mark.** Always [[derived|Derived]], placed at one of three tiers on [[contestability-gradient|the contestability gradient]]: **FT** ([[frame-internal-tier|frame-internal / tautological]] — contestable only by declining the frame; least exposed, *not* merely optional); **CV** ([[carving-tier|carving / count / aptness]] — contestable by counter-instance); **AC** ([[authority-canonical-tier|authority-canonical]] — contestable by contesting the authority; *canonical ≠ necessary*).
+- **E — the epistemic mark.** Always [[derived|Derived]], placed at one of three tiers on [[contestability-gradient|the contestability gradient]]: **FT** ([[frame-internal-tier|frame-internal / tautological]] — contestable by declining the frame or showing internal incoherence; least exposed, *not* merely optional); **CV** ([[carving-tier|carving / count / aptness]] — contestable by counter-instance); **AC** ([[authority-canonical-tier|authority-canonical]] — contestable by contesting the authority; *canonical ≠ necessary*).
 - **A — the alethic mark.** The claim's mapping-accuracy aspiration on the [[alethic-axis|alethic axis]]: the degree and manner in which it claims to participate in the world it cannot exhaust.
 
 A claim might read, for instance, *E: Derived, AC · A: aspires to map the actual structure of access, falsifiable in principle.* The two marks are kept side by side precisely so that neither is read off the other.
