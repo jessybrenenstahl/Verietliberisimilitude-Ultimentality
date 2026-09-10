@@ -94,7 +94,7 @@ A **Force** is what *emerges* when two bindings are wired so each shapes the oth
 - **[[submission|Submission = Love ⊕ Fear]]** — the vertical relation, [[opposed-gradient-contention|opposed-gradient contention]]; its failure mode is the [[trapped-form|trapped form]].
 - **[[reconciliation|Reconciliation = Apology ⊕ Gratitude]]** — [[sequential-gating|sequential gating]]: own the fault first, then carry value outward; its failure mode is the [[sentimental-form|sentimental form]].
 
-The **[[fear-guard|fear-guard]]** holds here: Fear is an ingredient of Submission and the object Reconciliation reconciles, but it is **never** an ingredient of Reconciliation. There is no "apology applied to fear." The operator `⊕` is general, but its application beyond these named affective composites creates no third canonical Force.
+Reconciliation can concern any object; its composition is Apology and Gratitude. The object being reconciled does not define a special ingredient or restrict the process’s scope. The general operator `⊕` also represents couplings at other layers, with the participating terms typed accordingly.
 
 ### 7. SPLCW — Warden → Captive → Logician → Poet → Sculptor → changed world → Warden
 

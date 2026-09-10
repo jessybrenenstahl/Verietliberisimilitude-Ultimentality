@@ -228,6 +228,7 @@ def downloads_footer(slug):
         f'<a href="relics/{name}" download="{name}">This page (.md)</a>'
         '<a href="ultimentality-wiki-complete.md" download="ultimentality-wiki-complete.md">Full corpus (one .md)</a>'
         '<a href="ultimentality-wiki-md.zip" download="ultimentality-wiki-md.zip">All pages (.zip)</a>'
+        '<a href="Ult.md" download="Ult.md">Kernel (.md)</a>'
         '</footer>'
     )
 
@@ -319,6 +320,14 @@ def main():
     open(os.path.join(OUT, ".nojekyll"), "w").write("")
     if SITE_DOMAIN:
         open(os.path.join(OUT, "CNAME"), "w").write(SITE_DOMAIN)
+    # Keep retired public links useful without retaining a superseded concept.
+    redirect = ('<!doctype html><html lang="en"><meta charset="utf-8">'
+                '<meta http-equiv="refresh" content="0;url=reconciliation.html">'
+                '<link rel="canonical" href="reconciliation.html">'
+                '<title>Reconciliation · Ultimentality</title>'
+                '<p><a href="reconciliation.html">Reconciliation</a></p></html>')
+    open(os.path.join(OUT, "fear-guard.html"), "w", encoding="utf-8").write(redirect)
+    shutil.copyfile(os.path.join(ROOT, "Ult.md"), os.path.join(OUT, "Ult.md"))
     # publish the machine-readable relation files (data/*.json) if present
     data_src = os.path.join(ROOT, "data")
     if os.path.isdir(data_src):

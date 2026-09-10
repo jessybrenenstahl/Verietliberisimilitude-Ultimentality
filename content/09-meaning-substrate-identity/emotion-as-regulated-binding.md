@@ -9,7 +9,7 @@ formal_status:
   alethic: "the four cornerstone bindings aspire to map felt states accurately; the additive and feeling-as-substance readings are inaccurate, not merely disallowed"
 prerequisites: [predicate-binding, directional-primitives, regulated-error-signal]
 regulates: [cardinal-error, "emotion-as-primitive misreading", "feeling-as-definition drift", "free-floating cornerstone names"]
-regulated_by: [predicate-binding, regulated-error-signal, causal-error-mark, fear-guard]
+regulated_by: [predicate-binding, regulated-error-signal, causal-error-mark]
 valid_attack: "Exhibit a cornerstone emotion whose canonical behavior is not captured by its actuator-and-regulated-error pair, or a second distinct binding with the same pair yet a predictably different function."
 isolation_failure: "Restated without the general binding model it decays to four labels; restated without the four bindings it becomes an empty schema that regulates nothing."
 kill_condition: "The model cannot tell the four emotions apart except by importing their ordinary names."
@@ -56,7 +56,7 @@ The page regulates the **[[cardinal-error|cardinal error]]** — calling an emot
 
 ## What regulates it
 
-[[predicate-binding|Predicate Binding]] supplies the general schema this page instantiates; the restatement cannot outrun it. [[regulated-error-signal|The Regulated Error Signal]] fixes that `e_p` is a controlled discrepancy driven toward a setpoint — **regulation, not a conserved invariant** — which forbids reading the binding as a quantity that is preserved rather than reduced. [[directional-primitives|The Directional Primitives]] fixes the four actuators and their count, so the bridge inherits, and cannot quietly expand, the carving of directions. [[causal-error-mark|The Error Mark With Causal Force]] constrains the binding from the answerability side: an `e_p` that could never produce a change in `p` would be ornamental, and a binding built on an inert error is not a controller at all. The [[fear-guard|fear-guard]] governs where Fear may appear once bound: as an ingredient of [[submission|Submission]] and as the object [[reconciliation|Reconciliation]] reconciles, but never as an ingredient of Reconciliation — this page states Fear as a binding and hands its compositional placement to that guard.
+[[predicate-binding|Predicate Binding]] supplies the general schema this page instantiates; the restatement cannot outrun it. [[regulated-error-signal|The Regulated Error Signal]] fixes that `e_p` is a controlled discrepancy driven toward a setpoint — **regulation, not a conserved invariant** — which forbids reading the binding as a quantity that is preserved rather than reduced. [[directional-primitives|The Directional Primitives]] fixes the four actuators and their count, so the bridge inherits, and cannot quietly expand, the carving of directions. [[causal-error-mark|The Error Mark With Causal Force]] constrains the binding from the answerability side: an `e_p` that could never produce a change in `p` would be ornamental, and a binding built on an inert error is not a controller at all.
 
 ## Valid attack surface
 
@@ -95,7 +95,6 @@ A residue that does **not** kill it: the felt qualities of the four differ, obvi
 - **The emotion *is* the primitive `p`.** This is the [[cardinal-error|cardinal error]] in its purest form. The primitive is a member of the binding, not the binding.
 - **`e_p` as a conserved invariant.** The error is regulated *toward a setpoint*, reduced, not preserved. Reading it as a quantity the system holds constant inverts the control relation.
 - **The feeling, the expression, or the "I love / I fear" narrative as the definition.** These are the delivery and access layers ([[qualia-as-narrative-compression|Qualia as Narrative Compression]]); the binding is defined without them and survives their variation.
-- **Fear here made available to Reconciliation.** This page states Fear as a binding; the [[fear-guard|fear-guard]] alone governs its placement, and Fear is never an ingredient of [[reconciliation|Reconciliation]].
 - **Promoting the restatement or the four-count to a forced or exempt tier.** The restated pairs inherit [[authority-canonical-tier|AC]]; the synthesis is [[carving-tier|CV]]; neither becomes founded, and the count of four remains a contestable carving, not a given.
 
 ## See also

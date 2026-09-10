@@ -16,7 +16,7 @@ Gratitude sits on the [[routing-axis|Routing axis]] — the side of a transforma
 
 ## Role in the wider framework
 
-Gratitude is one of the four cornerstone [[predicate-binding|bindings]], stated verbatim across the [[canon|canon]]. It is an ingredient of [[reconciliation|Reconciliation = Apology ⊕ Gratitude]], coupled with [[apology|Apology]] by [[sequential-gating|sequential gating]]: the fault must be owned *before* value is carried outward. The order is not decorative. When Gratitude is allowed to run ahead of Apology — when value is discharged warmly while the self-model stays false — the composite collapses into its canonical failure, the [[sentimental-form|sentimental form]]: Gratitude swamps Apology, the relationship feels mended, and nothing has actually been corrected. Gratitude's binding is thus genuine only when it follows the gate of Apology.
+Gratitude carries received value onward. In [[reconciliation|Reconciliation]], it couples with [[apology|Apology]] so that inward correction supports renewed outward participation. This compositional role does not make Gratitude itself dependent on a prior fault or apology. The [[sentimental-form|sentimental form]] occurs when outward value is treated as a substitute for correction that the reconciliation actually requires.
 
 ## Common misreadings
 

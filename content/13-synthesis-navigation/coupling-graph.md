@@ -73,7 +73,7 @@ The seven load-bearing couplings, with type, directed relation, and emergent pro
 Notes that keep the edges honest:
 
 - **closure ⟷ marking** is the root coupling: [[formal-closure-claim|closure]]'s excess is *totalization* (`e_C`), [[self-application|recursive marking]]'s excess is *regress* (`e_M`), and each is exactly the channel through which the other is regulated — the architecture named by [[semantic-closure-and-recursive-marking|Semantic Closure and Recursive Marking]] and [[no-escape-no-exemption|No Escape, No Exemption]]. This is cross-regulation, **not circular proof**: see [[cross-regulated-necessity|Cross-Regulated Necessity]].
-- **Love ⇋ Fear ⇒ Submission** contends; it does not add and does not gate. **Fear appears here and only here** among the Forces — as an ingredient of [[submission|Submission]] and, elsewhere, as the object [[reconciliation|Reconciliation]] reconciles. There is **no edge from Fear into Reconciliation** (the [[fear-guard|fear-guard]]).
+- **Love ⇋ Fear ⇒ Submission** shows the composition of Submission. **Apology → Gratitude ⇒ Reconciliation** shows the repair sequence represented in this graph. Compositional edges identify participating regulators; an object of a process belongs to a different relation type.
 - **Apology → Gratitude ⇒ Reconciliation** is one-way sequential gating: own the self-model error first, then carry undischarged received value outward. It is not, and must not be drawn as, a symmetric pairing.
 - **corrective-layer ⇾ governed-layer** is directional leverage: correction counts only if it retains the power to inhibit, revise, delete, or retype what it governs. Its failure mode is [[capture-of-corrective-layer|capture]]; its success is [[effective-and-ornamental-answerability|effective, not ornamental, answerability]].
 
@@ -103,7 +103,7 @@ The [[transparentocracy-as-cross-regulation|VLS ⟷ Transparentocracy]] and [[co
 
 Because the page is Exposition, its kill condition is a **fidelity** condition, not a doctrinal one. The rendering fails if any of the following holds and cannot change the graph:
 
-- an edge is drawn whose direction, type, or emergent label the source page does not state — for example, a symmetric back-edge on the sequential Apology→Gratitude coupling, or a Fear→Reconciliation edge that violates the [[fear-guard|fear-guard]];
+- an edge is drawn whose direction, type, or emergent label the source page does not state — for example, a symmetric back-edge on the sequential Apology→Gratitude coupling;
 - a coupling the source pages require is **absent** from both the graph and this text alternative;
 - the graph and its `wiki-couplings.json` source diverge, so the picture can no longer be checked against the data;
 - a cross-regulation edge is presented as a *proof* that the pair certifies itself, rather than as the mutual bounding of each term's excess.
@@ -114,7 +114,7 @@ Any such divergence is logged, per [[reciprocal-attack-surfaces|the attack rule]
 
 - **⊕ as `+`.** Reading any edge as addition, sum, or synthesis is the [[cardinal-error|cardinal error]]. Every edge is coupled-controller wiring; the emergent property lives in the coupling, never inside a node.
 - **Symmetry everywhere.** Not every edge is two-way. [[sequential-gating|Sequential gating]] (Apology→Gratitude ⇒ Reconciliation) and directional leverage (corrective ⇾ governed) are one-way by construction; drawing them as mutual misreads the Force and the answerability relation.
-- **Fear inside Reconciliation.** Fear is an ingredient of [[submission|Submission]] and the object [[reconciliation|Reconciliation]] reconciles — never an edge *into* Reconciliation. The graph has no such edge, and none may be added.
+- **Composition and object.** A relation to an object does not specify the components from which a process emerges. Label these relation types separately.
 - **The operational view as a derivation.** This is the cyclic, feedback-bearing view. Do not read its returns as derivational dependencies; the acyclic order lives on [[decompression-map|The Decompression Map]]. Collapsing the two produces a false derivational cycle.
 - **Cross-regulation as circular proof.** A mutual edge does not mean the pair justifies itself in a circle. Each term bounds the *characteristic excess* of the other; isolation produces distinct, testable failures — this is [[cross-regulated-necessity|necessity, not circularity]].
 - **The highlighted set as complete, or the counts as forced.** The seven couplings are a selected view and the node set is a **CV** carving. No count on this page — of nodes, edges, or couplings — is exempt from contest; a better rendering may recut it.

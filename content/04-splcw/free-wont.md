@@ -52,5 +52,4 @@ Free won't is **not** free will rebranded. It does not restore self-origination,
 - [[splcw|SPLCW]]
 - [[ultimental-life|Ultimental Life]]
 - [[regulated-error-signal|The Regulated Error Signal]]
-- [[fear-guard|The Fear-Guard]]
 - [[mortality-hevel|Mortality / Hevel]]

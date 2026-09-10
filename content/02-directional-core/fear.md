@@ -18,13 +18,13 @@ Fear is the framework's clearest case of a falsified claim being rolled back. Ea
 
 Fear sits on the [[selection-axis|Selection axis]] — the side of a transformation step that decides what is admitted or excluded. Its counterpart is [[love|Love = (toward, relational gap)]], which runs the opposite primitive ([[toward|toward]]) under the relational gap. Love admits and draws in; Fear excludes and pushes off. The two are settings of one axis, which is why they can be coupled.
 
-## Role in the wider framework, and the fear-guard
+## Role in the wider framework
 
-Fear is one of the four cornerstone [[predicate-binding|bindings]], stated verbatim across the [[canon|canon]]. It is an ingredient of [[submission|Submission = Love ⊕ Fear]], coupled with [[love|Love]] by [[opposed-gradient-contention|opposed-gradient contention]]. But Fear's compositional role is fenced by a hard rule, the [[fear-guard|fear-guard]]: Fear is an ingredient of Submission and is the *object* that [[reconciliation|Reconciliation]] reconciles, but it is **never** an ingredient of Reconciliation itself. Reconciliation is built from [[apology|Apology]] and [[gratitude|Gratitude]]; smuggling Fear into it would mean reconciling by intimidation, which the framework explicitly forbids. The fear-guard is one of the framework's diagnostic tripwires for a corrupted composite.
+Fear couples with [[love|Love]] in [[submission|Submission = Love ⊕ Fear]]. Its boundary regulation sustains distinction within relation. Like any other possible object, Fear may be reconciled through [[reconciliation|Reconciliation]]; it has no privileged place among that process’s objects.
 
 ## Common misreadings
 
-First and worst: reading Fear as a primitive rather than a binding over [[away|away]] — the cardinal inversion. Second: giving Fear the error signal "integrity" — that axis was a hallucination and is withdrawn; the signal is *boundary violation*. Third: letting Fear appear inside Reconciliation — barred by the fear-guard. Fourth, the general one: identifying Fear with its surface symptoms instead of the boundary being defended.
+Fear is a binding of Away to boundary violation. Its actuator, regulated discrepancy, and expressions have different roles: the binding directs boundary regulation, while particular symptoms or actions express its operation in context.
 
 > **Formal status.** Epistemic: Derived, authority-canonical — fixed verbatim by the controlling authority; contestable by contesting the authority. Alethic: the binding aspires to map the regulated error actually driving the named emotion; extract the regulated error, not the surface delivery channel. Provenance: **canonical**, fixed verbatim across the canon; the reversion from "integrity" to "boundary violation" is **treatise-side** correction of a withdrawn hallucination.
 
@@ -35,6 +35,5 @@ First and worst: reading Fear as a primitive rather than a binding over [[away|a
 - [[regulated-error-signal|The Regulated Error Signal]] — Fear's signal is boundary violation
 - [[love|Love = (toward, relational gap)]] — its Selection-axis counterpart
 - [[submission|Submission = Love ⊕ Fear]] — the composite Fear enters
-- [[fear-guard|The Fear-Guard]] — Fear is never an ingredient of Reconciliation
 - [[selection-axis|The Selection Axis]] — toward / away, the axis of Fear's actuator
 - [[cardinal-error|The Cardinal Error]] — the prohibition that protects Fear's status

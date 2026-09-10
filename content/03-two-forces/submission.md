@@ -24,15 +24,15 @@ Because Submission is produced by coupling, its pathologies are coupling failure
 
 ## Role in the wider framework
 
-Submission is the [[selection-axis|Selection]]-axis Force, the one half of the framework's account of how a self is moved; its sibling is [[reconciliation|Reconciliation]], the [[routing-axis|Routing]]-axis Force, which couples by [[sequential-gating|sequential gating]] rather than contention. The asymmetry between the two coupling-modes is not stipulated but produced: Selection controllers act on the *same* domain-side and so oppose, where Routing controllers act on the codomain-side in temporal order and so gate. Submission also stands in a sharply defined relation to [[fear|Fear]], spelled out by the [[fear-guard|Fear-guard]].
+Submission couples the [[selection-axis|Selection-axis]] bindings, Love and Fear, through [[opposed-gradient-contention|opposed-gradient contention]]. [[reconciliation|Reconciliation]] is its Routing-axis counterpart, emergent from Apology and Gratitude. Each Force is identified by its composition and the participation it enables.
 
 ## Common misreadings
 
-Do not read Submission as a static state in which "Love AND Fear both hold" — it is a dynamic regulator, and reading it as conjunction is the [[cardinal-error|Cardinal Error]] applied to this Force. Note too that Submission **contains** Fear as a load-bearing controlling gradient — one of its two coupled primitives, without which it would be undefended fusion. This is the exact *opposite* of [[reconciliation|Reconciliation]]'s relation to Fear: Reconciliation never contains it. Finally, distinguish two independent marks — the *pairing and coupling-mode* are canonical, while the *count* of Forces (that there are exactly two) is a contestable carving belonging to [[force|Force]], not to Submission itself.
+Submission is a coupled regulator. Love sustains relation and Fear sustains boundary; their interaction makes yielding within a maintained distinction possible. The two components are [[predicate-binding|bindings]]. The pairing, its dynamics, and the enumeration of named Forces are distinct claims with their own marks.
 
 ## Formal status
 
 > **Submission. E:** Derived, authority-canonical for the pairing and coupling-mode and for the named pathologies (fixed by the controlling authority). The exact label "opposed-gradient contention" is treatise-side carving (CV). **A:** The trapped form and the gain-dominance modes aspire to map real failure dynamics of the vertical relation, and map them accurately. **Provenance:** canonical for the pairing, coupling-mode, and named pathologies; the "opposed-gradient contention" label is treatise-side; the seed's "+" formulation and "continued participation under limit" gloss are seed, retained as restored shorthand.
 
 ## See also
-[[force|Force (the ⊕ coupled-controller)]] · [[reconciliation|Reconciliation = Apology ⊕ Gratitude]] · [[opposed-gradient-contention|Opposed-Gradient Contention]] · [[love|Love]] · [[fear|Fear]] · [[trapped-form|The Trapped Form]] · [[fear-guard|The Fear-Guard]] · [[selection-axis|The Selection Axis]] · [[cardinal-error|The Cardinal Error]]
+[[force|Force (the ⊕ coupled-controller)]] · [[reconciliation|Reconciliation = Apology ⊕ Gratitude]] · [[opposed-gradient-contention|Opposed-Gradient Contention]] · [[love|Love]] · [[fear|Fear]] · [[trapped-form|The Trapped Form]] · [[selection-axis|The Selection Axis]] · [[cardinal-error|The Cardinal Error]]

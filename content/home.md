@@ -105,7 +105,6 @@ Substrate-neutral units of participation, and the levels at which identity is pr
 - [[force|Force (the ⊕ coupled-controller)]]
 - [[submission|Submission = Love ⊕ Fear]] · [[opposed-gradient-contention|Opposed-Gradient Contention]] · [[trapped-form|The Trapped Form]]
 - [[reconciliation|Reconciliation = Apology ⊕ Gratitude]] · [[sequential-gating|Sequential Gating]] · [[sentimental-form|The Sentimental Form]]
-- [[fear-guard|The Fear-Guard]]
 
 ## IV. SPLCW
 

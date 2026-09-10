@@ -2,7 +2,7 @@
 
 # The Witness Outside the Ring
 
-**The Witness Outside the Ring** is the principle that the one who *answers* for an act — who can be asked "did you do this truly, or did you fasten yourself to a lie?" — can never be the same agent who performed the act. Accountability, in this framework, is a seat that the maker structurally cannot occupy and certify from inside. The phrase pictures the five faculties of meaning-making as a closed ring; the witness is the figure standing *outside* it, the only one who can hold the ring to account, precisely because no one inside can vouch for themselves.
+**The Witness Outside the Ring** names the independence through which an act remains answerable to consequences and correction. The participant can explain, assess, and correct its own act; it cannot make its own assessment the final authority that excludes every other corrective influence.
 
 ## The core claim
 

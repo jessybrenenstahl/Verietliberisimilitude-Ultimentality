@@ -798,12 +798,6 @@
     "target_in_wiki": true
   },
   {
-    "source": "fear-guard",
-    "target": "emotion-as-regulated-binding",
-    "relation": "regulates",
-    "target_in_wiki": true
-  },
-  {
     "source": "externality-without-extra-symbolic-access",
     "target": "closure read as self-enclosure",
     "relation": "regulates",

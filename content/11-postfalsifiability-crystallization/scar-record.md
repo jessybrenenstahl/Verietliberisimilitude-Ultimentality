@@ -53,7 +53,7 @@ failure: a cornerstone emotion read as a primitive (the cardinal error), collaps
 corrective_change: split the primitive layer from the binding layer; fix B(p) = (p, e_p) as an ordered binding, never an addition
 present_constraint: no page may call an emotion a primitive, and no binding may be written as a sum
 regression_test: any page asserting "emotion X is a primitive," or reading ⊕/+ as addition, fails the lint
-affected_pages: [predicate-binding, love, fear, apology, gratitude, cardinal-error, fear-guard]
+affected_pages: [predicate-binding, love, fear, apology, gratitude, cardinal-error]
 ```
 
 Operationally the record has two surfaces: a **compact scar box** on each affected page, carrying the target-local subset of fields so a reader meets the reason where the constraint lives; and one **global scar index** — this register — holding the full entries so no scar is visible only from inside the structure it defends. The box is the local witness; the index is the shared witness. Neither replaces the other.

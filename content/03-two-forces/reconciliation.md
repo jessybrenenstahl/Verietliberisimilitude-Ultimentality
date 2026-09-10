@@ -2,11 +2,11 @@
 
 # Reconciliation
 
-**Reconciliation** is the framework's name for *making-whole-again* — the controlled process of repairing a breach by owning one's own part in it and then passing forward more than was broken. Where [[submission|Submission]] governs how a self stands before what exceeds it, Reconciliation governs how a self mends what has gone wrong, which is why the framework calls it the **restorative relation**. It is not a feeling of having forgiven or been forgiven; it is the active, ordered work of repair.
+**Reconciliation** is the Force emergent from [[apology|Apology]] and [[gratitude|Gratitude]]. Their coupled operation makes renewed participation possible through inward correction and outward carrying of value. Reconciliation can concern any object; its identity lies in the process, rather than in a privileged kind of object.
 
 ## What it is made of
 
-Reconciliation is one of the framework's two [[force|Forces]], and like every Force it is a coupling rather than a sum. It couples [[apology|Apology]] and [[gratitude|Gratitude]] — the [[routing-axis|Routing]] pair, the two codomain-side controllers — by the coupling-mode the treatise calls [[sequential-gating|sequential gating]]. In the operator's notation, *Reconciliation = Apology ⊕ Gratitude*. The seed letter's plus-sign form, *Apology + Gratitude*, survives only as restored shorthand: Reconciliation is *not* the arithmetic sum of the two. And it is built from those two ingredients and **those two only** — a point the [[fear-guard|Fear-guard]] protects with unusual force.
+Reconciliation is a [[force|Force]] emergent from [[apology|Apology]] and [[gratitude|Gratitude]]: **Reconciliation = Apology ⊕ Gratitude**. The inward correction and outward carrying of value work together to renew participation. Their composition identifies the process; the object being reconciled identifies what the process concerns.
 
 ## How it works
 
@@ -38,15 +38,15 @@ Its pathologies are gating failures:
 
 ## Role in the wider framework
 
-Reconciliation is the [[routing-axis|Routing]]-axis Force, the restorative half of the framework's account of how a self is moved; its sibling is [[submission|Submission]], the [[selection-axis|Selection]]-axis Force, which couples by [[opposed-gradient-contention|contention]] rather than gating. The two are not interchangeable, and the framework treats their conflation as a serious loss — most pointedly through the [[fear-guard|Fear-guard]]. Reconciliation is also the work whose absence produces Submission's [[trapped-form|trapped form]]: a self that submits but never repairs has no path out of its own lock-up.
+Reconciliation is the [[routing-axis|Routing]]-axis Force. Its sibling, [[submission|Submission]], couples Love and Fear. The two Forces perform distinct work in participation. Reconciliation can renew participation where an existing relation has become trapped; this is one application of a process whose objects are unrestricted.
 
 ## Common misreadings
 
-The cardinal prohibition here is the [[fear-guard|Fear-guard]]'s: **never restate Reconciliation as "apology applied to fear."** [[fear|Fear]] is the *object* Reconciliation reconciles — the wound, the breach, the threat it heals — not a component of the operation. To put Fear *inside* Reconciliation is to confuse the wound with the healing. Reconciliation is also not static conjunction; it is a dynamic regulator that gates in order, and reading it as "Apology AND Gratitude both hold" is the [[cardinal-error|Cardinal Error]] applied to this Force. As with its sibling, the *pairing and coupling-mode* are canonical while the *count* of Forces is a contestable carving belonging to [[force|Force]].
+Reconciliation can concern any object of the process. No particular emotion, experience, or kind of conflict defines or privileges its scope. Its identity lies in the emergent relation of Apology and Gratitude, and its effectiveness in the renewed participation that relation makes possible. A description of its object must preserve that distinction from its composition.
 
 ## Formal status
 
 > **Reconciliation. E:** Derived, authority-canonical for the pairing and coupling-mode and for the named pathologies (fixed by the controlling authority). The exact label "sequential gating" is treatise-side carving (CV). **A:** The sentimental and guilt-loop modes aspire to map real failure dynamics of the restorative relation, and map them accurately. **Provenance:** canonical for the pairing, coupling-mode, and named pathologies; the "sequential gating" label is treatise-side; the seed's "+" formulation and "inward correction" gloss are seed, retained as restored shorthand.
 
 ## See also
-[[force|Force (the ⊕ coupled-controller)]] · [[submission|Submission = Love ⊕ Fear]] · [[sequential-gating|Sequential Gating]] · [[apology|Apology]] · [[gratitude|Gratitude]] · [[sentimental-form|The Sentimental Form]] · [[fear-guard|The Fear-Guard]] · [[routing-axis|The Routing Axis]] · [[cardinal-error|The Cardinal Error]]
+[[force|Force (the ⊕ coupled-controller)]] · [[submission|Submission = Love ⊕ Fear]] · [[sequential-gating|Sequential Gating]] · [[apology|Apology]] · [[gratitude|Gratitude]] · [[sentimental-form|The Sentimental Form]] · [[routing-axis|The Routing Axis]] · [[cardinal-error|The Cardinal Error]]

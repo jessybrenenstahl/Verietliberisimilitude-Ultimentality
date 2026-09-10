@@ -28,7 +28,7 @@ The falsification standard is the operational form of the framework's deepest co
 
 ## What a valid attack must satisfy
 
-The three gates decide *admission*; a further discipline governs *refutation itself*, so the standard cannot be dodged by a well-aimed objection landing in the wrong place, nor by a missed objection being laundered into support. An attack counts against a load-bearing claim only when it meets all eight of the following, and an admitted claim survives only until one of them is met:
+The three gates decide *admission*; a further discipline governs *refutation itself*, so the standard cannot be dodged by a well-aimed objection landing in the wrong place, nor by a missed objection being laundered into support. The following requirements govern how an attack is formulated, evaluated, and recorded. Naming a valid target admits examination; a demonstrated failure of the claim warrants a change. The outcome is classified after that examination:
 
 1. **The attack type matches the claim type.** A frame condition is contested by frame declension or internal incoherence; a carving or count by counter-instance or a better carving; a binding by a wrong actuator, error, or causal effect; a coupled controller by a removal test. Pairing attack to claim is what [[attack-type-matching|attack-type matching]] tabulates.
 2. **The attack occurs at the same abstraction level.** A process offered against an operator, a substrate against a function, a token against a type, does not reach the claim — the [[same-level-attack-rule|same-level attack rule]].

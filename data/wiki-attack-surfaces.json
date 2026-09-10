@@ -282,8 +282,7 @@
     "regulator": [
       "predicate-binding",
       "regulated-error-signal",
-      "causal-error-mark",
-      "fear-guard"
+      "causal-error-mark"
     ],
     "isolation_failure": "Restated without the general binding model it decays to four labels; restated without the four bindings it becomes an empty schema that regulates nothing.",
     "kill_condition": "The model cannot tell the four emotions apart except by importing their ordinary names.",
