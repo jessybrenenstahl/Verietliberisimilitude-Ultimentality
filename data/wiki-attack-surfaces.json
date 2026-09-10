@@ -16,7 +16,7 @@
   {
     "component": "attack-type-matching",
     "claim_type": "Mixed",
-    "valid_attack": "Exhibit a content-bearing claim whose only honest attack is none of the listed types, two types that never separate under any discriminating attack, or a listed attack that cannot in fact reach its claim-type.",
+    "valid_attack": "Show that a row misstates commitments, omits relevant criticism, or falsely makes routes exclusive.",
     "invalid_attacks": [],
     "regulator": [
       "outcomes-of-attack",
@@ -24,8 +24,8 @@
       "causal-falsifiability",
       "strengthening-without-absolutization"
     ],
-    "isolation_failure": "Without outcome and causal tests it hardens into a gatekeeper's shield that dismisses objections by type-label; without type-matching every objection counts equally and the type boundaries dissolve.",
-    "kill_condition": "A same-level, well-typed counterexample is dismissed only by arbitrary retyping, or the listed claim-types cannot be separated from one another.",
+    "isolation_failure": "A table used without examining its target can become gatekeeping; absent labels alone do not erase reasoned relevance.",
+    "kill_condition": "The classification systematically misroutes relevant criticism or requires arbitrary retyping.",
     "tests": []
   },
   {
@@ -625,7 +625,7 @@
   {
     "component": "refutation-and-frame-declension",
     "claim_type": "CV",
-    "valid_attack": "Exhibit a third irreducible mode of attack the binary cannot represent, or show the refutation/declension boundary is undecidable in a load-bearing case.",
+    "valid_attack": "Show that the distinction misclassifies an argument, excludes mixed challenges, or attributes an unsupported cost to declining a frame.",
     "invalid_attacks": [],
     "regulator": [
       "same-level-attack-rule",
@@ -633,8 +633,8 @@
       "causal-falsifiability",
       "refusal-as-participation"
     ],
-    "isolation_failure": "Refutation alone totalizes the frame as the only sayable vocabulary; declension alone lets every internal contradiction be dodged, sealing the frame.",
-    "kill_condition": "An internal contradiction is repeatedly rerouted into declension at no recorded cost, or rival frames share no consequence on which either mode can be adjudicated.",
+    "isolation_failure": "Excluding frame declension can restrict criticism; relabeling every objection as declension can protect internal errors.",
+    "kill_condition": "The method systematically misclassifies disputes or shields internal errors from examination.",
     "tests": []
   },
   {
@@ -656,15 +656,15 @@
   {
     "component": "same-level-attack-rule",
     "claim_type": "CV",
-    "valid_attack": "Show that the eight-level carving misclassifies a genuine same-level counterexample, or that a retyping used to reject an attack cannot be grounded in a stated, reusable type distinction.",
+    "valid_attack": "Show that the relevance rule excludes a valid challenge, admits target substitution, or permits arbitrary relabeling.",
     "invalid_attacks": [],
     "regulator": [
       "self-sealing-test",
       "causal-falsifiability",
       "refutation-and-frame-declension"
     ],
-    "isolation_failure": "Without the appeal path the rule self-seals into a shield that rejects any counterexample as wrong-level; without the rule every category-error observation counts as refutation and the type discipline collapses.",
-    "kill_condition": "Produce a same-level counterexample that is dismissed only by arbitrary retyping.",
+    "isolation_failure": "Level labels without an appealable relevance argument can shield claims; unexamined relevance can misreport neighboring observations as defeats.",
+    "kill_condition": "The method systematically rejects relevant criticism or cannot distinguish target substitution from valid challenge.",
     "tests": []
   },
   {
