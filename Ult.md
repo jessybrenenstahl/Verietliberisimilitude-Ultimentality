@@ -606,7 +606,7 @@
 
    **9.72** Such conduct neither self-exalts nor self-erases.
 
-   **9.73** Fregorek is evidenced where fault is owned, value is carried, and action continues without self-justification.
+   **9.73** Fregorek is evidenced where the self-model is corrected, value is carried, and action continues without self-justification.
 
 ---
 

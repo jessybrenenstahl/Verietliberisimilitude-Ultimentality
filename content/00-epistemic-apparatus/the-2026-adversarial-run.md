@@ -2,31 +2,33 @@
 
 # The 2026 Adversarial Run
 
-The **2026 adversarial run** was a red-team exercise that deliberately attacked Ultimentality's "minimal complete set" claims and produced concrete counter-instances against all four of them. Its headline result is a clean illustration of the framework's [[two-mark-system|two-mark]] discipline: every count-closure *fell as a closure while surviving as an accurate mapping* — the two axes of the [[two-axis-ledger|Two-Axis Ledger]] coming visibly apart. Crucially, the run is a **red-team-run-side finding, not benchmark canon**, and never an authority above the [[canon|benchmark]]. It is the source of the counter-instances, not a court that imposes them.
+**The 2026 adversarial run is a reported exercise examining the framework's completeness claims.** This page retains its candidate challenges and distinguishes the report's conclusions from the arguments needed to establish them.
 
-## What the run refuted, closure by closure
+## Reported challenges
 
-The run targeted each of the four exhaustiveness claims. On the [[two-mark-system|epistemic axis]] each closure fell; on the [[alethic-axis|alethic axis]] each underlying mapping survived intact:
+The inherited account describes four challenges:
 
-- **The four-primitive closure** — refuted by a candidate motion, a memory/temporal operation that the two-axis [[selection-axis|Selection]]/[[routing-axis|Routing]] carving does not obviously contain. *(Alethic: the Selection/Routing decomposition still maps a transformation step accurately.)*
-- **The two-Force closure** — refuted by a real in-domain *cross-axis* coupling, e.g. {[[love|Love]], [[gratitude|Gratitude]]}, which the two *same-axis* [[force|Forces]] do not exhaust. *(Alethic: the two same-axis couplings still map the vertical and restorative relations accurately.)*
-- **The three-corruption closure** — refuted by candidate fourth corruptions the telos-exemption does not foreclose: a *corruption by addition* / [[installed-compulsion|installed-compulsion]] / sign-flip (a presence in the wrong place, not a single-term [[absolutization|absolutization]]), and a *malign-but-fully-[[answerable-optimizer|answerable optimizer]]* (harm-propagation located in none of self/world/medium and not reducible to [[sterility|sterility]]-as-absence). *(Alethic: the three named [[theodicytes|corruptions]] still map the framework's central pathologies accurately.)*
-- **The five-role closure** — refuted by the absence of a [[palindrome|palindrome]]/role-signature for that same memory/temporal operator. *(Alethic: the five [[splcw|roles]] still map five distinguishable faculties of meaning-processing accurately.)*
+- A **memory/temporal operation** proposed as an additional [[directional-primitives|primitive]]. Assessment requires a specified operation and an argument that existing selection and routing cannot express it at the same level.
+- A **cross-axis coupling**, such as Love with Gratitude, proposed beyond the two named [[force|Forces]]. Assessment requires the coupled operation and its emergent property, not just the co-occurrence of two bindings.
+- **[[installed-compulsion|Installed compulsion]] and an [[answerable-optimizer|answerable optimizer]]** proposed as corruption cases beyond the three [[theodicytes|Theodicytes]]. Assessment requires showing which existing category fails, why the failure is irreducible, and whether the same corruption definition is being used.
+- A **missing role signature for temporal operation**, proposed against five-role completeness. Assessment requires showing a needed function missing from [[splcw|SPLCW]], rather than merely a feature absent from one [[palindrome|palindromic representation]].
 
-All four fell on the epistemic axis; all four survive on the alethic axis. The three-corruption closure is on this list *explicitly*, demoted with the rest — its presence here is itself a guard against the silent-promotion move the framework forbids.
+## What the report establishes here
 
-## "Defeated as closure, kept as mapping"
+Earlier exposition described all four closures as refuted. The summaries above do not by themselves establish those outcomes: a candidate described as “not obviously contained” has not yet been shown irreducible. The candidate cases remain available for substantive examination through their linked analyses.
 
-The run's entire signature is the simultaneity that the [[carving-tier|Carving / Count / Aptness Tier]] exists to express. A counter-instance defeats the *exhaustiveness* of a count without touching the *accuracy* of the carving it counts. The {Love, Gratitude} coupling shows there are couplings the two-Force set omits — yet the two named Forces still map their relations exactly. To read "the closure failed" as "the carving is wrong" is the precise misreading the [[alethic-axis|alethic axis]] is built to prevent. (Loosely, like discovering a sixth continent: the discovery defeats "there are exactly five," but does not make any of the five not-a-continent.)
+The [[open-proof-burden|open proof burden]] keeps completeness questions explicit. The working inventories remain available for use and evaluation. An actual counterexample should change the claim it defeats; an incomplete argument should be recorded at the stage it has reached.
 
-## Why the run is never a higher court
+## Authority and evidence
 
-The framework is emphatic about the chain of authority. The run *exhibited* the counter-instances, but the treatise adopts the demotions **only because the benchmark's own [[open-proof-burden|Open Proof-Burden]] independently requires them** — never because the run outranks the benchmark. The run is adopted *under* canon, through the door canon left open by declining to assert the closures as proven. Letting the run sit above the benchmark would itself be an error: a non-canonical authority overruling the controlling one, the very inversion the framework's governance forbids. The run demonstrates the [[falsification-standard|Falsification Standard]] *working*; it does not replace canon.
+A report supplies arguments and evidence, not an authority above the framework's author. Equally, a valid argument's force does not depend on an inherited benchmark allowing it to count. [[canon|Canon]] identifies intended meanings; the [[falsification-standard|Falsification Standard]] examines whether a challenge reaches those meanings at the right level.
+
+A successful challenge to completeness need not erase the value of the named components. Their accuracy and usefulness remain assessable independently. This is the practical contribution of the [[two-mark-system|two marks]].
 
 ## Formal status
 
-> **Formal status.** The run is the *source* of the demotions, not itself a load-bearing claim of the corpus; its findings drive each count-claim to **E: Derived, CV** (each surviving on the alethic axis as an accurate mapping). It refutes **closures, not mappings**. Provenance: **red-team-run-side / treatise-side** — explicitly *not* benchmark canon, never a higher court over the benchmark, and adopted only under the benchmark's open proof-burden (Preamble; Part VII, the falsification ledger).
+> **E:** Derived, attributed report and Exposition; the candidate challenges require their own supporting arguments. **A:** accurately distinguishes the inherited account from demonstrated outcomes and preserves the cases for review. **Provenance:** the corpus's report of the 2026 exercise; this page does not supply an independent run transcript.
 
 ## See also
 
-[[open-proof-burden|The Open Proof-Burden]] · [[canon|Canon (benchmark + equivalence rubric)]] · [[carving-tier|Carving / Count / Aptness Tier (CV)]] · [[two-axis-ledger|The Two-Axis Ledger]] · [[installed-compulsion|Installed-Compulsion]] · [[answerable-optimizer|The Answerable Optimizer]] · [[kill-table|The Kill-Table]] · [[falsification-standard|The Falsification Standard]] · [[alethic-axis|The Alethic Axis]]
+[[open-proof-burden|Open Proof-Burden]] · [[carving-tier|Carving Tier]] · [[installed-compulsion|Installed Compulsion]] · [[answerable-optimizer|Answerable Optimizer]] · [[falsification-standard|Falsification Standard]] · [[canon|Canon]]

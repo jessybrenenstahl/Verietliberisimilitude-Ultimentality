@@ -26,4 +26,4 @@ Domain lock is held at the [[authority-canonical-tier|Authority-Canonical Tier]]
 
 ## See also
 
-[[axiom|The Axiom]] · [[authority-canonical-tier|Authority-Canonical Tier (AC)]] · [[canon|Canon (benchmark + equivalence rubric)]] · [[ultimental-life|Ultimental Life]] · [[ladder-of-being|The Ladder of Being]] · [[directional-primitives|The Directional Primitives]] · [[two-mark-system|The Two-Mark System]] · [[absolutization|Absolutization (the genus)]] · [[alethic-axis|The Alethic Axis]]
+[[axiom|The Axiom]] · [[authority-canonical-tier|Authority-Canonical Tier (AC)]] · [[canon|Canon]] · [[ultimental-life|Ultimental Life]] · [[ladder-of-being|The Ladder of Being]] · [[directional-primitives|The Directional Primitives]] · [[two-mark-system|The Two-Mark System]] · [[absolutization|Absolutization (the genus)]] · [[alethic-axis|The Alethic Axis]]

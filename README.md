@@ -31,7 +31,7 @@ The `content/` tree is a self-contained **relicquary** of markdown relics — sl
 
 - Pages cross-link with double-bracket `[[slug|Title]]` wikilinks.
 - Every page opens with a `[[home|← Ultimentality Wiki]]` backlink and ends with a **Formal status** box carrying its independent **E** / **A** / **Provenance** marks, then a **See also**.
-- Provenance is flagged honestly: **canonical** (benchmark-fixed), **treatise-side** (the writer's scaffolding), or **seed**. Treatise-side *extension* pages live in `content/extensions/`.
+- Provenance is flagged honestly: **canonical** (authorized framework content), **treatise-side** (the writer's scaffolding), or **seed**. Treatise-side *extension* pages live in `content/extensions/`.
 - Nothing treatise-side is silently promoted to canonical/foundational — that move is the framework's own forbidden error (the *textual Nephilim*). See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Build & validate locally

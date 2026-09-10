@@ -35,7 +35,7 @@ This is a *canonical* cap, not a claim about metaphysical impossibility; one con
 - [[human-gloss|The Human Gloss]] — the rich register illegitimately used as the argumentative source.
 - [[axiom|The Axiom]] — the single sentence whose two registers must stay marked.
 - [[authority-canonical-tier|Authority-Canonical Tier (AC)]] — the tier this cap occupies.
-- [[canon|Canon (benchmark + equivalence rubric)]] — the controlling authority that imposes the cap.
+- [[canon|Canon]] — the controlling authority that imposes the cap.
 - [[textual-nephilim|The Textual Nephilim]] — the kindred error of self-certification on the page.
 - [[integrity-rule|The Integrity Rule]] — the rule against silently promoting a claim's tier.
 - [[two-mark-system|The Two-Mark System]] — the marking discipline that prevents the equivocation.

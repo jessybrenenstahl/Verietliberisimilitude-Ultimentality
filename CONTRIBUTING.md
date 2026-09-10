@@ -29,8 +29,8 @@ This repository is a **wiki-as-codebase**: the content *is* the source, and it i
 ## The marking discipline (non-negotiable)
 
 - Every load-bearing claim carries **both** an epistemic (**E**) and an alethic (**A**) mark, kept independent. "Contestable" never means "probably wrong" or "merely optional."
-- Flag provenance honestly: **canonical** (benchmark-fixed), **treatise-side** (scaffolding / extension), or **seed**.
-- Do **not** promote a treatise-side or carving-tier claim to canonical/foundational — that is the framework's own forbidden move, the *textual Nephilim*. New pages default to **treatise-side / CV** unless they restate canonical content.
+- Flag provenance honestly: **canonical** (authorized framework content), **treatise-side** (scaffolding / extension), or **seed**.
+- Keep editorial interpretation distinct from authorized definitions. Author corrections govern the intended meaning; a source label or inherited rubric cannot override them. New explanatory proposals should identify their own grounds and provenance. Warranted strengthening is available, while no formulation gains immunity from correction.
 - Where a genuine tension is unresolved, mark it **Open** and leave it open; do not close it silently.
 
 ## Before you commit
@@ -38,7 +38,7 @@ This repository is a **wiki-as-codebase**: the content *is* the source, and it i
 Run the validator (CI enforces the same check):
 
 ```
-make check      # tools/check_links.py — fails on any dangling [[wikilink]] or missing backlink
+make check      # validates links/data references and tests generated reference publication
 ```
 
 If you touched the pipeline or want to preview the site:

@@ -6,7 +6,7 @@ The **fifteen-interlocutor adversarial run** is a second red-team exercise: fift
 
 > This run is a source of counter-instances, pressure tests, clarifications, and candidate revisions. It does **not** establish a new authority tier. A survived attack is **not** confirmation. A landed attack changes only the page or relation it actually reaches. A frame declension is recorded as frame declension, not internal refutation.
 
-Every interlocutor here is a *simulated* position, and a simulated interlocutor cannot promote, demote, or canonize a framework term. The run exhibits attacks; it is never a court above the [[canon|benchmark]]. Where an edit follows, it was adopted only because an **owning page** independently had room for it under the benchmark's [[open-proof-burden|open proof-burden]] — never because the run outranks anything.
+Every interlocutor here is a *simulated* position. Its argument can reveal a real error, but the simulated speaker's name supplies no additional authority. An edit should follow from the argument and the target's actual meaning, evaluated through the [[falsification-standard|Falsification Standard]] and subsequent author clarification.
 
 ## The run ledger
 
@@ -50,4 +50,4 @@ The run generated five proposed additions. Each was tested by substitution and r
 
 ## See also
 
-[[the-2026-adversarial-run|The 2026 Adversarial Run]] · [[open-proof-burden|The Open Proof-Burden]] · [[canon|Canon (benchmark + equivalence rubric)]] · [[falsification-standard|The Falsification Standard]] · [[outcomes-of-attack|The Outcomes of Attack]] · [[refutation-and-frame-declension|Refutation and Frame Declension]] · [[same-level-attack-rule|The Same-Level Attack Rule]] · [[kill-table|The Kill-Table]] · [[textual-nephilim|The Textual Nephilim]]
+[[the-2026-adversarial-run|The 2026 Adversarial Run]] · [[open-proof-burden|The Open Proof-Burden]] · [[canon|Canon]] · [[falsification-standard|The Falsification Standard]] · [[outcomes-of-attack|The Outcomes of Attack]] · [[refutation-and-frame-declension|Refutation and Frame Declension]] · [[same-level-attack-rule|The Same-Level Attack Rule]] · [[kill-table|The Kill-Table]] · [[textual-nephilim|The Textual Nephilim]]

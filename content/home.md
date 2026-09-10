@@ -29,7 +29,7 @@ The whole edition is governed by one posture: every claim is **Derived**, held a
 - [[alethic-axis|The Alethic Axis]]
 - [[semblance|Semblance (not possession)]]
 - [[domain-lock|Domain Lock]]
-- [[canon|Canon (benchmark + equivalence rubric)]]
+- [[canon|Canon]]
 - [[open-proof-burden|The Open Proof-Burden]]
 - [[the-2026-adversarial-run|The 2026 Adversarial Run]]
 - [[the-fifteen-interlocutor-adversarial-run|The Fifteen-Interlocutor Adversarial Run]]

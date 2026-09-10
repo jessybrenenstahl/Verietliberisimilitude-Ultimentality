@@ -762,7 +762,7 @@
   {
     "component": "strengthening-without-absolutization",
     "claim_type": "CV",
-    "valid_attack": "Exhibit a warranted strengthening whose reversal is a genuine category error rather than a suppressed option, or show that strengthening a relation cannot be operationally separated from promoting its wording, authority, or implementation.",
+    "valid_attack": "Show a warranted improvement that these criteria exclude, or an immune claim they incorrectly accept as warranted strengthening.",
     "invalid_attacks": [],
     "regulator": [
       "self-application",

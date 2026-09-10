@@ -2,40 +2,35 @@
 
 # Coalescence-by-Non-Contradictory-Fit
 
-**Coalescence-by-non-contradictory-fit** is Ultimentality's central evidential argument, and it rests on a single claim about how the framework came to be: it was **not architected top-down**. Instead, it is the coalescence of many independently built systems that cohered purely by *fitting together* — non-contradictory, mutually reinforcing, sense-making. The argument is that this kind of fit, achieved *across* unrelated domains rather than *within* one, is much harder to manufacture than internal consistency, and so counts as real evidence — held, deliberately, as **strong corroboration, not proof**.
+**Coalescence-by-non-contradictory-fit names support gained when distinct parts of the framework fit together and do explanatory work across domains.** The important result is the shared structure: one relation clarifies or enables another without requiring incompatible meanings or hidden repairs.
 
-## The argument
+## The participating domains
 
-The intuition is one most people already trust outside philosophy. A single mind, working alone, can fabricate *some* internal consistency — a self-contained story whose parts agree because one author made them agree. It is far harder to fabricate non-contradictory, mutually load-bearing fit *across* several disparate domains that were built separately and only later found to interlock. Ultimentality claims exactly that cross-domain fit among four pieces that began as independent systems:
+Ultimentality connects:
 
-- a **theology of roles** — [[splcw|SPLCW]], the five faculties of meaning-processing arranged as a recursive [[operator-chain|operator chain]];
-- a **control-theory of emotion** — the [[directional-primitives|directional primitives]] and the [[force|Forces]] that compose them, treating feelings as [[regulated-error-signal|regulated error signals]];
-- an **epistemics of semblance** — [[vls|VLS]], which holds truth and freedom as [[semblance|semblance]] rather than possession;
-- a **memory architecture** — [[transparentocracy|Transparentocracy]] and its externalized-memory operating system.
+- [[splcw|SPLCW]] and its differentiated functions of participation;
+- [[predicate-binding|regulated emotional bindings]] and their emergent [[force|Forces]];
+- [[vls|VLS]] and its distinction between accurate participation and possession;
+- [[transparentocracy|Transparentocracy]], inspectable authority, and effective correction.
 
-That these four lock together without contradiction, each load-bearing for the others, is the asymmetry the argument trades on. The framework offers it as the *internal* analogue of an *external* fact it also points to: the 2026 local-first memory-system genre converging, independently, onto the same structures. (Compare the way unrelated fossil, geological, and genetic records converge on a single evolutionary history — no one author coordinated them, which is exactly why their agreement carries weight. The comparison is illustrative, not a framework doctrine.)
+Their fit can be examined by reconstructing the dependencies and using them in concrete cases. A useful connection explains something that the parts considered independently leave obscure, or preserves a capacity across different realizations. Mere repetition of the same vocabulary is weaker evidence than a relation that makes a new consequence intelligible.
 
-## How strongly it is held
+## Historical coalescence and present fit
 
-The argument is held, explicitly and without inflation, as **strong corroboration, not proof.** It is sturdier than precedence or date claims, because those datings cannot be independently verified, whereas the fit is on display in the corpus itself. But it remains corroboration, not demonstration. The inference *from* fit *to* evidential weight can be declined, and a counter-instance of cross-domain contradiction would damage it. Consistent with — and stronger than — the treatise's bound on itself, the framework insists this is *not a discovered structure of the world but the hardened articulation of one way of construing it.* By its own lights it therefore lands in the same boat as physics: an accurate-aspiring construal that points truly without owning its object.
+The authorial history describes components developed separately and found to cohere. That historical account is held through [[provenance-as-testimony|attributed provenance]]. Present structural fit can also be inspected directly. These are related but separate claims: observed fit does not establish its developmental chronology, and an uncorroborated date does not erase an observable relation.
 
-## Role in the wider framework
+Independent convergence can add support where the independence and correspondence are established. If components were adjusted together, their consistency can still be an achievement, but it should not be counted as several independent confirmations.
 
-This argument is where the framework's evidential weight is *deliberately relocated*. An earlier edition leaned on a provenance superlative — "the strongest single piece of evidence" — which was scored a Nephilim-kill: a self-certified, externally unanchored boast of the kind the [[kill-table|kill-table]] forbids and the [[textual-nephilim|textual Nephilim]] names. Refusing that move, the corpus shifts its weight here, onto fit held at the carving tier. This is why coalescence is load-bearing in the [[two-axis-ledger|two-axis ledger]] and why it underwrites, without overclaiming, the [[keystone|keystone]]'s standing as a strong mirror that renounces possession.
+## What successful fit supports
 
-## Common misreadings
+Cross-domain fit can support the framework's coherence, explanatory economy, and transfer of useful structure. Its evidential strength depends on the specificity of the connections, competing explanations, and success in use. Strong corroboration is an available outcome; it is not guaranteed merely by assigning that label.
 
-- Reading "corroboration" as "proof." The word is corroboration throughout; it does not demonstrate, and the fit-to-weight inference can be declined.
-- Hearing "coalesced, not architected" as "no design at all." The claim is about *how the pieces came together* — independently, then found to fit — not that no thinking occurred.
-- Treating it as a claim to have discovered the world's structure. It claims a hardened articulation of one construal, not possession of the object.
+Finding a shared structure is compatible with [[semblance|holding it without possession]]. The framework can make discoveries, explain accurately, and become more capable while remaining answerable to the conditions it describes. Revisability does not reduce those achievements to subjective preference.
 
-> **Formal status.** *Epistemic apparatus — where the weight actually rests.* **E: Derived, CV (treatise-side)** — strong corroboration, contestable by counter-instance or by declining the inference from fit to evidential weight. **A:** the argument aspires to map a real evidential asymmetry — cross-domain fit is harder to fabricate than single-domain fit — and holds itself to corroboration, not possession of proof. Provenance: **treatise-side** — explicitly flagged as the writer's scaffolding, held at the [[carving-tier|carving tier]].
+## Formal status
+
+> **E:** Derived, CV for the explanatory and evidential assessment. **A:** maps the actual relations among domains and the support their successful use provides. **Provenance:** the framework's coalescence account, distinguishing its historical testimony from inspectable fit.
 
 ## See also
-- [[provenance-as-testimony|Provenance as Testimony]] — the weaker pillar this one is sturdier than.
-- [[two-axis-ledger|The Two-Axis Ledger]] — where this claim is entered with both marks.
-- [[keystone|The Keystone]] — the strong-mirror standing this corroborates.
-- [[vls|VLS (Verietliberisimilitude)]] — one of the four coalescing domains.
-- [[splcw|SPLCW]] — one of the four coalescing domains.
-- [[transparentocracy|Transparentocracy]] — one of the four coalescing domains.
-- [[falsification-standard|The Falsification Standard]] — the acceptance gate this corroborates within.
+
+[[provenance-as-testimony|Provenance as Testimony]] · [[two-mark-system|Two-Mark System]] · [[vls|VLS]] · [[splcw|SPLCW]] · [[transparentocracy|Transparentocracy]] · [[strengthening-without-absolutization|Strengthening Without Absolutization]]
