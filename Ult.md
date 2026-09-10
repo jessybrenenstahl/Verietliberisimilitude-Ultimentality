@@ -688,21 +688,21 @@
 
 **11.5 Postfalsifiability is the preservation of causally effective defeat.**
 
-   **11.51** Present invariants are the compressed residue of earlier forms deleted, revised, retyped, or shown by removal and regression tests to be indispensable to a named function.
+   **11.51** Where correction shaped a present invariant, preserve the evidence and functional consequence; do not infer a history of prior defeat from its present form alone.
 
    **11.52** Every present invariant retains a live kill condition.
 
-   **11.53** Postfalsifiability is one continuous operation, not a primitive seed followed by a perfected phase.
+   **11.53** Correction can accumulate through completed episodes and developmental stages without a final exemption.
 
 **11.6 Negative information is selected absence.**
 
-   **11.61** An omitted alternative carries information only where its failure remains encoded as a present constraint.
+   **11.61** A retained exclusion carries its stated grounds as a constraint on reconstruction or action.
 
-   **11.62** Silence without an encoded failure is not information.
+   **11.62** Bare silence does not establish an intended prohibition or prior defeat; an informative absence needs an evidential context.
 
    **11.63** A scar record binds target, failure, corrective change, present constraint, regression test, and affected pages.
 
-   **11.64** A scar is a present structural constraint, not a chronology or origin story.
+   **11.64** A scar explains a present constraint and can retain relevant provenance; origin and present justification remain distinct.
 
 **11.7 Crystallization is compression after selected elimination while the seam remains live.**
 
@@ -712,17 +712,17 @@
 
    **11.73** Resistance is not correctness.
 
-**11.8 The self-sealing test asks whether the apparatus can still be wounded.**
+**11.8 The self-sealing test examines whether relevant evidence can still correct the apparatus.**
 
    **11.81** Can a central term be deleted?
 
    **11.82** Can a count change?
 
-   **11.83** Can a mark be demoted?
+   **11.83** Can a mark change in the warranted direction?
 
-   **11.84** Can a governing authority be replaced?
+   **11.84** Can an attributed authority or its scope be corrected?
 
-   **11.85** Can a corrective layer block action?
+   **11.85** Can a corrective process change or inhibit the relevant action?
 
    **11.86** Can an objection survive without being redescribed as support?
 
