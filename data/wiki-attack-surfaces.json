@@ -358,7 +358,7 @@
   {
     "component": "meaning-as-weight",
     "claim_type": "CV",
-    "valid_attack": "Exhibit meaning that alters no possible later selection, routing, persistence, or consequence, or a weighting relation that carries no structured significance.",
+    "valid_attack": "Exhibit meaning that alters no possible later selection, routing, persistence, or consequence, or a relation satisfying the full semantic-weight criteria that carries no structured significance.",
     "invalid_attacks": [],
     "regulator": [
       "symbolic-is-not-linguistic",

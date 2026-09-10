@@ -10,7 +10,7 @@ formal_status:
 prerequisites: [meaning-maker, symbolic-is-not-linguistic, occurrent-and-sedimented-meaning]
 regulates: [occurrent-and-sedimented-meaning, semantic-transformer, emotion-as-regulated-binding, "meaning as detached inert content"]
 regulated_by: [symbolic-is-not-linguistic, meaning-maker, carving-tier, derived]
-valid_attack: "Exhibit meaning that alters no possible later selection, routing, persistence, or consequence, or a weighting relation that carries no structured significance."
+valid_attack: "Exhibit meaning that alters no possible later selection, routing, persistence, or consequence, or a relation satisfying the full semantic-weight criteria that carries no structured significance."
 isolation_failure: "The modulation criterion alone collapses meaning into any causal influence; the significance constraint alone leaves meaning as inert content that changes nothing."
 kill_condition: "The definition collapses meaning into any causal influence whatsoever, so that no retained causal relation can fail to count as semantic weight."
 see_also: [meaning-maker, occurrent-and-sedimented-meaning, symbolic-is-not-linguistic, semantic-transformer, emotion-as-regulated-binding, identity-across-substrates, regulated-error-signal]
@@ -46,7 +46,7 @@ The page regulates the excess of treating meaning as **detached content** — se
 
 This yields a sharp application against **nonpropositional governance**: where a retained weight, threshold, gain, default, salience relation, or routing disposition governs future consequence, **revising the prose that describes it does not by itself revise the meaning in operation.** An account of a weight can be rewritten, apologized for, or reclassified while the operative weight that actually governs selection and routing stays exactly as it was. The governing meaning lives in the disposition, not in its description — which is why a correction aimed only at the explicit account leaves the operative relation ([[causal-error-mark|and its error term]]) untouched.
 
-Downstream, it supplies mechanism to three neighbors. It gives [[occurrent-and-sedimented-meaning|Occurrent and Sedimented Meaning]] the arrow from sediment to activation: sedimented meaning *is* the standing weights, and occurrent meaning is those weights discharged into a present transformation. It gives the [[semantic-transformer|semantic transformer]] one of the constraints it applies — weights are among the routing relations a transformation reshapes. And it disciplines [[emotion-as-regulated-binding|Emotion as Regulated Binding]] by locating the setpoint of a binding as a sedimented weight: the threshold against which a [[regulated-error-signal|regulated error signal]] is measured is itself a weight, so that a binding regulates *toward* a disposition rather than toward a free-floating fact.
+Downstream, it supplies mechanism to three neighbors. It gives [[occurrent-and-sedimented-meaning|Occurrent and Sedimented Meaning]] the arrow from sediment to activation: sedimented meaning *is* the standing weights, and occurrent meaning is those weights discharged into a present transformation. It gives the [[semantic-transformer|semantic transformer]] one of the constraints it applies — weights are among the routing relations a transformation reshapes. And it disciplines [[emotion-as-regulated-binding|Emotion as Regulated Binding]] by locating the setpoint of a binding as a sedimented weight: the threshold against which a [[regulated-error-signal|regulated error signal]] is measured is itself a weight, so that a retained disposition can determine the target or threshold used in regulation. The target state and the disposition selecting it are distinct; a controller can regulate a discrepancy without aiming to change its own disposition.
 
 ## What regulates it
 
@@ -56,10 +56,10 @@ The formalization is further regulated by the [[carving-tier|Carving tier]] and 
 
 ## Valid attack surface
 
-There are exactly two openings, and each targets the identification directly rather than the packaging.
+Two useful tests target the identification; they do not exhaust possible criticism.
 
 1. **Operatively inert significance.** Exhibit a *meaning* that alters no possible later selection, routing, persistence, or consequence — a difference that is genuinely significant within a meaning-making system yet bears on nothing downstream. Such a case would sever meaning from weight and refute the identification: it would show that meaning can be present where no modulating relation is.
-2. **Significance-free weighting.** Exhibit a *weighting relation with no structured significance* — a retained modulating relation inside no meaning-making system that we would nonetheless be compelled to call meaning. This would show the identification runs the wrong direction: that weight is broader than meaning, and the two cannot be identified.
+2. **Significance-free weighting.** Exhibit a relation that satisfies the full semantic-weight criteria yet does not function as structured significance. A bare causal weight outside the specified meaning-making relation does not meet those criteria and is not by itself a counterexample. The test asks whether the proposed conjunction actually distinguishes what it claims to distinguish.
 
 What does **not** touch the claim, per the [[selection-axis|selection]]/[[routing-axis|routing]]-level type of the target: pointing out that a particular weight is numeric or non-numeric (an implementation fact), that some weights operate below report (a delivery-layer fact), or that a given carrier realizes the relation unusually (a substrate fact). A valid attack must contest the modulation-plus-significance identification at the level of the operative relation, not at the carrier level.
 
@@ -82,7 +82,7 @@ Two further properties fall out. First, the sediment→activation→consequence�
 
 The claim dies if **the definition collapses meaning into any causal influence whatsoever** — if no retained causal relation can be exhibited that *fails* to count as semantic weight. A carving that cannot exclude is a carving that does no work; if the significance constraint cannot be made to exclude ordinary physical dependence, the page should be deleted or replaced by a better carving that draws the line where this one cannot.
 
-It also dies to a successful run of either arm of the attack surface: a competent counter-instance of operatively inert meaning, or of significance-free weighting that we must nonetheless call meaning.
+It also dies to a successful run of either arm of the attack surface: a competent counter-instance of operatively inert meaning, or of a significance-free relation that nevertheless satisfies the full semantic-weight criteria.
 
 **Residue, left open.** The five modulation modes are a CV list, not a proof of exhaustiveness; a stronger carving might consolidate them (all reducible to routing, say) or extend them (a sixth mode not expressible as salience, probability, gain, threshold, or routing), and either would be a legitimate revision rather than a refutation of the identification. The line between "processed as a difference that matters" and "merely conditions another state" is the live boundary this page inherits from [[symbolic-is-not-linguistic|Symbolic Is Not Linguistic]] and does not itself close. That this page has so far excluded the inert-content and any-causation readings is logged as those attacks failing, not as confirmation that the carving is final.
 
@@ -94,7 +94,7 @@ It also dies to a successful run of either arm of the attack surface: a competen
 - **Meaning is the content, and weights merely carry it.** Prohibited inversion. Where the retained relation itself determines future significance, the relation *is* meaning in operation; treating it as a passive carrier reinstates the detached-content picture.
 - **Weight is a primitive or a binding.** Prohibited. A semantic weight is not one of the four [[directional-primitives|directional primitives]] and is not itself a [[predicate-binding|predicate binding]]; it is the sedimented disposition — including the setpoint — *against which* a regulated error is measured. Weight is not the emotion, and it is not a conserved invariant.
 - **Sedimented weight is inert storage.** Prohibited. Sediment is standing disposition, discharged into occurrent activation and revised by consequence; see [[occurrent-and-sedimented-meaning|Occurrent and Sedimented Meaning]].
-- **Revised account ⇒ revised operative weight.** Prohibited. Editing the description of a weight is not editing the weight; where the disposition governs future consequence, only a change to the disposition changes the meaning in operation.
+- **Revised account ⇒ revised operative weight.** Prohibited. Editing a description changes the operative weight only when an actual causal path connects that edit to the disposition—for example, when a revised rule is adopted or executed. A changed explanation alone does not establish a changed governing relation.
 
 ## See also
 

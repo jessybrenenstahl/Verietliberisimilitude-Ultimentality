@@ -58,7 +58,7 @@ It further regulates an **identity-merger excess** at the multi-participant leve
 
 ## What regulates it
 
-- The [[same-level-attack-rule]] fixes the level at which the identity claim may be contested. A valid counter must meet the type at the operator level, not swap in a substrate fact or a token count.
+- The [[same-level-attack-rule]] fixes the level at which the identity claim may be contested. A valid counter must show a failure of the claimed operation or identity conditions. A substrate fact is relevant when it establishes such a failure, rather than merely naming a different material.
 - Its own **predict-a-behavior requirement** (see the valid attack surface) keeps the type from thinning to nothing: a type that predicts no behavior cannot be rescued by relegating every divergence to the carrier.
 - [[participant-as-process]] bounds what "identity" is permitted to carry — bounded continuity of recursive regulation, not a possessor sitting behind the carrier — so type identity cannot inflate into a substance.
 - [[meaning-maker]] supplies the functional criteria a candidate must satisfy before the identity question is even well-posed.

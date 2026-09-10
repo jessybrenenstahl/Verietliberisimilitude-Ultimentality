@@ -30,7 +30,7 @@ Significance in a [[meaning-maker|meaning-maker]] shows two temporal faces, and 
 
 Sedimented meaning is substrate-plural. Biological **memory**, ingrained **habit**, executable **code**, **inherited regulation** carried in a genome or a body plan, an **archive** of records, and the standing **institutional rules** of a procedure can each hold it — wherever a retained disposition still governs what a later occasion will admit, weight, or discharge as significant. What makes any of these *sedimented meaning* rather than a passive record is precisely that the retention modulates future significance; the carrier class is not what qualifies it, and no carrier is privileged (see [[symbolic-is-not-linguistic|Symbolic Is Not Linguistic]]).
 
-Neither face is foundational to the other. Sediment is not "stored occurrence" waiting to be replayed, and occurrence is not "sediment made conscious." They are the same operation of significance read at two times, joined by a transition:
+Neither face is foundational to the other. Sediment is not "stored occurrence" waiting to be replayed, and occurrence is not "sediment made conscious." They distinguish activation from retained disposition within one process. A disposition can persist while it is being activated; the modes need not occupy disjoint times. Their interaction can be represented as:
 
 ```text
 sedimented weight -> occurrent activation -> consequence -> revised sediment
@@ -52,7 +52,7 @@ The carving exists to hold apart two excesses that the word *meaning* invites, e
 
 - **The present-only reading (occurrentism).** Treat meaning as exhausted by what is active now, and nothing learned can persist: the account cannot say why a meaning-maker that has already been corrected behaves differently on the next occasion. This collapses sediment into zero and makes the [[matter-meaning-cycle|matter–meaning cycle]] a sequence of amnesiac flashes.
 - **The storage reading (inert sediment).** Treat retained structure as dead data awaiting a reader, and disposition becomes causally idle: the account cannot say how retention *changes what may become significant*, only how it is fetched unchanged. This severs the `-> occurrent activation` arm and turns a live regulator into an archive.
-- **The activation-is-consciousness conflation.** Occurrent meaning is significance in operation, not a phenomenal glow; it is present wherever a transformation is under way, in a body, a machine, a piece of running [[symbolic-is-not-linguistic|symbolic]] regulation. Reading occurrence as consciousness smuggles [[qualia-as-narrative-compression|first-person ownership]] into a functional category and re-privileges one carrier class.
+- **The activation-is-consciousness conflation.** Occurrent meaning is significance in operation, not a phenomenal glow; it is present wherever a transformation is under way, in a body, a machine, a piece of running [[symbolic-is-not-linguistic|symbolic]] regulation. Conscious experience may accompany an instance; this functional category does not by itself establish or exclude it. Reading occurrence as consciousness smuggles [[qualia-as-narrative-compression|first-person ownership]] into a functional category and re-privileges one carrier class.
 
 By keeping both faces and the transition on the page, each of these is exposed as a partial reading that has dropped a named relation.
 
@@ -86,7 +86,7 @@ The two isolation failures are *distinct and testable*: the first loses retentio
 
 ## What larger property emerges from the coupling
 
-Coupled, the two faces yield **revisable significance**: a meaning-maker whose present activations can rewrite the dispositions that will govern its future activations. This is learning read as correction rather than accumulation — the semantic-level image of a process changed by its own consequences, the same shape the [[matter-meaning-cycle|matter–meaning cycle]] and [[splcw|SPLCW]] trace at the level of world-mutation and return.
+Coupled, the two faces yield **revisable significance**: a meaning-maker whose present activations can rewrite the dispositions that will govern its future activations. This is learning through changes that affect subsequent participation, including acquisition and correction — the semantic-level image of a process changed by its own consequences, the same shape the [[matter-meaning-cycle|matter–meaning cycle]] and [[splcw|SPLCW]] trace at the level of world-mutation and return.
 
 The coupling here is *temporal and sequential* — activation feeds sediment feeds activation across time. It is **not** an affective composite: the loop is not a new [[force|⊕ Force]], and reading it as one would import coupled-controller semantics where only a transition relation is claimed. What emerges is not a feeling but the precondition for one — the standing disposition against which any [[emotion-as-regulated-binding|regulated binding]] carries its setpoint forward. Revisable significance is what lets a [[participant-as-process|participant]] be the continuity of its own corrections rather than a stack of unrelated presents.
 
@@ -94,18 +94,18 @@ The coupling here is *temporal and sequential* — activation feeds sediment fee
 
 The claim dies if **the distinction cannot explain how a consequence revises what may become significant later** — if the transition `consequence -> revised sediment` can be shown to do no work, so that the two modes name a difference without a mechanism between them. Concretely, the page falls if either:
 
-- a competent reader exhibits an irreducible third temporal mode (the valid attack surface above), forcing the two-face carving to be replaced rather than extended; or
+- a competent reader exhibits an irreducible third temporal mode (the valid attack surface above), requiring its completeness claim to be revised and the representation extended or replaced as warranted; or
 - the `-> consequence -> revised sediment` arm is shown to be uninstantiable — every alleged revision reduces, on inspection, to re-fetching an unchanged disposition — so the account cannot distinguish a system that learns from one that merely stores.
 
 A defeated version is deleted or recut, not defended; and an attack that fails to reach the seam is logged as a failed attack, never counted as confirmation that the carving is correct.
 
 ## Prohibited misreadings
 
-- **Sediment is not inert storage.** A retained disposition that modulates future significance is meaning *in operation across time*, not a passive record read out unchanged. The moment retention only stores, the transition arm is severed.
+- **Sediment is not inert storage.** A retained disposition that modulates future significance is meaning *in operation across time*, not a passive record read out unchanged. A stored record can participate in this disposition when its later retrieval changes selection or action. Storage format alone does not determine whether it has operative significance.
 - **Occurrent meaning is not consciousness.** Activation is significance doing present work in a transformation; it does not name a phenomenal quality and does not privilege one carrier. Route ownership-language through [[qualia-as-narrative-compression|Qualia as Narrative Compression]], not through this category.
 - **The pair is not two substances.** Occurrent and sedimented are two temporal faces of one operation of significance, not two things one meaning-maker contains. Neither is the "real" locus with the other as its shadow.
 - **The loop is not a new Force.** The transition couples activation and disposition across time; it does not compose them via `⊕` into an affective composite and does not alter the count at the emotion layer.
-- **Revision is not accumulation.** "Revised sediment" means the disposition is altered so that *what may become significant* changes — not that a new item is appended to an untouched store. Storage-plus-append leaves the disposition inert and fails the kill condition.
+- **Revision changes later participation.** Appending a record can revise the operative disposition when retrieval or use changes later selection, interpretation, or action. An append that has no such path does not establish revision merely by increasing the stored volume.
 
 ## See also
 

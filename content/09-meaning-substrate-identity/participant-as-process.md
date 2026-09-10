@@ -25,7 +25,7 @@ application_tags: []
 
 A **participant** is not an owner seated behind its operations but the *bounded continuity of recursive regulation and consequence* — the running, self-affecting process itself. Where a [[meaning-maker|meaning-maker]] is the substrate-neutral unit that can admit significance, regulate a discrepancy, externalize a change, and receive it back altered, a *participant* is that unit considered under its continuity: the diachronic identity of a process that keeps regulating and keeps inheriting the consequences of its own regulation. The pronoun, the name, the identity token is a **compression** of that process — a serviceable handle, in the same sense the ownership report is treated in [[qualia-as-narrative-compression|qualia as narrative compression]] — never evidence of an indivisible possessor to whom the operations belong.
 
-**Required consequences.** From this identification, and only from it, the following follow:
+**Possibilities and requirements.** The process account permits the following arrangements when their causal relations are realized; naming a process does not itself demonstrate that any particular transfer, nesting, or boundary succeeds:
 
 - participant boundaries may be **nested and dynamic** — one process can contain, be contained by, or overlap another, with no privileged scale;
 - continuity may **persist through replacement of carriers** — the same coupling can be re-realized on new substrate (see [[identity-across-substrates|identity across substrates]]);
@@ -56,7 +56,7 @@ Left alone, "the participant is only a process" slides into its own excess — *
 
 ## Valid attack surface
 
-The load-bearing attack is to **exhibit a participant whose identity persists independently of every continuity relation this page names** — a bearer whose sameness survives total replacement of carriers, total discontinuity of regulation, and every traceable inheritance of consequence, yet remains intelligibly *the same participant*. That case would display a substance-identity the process account cannot represent, and would force the account to admit a possessor after all. What does **not** count: pointing at carrier replacement, nesting, branching, or the multiplicity of hosted processes — those are *predicted* by the account, not counter-instances to it. A refutation must be level-matched ([[same-level-attack-rule|same-level attack rule]]); persistence-of-token offered against continuity-of-process is a mismatch.
+The load-bearing attack is to **exhibit a participant whose identity persists independently of every continuity relation this page names** — a bearer whose sameness survives total replacement of carriers, total discontinuity of regulation, and every traceable inheritance of consequence, yet remains intelligibly *the same participant*. That case would show that the named continuity conditions are insufficient. It would require revising the conditions or considering a different account; it would not by itself prove that an indivisible possessor is the only alternative. Carrier replacement, nesting, branching, or multiplicity alone do not refute the account. A particular realization can still fail to preserve the claimed continuity, and evidence of that failure is relevant. A refutation must be level-matched ([[same-level-attack-rule|same-level attack rule]]); persistence-of-token offered against continuity-of-process is a mismatch.
 
 ## What happens if isolated
 
@@ -68,13 +68,13 @@ From the coupling of *process-not-substance* with *real-causal-boundary* emerges
 
 ## What would actually kill the claim
 
-The claim dies if **its criteria cannot distinguish one process from several coordinated processes** — if every proposed causal boundary either over-merges genuinely independent participants or over-splits a single one, with no principled test to decide between them. Then "participant" would carve nothing, and the process identification would be explanatorily empty. It dies also under the valid attack above: a demonstrated identity that persists independently of every named continuity relation would refute the process account and restore the substance-bearer it was built to retire. A failed attempt at either does not confirm the account; it is logged as a failed attack and the carving stays open.
+The claim dies if **its criteria cannot distinguish one process from several coordinated processes** — if every proposed causal boundary either over-merges genuinely independent participants or over-splits a single one, with no principled test to decide between them. Then "participant" would carve nothing, and the process identification would be explanatorily empty. It dies also under the valid attack above: a demonstrated identity that persists independently of every named continuity relation would challenge those conditions and require a revised or alternative account. A failed attempt at either does not confirm the account; it is logged as a failed attack and the carving stays open.
 
 ## Prohibited misreadings
 
 - **"Process, not substance" ⇒ the self is an illusion.** Prohibited. The account denies a *possessor behind* the operations, not the participant; boundaries remain real and morally load-bearing.
 - **The pronoun proves a partless owner.** No — "I" is a compression of the process, not evidence of an indivisible bearer.
-- **Carrier replacement, nesting, or multiplicity refutes the identity.** These are consequences the page predicts, not counter-instances; offering them is a level-mismatched attack ([[same-level-attack-rule|same-level attack rule]]).
+- **Carrier replacement, nesting, or multiplicity refutes the identity.** These are possibilities the account allows. A particular case challenges it when the stated identity conditions misclassify continuity; a changed carrier alone does not establish that failure ([[same-level-attack-rule|same-level attack rule]]).
 - **"One process may span several carriers" ⇒ carrier differences do not matter.** Capacity profile still differs; type identity does not erase it ([[identity-across-substrates|identity across substrates]]).
 - **Robust process identity ⇒ a new unmarked, exempt bearer.** Any reified, revision-proof core would be an [[absolutization|absolutization]]; the participant stays Derived and mortal.
 - **Process = mere flux with no boundary.** Also prohibited — that is the eliminative excess the causal-continuity regulators bound; a process here is *bounded* continuity, not undifferentiated change.
