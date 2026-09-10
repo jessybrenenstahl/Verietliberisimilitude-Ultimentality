@@ -46,17 +46,17 @@
 
       **0.32** The relations organized by a count may survive a revision of the count.
 
-   **0.4** An attack has four possible landed outcomes.
+   **0.4** Four useful, potentially overlapping dispositions record what examination changes or establishes.
 
       **0.41** A claim may be deleted.
 
       **0.42** A claim may be revised.
 
-      **0.43** A claim may be demoted or retyped.
+      **0.43** A claim may change status or type where the supporting argument warrants it.
 
       **0.44** A relation may be recognized as invariant when its removal demonstrably destroys the regulated function.
 
-      **0.45** Confirmation is not an outcome of attack.
+      **0.45** Mere survival is not proof; a discriminating successful test can support the claim within its tested scope.
 
          **0.451** A failed attack is logged as a failed attack.
 

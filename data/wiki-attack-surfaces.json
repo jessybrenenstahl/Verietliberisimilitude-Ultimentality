@@ -492,7 +492,7 @@
   {
     "component": "outcomes-of-attack",
     "claim_type": "CV",
-    "valid_attack": "Exhibit a genuine outcome of a landed valid attack irreducible to deletion, revision, demotion/retyping, or invariant recognition, or show that two of the four collapse into one.",
+    "valid_attack": "Show that the scheme misclassifies a relevant result or confuses evidence, disposition, and implementation.",
     "invalid_attacks": [],
     "regulator": [
       "causal-falsifiability",
@@ -500,8 +500,8 @@
       "attack-type-matching",
       "two-mark-system"
     ],
-    "isolation_failure": "Without causal tracing and the failed-attack guard, outcome labels become bookkeeping theater and survivals drift into confirmation.",
-    "kill_condition": "The classification cannot in practice distinguish a failed attack from invariant recognition.",
+    "isolation_failure": "Without evidence and causal tracing, outcome labels misreport correction; excluding all support prevents recognition of successful tests.",
+    "kill_condition": "The scheme cannot distinguish failed objections, supported results, demonstrated dependencies, and implemented corrections.",
     "tests": []
   },
   {
@@ -523,7 +523,7 @@
   {
     "component": "postfalsifiability",
     "claim_type": "CV",
-    "valid_attack": "Show the three-stance carving cuts no real joint (a better carving), or that a named invariant's alleged prior falsifications produced no causal change.",
+    "valid_attack": "Show that a claimed correction history or retained corrective function is contradicted by evidence, or that the criteria misclassify relevant cases.",
     "invalid_attacks": [],
     "regulator": [
       "causal-falsifiability",
@@ -532,8 +532,8 @@
       "scar-record",
       "semantic-closure-and-recursive-marking"
     ],
-    "isolation_failure": "Without live kill conditions it becomes a self-sealing survival-narrative; without preserved defeat it becomes amnesiac one-shot falsifiability.",
-    "kill_condition": "No conceivable result can delete a present invariant, or alleged prior falsifications produced no causal change.",
+    "isolation_failure": "Unexamined survival can become immunity; loss of correction reasons can permit recurrence of an error.",
+    "kill_condition": "The attributed correction history is false or the claimed effective update path is closed.",
     "tests": []
   },
   {
@@ -670,7 +670,7 @@
   {
     "component": "scar-record",
     "claim_type": "CV",
-    "valid_attack": "Exhibit a listed scar whose removal changes nothing, or whose regression test passes with the named constraint absent, so the entry is decorative rather than load-bearing.",
+    "valid_attack": "Show that an entry misstates history, misidentifies a protected function, or uses a check that cannot detect its named failure.",
     "invalid_attacks": [],
     "regulator": [
       "causal-falsifiability",
@@ -678,8 +678,8 @@
       "self-sealing-test",
       "two-mark-system"
     ],
-    "isolation_failure": "Without runnable tests the record becomes a decorative memorial of survived attacks; without records the surviving tests lose their reason and are deleted or frozen as unmarked givens.",
-    "kill_condition": "Removing a scar changes nothing, or the listed regression test does not protect the current structure, or no scar can be stated without importing dates, authorship, or narrative.",
+    "isolation_failure": "Unsupported records can become stories; tests without accessible reasons can be misinterpreted or discarded.",
+    "kill_condition": "The record systematically misrepresents corrective history or prevents justified revision without supplying usable understanding.",
     "tests": []
   },
   {

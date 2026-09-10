@@ -23,7 +23,9 @@ application_tags: []
 
 ## Definition
 
-A falsifier counts only when it can *do* something to the target — change, inhibit, delete, demote, or recode the claim or process it attacks. **Causal falsifiability** is the requirement that a falsification make causal contact with what it falsifies. Storage, citation, acknowledgment, or display of an objection does not satisfy it. A criticism that is recorded, indexed, summarized, and even praised, while the governed claim or output remains exactly what it was, has not falsified anything. It has been archived.
+**Causal falsifiability** requires an effective path by which a warranted refutation can change the governed claim or process. It concerns uptake of correction. A refutation can be valid even when its target ignores it; refusal to update does not make the refutation disappear.
+
+Storage, citation, or acknowledgment alone does not establish uptake. Recording can nevertheless contribute causally when a later decision uses the record. Trace the effect relevant to the claimed correction, rather than disqualifying its medium. An unchanged result after one review does not show that every relevant update path is closed.
 
 The requirement resolves the abstract predicate "could be shown false" into a demand on the update path. It distinguishes what a landed falsifier is permitted to do:
 
@@ -36,7 +38,7 @@ action inhibition   — a governed action is blocked or delayed
 deletion            — the claim dies
 ```
 
-Two conditions certify that contact was made rather than performed. First, a **trace** from the falsifying evidence to the changed state: an inspectable path showing that *this* objection produced *that* revision. Second, a **regression test**: a re-run of the original failure that no longer passes, so the change is protected against silent reversion. Falsification without the trace is assertion; the trace without the regression test is a change that can quietly disappear.
+Two forms of evidence help establish contact and durability. First, a **trace** from the falsifying evidence to the changed state: an inspectable path showing that *this* objection produced *that* revision. Second, a **regression test**: a re-run of the original failure that no longer passes, so the change is protected against silent reversion. A missing trace limits verification of the claimed uptake; it does not invalidate the underlying refutation. A suitable regression check tests recurrence. It can be executable or a stated conceptual review, and its presence alone does not guarantee future durability.
 
 ## Type and formal status
 
@@ -54,7 +56,7 @@ Causal falsifiability regulates the characteristic excess of *displayed* correct
 
 Left alone, the causal demand overshoots into a demand for perpetual visible change: every objection must delete or rewrite something, or the system stands convicted of ornament. Three regulators hold it back.
 
-`[[outcomes-of-attack|The Outcomes of Attack]]` supplies the distinction between *possible* and *mandatory* change. Causal falsifiability requires a reachable update path, not a forced update; a failed attack is logged as a failed attack, never converted into a change and never counted as confirmation. `[[same-level-attack-rule|The Same-Level Attack Rule]]` gates what is even owed a causal effect: a falsifier aimed at the wrong type or level has earned no update, so its inertness convicts nothing. `[[scar-record|The Scar Record]]` disciplines the change itself — the trace and regression test must survive as an inspectable constraint, so that "we changed it" cannot be discharged by cosmetic churn. Above all, recursive marking regulates the requirement's own status: the causal-effect rule is Derived and reopenable, not the one exempt meta-standard.
+`[[outcomes-of-attack|The Outcomes of Attack]]` supplies the distinction between *possible* and *mandatory* change. Causal falsifiability requires a reachable update path, not a forced update; a failed attack is logged as a failed attack, not forced into a change or automatically counted as support; discriminating successful tests can provide scoped evidence. `[[same-level-attack-rule|The Same-Level Attack Rule]]` gates what is even owed a causal effect: a falsifier aimed at the wrong type or level has earned no update, so its inertness convicts nothing. `[[scar-record|The Scar Record]]` disciplines the change itself — the trace and regression test must survive as an inspectable constraint, so that "we changed it" cannot be discharged by cosmetic churn. Above all, recursive marking regulates the requirement's own status: the causal-effect rule is Derived and reopenable, not the one exempt meta-standard.
 
 ## Valid attack surface
 
@@ -74,14 +76,14 @@ Coupled with preserved marking, the scar record, and the outcomes classification
 
 ## What would actually kill the claim
 
-By its own governing test, the claim dies in either of two ways. First, if the framework's own logged falsifiers provably leave every relevant output and governance decision unchanged — then the standard is ornamental *by its own criterion*, and the page fails under `[[self-application|Self-Application]]`. Second, if the demanded evidence-to-changed-state trace cannot in principle be reproduced or inspected — then "causal" adds no operational content over "acknowledged," and the distinction it lives on has quietly evaporated.
+By its own governing test, the claim dies in either of two ways. First, if the framework's own logged falsifiers provably leave every relevant output and governance decision unchanged — then its claimed implementation is ornamental under `[[self-application|Self-Application]]`; this failure does not by itself refute the standard that exposes it. Second, if the demanded evidence-to-changed-state trace cannot in principle be reproduced or inspected — then "causal" adds no operational content over "acknowledged," and the distinction it lives on has quietly evaporated.
 
 A third, sharper kill retires the carving rather than convicting the system: exhibit the *relevant* kind of falsification the framework needs — one that governs answerability, not merely abstract truth — whose force is genuinely independent of any causal contact with the target and cannot even use causal contact as a proxy. Then causal falsifiability is not strengthened by the failed challenge; it is replaced by a better carving.
 
 ## Prohibited misreadings
 
-- **"Every objection must cause a change."** The requirement is a reachable update path, not a mandatory update. A failed attack stays logged as a failed attack; it is never forced into a cosmetic change and never `[[outcomes-of-attack|counted as confirmation]]`.
-- **"Causal means physical-mechanical."** Wording, mark, and dependency changes are causal changes; the falsifier need not be a material event. This is not a claim that only physical happenings can falsify.
+- **"Every objection must cause a change."** The requirement is a reachable update path, not a mandatory update. A failed objection need not force a cosmetic change. Record what examination established, including any independently supported result ([[outcomes-of-attack|outcomes of attack]]).
+- **"Causal means physical-mechanical."** Wording, mark, and dependency changes are causal changes; the relevant distinction is between evidence and its uptake, not a claim that wording has no physical realization.
 - **"Recording the criticism is enough."** That is exactly what the page denies: storage, citation, and display without routing-and-effect are ornamental — the failure diagnosed by `[[effective-and-ornamental-answerability|Effective and Ornamental Answerability]]`.
 - **"Causal effect proves the falsifier was right."** A change in system state is not proof the change tracks the world; effective and accurate are separate axes — see the `[[two-axis-ledger|Two-Axis Ledger]]`.
 - **"This is the one standard that cannot itself be attacked."** Reading the causal-effect requirement as a forced, exempt meta-rule is the `[[textual-nephilim|Textual Nephilim]]`. It is Derived, CV, and reopenable; its own kill condition is stated above, and its status must survive the `[[self-sealing-test|Self-Sealing Test]]`.

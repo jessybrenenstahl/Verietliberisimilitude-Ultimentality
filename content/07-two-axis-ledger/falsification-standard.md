@@ -14,7 +14,7 @@
 
 ## The chain of authority
 
-The standard's authority is the benchmark's [[open-proof-burden|open proof-burden]]: the benchmark does not assert the count-closures as proven, and it is *on that authority* — held as a contestable ranking authority, not as bedrock — that the closures are demoted to the [[carving-tier|carving tier]]. The [[the-2026-adversarial-run|2026 adversarial run]] supplied the concrete counter-instances *under* this open proof-burden, never as a higher court over the benchmark. The closures were demoted precisely because the program *worked*: a cross-axis coupling defeated the two-Force closure; a memory/temporal motion defeated the four-primitive closure; the [[installed-compulsion|installed-compulsion]] and [[answerable-optimizer|answerable-optimizer]] counter-instances defeated the three-corruption closure; the absence of a [[palindrome|palindrome]] signature defeated the five-role closure — *all as closures, none as mappings.*
+The standard operationalizes the framework's commitment to answerable claims. [[open-proof-burden|An open proof-burden]] identifies what remains to be established; it does not establish that a closure is false. The [[the-2026-adversarial-run|2026 adversarial run]] records proposed challenges whose force must be assessed against the exact definitions and available evidence. Candidate cross-axis couplings, temporal motions, and corruption cases are not automatically established refutations. Likewise, a missing palindrome record is not proof that a role relation fails. Status changes should cite the argument that warrants them, and a burden can be met by adequate evidence.
 
 ## Role in the wider framework
 
@@ -24,7 +24,7 @@ The falsification standard turns the desire for accuracy into a capacity to exam
 
 - Reading acceptance as "internally elegant." The criterion is survivable refutation, not elegance.
 - Treating silent tier-promotion or "forced/foundational" stamping as a minor style slip. They are *breakages* of the framework — the textual Nephilim.
-- Imagining the 2026 run overrules the benchmark. The run operates *under* the open proof-burden; it exhibits counter-instances, it does not impose them.
+- Imagining the 2026 run overrules the benchmark. Assess the run's proposed counter-instances on their merits; its label does not settle their success.
 
 ## What a valid attack must satisfy
 
@@ -33,8 +33,8 @@ The three gates decide *admission*; a further discipline governs *refutation its
 1. **The attack type matches the claim type.** A frame condition is contested by frame declension or internal incoherence; a carving or count by counter-instance or a better carving; a binding by a wrong actuator, error, or causal effect; a coupled controller by a removal test. Pairing attack to claim is what [[attack-type-matching|attack-type matching]] tabulates.
 2. **The attack occurs at the same abstraction level.** A process offered against an operator, a substrate against a function, a token against a type, does not reach the claim — the [[same-level-attack-rule|same-level attack rule]].
 3. **The target formulation is explicit.** The attacker names the exact sentence, notation, or relation under fire, so that what would change is unambiguous.
-4. **A possible causal effect is defined.** The attack states what it would revise, inhibit, delete, retype, or demote; an objection that could alter nothing is a display, not a falsifier — the demand of [[causal-falsifiability|causal falsifiability]].
-5. **The outcome is classified as deletion, revision, retyping, or invariant recognition.** Every resolution is logged as one of these, never as an unlabeled "win" — the [[outcomes-of-attack|outcomes of attack]].
+4. **A possible causal effect is defined.** The attack states what it would revise, inhibit, delete, retype, or demote; a governed system that cannot respond to a warranted refutation lacks effective uptake; its refusal does not invalidate the refutation — the demand of [[causal-falsifiability|causal falsifiability]].
+5. **The outcome is classified as deletion, revision, retyping, or invariant recognition.** Record the applicable dispositions alongside the evidential result; the categories can overlap — the [[outcomes-of-attack|outcomes of attack]].
 6. **Frame declension is not misreported as internal refutation.** Declining the vocabulary, costs, or purposes of a claim is a legitimate move, but it is not a defeat of the claim on its own terms and may not be dressed as one.
 7. **A failed attack is not automatically counted as confirmation.** A refutation that does not land is logged as a failed attack and nothing more; the framework never converts an objection's mere occurrence into evidence for the thing objected to, and never launders un-refuted-so-far into "confirmed."
 8. **Surviving claims remain reopenable.** Passing this standard buys standing, not exemption: a survivor keeps its live kill-condition on the [[kill-table|kill-table]], and the whole discipline is what [[postfalsifiability|postfalsifiability]] accumulates across repeated cycles of attempted destruction and correction.
@@ -53,12 +53,12 @@ The standard is an operation whose content-bearing rules and descriptions are th
 - [[transparentocracy|Transparentocracy]] — the witness gate, no self-certification from inside.
 - [[two-axis-ledger|The Two-Axis Ledger]] — the source of the two-axis gate.
 - [[open-proof-burden|The Open Proof-Burden]] — the benchmark authority licensing the demotions.
-- [[the-2026-adversarial-run|The 2026 Adversarial Run]] — supplied the closure counter-instances.
+- [[the-2026-adversarial-run|The 2026 Adversarial Run]] — records proposed closure challenges.
 - [[textual-nephilim|The Textual Nephilim]] — the breakage the gates forbid.
 - [[keystone|The Keystone]] — the standing the gate secures.
 - [[self-application|Self-Application]] — the marking discipline applied to its own formulations.
 - [[attack-type-matching|Attack-Type Matching]] — the table pairing each claim type with its valid attack.
 - [[same-level-attack-rule|The Same-Level Attack Rule]] — an attack must land at the claim's own type and abstraction level.
-- [[causal-falsifiability|Causal Falsifiability]] — a falsifier counts only when it can change the target.
+- [[causal-falsifiability|Causal Falsifiability]] — effective uptake lets a warranted falsifier change its target.
 - [[outcomes-of-attack|The Outcomes of Attack]] — the four dispositions every resolution is logged as.
 - [[postfalsifiability|Postfalsifiability]] — the standing accumulated across repeated cycles of destruction and correction.

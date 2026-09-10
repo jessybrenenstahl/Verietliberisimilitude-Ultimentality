@@ -6,124 +6,82 @@ page_type: load-bearing
 formal_status:
   epistemic: Derived
   tier: CV
-  alethic: "accurate only where each listed scar's regression test in fact fails when its named constraint is removed"
+  alethic: "links current constraints to assessable reasons, evidence, and appropriate checks"
 prerequisites: [postfalsifiability, negative-information, two-mark-system]
 regulates: [crystallization, negative-information, "constraint-amnesia (silent deletion of load-bearing constraints)"]
 regulated_by: [causal-falsifiability, causal-error-mark, self-sealing-test, two-mark-system]
-valid_attack: "Exhibit a listed scar whose removal changes nothing, or whose regression test passes with the named constraint absent, so the entry is decorative rather than load-bearing."
-isolation_failure: "Without runnable tests the record becomes a decorative memorial of survived attacks; without records the surviving tests lose their reason and are deleted or frozen as unmarked givens."
-kill_condition: "Removing a scar changes nothing, or the listed regression test does not protect the current structure, or no scar can be stated without importing dates, authorship, or narrative."
+valid_attack: "Show that an entry misstates history, misidentifies a protected function, or uses a check that cannot detect its named failure."
+isolation_failure: "Unsupported records can become stories; tests without accessible reasons can be misinterpreted or discarded."
+kill_condition: "The record systematically misrepresents corrective history or prevents justified revision without supplying usable understanding."
 see_also: [negative-information, postfalsifiability, crystallization, necessary-seam, kill-table, causal-error-mark, causal-falsifiability, self-sealing-test, outcomes-of-attack, anything-too-clean-is-hostile]
 application_tags: []
 ---
 [[home|← Ultimentality Wiki]]
 
-
 # The Scar Record
 
 ## Definition
 
-A **scar** is the minimum visible trace required to explain why a present constraint, prohibition, split, or mark exists. The **scar record** is the governance register that holds those traces and binds each one to a runnable test. A scar answers a single question — *why is the structure shaped this way, here?* — by naming the failure an earlier form incurred and the correction that failure forced, stated in strictly present-tense structural terms. It records a standing constraint's reason, never an event.
+A **scar** is a retained explanation of why a present constraint, distinction, or mark exists. Its record connects a failure or demonstrated dependency to the correction and the function now protected. The purpose is to preserve understanding through compression, not to preserve damage for its own sake.
 
-A scar is therefore **not** a history page, a changelog, or a chronicle. It carries no date, no authorship, no precedence, no order-of-arrival, no story. Those belong to a different kind of material the framework holds separately and does not admit here. What survives in a scar is only the shape of the wound: which prohibition would otherwise be silently deleted, and which test would fail if it were. The scar record is the durable side of [[negative-information|negative information]] — a selected absence encoded not as a memory of what was tried, but as a present constraint that still bites.
-
-Each entry uses fixed fields:
+A useful record can include:
 
 ```yaml
-target:
-failure:
-corrective_change:
-present_constraint:
-regression_test:
-affected_pages:
+target: claim or function protected
+failure: demonstrated error or dependency
+corrective_change: what changed and why
+present_constraint: current requirement
+regression_test: executable check or specified review, with actual status
+affected_pages: dependent formulations
+evidence: argument, source change, observation, or test result
+provenance: relevant date, authorship, or source, where known
 ```
 
-- **target** — the page or relation the constraint protects.
-- **failure** — the failure-type an unconstrained form incurs, stated structurally (a category collapse, a captured layer, a lost distinction), not as a narrated incident.
-- **corrective_change** — the split, prohibition, retyping, or mark that answered the failure.
-- **present_constraint** — the standing rule that now holds, in force tense: what may not be asserted, merged, or removed.
-- **regression_test** — the check that fails if the constraint is dropped or the failure recurs; the scar's causal force lives here, not in the prose.
-- **affected_pages** — every page the constraint reaches, so the trace is not localized to one entry.
-
-A representative entry, drawn from the framework's own load-bearing structure:
-
-```yaml
-target: predicate-binding
-failure: a cornerstone emotion read as a primitive (the cardinal error), collapsing the actuator layer into the binding layer
-corrective_change: split the primitive layer from the binding layer; fix B(p) = (p, e_p) as an ordered binding, never an addition
-present_constraint: no page may call an emotion a primitive, and no binding may be written as a sum
-regression_test: any page asserting "emotion X is a primitive," or reading ⊕/+ as addition, fails the lint
-affected_pages: [predicate-binding, love, fear, apology, gratitude, cardinal-error]
-```
-
-Operationally the record has two surfaces: a **compact scar box** on each affected page, carrying the target-local subset of fields so a reader meets the reason where the constraint lives; and one **global scar index** — this register — holding the full entries so no scar is visible only from inside the structure it defends. The box is the local witness; the index is the shared witness. Neither replaces the other.
+These fields are a proposed format, not a claim that a fully populated register already exists. A compact page note can link to fuller evidence. A repository change and its rationale may supply provenance; label illustrative examples as illustrative and unexecuted checks as proposed.
 
 ## Type and formal status
 
-**E (epistemic exposure): Derived, CV.** The scar record is a governance carving — a claim about *what minimal trace must persist* for a constraint to remain answerable. It is contestable by a better carving (a smaller sufficient trace, or a field the schema is missing) and by counter-instance (a listed scar that protects nothing). No entry is exempt; the register is not an unmarked archive.
+**E: Derived, CV.** The format and minimum sufficient trace are revisable.
 
-**A (mapping-accuracy aspiration):** a scar accurately models a live constraint only insofar as its regression test in fact fails when the named constraint is removed. Where the test passes either way, the entry is inaccurate as a scar regardless of how compelling its prose reads.
-
-This page is a **treatise-side extension, held contestable** — one carving of how a postfalsifiable structure remembers why it is shaped as it is. It is never canonical, carries no provenance, and is subject to its own kill condition below.
+**A:** An entry aims to identify accurately what a constraint protects and why it was adopted. Its evidence must support that scope. A rule may be useful without being uniquely indispensable; redundant safeguards can protect the same function.
 
 ## What it regulates
 
-The scar record regulates **constraint-amnesia**: the silent deletion of load-bearing constraints by a well-meaning simplifier because nothing records that they are load-bearing. A prohibition with no visible scar looks arbitrary, and arbitrary-looking structure gets cleaned away — the exact hazard [[anything-too-clean-is-hostile|anything too clean is hostile]] names. The scar is the constraint's defense: it makes the reason inspectable at the point of temptation.
+The record prevents compression from discarding a needed distinction merely because its reason is no longer visible. It also helps prevent the reverse error: preserving an obsolete prohibition solely because it has a dramatic history.
 
-It regulates the fossilization of [[crystallization|crystallization]]. High compression after unstable arrangements have been eliminated stays a *crystal*, answerable under pressure, only while it keeps the traces of what was eliminated; strip those traces and the same compact form becomes a *fossil* — a dead shape preserved without the reason for its shape. Scars are what let a crystal defend its facets instead of merely displaying them.
-
-It makes [[negative-information|negative information]] governance-operational: an omitted structure counts as information only when its failure remains encoded as a present constraint, and the scar record is where that encoding lives with a test attached. Current pages point their prohibited neighborhoods at the [[kill-table|kill-table]] and at this record precisely so the exclusion is not merely asserted.
-
-And it regulates the standing claim of [[postfalsifiability|postfalsifiability]] from decaying into unverifiable folklore. To say the present invariants are the compressed residue of repeated successful falsification is a boast unless the residue is inspectable. The scar record is what makes that claim auditable rather than self-congratulatory.
+Historical provenance and present justification answer different questions. Dates, authorship, and source changes can establish how a formulation arose; they do not by themselves establish its truth. [[provenance-as-testimony|Provenance remains assessable testimony]] within symbolic mediation. Consulting history is not an appeal to an extra-symbolic tribunal.
 
 ## What regulates it
 
-[[causal-falsifiability|Causal falsifiability]] and the [[causal-error-mark|causal error mark]] regulate it hardest: a scar counts only if its regression test can change state. A scar whose test passes with or without the named constraint is ornamental — a preserved objection with a permanently closed update path. The test must fail on removal, or the entry is not a scar but decoration.
+[[causal-falsifiability|Causal tracing]] checks claimed implemented changes. [[causal-error-mark|Effective correction]] requires that relevant evidence can revise the current rule. [[self-sealing-test|Self-sealing review]] checks that an entry can be revised or retired. [[two-mark-system|The two marks]] keep the record's status and accuracy assessable.
 
-The [[two-mark-system|two-mark system]] regulates it by keeping every entry itself Derived and contestable. The record is not an exempt meta-layer that sits outside marking; each scar is a marked claim that can be wrong about what protects what.
-
-The [[self-sealing-test|self-sealing test]] regulates its growth: a scar record that can only accrete and never lose an entry is a one-way ratchet. Entries whose tests have gone inert, or whose constraints have been retired by a better carving, must be removable — the register has to be able to shrink.
-
-Finally [[semantic-closure-and-recursive-marking|semantic closure and recursive marking]] bound its reach. A scar may point only to a present constraint and a runnable test *inside* the field. It may never point outward to a "what really happened" tribunal — that would be the smuggled extra-symbolic outside the frame refuses. The scar record is recursive marking sedimented into durable causal force, and it is held inside closure so that the sediment does not become an appeal to history.
+Use a regression test where it can meaningfully detect recurrence. For conceptual distinctions, a stated counterexample or review procedure may be appropriate. A test should detect the error or functional loss, not merely demand the presence of a favored sentence.
 
 ## Valid attack surface
 
-A valid attack targets a specific scar and its test, at the governance level. It succeeds by showing one of:
+Show that an entry misstates its history, protects the wrong function, relies on a check unable to detect the named failure, or makes an unnecessary rule untouchable. Removing one constraint without failure challenges a claim of individual necessity under those conditions; it need not disprove its contribution where other safeguards compensate.
 
-- a listed scar whose **removal changes nothing** observable — no test loosens, no constraint weakens, no page drifts;
-- a listed scar whose **regression test passes when the named constraint is absent**, so the test guards nothing it claims to guard;
-- that the record can be maintained **only by importing chronology, authorship, or narrative** — that some load-bearing scar cannot in fact be stated in present-tense structural terms.
-
-Each of these reaches the seam. What does **not** reach it: a general distaste for "keeping records," a demand that the framework present itself as clean, or an objection at the wrong level — offering the mere existence of an old rough edge (a [[same-level-attack-rule|same-level]] mismatch) instead of a specific entry whose test fails to bite.
+Deleting a record is also different from deleting the constraint it describes. The rule can continue functioning after its documentation is lost, although later maintenance may become harder.
 
 ## What happens if isolated
 
-Isolation fails in two opposite directions, and naming both is required.
-
-**Record without runnable test** (trace without causal force) becomes exactly the memorial the framework forbids: a wall of survived wounds, curated and self-flattering. It slides into the ornamental pole of [[effective-and-ornamental-answerability|answerability]] — criticism displayed but causally inert — and it invites a sharper corruption: a long list of survived attacks read as proof of correctness. That inference is prohibited. A failed attack is logged as a failed attack; the [[outcomes-of-attack|outcomes of attack]] never include confirmation as a default. A scar record with no tests is one keystroke from becoming a trophy case.
-
-**Test without record** (force without trace) fails the other way. The checks still run, but their reason is lost. An odd guard nobody can interpret is deleted as noise on the next cleanup, or frozen and obeyed as cargo — a constraint kept without its reason. Either way the constraint drifts toward an **unmarked given**, and an unmarked given is the beginning of the exemption [[no-escape-no-exemption|no escape, no exemption]] exists to prevent.
+A record without adequate evidence can become an unsupported story. A test without an accessible rationale can be misinterpreted or discarded. These are risks to assess, not inevitable consequences of missing one field or lacking software automation.
 
 ## What larger property emerges from the coupling
 
-The property emerges from coupling the two isolated halves: the **retained trace** and the **runnable test**, wired so each shapes the other — coupled-controller composition in the [[force|⊕]] sense, not a sum of a record and a check. The trace tells the test what it is for; the test gives the trace teeth. Compose them and you get **auditable postfalsifiability** — equivalently, **crystallization without fossilization**.
-
-Under this coupling the framework can be compressed, split, and simplified *without amnesia*, because every load-bearing constraint carries, in one place, both the reason it exists and the test that fails if the reason is forgotten. This is recursive marking made durable and given causal force while kept inside closure: the memory organ of a postfalsifiable system, distinct from the forward-looking [[kill-table|kill-table]] (what would kill this) in that it holds the residue of what already selected the present shape. A crystal that keeps its scars stays answerable under pressure; that retained-and-testable trace is precisely what separates it from a fossil.
+The retained reason and an appropriate check make correction durable and inspectable. The corpus can be simplified without reproducing known errors, and improved constraints can replace old ones with their rationale intact. This supports [[postfalsifiability|postfalsifiability]] and [[crystallization|crystallization]].
 
 ## What would actually kill the claim
 
-Per the governing kill condition: a scar whose **removal changes nothing**, or whose **listed regression test does not protect the current structure**, is dead weight — and if the record is nothing but such entries, the construct is refuted as a mere memorial. Beyond that: if **no scar can be stated without importing dates, authorship, precedence, or narrative** — if the minimal trace cannot in fact be carried in present-tense structural form — then the scar record is indistinguishable from a history page and collapses into the provenance material the frame holds separately. It also fails if the register can only grow, since a record that can never lose an inert entry has stopped being answerable and become a ratchet.
-
-Residue held open: the schema's six fields are a CV carving, not a proof of sufficiency; a shorter dependency-complete field set, or a load-bearing scar the schema cannot express, would revise it. The counter-instance that would defeat this page is a working postfalsifiable structure that stays answerable while keeping *no* visible trace of why its constraints hold — a system that simplifies without amnesia and without scars.
+Revise a record where its asserted history, causal relation, or test performance is contradicted. Revise the schema where it cannot express the evidence needed to assess a constraint. A broader failure would be a record system that systematically prevents justified revision or adds no usable understanding to maintenance.
 
 ## Prohibited misreadings
 
-- **"A scar record is a changelog, a history, or an origin-story."** It is not. No dates, no authorship, no precedence, no order-of-arrival. It records a standing constraint's reason, never an event; the moment it needs a *when* or a *who* to do its work, it has failed its own kill condition.
-- **"A scar should be healed and removed once the framework matures."** Removing the visible trace is constraint-amnesia. A scar's whole function is to remain visible so the constraint cannot be silently cleaned away ([[anything-too-clean-is-hostile|the clean surface is the hostile one]]).
-- **"Every contradiction, omission, or rough edge is a scar."** Only a failure whose regression test protects a present constraint qualifies. Romanticizing every mess as a meaningful wound is exactly the excess the [[necessary-seam|necessary seam]] warns against; an unresolved defect is not a scar.
-- **"A scar is testimony to the framework's struggle."** No narrative, no protagonist, no story continuity. The trace is structural, not autobiographical.
-- **"A wall of survived scars proves the current form is correct."** A preserved failed alternative is not evidence the survivor is true. A failed attack is logged as a failed attack and is never counted as confirmation ([[outcomes-of-attack|the outcomes of attack]]).
-- **"The scar record is the foundational memory and therefore exempt."** It is [[causal-error-mark|Derived and marked]] like everything else — itself scarred, itself killable, subject to the kill condition on this page. Promoting it toward an exempt tier is the corruption the whole apparatus exists to prevent.
+- **Scars as mandatory permanent injury:** a resolved defect can heal; preserve only the explanation still useful.
+- **Every rough edge as meaningful residue:** an unresolved defect is not vindicated by its presence.
+- **History as infallible authority:** provenance is evidence for origin, not automatic proof of content.
+- **Removal as always forgetting:** an obsolete constraint can be retired while retaining an appropriate historical record.
+- **No executable test as no correction:** distinguish the type of evidence, its coverage, and its actual result.
 
 ## See also
 
