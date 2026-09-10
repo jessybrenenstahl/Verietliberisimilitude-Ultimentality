@@ -632,15 +632,15 @@
 
    **10.42** The account becomes immune to causal correction.
 
-**10.5 Marking without closure becomes regress or paralysis.**
+**10.5 Marking becomes regress or paralysis where every corrective step requires prior certification of another.**
 
    **10.51** Each corrector demands another corrector standing outside it.
 
    **10.52** No action can begin because no judge is finally certified.
 
-**10.6 Correction terminates for action without terminating as a process.**
+**10.6 A correction can finish and support action while the result remains correctable.**
 
-   **10.61** A provisional stop reduces the relevant error enough to act.
+   **10.61** Stop when the stated completion or action condition is met; justify action under any remaining uncertainty.
 
    **10.62** The threshold, rule, action, and residue remain marked and reopenable.
 

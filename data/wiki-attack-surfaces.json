@@ -163,16 +163,16 @@
   },
   {
     "component": "correction-without-regress",
-    "claim_type": "FT",
-    "valid_attack": "Exhibit a correction that cannot terminate without an extra-symbolic certifier, or show the provisional stopping rule cannot stay marked without recreating the regress it claims to avoid.",
+    "claim_type": "Mixed",
+    "valid_attack": "Show that the claimed stopping rule cannot authorize action while remaining correctable, or that the stated premises do not establish the claimed termination.",
     "invalid_attacks": [],
     "regulator": [
       "semantic-closure-and-recursive-marking",
       "self-application",
       "causal-error-mark"
     ],
-    "isolation_failure": "Without closure the stopping point floats out of the domain and the regress returns; without marking the stopping point hardens into a final certificate and the recursion totalizes.",
-    "kill_condition": "Show that correction necessarily requires an extra-symbolic certifier, or that the stopping rule cannot remain marked without recreating regress.",
+    "isolation_failure": "Requiring prior certification of every corrector can prevent action; exempting the stopping rule can close correction.",
+    "kill_condition": "Show that usable stopping and effective reopenability cannot coexist under the stated conditions.",
     "tests": []
   },
   {
@@ -257,8 +257,8 @@
       "correction-without-regress",
       "reciprocal-attack-surfaces"
     ],
-    "isolation_failure": "A fixed point without change-of-formulation freezes into self-certification; change-of-formulation without identity-loss conditions lets arbitrary mutation inherit the name.",
-    "kill_condition": "Satisfy the continuity criteria while eliminating causal correction, or show the criteria cannot distinguish continuity from replacement.",
+    "isolation_failure": "Stability made immune to correction becomes self-certification; revision without continuity criteria lets unrelated replacements inherit the name.",
+    "kill_condition": "Show that the operational tests falsely identify causal correction, or that the criteria cannot distinguish continuity from replacement.",
     "tests": []
   },
   {

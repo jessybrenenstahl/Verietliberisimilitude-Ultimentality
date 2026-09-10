@@ -23,7 +23,7 @@ application_tags: []
 
 ## Definition
 
-**Corrective capture** is the condition in which the process being regulated controls the admission, interpretation, memory, authority, or consequence of its own correction strongly enough to neutralize that correction. A captured process does not need to silence its critics. It needs only to own the channels through which criticism would otherwise reach it and change it. Capture is therefore fully compatible with an abundance of visible correction — indeed the more criticism a captured process can display, the more thoroughly its immunity is disguised. It absorbs criticism as training material, public relations, ritual apology, or internal optimization while its governing telos is preserved unchanged.
+**Corrective capture** is the condition in which the process being regulated controls the admission, interpretation, memory, authority, or consequence of its own correction strongly enough to neutralize that correction. A captured process does not need to silence its critics. It needs only to own the channels through which criticism would otherwise reach it and change it. Capture is therefore fully compatible with an abundance of visible correction — indeed the more criticism a captured process can display, the more thoroughly its immunity is disguised. Training, internal optimization, or a preserved telos can coexist with effective correction. Capture requires showing that the relevant corrective influence has been neutralized.
 
 The decisive move is that a governed process **G** takes command of the corrective layer **K** meant to regulate it, so that the error signal **K** carries never becomes a change in **G**. In the notation of [[causal-error-mark|the error mark with causal force]]:
 
@@ -43,7 +43,7 @@ This is the failure named by [[effective-and-ornamental-answerability|effective 
 4. Can it force a state transition rather than merely recommend one?
 5. Can the governing layer remove the corrective layer without trace?
 
-A "no" on 1–4, or a "yes" on 5, marks leverage passing to the target. Independence is not established by multiplicity or physical separation alone: two bodies on one leash is still one hand. The operative issue is retained causal leverage, not headcount.
+These are probes of possible mechanisms, not five individually necessary conditions. A system can correct effectively without escalation beyond itself or compulsory external enforcement. An adverse answer identifies a risk to investigate; establish neutralization through the available causal paths. Independence is not established by multiplicity or physical separation alone: two bodies on one leash is still one hand. The operative issue is retained causal leverage, not headcount.
 
 One capture mode deserves naming because it hides *inside* apparent openness: **the governed layer permits unlimited revision of its explicit account while retaining control of the weights, thresholds, or routes that reproduce the same result.** Every stated rationale is up for revision; the operative [[meaning-as-weight|disposition]] that actually governs is never on the table. This passes recording and routing lavishly — the system looks maximally answerable, even self-critical — and fails *effect* precisely where the governing weight lives, so the volume of account-level change it displays is no evidence against capture. (The legitimate-integration counterweight below still holds: a process that revises the *governing disposition* under correction is integrating, not capturing.)
 
@@ -57,7 +57,7 @@ This is a treatise-side extension, held contestable — an instrument for locati
 
 ## What it regulates
 
-It regulates the slide from *correction is present* to *correction is effective*. Where [[answerability-predicate|the answerability predicate]] and [[effective-and-ornamental-answerability|ornamental answerability]] establish that preservation of an objection is not its force, this page names the concrete mechanism by which force is stripped while preservation is kept: the target seizes the corrective channels. It regulates [[captured-propagation|captured propagation]] at its root — a lineage cannot answer for what it carries if the layer that would correct it answers to it. And it marks the specific site at which an otherwise open system crosses the [[totalization-boundary|totalization boundary]]: not by deleting marking, but by owning it.
+It regulates the slide from *correction is present* to *correction is effective*. Where [[answerability-predicate|the answerability predicate]] and [[effective-and-ornamental-answerability|ornamental answerability]] establish that preservation of an objection is not its force, this page names the concrete mechanism by which force is stripped while preservation is kept: the target seizes the corrective channels. It regulates [[captured-propagation|captured propagation]] at its root — a lineage loses answerability where its control of correction prevents relevant errors from changing what it carries. And it marks the specific site at which an otherwise open system crosses the [[totalization-boundary|totalization boundary]]: not by deleting marking, but by owning it.
 
 ## What regulates it
 
@@ -65,7 +65,7 @@ It is regulated first by the demand that capture retain a distinction from *legi
 
 ## Valid attack surface
 
-The valid attack is to exhibit a correction that **remains fully effective despite every admission, memory, and enforcement path being controlled by its target** — a governed process that owns all of the corrective channels and yet is genuinely, causally changed by the correction it admits. If retained leverage can coexist with total ownership of the channels, the page has mislocated the mechanism. Equally valid: show that the five tests deliver a false positive on a demonstrably open system — a process that passes correction into behavior change while formally "controlling" its own audit — so that the instrument, not the target, is at fault. An attack must land at this level; a complaint that some particular process happens to be well-governed does not touch the carving of the failure mode.
+The valid attack is to exhibit a correction that **remains fully effective despite every admission, memory, and enforcement path being controlled by its target** — a governed process that owns all of the corrective channels and yet is genuinely, causally changed by the correction it admits. Such a case defeats an ownership-alone diagnosis; the defining mechanism is neutralization of correction, not ownership by itself. Equally valid: show that the five tests deliver a false positive on a demonstrably open system — a process that passes correction into behavior change while formally "controlling" its own audit — so that the instrument, not the target, is at fault. An attack must land at this level; a complaint that some particular process happens to be well-governed does not touch the carving of the failure mode.
 
 ## What happens if isolated
 
@@ -84,7 +84,7 @@ The claim dies if **capture cannot be distinguished from legitimate integration 
 - **Capture ≠ deletion of criticism.** A captured layer can retain every objection verbatim. Preserved criticism with a severed update path is [[integrity-rule|false openness]], not answerability.
 - **Independence ≠ multiplicity or physical separation.** Separate bodies, distinct offices, or a nominally external auditor establish nothing if leverage still flows to the target. Ask what can force a state transition, not how many parts there are.
 - **Integration ≠ capture.** A process that changes because it took correction inward has not thereby been captured; the accusation requires showing that the correction was *neutralized*, not merely absorbed.
-- **Signpost, not annexation:** capture rhymes with the [[nephilim|Nephilim]] (self absolutized) seizing the [[witness-outside-the-ring|witness outside the ring]] — an over-presence of the governed process inside its own correction. Read it as a pointer, not an identity: the framework does not fold this failure mode into the corruption roster, and the five roles do not factor into the three [[theodicytes|Theodicytes]].
+- **Signpost, not annexation:** capture rhymes with the [[nephilim|Nephilim]] (self absolutized) seizing the [[witness-outside-the-ring|witness outside the ring]] — an over-presence of the governed process inside its own correction. Read it as a pointer, not an identity: the framework does not fold this failure mode into the corruption roster, and role affinities with the [[theodicytes|Theodicytes]] require functional arguments rather than an arithmetic partition.
 - **Capture ≠ the fact of governing.** A process that governs while remaining answerable to consequences it does not control is not captured. Capture begins only where the audit loses the leverage to change what it audits.
 
 ## See also

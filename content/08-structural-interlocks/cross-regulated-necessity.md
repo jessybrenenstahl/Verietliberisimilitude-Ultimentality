@@ -36,7 +36,7 @@ The pair is not necessary because the terms verbally support one another. It is 
 
 ## Type and formal status
 
-**E (epistemic).** Derived, Mixed. For the founding instance — [[semantic-closure-and-recursive-marking|closure C and marking M]] — the relation is Derived, [[frame-internal-tier|FT]]: given the definitions of `C` and `M`, that each bounds the other's isolation excess follows inside the frame, and the only available attack is to decline the frame. The generalization — the four-criteria test and its extension to arbitrary couplings — is Derived, [[carving-tier|CV]]: a carving contestable by counter-instance or by a better test. The count of four criteria is itself a carving; no criterion is exempt.
+**E (epistemic).** Derived, Mixed. For the founding instance — [[semantic-closure-and-recursive-marking|closure C and marking M]] — the relation is Derived, [[frame-internal-tier|FT]]: given the definitions of `C` and `M`, that each bounds the other's isolation excess follows inside the frame, while internal criticism can challenge whether the claimed inference follows; frame-declension is a separate challenge. The generalization — the four-criteria test and its extension to arbitrary couplings — is Derived, [[carving-tier|CV]]: a carving contestable by counter-instance or by a better test. The count of four criteria is itself a carving; no criterion is exempt.
 
 **A (alethic).** The criteria aspire to sort real couplings *accurately* into cross-regulated-necessary and merely incidental. Over-inclusion (blessing a redundancy as necessary) and under-inclusion (dissolving a genuine coupling as circular) are inaccuracies, not merely disallowed moves; the epistemic and alethic axes do not predict each other.
 

@@ -33,7 +33,7 @@ The two clauses are not a list; they are wired. Closure is what keeps correction
 
 ## Type and formal status
 
-**E:** Derived, FT synthesis. The relation follows from the accepted definitions inside the frame: once participant-access is defined as structured signification and every content-bearing claim as marked, *no escape* and *no exemption* are entailments, not additions. Because the tier is FT, the only attack on the derivation as such is to decline the frame — to refuse the definitions of access and signification — and declension is not costless. The *synthesis* is the further claim that these are one architecture rather than two adjacent slogans; that synthetic claim is itself held contestable and can be contested as a carving.
+**E:** Derived, FT synthesis. The relation follows from the accepted definitions inside the frame: once participant-access is defined as structured signification and every content-bearing claim as marked, *no escape* and *no exemption* are entailments, not additions. The FT tier exposes the derivation to internal criticism of its inference and consistency. Declining the definitions of access and signification is a separate challenge to the frame. The *synthesis* is the further claim that these are one architecture rather than two adjacent slogans; that synthetic claim is itself held contestable and can be contested as a carving.
 
 **A:** The page aspires to map the actual joint structure of access and correction. It is inaccurate, not merely disallowed, to read the coupling as an arithmetic sum of two independent principles, or to read either clause as a founded axiom exempt from marking.
 

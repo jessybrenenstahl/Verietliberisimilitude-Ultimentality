@@ -33,7 +33,7 @@ The two clauses are one architecture seen twice. The medium's unavoidability is 
 
 ## Type and formal status
 
-**E (epistemic exposure):** Derived, FT for the synthesized relation. Given the frame's definitions of participant-access and of finite formulation, *the medium is unavoidable and every message is mortal* follows; the only frame-level attack is to decline the frame (see [[reciprocal-attack-surfaces|Reciprocal Attack Surfaces]] on what a legitimate attack must target). The **medium/message vocabulary itself is a carving, Derived, CV** — a better pair of labels could replace it without touching the relation. "Contestable" here does not mean "probably wrong" or "merely optional"; the carving is load-bearing and answerable at once.
+**E (epistemic exposure):** Derived, FT for the synthesized relation. Given the frame's definitions of participant-access and of finite formulation, *the medium is unavoidable and every message is mortal* follows; internal criticism can challenge the stated derivation, and frame-declension can challenge its premises (see [[reciprocal-attack-surfaces|Reciprocal Attack Surfaces]] on what a legitimate attack must target). The **medium/message vocabulary itself is a carving, Derived, CV** — a better pair of labels could replace it without touching the relation. "Contestable" here does not mean "probably wrong" or "merely optional"; the carving is load-bearing and answerable at once.
 
 **A (alethic aspiration):** the page aims to map the real condition of participant-access, not merely to stipulate a convenient picture. Its inaccuracy would be a substantive defect, not a permitted convention.
 

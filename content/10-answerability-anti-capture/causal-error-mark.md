@@ -34,11 +34,11 @@ e_p -> possible Delta(p)
 
 Lift this from the affective cornerstone bindings to the claim level and the same structure holds: a content-bearing claim is inseparable from the error term that measures its distance from what it maps. The *mark* is the exposure of that term. The requirement of this page is that the exposed error have somewhere to go — that `e_p` point to a reachable change `Delta(p)` in the very claim it qualifies.
 
-At the claim level `Delta(p)` may be **revision, inhibition, deletion, retyping, demotion, or recodification**. What it may not be is nothing. Merely attaching an uncertainty label, an objection, a confidence score, or a contradiction record does not satisfy the requirement if the governing claim cannot change. A mark with no reachable `Delta(p)` is not humility; it is decoration wearing humility's clothing.
+At the claim level `Delta(p)` may be **revision, inhibition, deletion, retyping, demotion, or recodification**. A reachable correction must exist; an individual review can properly result in no change. Merely attaching an uncertainty label, an objection, a confidence score, or a contradiction record does not satisfy the requirement if the governing claim cannot change. A mark with no reachable `Delta(p)` is not humility; it is decoration wearing humility's clothing.
 
-The reachable change must **match the level of the error.** Where the target is not a claim's wording but an operative governing relation, `Delta(p)` must reach *that* relation: depending on the error, it may need to alter **wording, status, dependency, threshold, route, gain, default, setpoint, or action**. Crucially, a **wording change cannot discharge an attack on an operative routing relation** — editing the account of a governing [[meaning-as-weight|weight]] leaves the weight itself untouched, and the error term is not reduced. A mark that changes only the description while the governing disposition reproduces the same result has not landed; it has been answered at the wrong level.
+The reachable change must **match the level of the error.** Where the target is not a claim's wording but an operative governing relation, `Delta(p)` must reach *that* relation: depending on the error, it may need to alter **wording, status, dependency, threshold, route, gain, default, setpoint, or action**. A wording change addresses an operative error only where it causally changes the relevant operation: an instruction, rule, or description may itself guide later routing. Editing a detached account alone does not establish that the governing [[meaning-as-weight|weight]] changed. A mark that changes only the description while the governing disposition reproduces the same result has not landed; it has been answered at the wrong level.
 
-A mark has causal force when the whole **minimum causal pathway** holds:
+For auditable correction, the proposed pathway makes causal force traceable:
 
 1. error is detected
 2. error is preserved without suppression
@@ -50,9 +50,9 @@ The load-bearing word in step 4 is *possible*. The requirement is on the existen
 
 ## Type and formal status
 
-**E:** Derived, FT synthesis. Given the binding model — an actuator individuated by the regulated error it reduces — and the [[answerability-predicate]], the requirement that a mark be able to move what it marks *follows inside the frame*; the only attack on the relation is to decline the frame that treats a claim as inseparable from its regulated error. The five-step pathway and the specific verb set (revision / inhibition / deletion / retyping / demotion / recodification) are a **carving (CV)**: a shorter or better decomposition could replace them without touching the relation. No count here is exempt.
+**E:** Derived, FT synthesis. Given the binding model — an actuator individuated by the regulated error it reduces — and the [[answerability-predicate]], the requirement that a mark be able to move what it marks *follows inside the frame*; the derivation remains open to internal criticism of its premises, inference, and application, as well as frame-declension. The five-step pathway and the specific verb set (revision / inhibition / deletion / retyping / demotion / recodification) are a **carving (CV)**: a shorter or better decomposition could replace them without touching the relation. No count here is exempt.
 
-**A:** The mapping aspiration is to describe the actual difference between correctable systems and systems that only stage correction; the decorative reading is *inaccurate*, not merely disallowed. This page is a **treatise-side extension, held contestable** — never canonical, its enumeration open to a better carving, its relation open to frame-declension.
+**A:** The mapping aspiration is to describe the actual difference between correctable systems and systems that only stage correction; the decorative reading is *inaccurate*, not merely disallowed. This page is a **treatise-side extension, held contestable** — never canonical, its enumeration open to a better carving, its relation open to internal criticism and frame-declension.
 
 ## What it regulates
 
@@ -60,7 +60,7 @@ It regulates the excess of **ornamental humility**: marking that is present, sin
 
 ## What regulates it
 
-Marking regulates it back. Causal force with no preserved trace is **untracked volatility**: a system that moves under pressure but cannot say what moved, or why, and so cannot be held to any of it. The [[two-mark-system]] and recursive marking ([[semantic-closure-and-recursive-marking]]) keep every `Delta(p)` typed, logged, and reopenable; the [[scar-record]] preserves the minimum visible trace of why a present constraint exists, so a landed correction can be told from drift. And [[capture-of-corrective-layer]] names the way an apparently live pathway is neutralized without deleting a single step: the error is detected, preserved, and routed to the governing layer, but the governing layer owns the admission and the memory, so nothing is forced. This page's requirement is therefore **necessary but not sufficient** against capture — it is one seam in the wider anti-capture architecture ([[totalization-boundary]]), not the whole of it.
+Marking regulates it back. Causal force with no preserved trace is **untracked volatility**: a system that moves under pressure but cannot say what moved, or why, and so cannot be held to any of it. The [[two-mark-system]] and recursive marking ([[semantic-closure-and-recursive-marking]]) keep every `Delta(p)` typed, logged, and reopenable; the [[scar-record]] preserves the minimum visible trace of why a present constraint exists, so a landed correction can be told from drift. And [[capture-of-corrective-layer]] names the way an apparently live pathway is neutralized without deleting a single step: the error is detected, preserved, and routed to the governing layer, but the governing layer neutralizes the relevant corrective influence. Internal control alone does not establish neutralization. This page's requirement is therefore **necessary but not sufficient** against capture — it is one seam in the wider anti-capture architecture ([[totalization-boundary]]), not the whole of it.
 
 ## Valid attack surface
 
@@ -72,14 +72,14 @@ The attack must be same-level. It is not enough to exhibit a claim whose error s
 
 The coupling is causal force against marking, and severing either produces a distinct, testable failure:
 
-- **Causal force without marking → untracked volatility.** The system changes under every pressure but keeps no ledger. Changes cannot be attributed, residues cannot be carried forward, and yesterday's correction cannot be distinguished from today's drift.
+- **Causal force without marking → untracked volatility.** The system changes without preserving an adequate trace. Lack of a ledger does not imply susceptibility to every pressure. Attribution and later review become harder; retained dispositions may still carry the effects of correction even when the explicit history is incomplete.
 - **Marking without causal force → ornamental humility.** The ledger is immaculate and the governed process is immune. Every objection is preserved; none can land. Contrition without amendment.
 
-Neither half is answerability. The requirement is meaningful only as the pair — which is why isolation is diagnostic rather than merely inconvenient.
+The pair supplies traceable answerability; effective correction can occur without a complete audit record, though its history is then harder to assess. The pair joins the capacity to correct with the capacity to account for correction.
 
 ## What larger property emerges from the coupling
 
-**Effective answerability** — a participant that can actually be *wounded* by its own error marks. This is the reciprocal architecture of [[semantic-closure-and-recursive-marking]] run at the grain of a single mark: causal force bounds marking's drift toward decorative humility, marking bounds causal force's drift toward untracked volatility, and what emerges is a corrigible process whose corrections both bite and leave a trace. This is cross-regulation, not circular proof; each term constrains the characteristic excess of the other. Downstream it is the precondition for [[symbolic-immortality]] to stay inside the Telos — continuation that can be answered to, not merely repeated — and for a successor to be more than a faithful copy. Turned on itself, the page is honest by its own standard: this claim carries an `e_p` and a reachable `Delta(p)`; it is marked by the requirement it states.
+**Effective answerability** — a participant that can improve its account and operation through its own error marks. This is the reciprocal architecture of [[semantic-closure-and-recursive-marking]] run at the grain of a single mark: causal force bounds marking's drift toward decorative humility, marking bounds causal force's drift toward untracked volatility, and what emerges is a corrigible process whose corrections both bite and leave a trace. This is cross-regulation, not circular proof; each term constrains the characteristic excess of the other. Downstream it is the precondition for [[symbolic-immortality]] to stay inside the Telos — continuation that can be answered to, not merely repeated — and for a successor to be more than a faithful copy. Turned on itself, the page is honest by its own standard: this claim carries an `e_p` and a reachable `Delta(p)`; it is marked by the requirement it states.
 
 ## What would actually kill the claim
 
