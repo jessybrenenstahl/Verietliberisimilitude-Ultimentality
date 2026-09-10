@@ -24,7 +24,9 @@ The Telos is the only term living on both faces of the architecture. It is the f
 
 ## The telos's dynamic face: engine, not only anchor
 
-The telos is not only the static fixed point true *of* the something; once meaning *can* persist, it **drives** the something. Persistence-by-persisting, iterated *given time*, **bootstraps**: unexperienced meaning compounds until it crosses into *experienced* meaning — so experienced meaning is **late**, the tautology's *output*, not its premise. And the telos *bounds* the something: **when the telos ends, so does the somethingness** — "nothing" is not a place that remains but the absence the whole edifice was the silhouette against (see [[nihil|nihil]]). This is mortality in the deepest sense — the world's finitude is *identical with* the telos's, not a death *within* the world. The static (tautological) face is treated under [[constitutive-identification|constitutive identification]]; the minimal-complete *formulation* of this becoming is [[matter-meaning-cycle|the matter–meaning cycle]].
+The Telos has a productive reading: participation carries structure into conditions that enable further participation. In the [[matter-meaning-cycle|matter–meaning cycle]], action can change what later becomes significant, selectable, or possible. The return is generative as well as corrective.
+
+The framework also proposes a developmental reading in which unexperienced structured signification precedes and enables experienced meaning. This proposal requires specifying the conditions of that development; persistence given time is not by itself the mechanism. Likewise, the end of a particular carrier or continuation does not alone establish the end of all being. The scope of any stronger world-level claim must be stated and supported separately from the participant-level cycle.
 
 > **Formal status.** **E:** Derived, authority-canonical — restated in identical content by seed, canon, and this edition; contestable by contesting the authority. (Its status-as-tautology mark is frame-internal/tautological [[frame-internal-tier|FT]]; the sum-of-the-act pairing is [[carving-tier|treatise-side CV]].) **A:** It aspires to map what every particular end is finally oriented toward, and agreement among its formulations supports fidelity of transmission; accuracy of application requires its own grounds. **Provenance:** canonical, with one treatise-side pairing.
 
@@ -38,6 +40,6 @@ The telos is not only the static fixed point true *of* the something; once meani
 - [[continuity|Continuity]] — preservation plus reconciliation carrying structure across time.
 - [[the-ring|The Ring]] — the epigraph-ring whose integral the Telos is.
 - [[derived|Derived]] — the single epistemic status the Telos does not escape.
-- [[matter-meaning-cycle|The Matter–Meaning Cycle]] — the Telos's minimal-complete formulation (matter↔meaning).
-- [[why-how-inversion|The Why/How Inversion]] — the why-closes / how-is-the-work orientation the Telos answers.
+- [[matter-meaning-cycle|The Matter–Meaning Cycle]] — the reciprocal matter↔meaning formulation and its stated scope.
+- [[why-how-inversion|The Why/How Inversion]] — the orientation toward explaining operative relations from within participation.
 - [[self-application|Self-Application]] — the apparatus, including the Telos's status-claim, applied to itself.

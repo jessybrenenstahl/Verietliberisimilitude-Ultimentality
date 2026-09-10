@@ -23,9 +23,9 @@ application_tags: []
 
 ## Definition
 
-A **meaning-maker** is a bounded recursive process in which structured differences can alter selection, routing, persistence, or consequence. It is the framework's substrate-neutral *unit of participation*: the smallest thing that can be said to take part in structured signification at all, named by what it does rather than by what carries it. A full meaning-maker must be able to
+A **meaning-maker** is a bounded recursive process in which structured differences can alter selection, routing, persistence, or consequence. It is the framework's substrate-neutral *unit of participation*: a process classified by what it does rather than by what carries it; its boundary and scale must be specified in an application. A full meaning-maker must be able to
 
-1. **admit or exclude significance** — hold a boundary at which some structured difference is taken up as signal and some is turned away as [[semblance|semblance]] ([[selection-axis|selection]]);
+1. **admit or exclude significance** — hold a boundary at which some structured difference is taken up as relevant signal and some is excluded; admitted and excluded representations alike remain [[semblance|semblance]] ([[selection-axis|selection]]);
 2. **undergo constraint** — be shaped by conditions it did not author, so that not every outcome is equally available to it;
 3. **differentiate and route structure** — carry admitted difference along one path rather than another ([[routing-axis|routing]] over the [[directional-primitives|directional primitives]]);
 4. **regulate at least one discrepancy** — reduce a [[regulated-error-signal|regulated error]] toward a setpoint, the binding pattern `B(p) = (p, eₚ)` read as *regulation*, not as a conserved quantity;
@@ -64,7 +64,7 @@ A valid attack is a **same-level counter-instance**, in one of three shapes:
 
 - **Over-inclusion.** Exhibit a system that satisfies all seven criteria yet is plainly not a participant — a passive store that, on inspection, meets *admit/exclude*, *route*, and *regulate* only in an equivocal reading. If the equivocation is real, criterion 4 or 1 is too loose and must be tightened.
 - **Under-inclusion.** Exhibit a process that plainly participates yet irreparably fails a criterion, showing the set excludes what it should admit.
-- **Collapse of the hinge.** Show that criterion 4 can be satisfied by pure control with no admitted significance, so that *meaning-making* reduces to *regulation as such*. This is the sharpest attack, because it targets the seam the whole page rests on.
+- **Collapse of the hinge.** Show that the seven criteria taken together fail to distinguish admitted significance from arbitrary causal regulation. Satisfying criterion 4 alone while failing the others does not establish that collapse. This is the sharpest attack, because it targets the seam the whole page rests on.
 
 What is **not** a valid attack: pointing at the substrate ("but it is only silicon / only chemistry"), pointing at the process where the claim is about function, or offering the absence of consciousness or language as disqualifying. Those are level errors catalogued in the [[category-error-atlas|category-error atlas]].
 
