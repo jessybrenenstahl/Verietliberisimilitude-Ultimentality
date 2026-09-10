@@ -18,7 +18,9 @@ This is the page where the framework lodges one of its subtler distinctions. [[s
 
 ## Role coalition: the Poet
 
-In the [[splcw|SPLCW]] vocabulary, the Homunculus's canon role-coalition is the **[[poet|Poet]]** — the symbolic-transduction faculty whose characteristic danger is decorative drift into aesthetic fog. As always this is a soft [[role-corruption-affinities|affinity]], not an identity. There is also a *second*, seed-grounded edge into the Homunculus: the [[logician|Logician]], via the word *flattening* shared between the seed's Logician-capture and its Homunculus description (*pseudo-rational flattening*). The framework keeps this **Logician → Homunculus** seed edge live alongside the benchmark's **Poet → Homunculus** and the benchmark's **Logician → [[nephilim|Nephilim]]**; the edges conflict only if force-partitioned ([[two-layer-separation|two-layer separation]]).
+In [[splcw|SPLCW]], [[poet|Poet]] has a familiar affinity with this failure when decorative drift replaces answerable significance. [[logician|Logician]] can contribute when formal flattening preserves a representation at the cost of its subject. These are context-sensitive [[role-corruption-affinities|affinities]], not identities between healthy faculties and corruptions.
+
+Beauty, play, formal exploration, and attention to a medium can themselves carry significance. They need not serve an immediate external utility to count as participation. The diagnostic question is whether the form persistently displaces the relation it claims to carry, not whether the work is ornate, abstract, or enjoyable.
 
 ## A boundary that is easy to blur
 
@@ -35,6 +37,6 @@ In the [[splcw|SPLCW]] vocabulary, the Homunculus's canon role-coalition is the 
 - [[nephilim|The Nephilim]] — the self absolutized (contrast term).
 - [[poet|The Poet]] — coalition member; symbolic transduction, aesthetic fog.
 - [[sterility|Sterility]] — the absence that appears as a symptom inside it.
-- [[propagation|Propagation]] — the aim whose failure is sterility.
+- [[propagation|Propagation]] — the directional operator used in carrying outward.
 - [[no-fourth-argument|The No-Fourth Argument]] — why sterility is not its own corruption.
 - [[role-corruption-affinities|Role–Corruption Affinities]] — the doubly-grounded Logician edge.

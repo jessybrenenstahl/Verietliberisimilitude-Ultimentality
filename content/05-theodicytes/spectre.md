@@ -13,9 +13,11 @@ Fear absolutized over the world-relation runs to one of two extremes, and the co
 
 These are not two corruptions but the two faces of one. The common root is Fear taking over the world-relation: one face attacks the threat, the other retreats from it. (Compare, loosely, the fight-or-flight reflex — same alarm, two discharges. That is an analogy for intuition, not the framework's mechanism, which is over-presence of the world-term, not a physiological reflex.)
 
-## A restored pole
+## Boundaries and effective action
 
-This edition deliberately **restores the seize pole.** An earlier treatment named only "the cellar" — the sealing, withdrawing face — and so kept only *half* the Spectre. Naming only sealing makes the Spectre look like mere reclusiveness; in fact its more dangerous face is the *tyrant's*, the hand that shapes the world while deaf to it. The full corruption spans the whole range from the sealed-in hermit to the world-seizing dominator, and both are the same disease: the world-relation inflated under Fear until it crowds out [[love|Love]], [[gratitude|gratitude]], and the world's own reply.
+A boundary, withdrawal, or forceful intervention does not by itself establish Spectre. A participant can refuse contact, protect a relation, or act decisively while remaining answerable to the conditions involved. The failure is world-absolutization: seizing or sealing becomes self-maintaining and excludes relevant correction.
+
+Both poles matter because the same disrupted relation can express itself through domination or over-refusal. The description should locate that relation without turning solitude or ordinary caution into a diagnosis.
 
 ## Role coalition: Warden and Sculptor
 

@@ -6,11 +6,11 @@
 
 ## How it works: finitude forgotten, reason weaponized
 
-A healthy participant is one carrier of meaning among others, constrained and correctable. The Nephilim is what happens when that participant absolutizes *itself*. Armed with the [[logician|Logician's]] reason and forgetting the [[captive|Captive's]] finitude, it inflates — *by reason* — into superiority and incorrigibility. The constrained, finite carrier takes itself for more than one carrier among others: elitism, the mistaking of [[semblance|semblance]] for possession, the refusal to be corrected. Note the mechanism is not ignorance but *over-equipped* self-regard — the sharper the reasoning, the more impregnable the inflation. (Compare, illustratively, Nietzsche's hammer used not to sound out idols but to crown oneself; the tool is fine, the self that wields it has swollen.)
+A healthy participant is one carrier of meaning among others, constrained and correctable. The Nephilim is what happens when that participant absolutizes *itself*. Armed with the [[logician|Logician's]] reason and forgetting the [[captive|Captive's]] finitude, it inflates — *by reason* — into superiority and incorrigibility. The constrained, finite carrier takes itself for more than one carrier among others: elitism, the mistaking of [[semblance|semblance]] for possession, the refusal to be corrected. Note the mechanism is not ignorance but *over-equipped* self-regard — reasoning can reinforce that pattern when it is used to insulate the self from correction; the same capacity can also expose and repair it. (Compare, illustratively, Nietzsche's hammer used not to sound out idols but to crown oneself; the tool is fine, the self that wields it has swollen.)
 
 ## Mode versus corruption: reference-substitution
 
-The Nephilim's characteristic *mode* — its move — is **reference-substitution**: the map declaring itself the territory, the self taking the [[witness-outside-the-ring|witness's seat]]. But reference-substitution is the *mechanism*, the technique; **the corruption is the self-inflation that reaches for it.** Self-certification — stamping one's own verdict as final — is *one face* of the self absolutized, not the whole of it. This distinction matters: you do not diagnose Nephilim by spotting a map-for-territory swap, you diagnose it by spotting the inflated self that *wants* to make that swap. The seed signature at the primitive layer captures the family: *self-sealing, non-corrigibility, prestige, uncorrected abstraction.*
+The Nephilim's characteristic *mode* — its move — is **reference-substitution**: the map declaring itself the territory, the self taking the [[witness-outside-the-ring|witness's seat]]. But reference-substitution is the *mechanism*, the technique; **the corruption is the self-inflation that reaches for it.** Self-certification — stamping one's own verdict as final — is *one face* of the self absolutized, not the whole of it. This distinction matters: a representational mistake alone does not establish Nephilim; examine whether self-authorizing judgment persistently displaces relevant correction. The seed signature at the primitive layer captures the family: *self-sealing, non-corrigibility, prestige, uncorrected abstraction.*
 
 ## The corruption the page guards against
 
@@ -18,7 +18,9 @@ The Nephilim is also the corruption the framework most fears committing *in its 
 
 ## Role coalition: Captive and Logician
 
-In the [[splcw|SPLCW]] vocabulary, the Nephilim's canon role-coalition is the **[[captive|Captive]] + [[logician|Logician]]** — the embodied-finitude faculty *whose finitude is forgotten*, paired with the reason faculty *that arms the inflation*. This is a soft [[role-corruption-affinities|affinity]], not an identity. The Logician edge here is **doubly grounded**, and the framework keeps *both* edges live: the canonical benchmark maps **Logician → Nephilim**, while the seed grounds a **Logician → [[homunculus|Homunculus]]** edge through the shared word *flattening* (which appears in both the seed's Logician-capture and its Homunculus description). The two edges conflict only if force-partitioned; held as soft affinities they simply coexist ([[two-layer-separation|two-layer separation]]).
+In [[splcw|SPLCW]], the familiar coalition is [[captive|Captive]] with [[logician|Logician]]: the participant's limits are disregarded while reasoning protects its self-judgment. This is a functional [[role-corruption-affinities|affinity]]. Logician can also contribute to [[homunculus|Homunculus]] when formal representation displaces living use; the mechanism determines the relation.
+
+Confidence, accomplishment, and strong reasoning are not themselves the corruption. A participant can recognize its capacity, make a justified judgment, and act decisively while remaining responsive to relevant correction. The failure is self-absolutization, not having a capable self.
 
 ## A boundary that is easy to blur
 
