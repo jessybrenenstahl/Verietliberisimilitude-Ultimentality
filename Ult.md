@@ -460,13 +460,13 @@
 
 **6.6 Three Theodicytes are named; the exhaustiveness of three remains contestable.**
 
-   **6.61** The no-fourth argument excludes captured propagation only.
+   **6.61** The no-fourth argument excludes failed handing-on as a fourth term-absolutization.
 
-      **6.611** Propagation is the aim, not a term of the act.
+      **6.611** Handing-on is considered here as the aim served by self, world, and medium; this does not identify the Propagation operator with Telos.
 
-      **6.612** An aim can fail but cannot be over-present in the same way.
+      **6.612** Failure of that aim does not itself supply an additional over-present term.
 
-      **6.613** Its failure is sterility, an absence rather than a Theodicyte.
+      **6.613** Missing continuation is sterility; its cause may still involve corruption or capture.
 
    **6.62** Installed compulsion remains a candidate corruption beneath the act-term stratum.
 

@@ -35,7 +35,7 @@ The most expensive error in this part's history was trying to **force-fuse the f
 - [[spectre|The Spectre]] — the world absolutized under Fear.
 - [[nephilim|The Nephilim]] — the self absolutized.
 - [[homunculus|The Homunculus]] — the medium absolutized.
-- [[no-fourth-argument|The No-Fourth Argument]] — why there is no captured-propagation corruption.
+- [[no-fourth-argument|The No-Fourth Argument]] — why a missed aim alone does not add a fourth term-absolutization.
 - [[two-layer-separation|Two-Layer Separation]] — three Theodicytes vs five role-captures.
 - [[role-corruption-affinities|Role–Corruption Affinities]] — coalition, never partition.
 - [[carving-tier|Carving / Count / Aptness Tier]] — where the count of three lives.
