@@ -35,6 +35,8 @@ This repository is a **wiki-as-codebase**: the content *is* the source, and it i
 
 ## Before you commit
 
+After changing attack, prerequisite, or regulation metadata, run `python3 tools/source_metadata.py` to refresh the derived JSON exports. Reference tables are expanded during publication; edit their source metadata or data rather than generated rows.
+
 Run the validator (CI enforces the same check):
 
 ```

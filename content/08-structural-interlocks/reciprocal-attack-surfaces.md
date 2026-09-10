@@ -49,7 +49,7 @@ It regulates what counts as *repair*. The reflex on meeting closure's totalizati
 
 ## Valid attack surface
 
-Two attacks reach the claim, and only two. **(1) Target the coupling.** Show that the wiring drawn between `C` and `M` does not hold — that `e_C` is not in fact regulated by `M`, or `e_M` not by `C`, at the level where the coupling is asserted. **(2) Show the regulator does not constrain the named excess.** Exhibit a formulation of closure that totalizes despite live marking, or a marking regime that regresses despite a closed field. An attack that merely dislikes the notation, or that offers a lower-level counter-instance against a coupling-level relation, is turned away by [[same-level-attack-rule|the same-level attack rule]] — and turning it away is *not* logged as confirmation. It leaves the claim exactly as contestable as it was.
+Two important attacks reach the claim. **(1) Target the coupling.** Show that the wiring drawn between `C` and `M` does not hold — that `e_C` is not in fact regulated by `M`, or `e_M` not by `C`, at the level where the coupling is asserted. **(2) Show the regulator does not constrain the named excess.** Exhibit a formulation of closure that totalizes despite live marking, or a marking regime that regresses despite a closed field. An attack that merely dislikes the notation, or that offers a lower-level counter-instance against a coupling-level relation, is turned away by [[same-level-attack-rule|the same-level attack rule]] — and turning it away is *not* logged as confirmation. It leaves the claim exactly as contestable as it was.
 
 ## What happens if isolated
 
@@ -58,6 +58,10 @@ Read alone, without [[cross-regulated-necessity]] and its isolation-failure test
 ## What larger property emerges from the coupling
 
 The emergent property is **no escape and no exemption held as one structure** — see [[no-escape-no-exemption|no escape, no exemption]]. Because each principle's vulnerability *is* the other's regulating grip, the pair needs no tribunal outside itself to stay stable: closure keeps marking from fleeing into an imagined extra-symbolic outside, marking keeps closure from freezing into a finished whole, and what persists is a [[dynamic-fixed-point|dynamic fixed point]] — an operation that continues while its formulations keep dying and being remade. This is what the framework intends by cross-regulation, and it is emphatically not self-proof: `⊕` is [[force|coupled-controller composition]], never addition and never mutual endorsement. Each term bounds the characteristic excess of the other, and that bounding — not agreement — is the coupling.
+
+## Scope of the regulating claim
+
+Closure locates correction within meaning; it does not by itself terminate a recursive procedure. [[correction-without-regress|Usable stopping conditions]] supply that operational requirement. Marking keeps formulations correctable without requiring constant alteration. The excesses named here are risks under the specified failure mechanisms, not automatic consequences of omitting a word or regulator label. A third implementation resource need not refute reciprocal regulation; it challenges only a claim that the pair alone is sufficient. An alternative that performs the same function can improve this account without proving the function unreal.
 
 ## What would actually kill the claim
 

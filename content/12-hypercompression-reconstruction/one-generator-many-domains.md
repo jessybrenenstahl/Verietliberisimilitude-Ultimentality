@@ -57,7 +57,7 @@ It is regulated from three directions. [[same-level-attack-rule|The same-level a
 
 ## Valid attack surface
 
-The load-bearing attack is a **misclassified same-instantiation**: two domains are declared instances of one generator while differing in a structurally relevant way the framework cannot represent. Such an attack must exhibit the difference *at the level of the typed relations* — a divergence in how error is regulated, how consequence returns, or how continuity is tracked — and show that the six-criterion signature is blind to it. That is a legitimate demand for a finer type, and it lands on the seam: the coarseness of the signature. A weaker attack — "these carriers are made of different stuff," "one is faster," "one is older" — targets substrate or capacity and is answered by [[identity-across-substrates|identity across substrates]] without touching the claim. The other admissible attack shows a genuine instance that all six criteria *reject*, exposing the signature as under-inclusive.
+The load-bearing attack is a **misclassified same-instantiation**: two domains are declared instances of one generator while differing in a structurally relevant way the framework cannot represent. Such an attack must exhibit the difference *at the level of the typed relations* — a divergence in how error is regulated, how consequence returns, or how continuity is tracked — and show that the six-criterion signature is blind to it. That is a legitimate demand for a finer type, and it lands on the seam: the coarseness of the signature. Carrier or capacity differences are relevant where they affect a claimed functional realization; a difference of material alone does not establish that effect. The other admissible attack shows a genuine instance the conjunction of six criteria excludes, exposing the signature as under-inclusive.
 
 ## What happens if isolated
 
@@ -74,7 +74,7 @@ Coupled to [[hypercompression|hypercompression]] and [[ultimental-kernel|the ker
 
 ## What would actually kill the claim
 
-The claim dies if **domain transfer turns out to depend only on verbal resemblance and not on preserved typed relations** — if it can be shown that the six-criterion signature does no discriminating work, admitting and rejecting the same cases a bare word-match would. It also dies if the signature is demonstrably uncorrectable: if it systematically admits non-instances (over-inclusive), or systematically denies genuine ones (under-inclusive), and no finer typing can repair it without importing domain-specific premises. A failed attempt to produce such a case is logged as a failed attempt; it is not counted as proof that the transfer relation is universal.
+The claim dies if **domain transfer turns out to depend only on verbal resemblance and not on preserved typed relations** — if it can be shown that the six-criterion signature does no discriminating work, admitting and rejecting the same cases a bare word-match would. It also dies if the signature is demonstrably uncorrectable: if it systematically admits non-instances (over-inclusive), or systematically denies genuine ones (under-inclusive), and its stated relation cannot be repaired under explicit domain premises. A failed attempt to produce such a case is logged as a failed attempt; it is not counted as proof that the transfer relation is universal.
 
 ## Prohibited misreadings
 

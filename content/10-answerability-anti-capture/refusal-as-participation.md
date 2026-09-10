@@ -23,14 +23,14 @@ application_tags: []
 
 ## Definition
 
-A **refusal** — a rejection, a withdrawal, a silence held under constraint, an adversarial contradiction, a noncompliance, an exit — is a move *within* the field of structured signification, not a step outside it. To refuse is to select against, to route a counter-signal, to alter what other processes may expect, depend on, or do next. Refusal does not escape participation; it is one of participation's sharpest and most consequential forms. And precisely because a meaning-maker cannot decline participation, that inescapability must never be read as its having agreed.
+A **refusal** — a rejection, a withdrawal, a silence held under constraint, an adversarial contradiction, a noncompliance, an exit — is a move *within* the field of structured signification, not a step outside it. To refuse is to select against, to route a counter-signal, to alter what other processes may expect, depend on, or do next. Refusal does not escape participation; it is one of participation's sharpest and most consequential forms. And although an intelligible refusal remains semantic participation, that inescapability must never be read as its having agreed.
 
 ```text
 refusal is participation
 participation is not consent
 ```
 
-The first line closes the exit: there is no field-neutral "no," no refusal that leaves signification untouched while still being intelligible *as* refusal. To be legible as a decline at all is already to have selected, routed, and altered the field — the same fact carried by [[no-escape-no-exemption|no escape]]. The second line refuses the capture: unavoidable participation cannot be converted into agreement, authorization, endorsement, or consent. Holding both at once is what keeps semantic closure from curdling into coercive enclosure — what keeps [[no-escape-no-exemption|no escape]] from being weaponized into *therefore you have said yes*.
+The first line concerns semantic participation, not a prohibition on leaving an interaction: there is no field-neutral "no," no refusal that leaves signification untouched while still being intelligible *as* refusal. To be legible as a decline at all is already to have selected, routed, and altered the field — the same fact carried by [[no-escape-no-exemption|no escape]]. The second line refuses the capture: unavoidable participation cannot be converted into agreement, authorization, endorsement, or consent. Holding both at once is what keeps semantic closure from curdling into coercive enclosure — what keeps [[no-escape-no-exemption|no escape]] from being weaponized into *therefore you have said yes*.
 
 Refusal is not [[away|Away]] alone, not [[free-wont|free won't]] alone, and not any single cornerstone binding. It is an act that operates on the [[selection-axis|selection]] and [[routing-axis|routing]] axes and leaves a consequence in the world through [[splcw|SPLCW]]. Every one of the required cases carries a **participatory trace** and a **remaining absence of consent**, and the two must be read together:
 
@@ -47,7 +47,7 @@ Refusal is not [[away|Away]] alone, not [[free-wont|free won't]] alone, and not 
 
 **E (epistemic).** *Mixed.*
 
-- *Derived, FT* for the clarification. Given the frame's definition of participation as selection-and-routing within structured signification ([[no-escape-no-exemption]], [[semantic-closure-and-recursive-marking]]), "refusal is participation" follows analytically: a move that selects, routes, and alters the field is participation by that definition, so the only attack is to decline the frame. The paired denial — participation does not entail consent — is equally FT, because *consent* names authorization at the level of the will, a strictly stronger predicate than *participation at the level of the act*, and no valid inference runs from the weaker to the stronger.
+- *Derived, FT* for the clarification. Given the frame's definition of participation as selection-and-routing within structured signification ([[no-escape-no-exemption]], [[semantic-closure-and-recursive-marking]]), "refusal is participation" follows analytically: a move that selects, routes, and alters the field is participation by that definition, while the inference and its application remain open to internal examination. The paired denial — participation does not entail consent — is equally FT, because *consent* names authorization at the level of the will, a strictly stronger predicate than *participation at the level of the act*, and no valid inference runs from the weaker to the stronger.
 - *Derived, CV* for the application. The six-case carving and the participatory-trace / absent-consent split are a contestable partition, defeasible by a better carving or by a counter-instance case that the two columns cannot represent.
 
 **A (alethic).** The page aspires to map the real structure of "no" events in governed systems: that observed refusals leave causal traces in the field yet license no inference to authorization. The manufactured-consent reading is asserted to be *inaccurate*, not merely disallowed.

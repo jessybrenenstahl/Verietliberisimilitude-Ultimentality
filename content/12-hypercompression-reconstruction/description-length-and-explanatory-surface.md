@@ -67,7 +67,7 @@ The metric is not self-standing; it is held by the machinery that supplies its t
 
 ## Valid attack surface
 
-The load-bearing attack is exact: **show that the framework's coverage depends on adding domain-specific premises not recoverable from the kernel.** If a genuine part of the explanatory surface `S` can be reached only by inserting content that `D` does not entail, then `S` was never a decompression of `D` — it was accretion wearing a compression costume, and the length/surface separation collapses for that region. This attack lands at the *reconstruction* seam, not at the wording: it must exhibit a specific consequence and the specific unrecoverable premise it needs.
+The load-bearing attack is exact: **show that coverage claimed to follow from the kernel alone actually requires undeclared domain-specific premises.** If a genuine part of the explanatory surface `S` can be reached only by inserting content that `D` does not entail, then `S` was never a decompression of `D` — it was accretion wearing a compression costume, and the claim that this region follows from the kernel alone fails; declared domain premises can still support a valid application. This attack lands at the *reconstruction* seam, not at the wording: it must exhibit a specific consequence and the specific unrecoverable premise it needs.
 
 A second valid attack contests the carving itself: produce a case where `D`, `S`, and `R` cannot be separated, or a superior triple that measures length-versus-surface with fewer terms and no loss. That is the ordinary CV attack on a formalization.
 
@@ -89,7 +89,7 @@ Note the register carefully: this coupling is a **measurement relation**, not a 
 
 ## What would actually kill the claim
 
-The claim dies if **explanatory surface grows only by accretion, with no stable reconstruction relation to the kernel.** If every apparent decompression turns out to require fresh, kernel-external premises — if no fixed `D` reproduces its `S` under blind test at any nontrivial `R` — then the length of the wiki is the length of a list, the separation between description length and explanatory surface is spurious, and the compactness thesis is refuted at its measured root.
+The claim dies if **explanatory surface grows only by accretion, with no stable reconstruction relation to the kernel.** If every apparent decompression turns out to require fresh, kernel-external premises — if no fixed `D` reproduces its `S` under blind test at any nontrivial `R` — then the length of the wiki is the length of a list, the claimed compact reconstruction has not been established, and the compactness thesis is refuted at its measured root.
 
 Residues, stated so the analysis stays answerable: (1) `D` is only as well-defined as the current [[ultimental-kernel|kernel]] and [[minimal-rebuild-string|rebuild string]]; a shorter dependency-complete generator would shrink `D` and re-open every downstream number. (2) `S` has no canonical enumeration of "all consequences," so it is measured against a corpus that is itself contestable. (3) `R` is protocol-relative and improves or degrades with the blind-test discipline. None of these residues is a defect to be hidden; each is a live kill-adjacent surface, and a failed attack on any of them is logged as a failed attack, never as confirmation.
 

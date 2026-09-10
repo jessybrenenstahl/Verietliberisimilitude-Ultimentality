@@ -32,7 +32,7 @@
 
    **0.2** Epistemic contestability has more than one mode.
 
-      **0.21** A frame-internal claim is contested by declining its frame or showing internal incoherence.
+      **0.21** A frame-internal claim is contested through its premises, inference, consistency, or application; declining the frame is a separate move.
 
       **0.22** A carving is contested by counter-instance or by a better carving.
 
@@ -684,7 +684,7 @@
 
    **11.3** A regression test must show that the old failure no longer passes.
 
-   **11.4** Correction that changes only prose while leaving the governing operation untouched is ornamental.
+   **11.4** A prose change corrects an operative error where it changes the relevant operation; mere redescription does not establish that effect.
 
 **11.5 Postfalsifiability is the preservation of causally effective defeat.**
 
@@ -730,13 +730,13 @@
 
 ---
 
-## 12. The framework is hypercompressed but never complete
+## 12. The framework is compressed for reconstruction and remains correctable
 
 **12.0 The mature framework is one generative architecture, not independent doctrines glued together.**
 
    **12.1** The Ultimental Kernel defines hypercompression as typed decompression of a small dependency-complete kernel into a large explanatory surface.
 
-      **12.11** Compression is not omission.
+      **12.11** Faithful compression preserves required content; it may omit redundant detail.
 
       **12.12** Compression is not vagueness.
 
@@ -754,13 +754,13 @@
 
    **12.3** Compression without marking becomes false closure.
 
-      **12.31** A live seam may not be compressed away as redundancy.
+      **12.31** Required correction pathways must remain recoverable from the declared representation and context.
 
-      **12.32** A carving may not be presented as exhaustive.
+      **12.32** Completeness claims require an explicit scope and supporting argument.
 
       **12.33** Reconstruction may not depend on hidden context unavailable to the rebuilder.
 
-   **12.4** The System Invariants are the relations whose removal demonstrably destroys or changes a named framework function, including:
+   **12.4** The System Invariants index relations the present framework intends reconstruction to preserve; claims of individual necessity require their own evidence, including:
 
       **12.41** no extra-symbolic participant-access;
 

@@ -28,13 +28,13 @@ application_tags: []
 A hypercompressed formulation is not merely short, and hypercompression must be distinguished from the short things it superficially resembles. A **slogan** is short and generates nothing. **Obscurity** is short and *blocks* reconstruction. A **lossy summary** is short and silently drops load-bearing relations. Hypercompression is short and *reconstructive*: it preserves enough dependency information for a competent [[meaning-maker|meaning-maker]] to rebuild the same load-bearing relations, prohibitions, and attack surfaces.
 
 ```text
-compression != omission
+faithful compression != loss of required content
 compression != vagueness
 small kernel != small scope
 large exposition != many independent foundations
 ```
 
-The kernel is carried in two registers, and the second is easy to miss. There is the *positive* content — the surviving statements, bindings, and couplings a reader would rebuild from. But the kernel is equally carried by *constraints against known invalid reconstructions*. A generator that specified only what to build, without the record of which builds were attempted and killed, would under-determine its own decompression: two competent builders would diverge at every choice the positive text left open, and both could claim fidelity. The prohibitions are therefore not commentary on the kernel; they are kernel content. Positive information is bounded by [[negative-information|Negative Information]], and the trace of each retained exclusion is held in [[scar-record|The Scar Record]].
+The kernel is carried in two registers, and the second is easy to miss. There is the *positive* content — the surviving statements, bindings, and couplings a reader would rebuild from. But the kernel is equally carried by *constraints against known invalid reconstructions*. A generator must constrain materially incompatible reconstructions. Positive definitions can sometimes do this by themselves; retained exclusions and reasons help where they resolve a genuine ambiguity. The prohibitions are therefore not commentary on the kernel; they are kernel content. Positive information is bounded by [[negative-information|Negative Information]], and the trace of each retained exclusion is held in [[scar-record|The Scar Record]].
 
 ## Type and formal status
 
@@ -62,7 +62,7 @@ Couple a compact kernel to a live decompression test and the emergent property i
 
 ## What would actually kill the claim
 
-The proposed kernel **cannot regenerate one or more [[system-invariants|system invariants]], or can regenerate them only by importing unstated doctrine.** Either failure shows the surface is not the decompression of that kernel: a missing invariant is an independent foundation, or the smuggled doctrine is. That would refute *this* kernel's claim to generate the framework. The residue is deliberate and stays open: a single successful blind rebuild does not confirm minimality, and a *shorter* dependency-complete kernel would defeat the current candidate without defeating hypercompression as a property. The claim therefore remains contestable on two axes — completeness (does the kernel reach every invariant?) and minimality (is anything in it removable?) — and a failed attack on either is logged as a failed attack, never as confirmation.
+The proposed kernel **cannot regenerate one or more [[system-invariants|system invariants]], or can regenerate them only by importing unstated doctrine.** Either failure shows the surface is not the decompression of that kernel: a missing invariant may require an explicit dependency or qualification; its omission alone does not make it an independent foundation. That would refute *this* kernel's claim to generate the framework. The residue is deliberate and stays open: a single successful blind rebuild does not confirm minimality, and a *shorter* dependency-complete kernel would defeat the current candidate without defeating hypercompression as a property. The claim therefore remains contestable on two axes — completeness (does the kernel reach every invariant?) and minimality (is anything in it removable?) — and a failed attack on either is logged as a failed attack, never as confirmation.
 
 ## Prohibited misreadings
 

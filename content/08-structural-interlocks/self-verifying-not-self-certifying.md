@@ -120,6 +120,10 @@ Residue: even a repelled attack on *this* page leaves the page exactly as Derive
 - **Reading self-verification as merely psychological or rhetorical.** It is performative-structural: the denial *operates* the medium, whatever the denier feels or intends.
 - **Spending the enactment as evidence for a carving.** The inescapability of the medium proves nothing about the four primitives, the ⊕ semantics, or the SPLCW count; all remain contestable carvings, protected precisely so they can be revised.
 
+## Scope of this distinction
+
+Completeness for a declared task is compatible with correctability. Evidence from a formulation or implementation can bear on its asserted condition when the connection is established; a failed wording change is not automatically a refutation of every formulation. Missing records or labels alone do not establish missing functions. Internal assessment and faithful retention can be effective; immunity requires a blocked relevant correction path. Apply these distinctions to the specific claim rather than treating them as automatic diagnoses.
+
 ## See also
 
 [[no-escape-no-exemption|No Escape, No Exemption]] · [[semantic-closure-and-recursive-marking|Semantic Closure and Recursive Marking]] · [[self-application|Self-Application]] · [[self-sealing-test|The Self-Sealing Test]] · [[outcomes-of-attack|The Outcomes of Attack]] · [[dynamic-fixed-point|The Dynamic Fixed Point]] · [[textual-nephilim|The Textual Nephilim]] · [[formal-closure-claim|The Formal Closure Claim]] · [[postfalsifiability|Postfalsifiability]] · [[derived|Derived]]

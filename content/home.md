@@ -164,7 +164,7 @@ An error mark counts only where it can regulate what it marks; answerability is 
 
 ## Postfalsifiability and Crystallization
 
-What survives attack, and how high structural compression after repeated falsification differs from mere persistence. A crystal remains answerable under pressure; a fossil only preserves a dead form. A failed attack is logged as a failed attack — never as confirmation.
+What survives attack, and how high structural compression after repeated falsification differs from mere persistence. A crystal remains answerable under pressure; a fossil only preserves a dead form. A failed objection alone is not proof; discriminating successful tests can provide scoped support.
 
 - [[postfalsifiability|Postfalsifiability]]
 - [[outcomes-of-attack|The Outcomes of Attack]]
@@ -206,4 +206,4 @@ The implementation reference: what must survive every rewrite, the relation grap
 
 ---
 
-*Source: `ultimentality_treatise_v14_0_two_axis.md` (canonical) and `ultimentality_framework_rewrite.md` (verified faithful restatement). Pages mark provenance as **canonical**, **treatise-side**, or **seed**, exactly as the source does. Links use double-bracket wiki syntax (a slug with an optional title alias).*
+*Source: `ultimentality_treatise_v14_0_two_axis.md` (canonical) and `ultimentality_framework_rewrite.md` (attributed restatement; fidelity remains assessable). Pages mark provenance as **canonical**, **treatise-side**, or **seed**, exactly as the source does. Links use double-bracket wiki syntax (a slug with an optional title alias).*

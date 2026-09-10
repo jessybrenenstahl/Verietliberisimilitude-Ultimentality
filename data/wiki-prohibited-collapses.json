@@ -86,7 +86,7 @@
   {
     "a": "substrate difference",
     "b": "type difference",
-    "damage": "lets carrier material defeat a shared operation",
+    "damage": "infers a type difference from material alone without showing a functional consequence",
     "bridge": "identity-across-substrates"
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "a": "compression",
-    "b": "omission",
-    "damage": "reads a small kernel as dropped content",
+    "b": "loss of required content",
+    "damage": "confuses omission of redundant detail with loss of a required distinction",
     "bridge": "hypercompression"
   },
   {
@@ -116,7 +116,7 @@
   {
     "a": "mechanical replay",
     "b": "generative transformation",
-    "damage": "replay mistaken for generation; permuting outputs credited with new consequential form",
+    "damage": "credits variation with generation without examining its effects on the participating system",
     "bridge": "semantic-transformer"
   },
   {

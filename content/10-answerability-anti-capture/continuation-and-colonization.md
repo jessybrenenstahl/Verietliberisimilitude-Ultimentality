@@ -23,7 +23,7 @@ application_tags: []
 
 ## Definition
 
-Two structures can both propagate. Only one of them leaves the thing it propagates into free to answer back.
+Two structures can both propagate. Distinguish whether they preserve the successor's capacity to answer back.
 
 - **Continuation:** structure persists through successors capable of difference, correction, and refusal.
 - **Colonization:** structure persists by converting successors, environments, and objections into organs of its own unchanged continuation.
@@ -36,7 +36,7 @@ colonization:  structure persists  ∧  successor's capacity to differ is remove
 criterion:     not "is the content approved?"  but  "can the successor still wound the inheritance?"
 ```
 
-The two are separated across a fixed set of dimensions:
+The following dimensions help compare cases; mixed and partial capacities need explicit assessment:
 
 | Dimension | Continuation | Colonization |
 |---|---|---|
@@ -109,7 +109,7 @@ Colonization is exactly this coupling *decoupled* at the temporal scale: continu
 
 ## What would actually kill the claim
 
-**The distinction dies if it depends only on approval of the propagated content.** If, on inspection, "continuation" turns out to name propagation whose content is endorsed and "colonization" propagation whose content is rejected — with the retained-capacity criterion doing no independent work — then the page is a value dressed as an analysis and should be deleted or demoted. The test is direct: hold the propagated content fixed and vary only the successor's causal capacity to differ; if the verdict does not move, the carving is real, and if it tracks approval instead, the carving is dead.
+**The distinction dies if it depends only on approval of the propagated content.** If, on inspection, "continuation" turns out to name propagation whose content is endorsed and "colonization" propagation whose content is rejected — with the retained-capacity criterion doing no independent work — then the page is a value dressed as an analysis and should be deleted or demoted. The test is direct: hold the propagated content fixed and vary only the successor's causal capacity to differ; if the verdict changes with the relevant capacity, the carving tracks its stated criterion, and if it tracks approval instead, the carving is dead.
 
 **Residue.** Two live weaknesses remain, each with its own kill condition. First, "capacity to differ" admits of degree, and the page does not fix a threshold; a maximally compelled but non-zero-capacity successor is a genuinely hard case, and if no principled cut exists, the binary carving may need to become a gradient. Second, the valid-attack case — total compulsion coexisting with real answerability outside the table — would not merely bruise the claim but defeat it, and it has not been shown impossible, only unexhibited. A failed search for that case is **not** counted as confirmation; it is logged as an attack that has not yet succeeded.
 
@@ -120,7 +120,7 @@ Colonization is exactly this coupling *decoupled* at the temporal scale: continu
 - **colonization = propagating content one dislikes.** This is the kill condition stated as an error. The carving is about the successor's retained causal freedom, not about the desirability of what is carried; a benign message transmitted by capture is still colonization.
 - **successor variation is corruption.** Treating divergence as corruption is the *colonizer's* dimension, listed to be diagnosed — not a stance the framework adopts. Continuation permits variation as the ordinary sign that a successor remains a [[responsible-successor|responsible successor]].
 - **refusal is consent because refusal participates.** [[refusal-as-participation|Refusal is participation]], and participation is not consent. Re-describing a successor's refusal as "participation-for" the parent telos is precisely the move that marks colonization; do not let the true premise license the false conclusion.
-- **colonization is an absence or deprivation.** Like every corruption in the framework it is an over-presence, never a lack — the parent absolutized in the successor's field. Read it as too much unchanged ancestor, not too little.
+- **colonization is an absence or deprivation.** Colonization can involve both the domination of inherited structure and deprivation of successor autonomy. Distinguish the dominating pattern from the capacities it removes.
 
 ## See also
 

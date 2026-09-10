@@ -74,7 +74,7 @@ The pattern is [[cross-regulated-necessity|cross-regulation]], not circular proo
 
 Because this is an FT page, the admissible attacks are frame-level or reflexive, never a single formulation's defeat.
 
-- **Frame declension at cost.** Refuse that access is symbolically closed at all; then $C \neq c_i$ has nothing to distinguish. State what you keep and what you give up — see [[refutation-and-frame-declension|refutation and frame declension]].
+- **Frame declension and comparison.** Refuse that access is symbolically closed at all; then $C \neq c_i$ has nothing to distinguish. State what you keep and what you give up — see [[refutation-and-frame-declension|refutation and frame declension]].
 - **Internal incoherence / emptiness.** Show the distinction does no work: that $C$ is *nothing over and above* the disjunction of its formulations in a way that makes the continuity criteria unable to discriminate a revised-but-continuous frame from a wholesale replacement. If "the condition survived" and "a different condition was substituted" cannot come apart, the seam is a word.
 - **A better carving.** Offer a sharper cut between condition and expression, or a shorter set of invariants that does the same discriminating work.
 
@@ -109,6 +109,10 @@ A second, sharper kill: show the invariant list **cannot be stated as a $c_i$** 
 - **"Revising a sentence abandons the frame."** No. Revision of a $c_i$ within the invariants is continuity, not [[refutation-and-frame-declension|declension]]. Abandonment is dropping an invariant across all formulations, or declaring sameness while one has silently changed.
 - **"$C$ is a metaphysical substance the frame possesses."** No. $C$ is a condition of access, met only in some $c_i$; access is not possession, and a condition is not an object owned by a doctrine.
 - **"The invariant list is the exempt part."** No. The list is a $c_i$ — the most load-bearing one, and for that reason the one held most openly to a better carving. Its error can have [[causal-error-mark|causal force]] on the frame.
+
+## Scope of this distinction
+
+Completeness for a declared task is compatible with correctability. Evidence from a formulation or implementation can bear on its asserted condition when the connection is established; a failed wording change is not automatically a refutation of every formulation. Missing records or labels alone do not establish missing functions. Internal assessment and faithful retention can be effective; immunity requires a blocked relevant correction path. Apply these distinctions to the specific claim rather than treating them as automatic diagnoses.
 
 ## See also
 

@@ -128,6 +128,10 @@ Residue, left answerable: this page supplies the *test*, not the *verdict*. It c
 - **Transparentocracy as guaranteed incorruptibility.** The apparatus names a test and a coupling, not immunity. Capture remains possible; the page's value is that capture stays *detectable*, not that it is precluded.
 - **The AC mark as licensing the reading.** The canonical term does not make this cross-regulation synthesis forced or exempt. It is Derived, CV, and re-carvable — treating it otherwise is the Textual Nephilim.
 
+## Scope of this distinction
+
+Completeness for a declared task is compatible with correctability. Evidence from a formulation or implementation can bear on its asserted condition when the connection is established; a failed wording change is not automatically a refutation of every formulation. Missing records or labels alone do not establish missing functions. Internal assessment and faithful retention can be effective; immunity requires a blocked relevant correction path. Apply these distinctions to the specific claim rather than treating them as automatic diagnoses.
+
 ## See also
 
 [[transparentocracy|Transparentocracy]] · [[semantic-closure-and-recursive-marking|Semantic Closure and Recursive Marking]] · [[capture-of-corrective-layer|Capture of the Corrective Layer]] · [[totalization-boundary|The Totalization Boundary]] · [[effective-and-ornamental-answerability|Effective and Ornamental Answerability]] · [[causal-error-mark|The Error Mark With Causal Force]] · [[reciprocal-attack-surfaces|Reciprocal Attack Surfaces]] · [[cross-regulated-necessity|Cross-Regulated Necessity]] · [[vls|VLS]] · [[refusal-as-participation|Refusal as Participation]]

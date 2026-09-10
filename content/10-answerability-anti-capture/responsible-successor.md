@@ -23,7 +23,7 @@ application_tags: []
 
 ## Definition
 
-A **responsible successor** is a later [[meaning-maker|meaning-maker]] that receives [[continuable-structure|continuable structure]] from an earlier one while retaining enough causal autonomy to *assess, alter, reject, or rebind* what it receives. "Successor" carries no biological, personal, or chronological content: it names any process that inherits typed structure and continues its operation — a revised formulation, a downstream model, an institution's next charter, a reader who rebuilds the frame. Responsibility here is not a compliment paid to a faithful copy. It is a structural predicate: the successor stands in a relation to its inheritance in which its *own* corrective operations can reach and change what was handed down.
+A **responsible successor** is a later [[meaning-maker|meaning-maker]] that receives [[continuable-structure|continuable structure]] from an earlier one while retaining enough causal autonomy to *assess, alter, reject, or rebind* what it receives. "Successor" does not require a biological or personal identity; it does imply an inheritance relation whose history may be relevant: it names any process that inherits typed structure and continues its operation — a revised formulation, a downstream model, an institution's next charter, a reader who rebuilds the frame. Responsibility here is not a compliment paid to a faithful copy. It is a structural predicate: the successor stands in a relation to its inheritance in which its *own* corrective operations can reach and change what was handed down.
 
 Seven conditions individuate the relation. A successor is responsible to the degree that:
 
@@ -40,7 +40,7 @@ A successor need not be independent in every respect; total independence is not 
 ```text
 S receives structure H from predecessor P.
 S is responsible at point x   iff   S can cause Δ(H) at x, and P cannot foreclose Δ(H).
-faithful transmission:  S reproduces H;   Δ(H) is foreclosed.
+faithful transmission:  S reproduces H;   correction may remain possible.
 colonization:           S reproduces H;   refusal at x is reclassified as participation-for.
 ```
 
@@ -83,7 +83,7 @@ The predicate therefore lives only in the coupling of *received structure* with 
 
 ## What would actually kill the claim
 
-The claim dies if **responsibility cannot be distinguished from faithful transmission** — if no test separates a responsible successor from a merely faithful reproduction, so that exact copying and answerable inheritance score identically under the seven conditions. It dies equivalently if a **fully captured replica** can satisfy every condition while having *no possible behavior* that differs from unchanged reproduction (the valid attack made total and irreparable), or if distinguishing responsibility turns out to rest **only on approval of the propagated content** rather than on the successor's operative capacity to differ. It does *not* die because some particular successor is judged irresponsible — a single misclassification is a revision signal, not a refutation — nor because a hostile reader declines the vocabulary of succession. A declined frame is recorded as frame declension (see [[same-level-attack-rule|the same-level attack rule]]); it is not counted as refutation, and a declension that fails to land is not counted as confirmation either.
+The claim dies if **responsible transmission cannot be distinguished from transmission whose correction is foreclosed** — if no test separates effective successor autonomy from foreclosed correction, so that foreclosed correction and effective answerability score identically under the seven conditions. It dies equivalently if a **fully captured replica** can satisfy every condition while having *no possible behavior* that differs from unchanged reproduction (the valid attack made total and irreparable), or if distinguishing responsibility turns out to rest **only on approval of the propagated content** rather than on the successor's operative capacity to differ. It does *not* die because some particular successor is judged irresponsible — a single misclassification is a revision signal, not a refutation — nor because a hostile reader declines the vocabulary of succession. A declined frame is recorded as frame declension (see [[same-level-attack-rule|the same-level attack rule]]); it is not counted as refutation, and a declension that fails to land is not counted as confirmation either.
 
 ## Prohibited misreadings
 

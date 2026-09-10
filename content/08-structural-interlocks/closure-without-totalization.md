@@ -86,6 +86,10 @@ Coupled with recursive marking as a [[semantic-closure-and-recursive-marking|⊕
 - **The disclaimer read as the operation.** A stated non-totalization with no causal update path is [[causal-error-mark|ornamental]], not effective. The claim is enacted by the revision channel, not by the sentence announcing it.
 - **The page read as a completeness claim about itself.** This relation is Derived and marked like any other; it does not exhaust its own domain, and it names the very contradiction — its kill condition — that would rewrite it.
 
+## Scope of this distinction
+
+Completeness for a declared task is compatible with correctability. Evidence from a formulation or implementation can bear on its asserted condition when the connection is established; a failed wording change is not automatically a refutation of every formulation. Missing records or labels alone do not establish missing functions. Internal assessment and faithful retention can be effective; immunity requires a blocked relevant correction path. Apply these distinctions to the specific claim rather than treating them as automatic diagnoses.
+
 ## See also
 
 [[formal-closure-claim|The Formal Closure Claim]] · [[semantic-closure-and-recursive-marking|Semantic Closure and Recursive Marking]] · [[totalization-boundary|The Totalization Boundary]] · [[no-escape-no-exemption|No Escape, No Exemption]] · [[self-application|Self-Application]] · [[causal-error-mark|The Error Mark With Causal Force]] · [[frame-condition-and-formulation|Frame Condition and Formulation]] · [[correction-without-regress|Correction Without Regress]]

@@ -23,7 +23,7 @@ application_tags: []
 
 ## Definition
 
-The minimal rebuild string is the shortest linear formulation presently available whose typed decompression regenerates the framework's load-bearing architecture — a *rebuild specification* serialized into a single sentence-sequence, not a summary, a creed, or a slogan. Where the [[ultimental-kernel|Ultimental Kernel]] is the smallest dependency-complete structural core, the rebuild string is that kernel wound into one transmissible line, ordered so that dependencies arrive before the structures that require them.
+The minimal rebuild string is a compact candidate linear formulation whose typed decompression regenerates the framework's load-bearing architecture — a *rebuild specification* serialized into a single sentence-sequence, not a summary, a creed, or a slogan. Where the [[ultimental-kernel|Ultimental Kernel]] is a candidate compact structural core, the rebuild string is that kernel wound into one transmissible line, ordered so that dependencies arrive before the structures that require them.
 
 The present candidate is:
 
@@ -46,7 +46,7 @@ The string carries the architecture not only through what it states but through 
 
 ## Type and formal status
 
-**E (epistemic):** Derived, **CV**. The string is a formalization and compression — a *carving* of the architecture into a single linear form — and is contestable in exactly the two ways any carving is: by counter-instance (a shorter serialization of equal reconstructive capacity) or by a better carving (one that decompresses more faithfully). It introduces no frame-internal (FT) relation of its own; all of its force is inherited from the pages it serializes. Its own minimality is a **CV** claim, never a proof: "minimal" here means *no shorter dependency-complete string is presently known*, not *demonstrably least*.
+**E (epistemic):** Derived, **CV**. The string is a formalization and compression — a *carving* of the architecture into a single linear form — and is contestable in exactly the two ways any carving is: by counter-instance (a shorter serialization of equal reconstructive capacity) or by a better carving (one that decompresses more faithfully). It introduces no frame-internal (FT) relation of its own; all of its force is inherited from the pages it serializes. Its own minimality is a **CV** claim, never a proof: "minimal" names an optimization aim; no exhaustive comparison establishes the shortest available string.
 
 **A (alethic):** a mapping-accuracy aspiration. The string aspires to serialize the framework faithfully enough that a blind reader can recover the invariant dependency graph; accuracy is measured as reconstruction fidelity, not as literary adequacy or memorability. On the ledger of [[description-length-and-explanatory-surface|Description Length and Explanatory Surface]] the string fixes $D(U)$, the description length of the rebuildable kernel, and stakes a claim on $R(U)$, its fidelity under blind test — while making no claim about a numerical compression ratio.
 
@@ -107,7 +107,7 @@ There is a sharp limit on what "travels." **Successful blind reconstruction esta
 
 ## What would actually kill the claim
 
-The claim dies if **repeated competent reconstruction cannot recover the invariant architecture** — if implementers given only the string and glossary systematically fail to rebuild the invariant dependency graph, or succeed only by importing unstated doctrine. Either failure means the string is not a rebuild specification, and the page must revise the string or concede that no such compact serialization exists.
+The claim dies if **repeated competent reconstruction cannot recover the invariant architecture** — if implementers given only the string and glossary systematically fail to rebuild the invariant dependency graph, or succeed only by importing unstated doctrine. Either failure means the string is not a rebuild specification, and the page must revise the string and its declared context; failure of this candidate alone does not disprove every compact serialization.
 
 It is also defeated, more gently, by a **shorter string of equal capacity**: that outcome does not falsify the architecture but retires this candidate in favor of the better one — deletion-by-supersession rather than deletion-by-refutation.
 

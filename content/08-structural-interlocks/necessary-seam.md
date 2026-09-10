@@ -76,5 +76,9 @@ Exhibit an operation that is demonstrably corrected by its error marks through *
 - **Naming a seam ≠ having an effective one.** A declared seam through which no correction can actually pass is itself ornamental — the failure the page exists to catch.
 - **Messy is not virtuous.** [[anything-too-clean-is-hostile|The maxim]] indicts hidden correction channels, not tidiness as such; a clean surface with visible, operative seams is not the target.
 
+## Scope of this distinction
+
+Completeness for a declared task is compatible with correctability. Evidence from a formulation or implementation can bear on its asserted condition when the connection is established; a failed wording change is not automatically a refutation of every formulation. Missing records or labels alone do not establish missing functions. Internal assessment and faithful retention can be effective; immunity requires a blocked relevant correction path. Apply these distinctions to the specific claim rather than treating them as automatic diagnoses.
+
 ## See also
 [[anything-too-clean-is-hostile|Anything Too Clean Is Hostile]] · [[scar-record|The Scar Record]] · [[causal-error-mark|The Error Mark With Causal Force]] · [[transparentocracy-as-cross-regulation|Transparentocracy as Cross-Regulation]] · [[effective-and-ornamental-answerability|Effective and Ornamental Answerability]] · [[self-sealing-test|The Self-Sealing Test]] · [[semantic-closure-and-recursive-marking|Semantic Closure and Recursive Marking]]

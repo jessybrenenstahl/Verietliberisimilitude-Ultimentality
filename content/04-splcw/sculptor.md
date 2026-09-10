@@ -18,7 +18,7 @@ The Sculptor's characteristic corruption is **domination** — *action become co
 
 ## The act that holds the ring open
 
-In the [[epigraph|epigraph]]'s figure — *Pinning Wittgenstein's Ladder to Heidegger's Floor using Christ's Nails and Nietzsche's Hammer* — the Sculptor is **Pinning**: not a noun but a gerund, *an act, the one element happening rather than standing, the fifth that holds the ring open because an act in the present progressive is never finished.* This is the Sculptor's most important structural role. The other four faculties name things; the Sculptor names a *doing*, and a doing is never complete. That is exactly why the [[the-ring|ring]] does not close: as long as there is pinning, there is more world coming back, more to encounter, no terminus. The Sculptor is the reason the chain is recursive rather than a one-way pipeline.
+In the [[epigraph|epigraph]]'s figure, the Sculptor is **Pinning**: making a change that conditions what can subsequently return. The grammatical form illustrates activity; it does not prove that an act is never finished. A particular act can complete while its consequences continue through the [[the-ring|Ring]]. Recurrence follows from the return path, not from the tense of a word.
 
 (By analogy, and only as illustration: a present participle — *pinning*, *building*, *writing* — cannot be finished while it is being spoken; the moment it stops it becomes a past tense, *pinned*, *built*. The Sculptor is the framework's wager that the live act, never the finished product, is what keeps a participant in motion. The grammatical point is illustrative, not framework doctrine.)
 

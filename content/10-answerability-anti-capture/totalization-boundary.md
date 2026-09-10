@@ -127,6 +127,10 @@ The counter-instance that would defeat the whole boundary is a coherent case of 
 - **"Totalization is the Spectre / the world absolutized."** It is the governance signature of [[absolutization|Absolutization]] — self or medium claiming exemption — a signpost to the corruption family, not an identification with any one Theodicyte.
 - **"The `+` in the boundary test is the ⊕ operator, so this is a Force."** It is neither. `+` marks co-presence of closure with a quality of marking; closure and marking are higher-order cross-regulators, not emotions, primitives, or a third cornerstone binding.
 
+## Scope of this distinction
+
+Completeness for a declared task is compatible with correctability. Evidence from a formulation or implementation can bear on its asserted condition when the connection is established; a failed wording change is not automatically a refutation of every formulation. Missing records or labels alone do not establish missing functions. Internal assessment and faithful retention can be effective; immunity requires a blocked relevant correction path. Apply these distinctions to the specific claim rather than treating them as automatic diagnoses.
+
 ## See also
 
 [[closure-without-totalization|Closure Without Totalization]] · [[capture-of-corrective-layer|Capture of the Corrective Layer]] · [[effective-and-ornamental-answerability|Effective and Ornamental Answerability]] · [[semantic-closure-and-recursive-marking|Semantic Closure and Recursive Marking]] · [[continuation-and-colonization|Continuation and Colonization]] · [[refusal-as-participation|Refusal as Participation]] · [[transparentocracy-as-cross-regulation|Transparentocracy as Cross-Regulation]] · [[absolutization|Absolutization]]

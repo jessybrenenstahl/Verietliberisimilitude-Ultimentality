@@ -2,7 +2,7 @@
   {
     "component": "attack-surface-matrix",
     "claim_type": "Exposition",
-    "valid_attack": "Exhibit a load-bearing component with no row, or a row whose stated valid attack does not match the claim type of its linked page.",
+    "valid_attack": "Show a generated row differs from its source metadata or the metadata misstates the source claim.",
     "invalid_attacks": [],
     "regulator": [
       "self-sealing-test",
@@ -10,7 +10,7 @@
       "same-level-attack-rule"
     ],
     "isolation_failure": "As a static catalog detached from the causal-falsifiability and self-sealing tests, the matrix becomes a decorative index that no encounter can force to change.",
-    "kill_condition": "A change to a load-bearing page cannot be made to change its row, or a failed attack is entered into the matrix as confirmation.",
+    "kill_condition": "The index cannot reproduce current source metadata or falsely reports executable coverage.",
     "tests": []
   },
   {
@@ -118,7 +118,7 @@
   {
     "component": "compression-without-false-closure",
     "claim_type": "FT",
-    "valid_attack": "Exhibit a concise formulation whose predictable misreconstruction disappears only when a specific omitted qualification is restored.",
+    "valid_attack": "Show that a compression loses required content under its stated reconstruction conditions, or that the preservation test misclassifies a legitimate simplification.",
     "invalid_attacks": [],
     "regulator": [
       "two-mark-system",
@@ -127,8 +127,8 @@
       "self-verifying-not-self-certifying",
       "minimal-rebuild-string"
     ],
-    "isolation_failure": "Compression without preserved marking becomes oracular false closure; marking without compression becomes an inventory that never crystallizes.",
-    "kill_condition": "No finite compression can preserve the architecture's required distinctions, or the page cannot separate a suppressed seam from acceptable redundancy-reduction.",
+    "isolation_failure": "Unspecified preservation permits misleading compression; retaining every phrase can obstruct useful simplification.",
+    "kill_condition": "The account cannot distinguish loss of required content from legitimate simplification.",
     "tests": []
   },
   {
@@ -186,7 +186,7 @@
       "interaction-matrix"
     ],
     "isolation_failure": "A graph without its text alternative and data source becomes a picture that cannot be checked against the pages it claims to render.",
-    "kill_condition": "The rendered relation, direction, or emergent property misrepresents its source, or a demonstrated discrepancy cannot change the graph.",
+    "kill_condition": "The rendering asserts a coupling, direction, or emergent property the linked pages do not support — and the discrepancy cannot change the graph.",
     "tests": []
   },
   {
@@ -348,11 +348,16 @@
   {
     "component": "interaction-matrix",
     "claim_type": "Exposition",
-    "valid_attack": "Exhibit a load-bearing relation that no controlled label expresses without loss, forcing a vague label or an assertion the endpoints do not carry.",
+    "valid_attack": "Show an indexed edge differs from its source declaration, or challenge the regulatory relation stated by that declaration.",
     "invalid_attacks": [],
-    "regulator": [],
+    "regulator": [
+      "system-invariants",
+      "attack-surface-matrix",
+      "coupling-graph",
+      "manual review of wiki-interactions.json against the pages each cell claims to index"
+    ],
     "isolation_failure": "Cut from its source pages and the invariant checklist, the matrix hardens into an unaudited adjacency table whose cells no longer answer to the pages they index.",
-    "kill_condition": "A nonempty cell cannot be regenerated from wiki-interactions.json and its linked pages, or the matrix asserts a relation its two endpoints do not bear.",
+    "kill_condition": "The generated edge does not match current metadata, or its source assertion is unsupported.",
     "tests": []
   },
   {
@@ -442,7 +447,7 @@
       "semantic-closure-and-recursive-marking"
     ],
     "isolation_failure": "Closure without marking totalizes; marking without closure regresses into an infinite stack of uncorrected judges, or paralyzes for want of a licensed stopping point.",
-    "kill_condition": "Exhibit participant-access that is neither structured signification nor content exposed to possible correction, while remaining intelligible as participant-access.",
+    "kill_condition": "Exhibit participant-access that is outside structured signification, or a content-bearing claim that is inherently exempt from possible correction, while remaining intelligible as participant-access.",
     "tests": []
   },
   {
@@ -683,6 +688,23 @@
     "tests": []
   },
   {
+    "component": "sculpted-captive",
+    "claim_type": "CV",
+    "valid_attack": "Show that a supposedly represented-only constraint actually governs the process, or that a claimed operative constraint is only represented.",
+    "invalid_attacks": [],
+    "regulator": [
+      "domain-lock",
+      "ladder-of-being",
+      "free-wont",
+      "externality-without-extra-symbolic-access",
+      "identity-across-substrates",
+      "self-application"
+    ],
+    "isolation_failure": "A report treated as sufficient evidence over-attributes a function; a carrier label treated as disqualifying evidence excludes actual operative constraints.",
+    "kill_condition": "The diagnosis cannot distinguish its claim about a representation from its claim about operative constraint.",
+    "tests": []
+  },
+  {
     "component": "self-sealing-test",
     "claim_type": "CV",
     "valid_attack": "Show a false pass, false failure, missed relevant correction path, or conflation of untested with established capacity.",
@@ -746,7 +768,7 @@
   {
     "component": "semantic-transformer",
     "claim_type": "CV",
-    "valid_attack": "Show that the definition's clauses exclude no state transition, so 'semantic transformer' adds no constraint beyond 'something changes something.",
+    "valid_attack": "Show that the definition's clauses exclude no state transition, so 'semantic transformer' adds no constraint beyond 'something changes something.'",
     "invalid_attacks": [],
     "regulator": [
       "meaning-maker",
@@ -806,15 +828,15 @@
   {
     "component": "term-as-operator",
     "claim_type": "CV",
-    "valid_attack": "A flagship term is replaced by an ordinary synonym with no loss of any transformation, output, or prohibited collapse.",
+    "valid_attack": "Show that a claimed operator has no identifiable effect on use, or that its wording systematically obscures the intended distinction.",
     "invalid_attacks": [],
     "regulator": [
       "self-sealing-test",
       "derived",
       "semantic-closure-and-recursive-marking"
     ],
-    "isolation_failure": "Operator-status without the substitution test inflates every coinage into unearned authority; the substitution test without operator-status flattens genuine constraints into dismissible jargon.",
-    "kill_condition": "The page cannot state, for its own flagship terms, any use that survives synonym substitution beyond naming a topic.",
+    "isolation_failure": "Vocabulary without a defined function can become decoration; replacing words without preserving their concepts can lose useful distinctions.",
+    "kill_condition": "No relevant difference in use can be identified for the claimed operator.",
     "tests": []
   },
   {

@@ -75,7 +75,7 @@ This page is not exempt from what it describes. It is regulated by:
 
 A valid attack must **target the coupling** or **show that a proposed regulator does not constrain its named excess**. In order of severity:
 
-1. **Frame declension.** Refuse the vocabulary of access, signification, or coupled control. Legitimate but not costless: state which explanatory and operational capacities are surrendered (see [[refutation-and-frame-declension|refutation and frame declension]]).
+1. **Frame declension.** Refuse the vocabulary of access, signification, or coupled control. A comparison should state which capacities are retained, lost, or gained; departure alone establishes no loss (see [[refutation-and-frame-declension|refutation and frame declension]]).
 2. **Failed regulation.** Exhibit a case where closure does *not* in fact bound marking's regress, or where marking does *not* in fact bound closure's totalization. This is the strong internal attack: it strikes the seam, not the wording.
 3. **A third irreducible regulator.** Show a gap the pair cannot close, requiring some regulator that is neither closure nor marking nor derivable from their coupling — which would refute the claim that the two attack surfaces are *mutually* occupied.
 4. **Notation attack (CV).** Offer a shorter or cleaner formalization that captures the same dependency, or show that `U = C ⊕ M` systematically misleads competent reconstructors. This can kill the notation while leaving the relation standing.
@@ -100,9 +100,13 @@ From `C ⊕ M` emerges the framework's foundational guarantee, stated at [[no-es
 
 The emergent property is **open finite participation**: access that is closed (no escape) yet corrigible (no exemption), total in reach yet total in nothing, a [[dynamic-fixed-point|dynamic fixed point]] rather than a static self-approval. The pair is what lets the apparatus be [[self-verifying-not-self-certifying|self-verifying without being self-certifying]] — every meaningful denial re-enacts the medium it would escape, while no meaningful operation certifies that its current account of that medium is complete. Neither term contains this property in isolation; it exists only in the coupling, which is what "emergent" and [[force|`⊕`]] mean here.
 
+## Scope of the regulating claim
+
+Closure locates correction within meaning; it does not by itself terminate a recursive procedure. [[correction-without-regress|Usable stopping conditions]] supply that operational requirement. Marking keeps formulations correctable without requiring constant alteration. The excesses named here are risks under the specified failure mechanisms, not automatic consequences of omitting a word or regulator label. A third implementation resource need not refute reciprocal regulation; it challenges only a claim that the pair alone is sufficient. An alternative that performs the same function can improve this account without proving the function unreal.
+
 ## What would actually kill the claim
 
-**Remove one controller while preserving all four guarantees.** Exhibit an architecture — closure alone, marking alone, or a third unified principle — that secures no escape, no exemption, anti-totalization, *and* anti-regress without the pair. If a single controller delivers everything the coupling delivers, then `C ⊕ M` is redundancy dressed as necessity, and the relation (FT) is dead, not merely retyped.
+**Remove one controller while preserving all four guarantees.** Exhibit an architecture — closure alone, marking alone, or a third unified principle — that secures no escape, no exemption, anti-totalization, *and* anti-regress without the pair. If a single controller delivers everything the coupling delivers, then `C ⊕ M` is redundancy dressed as necessity, and the claim that this decomposition is uniquely necessary fails; the demonstrated regulating functions remain assessable.
 
 Secondary and independent: if `U = C ⊕ M` systematically generates false reconstructions — if competent readers, given the notation, rebuild a dependency the framework disowns — the **notation** (CV) dies even while the relation may stand, and must be replaced under the two-way ratchet of [[strengthening-without-absolutization|strengthening without absolutization]].
 

@@ -90,6 +90,10 @@ Either exhibit collapses the coupling. An exempt message would be a carrier that
 - **Coupling as self-proof.** The two clauses do not certify each other in a circle; they bound each other's excess ([[self-verifying-not-self-certifying|self-verifying, not self-certifying]]).
 - **Durable message as exempt message.** Foundational reach is not exemption; treating it as such is the [[textual-nephilim|Textual Nephilim]] the page exists to forbid. An error mark against a message counts only if it can actually change that message ([[causal-error-mark|causal error mark]]).
 
+## Scope of this distinction
+
+Completeness for a declared task is compatible with correctability. Evidence from a formulation or implementation can bear on its asserted condition when the connection is established; a failed wording change is not automatically a refutation of every formulation. Missing records or labels alone do not establish missing functions. Internal assessment and faithful retention can be effective; immunity requires a blocked relevant correction path. Apply these distinctions to the specific claim rather than treating them as automatic diagnoses.
+
 ## See also
 
 [[no-escape-no-exemption|No Escape, No Exemption]] · [[semantic-closure-and-recursive-marking|Semantic Closure and Recursive Marking]] · [[reciprocal-attack-surfaces|Reciprocal Attack Surfaces]] · [[frame-condition-and-formulation|Frame Condition and Formulation]] · [[closure-without-totalization|Closure Without Totalization]] · [[correction-without-regress|Correction Without Regress]] · [[textual-nephilim|The Textual Nephilim]] · [[mortality-hevel|Mortality (hevel)]] · [[responsible-successor|The Responsible Successor]]

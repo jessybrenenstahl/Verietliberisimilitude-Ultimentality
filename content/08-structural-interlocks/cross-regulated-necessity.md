@@ -109,6 +109,10 @@ P = no escape, no exemption
 
 The same shape governs whether any other `⊕` coupling is architecture or ornament. Couplings and their operative dependencies — including [[opposed-gradient-contention|contention]] and [[sequential-gating|gating]] — may satisfy criterion 3 *asymmetrically*; whether they meet the four criteria is a per-case CV judgment, catalogued in the [[coupling-graph|coupling graph]] and the [[attack-surface-matrix|attack-surface matrix]], not settled here. This page fixes the test, not the verdict.
 
+## Scope of the regulating claim
+
+Closure locates correction within meaning; it does not by itself terminate a recursive procedure. [[correction-without-regress|Usable stopping conditions]] supply that operational requirement. Marking keeps formulations correctable without requiring constant alteration. The excesses named here are risks under the specified failure mechanisms, not automatic consequences of omitting a word or regulator label. A third implementation resource need not refute reciprocal regulation; it challenges only a claim that the pair alone is sufficient. An alternative that performs the same function can improve this account without proving the function unreal.
+
 ## What would actually kill the claim
 
 The claim dies if the removal test can be defeated in either direction:
@@ -125,7 +129,7 @@ Either result forces revision or deletion, recorded in the [[kill-table|kill-tab
 - **"Cross-regulation is redundancy or backup."** Redundant parts are substitutable and their removal loses nothing; cross-regulators are non-substitutable and their removal loses the emergent property. Criterion 1 excludes the backup reading by design.
 - **"`⊕` here is `+`."** The coupling is [[force|controller composition]], not a sum of two necessities. There is no arithmetic of couplings.
 - **"The four criteria are a closed count."** The count is a [[carving-tier|CV]] carving. A shorter or sharper test may replace it; no criterion is exempt from its own marking.
-- **"A passed removal test proves the pair true."** A failed attack is never confirmation. The test can only kill a necessity claim or leave it standing-and-contestable.
+- **"A passed removal test proves the pair true."** A failed objection alone does not prove the pair true. A controlled removal test can establish a scoped functional dependency while the claim remains contestable.
 - **"Symmetric mutual regulation is the only coupling form."** Symmetric excess-bounding is one species. Directional couplings regulate asymmetrically and must be assessed case by case, not assimilated to the founding instance.
 
 ## See also

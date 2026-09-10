@@ -23,7 +23,7 @@ application_tags: []
 
 ## Definition
 
-The **ultimental kernel** is the smallest dependency-complete structural core from which the framework's load-bearing relations, prohibitions, and attack surfaces can presently be reconstructed. It is a **rebuild specification, not a sacred summary**: its authority is not that it is short and memorable but that a competent [[meaning-maker|meaning-maker]] handed only the kernel can regenerate the same architecture the full exposition carries. It is the concrete object that [[hypercompression|hypercompression]] asserts must exist — the retained generator behind the apparent breadth — and it earns its keep only under the blind-rebuild test of the [[minimal-rebuild-string|minimal rebuild string]], never by fiat.
+The **ultimental kernel** is a candidate compact structural core from which the framework's load-bearing relations, prohibitions, and attack surfaces can presently be reconstructed. It is a **rebuild specification, not a sacred summary**: its authority is not that it is short and memorable but that a competent [[meaning-maker|meaning-maker]] handed the kernel and its declared interpretive context can regenerate the same architecture the full exposition carries. It is the concrete object that [[hypercompression|hypercompression]] asserts must exist — the retained generator behind the apparent breadth — and it earns its keep only under the blind-rebuild test of the [[minimal-rebuild-string|minimal rebuild string]], never by fiat.
 
 The kernel, stated as an ordered list of relations rather than doctrines:
 
@@ -33,8 +33,8 @@ The kernel, stated as an ordered list of relations rather than doctrines:
 4. predicates bind primitive actuators to regulated error signals — `B(p) = (p, eₚ)`, an actuator individuated by the discrepancy it reduces, never a primitive feeling ([[predicate-binding|predicate binding]], [[regulated-error-signal|the regulated error signal]], [[emotion-as-regulated-binding|emotion as regulated binding]])
 5. coupled controllers produce properties not contained in isolated terms — `⊕` wires two bindings so each shapes the other ([[force|Force]], [[submission|Submission]], [[reconciliation|Reconciliation]])
 6. world-mutation returns as changed significance through SPLCW — action passes out through a changed world and back in ([[splcw|SPLCW]], [[matter-meaning-cycle|the matter–meaning cycle]])
-7. continuity requires symbolic preservation and correction — a structure persists by being carried and revised, not by being frozen ([[continuable-structure|continuable structure]], [[continuity|continuity]])
-8. propagation remains answerable or degrades into capture — the [[answerability-predicate|answerability predicate]] is never dropped; unanswerable persistence is [[continuation-and-colonization|colonization]], not the [[telos|Telos]]
+7. continuity requires symbolic preservation and correction — answerable structure is carried with the capacity for warranted revision, including justified retention ([[continuable-structure|continuable structure]], [[continuity|continuity]])
+8. propagation satisfies this Telos where it remains answerable — the [[answerability-predicate|answerability predicate]] is never dropped; unanswerable persistence fails the [[telos|Telos]]; [[continuation-and-colonization|colonization]] additionally requires the relevant foreclosure of successor capacity
 9. every content-bearing formulation is [[derived|Derived]] and marked — including this list ([[two-mark-system|the two-mark system]])
 10. semantic closure and recursive marking cross-regulate — the coupled foundation that makes the whole legible ([[semantic-closure-and-recursive-marking|closure and marking]], [[no-escape-no-exemption|no escape, no exemption]])
 
@@ -51,7 +51,7 @@ continuity <-> answerability
 
 The single arrows name a **derivation and decompression order**, not a temporal story and not a self-certifying proof chain. The double arrows name **cross-regulation** in the sense of [[force|the ⊕ coupled-controller]] — each term bounds the characteristic excess of the other — never addition and never a circle in which the pair proves itself.
 
-**Minimality is a CV claim, not a demonstrated theorem.** The list is presented as the smallest core *presently available*, held open to a shorter dependency-complete alternative or to a missing indispensable relation. The count of ten is itself a contestable carving; no item and no total is promoted to a forced, founded, or exempt tier. Item 9 folds the kernel back into the marked domain: the kernel governs by reconstruction, not by exemption.
+**Minimality is a CV claim, not a demonstrated theorem.** The list is presented as a compact candidate; no comparative search establishes that it is the shortest available, held open to a shorter dependency-complete alternative or to a missing indispensable relation. The count of ten is itself a contestable carving; no item and no total is promoted to a forced, founded, or exempt tier. Item 9 folds the kernel back into the marked domain: the kernel governs by reconstruction, not by exemption.
 
 ## Type and formal status
 
@@ -82,7 +82,7 @@ A valid attack targets the kernel's claim to be a dependency-complete core, at t
 - **Non-determination:** demonstrate two materially incompatible reconstructions that satisfy the same list, with no internal rule to select between them — the [[hypercompression|hypercompression]] failure inherited here.
 - **Better carving:** offer a shorter list of equal reconstruction fidelity.
 
-Attacks that do not reach this seam are type-mismatched: objecting to the *wording* of an item is an attack on a formulation, not on the core; objecting that the exposition is long is answered by [[description-length-and-explanatory-surface|the distinction between description length and explanatory surface]].
+Attacks that do not reach this seam are type-mismatched: wording is relevant when it changes what a reader can reconstruct from the core; objecting that the exposition is long is answered by [[description-length-and-explanatory-surface|the distinction between description length and explanatory surface]].
 
 ## What happens if isolated
 

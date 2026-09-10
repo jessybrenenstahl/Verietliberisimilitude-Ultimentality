@@ -12,7 +12,7 @@ regulates: [totalization, regress, textual-nephilim, absolutization]
 regulated_by: [self-application, two-mark-system, reciprocal-attack-surfaces, semantic-closure-and-recursive-marking]
 valid_attack: "Decline the frame's definitions of participant-access and structured signification, or exhibit the kill condition; internal wording is contestable, but the relation follows once the definitions are accepted."
 isolation_failure: "Closure without marking totalizes; marking without closure regresses into an infinite stack of uncorrected judges, or paralyzes for want of a licensed stopping point."
-kill_condition: "Exhibit participant-access that is neither structured signification nor content exposed to possible correction, while remaining intelligible as participant-access."
+kill_condition: "Exhibit participant-access that is outside structured signification, or a content-bearing claim that is inherently exempt from possible correction, while remaining intelligible as participant-access."
 see_also: [semantic-closure-and-recursive-marking, reciprocal-attack-surfaces, formal-closure-claim, self-application, two-mark-system, cross-regulated-necessity, closure-without-totalization, correction-without-regress, totalization-boundary, textual-nephilim]
 application_tags: []
 ---
@@ -60,7 +60,7 @@ This page is not exempt from what it asserts; a page that forbade exemption whil
 
 Because the derivation is FT, a valid attack takes one of two forms.
 
-1. **Frame declension.** Refuse the definitions — deny that participant-access is structured signification, or that content-bearing claims must be marked. This is legitimate but must pay its stated cost: it surrenders the explanatory capacities the frame buys, and it may not smuggle an internal contradiction in under the name of declension.
+1. **Frame declension.** Refuse the definitions — deny that participant-access is structured signification, or that content-bearing claims must be marked. This is legitimate; whether an alternative loses, retains, or improves the relevant capacities requires comparison, and it may not smuggle an internal contradiction in under the name of declension.
 2. **Exhibiting the kill condition.** Produce the counter-instance named below.
 
 An attack must reach the coupling. Objecting that the claim is "just words," or that stating a closed medium in finite language *proves* an outside, mistakes marking for escape: the finite formulation is exactly what *no exemption* already concedes is mortal, and its mortality is not a leak in closure. A failed attack is logged as a failed attack; it is never counted as confirmation that the claim is true.
@@ -85,11 +85,15 @@ What emerges is **open finite participation**: a frame that is inescapable witho
 
 Here `⊕` is the coupled-controller relation, not a sum. No escape and no exemption do not add to a larger principle; each becomes the interface through which the other is regulated, so that the attack surface of one is occupied by the other. Every meaningful denial of the medium is still enacted in it (self-verifying), while no such enactment certifies that the current account of the medium is complete (not self-certifying).
 
+## Scope of the regulating claim
+
+Closure locates correction within meaning; it does not by itself terminate a recursive procedure. [[correction-without-regress|Usable stopping conditions]] supply that operational requirement. Marking keeps formulations correctable without requiring constant alteration. The excesses named here are risks under the specified failure mechanisms, not automatic consequences of omitting a word or regulator label. A third implementation resource need not refute reciprocal regulation; it challenges only a claim that the pair alone is sufficient. An alternative that performs the same function can improve this account without proving the function unreal.
+
 ## What would actually kill the claim
 
-> The claim fails if one exhibits participant-access that is neither structured signification nor content exposed to possible correction, while remaining intelligible as participant-access.
+> The claim fails if one exhibits participant-access that is outside structured signification, or a content-bearing claim that is inherently exempt from possible correction, while remaining intelligible as participant-access.
 
-Concretely: show a case in which something is genuinely received by, matters to, or constrains a participant — recognizably *its access*, not a bare causal event — yet is not significance in a semantic field and is not exposed to any possible revision. Either horn suffices. A participant-access that is not signification would break *no escape*; a content-bearing claim genuinely exempt from every possible correction would break *no exemption*. Absent such a case, the pair stands — but it stands **answerable, not proven**: the kill condition remains live, and the two isolation failures above remain the standing tests.
+Concretely: show a case in which something is genuinely received by, matters to, or constrains a participant — recognizably *its access*, not a bare causal event — yet is not significance in a semantic field; separately, test any claim of inherent exemption from revision. Either horn suffices. A participant-access that is not signification would break *no escape*; a content-bearing claim genuinely exempt from every possible correction would break *no exemption*. Absent such a case, the pair stands — but it stands **answerable, not proven**: the kill condition remains live, and the two isolation failures above remain the standing tests.
 
 ## Prohibited misreadings
 
