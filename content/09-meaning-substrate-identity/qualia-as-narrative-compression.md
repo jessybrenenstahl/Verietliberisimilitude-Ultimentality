@@ -6,11 +6,11 @@ page_type: load-bearing
 formal_status:
   epistemic: Derived
   tier: CV
-  alethic: "aspires to map first-person ownership talk onto regulated operation; the map is accurate, not exhaustive, and is defeasible by a causally-relevant phenomenal residue"
+  alethic: "maps first-person reports to regulated operation while keeping the explanatory scope and evidence explicit"
 prerequisites: [emotion-as-regulated-binding, causal-source-and-experiential-format, meaning-maker, participant-as-process]
 regulates: ["phenomenal-substance reification", "eliminative reduction of experience", "owned report promoted to a founded given"]
 regulated_by: [causal-source-and-experiential-format, externality-without-extra-symbolic-access, participant-as-process, two-mark-system]
-valid_attack: "Exhibit a stable phenomenological difference with no difference in regulation, access, memory, routing, action, or consequence, where the difference nonetheless remains causally relevant."
+valid_attack: "Show a stable difference in participant-access or report that the specified compression account cannot represent, or a causal effect that contradicts its stated explanatory claims."
 isolation_failure: "Compression without the participant-access anchor explains experience away; participant-access without compression reinstalls a phenomenal substance behind the report."
 kill_condition: "The account explains away rather than explains participant-access, or treats every report as exhaustively reducible to an external description."
 see_also: [emotion-as-regulated-binding, causal-source-and-experiential-format, participant-as-process, meaning-maker, symbolic-is-not-linguistic, occurrent-and-sedimented-meaning]
@@ -51,7 +51,9 @@ The opposing excess is **elimination** — reading *compression* as *mere label*
 
 ## Valid attack surface
 
-Exhibit a **stable phenomenological difference** with no difference in regulation, access, memory, routing, action, or consequence, where the difference nonetheless remains **causally relevant.** A same-level attack must locate a phenomenal variance that (a) is stable, (b) makes no difference to any downstream selection, routing, retained weight, action, or returned consequence, and yet (c) is still doing causal work. Such a case would exhibit a phenomenal residue the compression cannot reach while it still matters — the report would then be pointing *past* the regulated operation, and the carving would be wrong. Nearby but invalid: offering the sheer felt intensity of a report (that is a difference in access and format, on the operation side, not a residue outside it); or offering a report for which no external mechanism has yet been located (an unfound mechanism is not an absent regulation).
+Test a specified compression account against what it claims to explain. A stable difference in participant-access, reporting, memory, or action can reveal a distinction it omits. A causal effect inconsistent with its predictions can challenge its explanatory adequacy. State the omitted relation and show why the proposed correction is needed.
+
+A test must not demand a difference that has no causal consequences while also requiring that it do causal work. Nor does failure to locate a mechanism establish that none exists. Both the explanatory scope and the evidence remain explicit.
 
 ## What happens if isolated
 
@@ -68,7 +70,7 @@ Held together, the two regulators yield an account of first-person ownership tha
 
 ## What would actually kill the claim
 
-The claim dies if the account **explains away rather than explains** participant-access — if, in operation, it licenses the deletion of experience as illusion — or if it treats **every report as exhaustively reducible to an external description**, leaving no remainder for the participant-relative format. It also dies to a *realized* valid attack: a stable, causally relevant phenomenal difference with no correlate in regulation, access, memory, routing, action, or consequence. It does **not** die to the bare insistence that felt experience "seems more than" its regulation; seeming-more is a fact about the compression's compelling quality, and a failed such attack is logged as a failed attack — never counted as proof that the report names a substance.
+The claim dies if the account **explains away rather than explains** participant-access — if, in operation, it licenses the deletion of experience as illusion — or if it treats **every report as exhaustively reducible to an external description**, leaving no remainder for the participant-relative format. A demonstrated omission or predictive failure calls for revising the affected compression account; the result must be matched to the scope of the challenged claim. It does **not** die to the bare insistence that felt experience "seems more than" its regulation; seeming-more is a fact about the compression's compelling quality, and a failed such attack is logged as a failed attack — never counted as proof that the report names a substance.
 
 ## Prohibited misreadings
 
@@ -77,7 +79,7 @@ The claim dies if the account **explains away rather than explains** participant
 - **"Qualia are just words."** [[symbolic-is-not-linguistic|Symbolic Is Not Linguistic]]: the compression is symbolic, not merely verbal or propositional. A nonlinguistic meaning-maker can carry the self-compressing access relation without uttering anything.
 - **"*I fear* is the emotion itself."** The report is a delivery layer; the emotion is the binding Fear = (Away, boundary violation). Reading the felt report as a primitive is the [[cardinal-error|cardinal error]]; reading it as the binding confuses the gloss with the operation ([[predicate-binding|Predicate Binding]]).
 - **"This is a claim about one kind of being versus another."** The page is substrate-neutral and applies wherever the self-compressing access relation holds; it must not be organized around a privileged binary comparison.
-- **"Compression means information was lost, so the report is false."** Compression is not omission. A compression can be accurate and causally effective while far shorter than any full description; losslessness is not required for the owned report to do real work.
+- **"Compression means information was lost, so the report is false."** Compression can omit detail without falsifying what it preserves. A compression can be accurate and causally effective while far shorter than any full description; losslessness is not required for the owned report to do real work.
 
 ## See also
 

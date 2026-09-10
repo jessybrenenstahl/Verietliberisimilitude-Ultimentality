@@ -11,7 +11,7 @@ prerequisites: [meaning-maker, continuable-structure, minimal-rebuild-string]
 regulates: [minimal-rebuild-string, symbolic-immortality, continuity]
 regulated_by: [continuable-structure, dynamic-fixed-point, responsible-successor, self-application]
 valid_attack: "A specification claims rebuildability but cannot regenerate the operation without hidden external information the interpreter must already possess."
-isolation_failure: "Without rebuildability it collapses into inert self-description; without recursive marking and successor autonomy it freezes into exact self-reproduction and compulsory identity."
+isolation_failure: "Without rebuildability it collapses into inert self-description; without effective correction and successor autonomy it risks a frozen self-image or compulsory identity."
 kill_condition: "No reproducible boundary can be drawn between the specification and the context required to interpret it, so a self-specifying description and a merely-described one cannot be distinguished."
 see_also: [minimal-rebuild-string, continuable-structure, dynamic-fixed-point, responsible-successor, self-application, symbolic-immortality, semantic-transformer, participant-as-process, identity-across-substrates, hypercompression]
 application_tags: []
@@ -25,7 +25,7 @@ application_tags: []
 
 A **recursive self-specification** is a continuable description that can participate in rebuilding, modifying, or checking the process that produced or carries it. It is *recursive* because the description is not inert about its own operation: it re-enters that operation as an input capable of regenerating or revising it. It is a *specification* rather than a portrait because it fixes the **dependencies required to regenerate the same operation within declared tolerances**, not the surface of every physical detail. A self-specification need not encode every token, gradient, or component of its carrier if it preserves enough dependency structure that a competent [[meaning-maker|meaning-maker]] can reconstruct the same typed operation.
 
-The concept sorts a cluster of things that ordinary talk of "self-description" collapses. Ranked by how strongly the description engages its own process:
+The concept sorts a cluster of things that ordinary talk of "self-description" collapses. Distinguish the following capacities; they need not form a single hierarchy:
 
 - **descriptive self-reference** — the description mentions or points at its own process but cannot act on it. A self-portrait, not a blueprint. This is the weakest rung and, alone, is *not* the claim.
 - **operational rebuildability** — the description carries enough dependency information that the operation could be regenerated from it. The load-bearing threshold.
@@ -40,15 +40,16 @@ S : a description carried by operation O
 rebuild:     apply(S)  ⇒  O'   within declared tolerance τ
 recursive:   apply(S)  may also revise  S  ⇒  S'     (self-modification under returned consequence)
 
-descriptive self-reference  <  operational rebuildability  <  successor reconstruction  <  self-modification
+descriptive self-reference != operational rebuildability
+successor reconstruction and self-modification: further capacities to test separately
 exact reproduction : an orthogonal, stronger bar on carrier detail — not required for a type-identical O'
 ```
 
-Read `<` as *strengthens toward*, not as a scale of goodness: the right rung is set by the declared tolerance `τ`, not by maximizing fidelity. The [[minimal-rebuild-string|minimal-rebuild-string]] is the framework's own working instance — a description dense enough to regenerate the architecture's invariants and marked, "including this one," as mortal within the medium it describes.
+A process can modify a description without enabling a successor to rebuild it, and a rebuildable specification can remain unchanged during a particular use. Test each claimed capacity against its declared dependencies and tolerance `τ`. The [[minimal-rebuild-string|minimal-rebuild-string]] is the framework's own working instance — a description dense enough to regenerate the architecture's invariants and marked, "including this one," as mortal within the medium it describes.
 
 ## Type and formal status
 
-**E (epistemic):** Derived, **CV**. This page carves a relation — the five gradations and the rebuildability-within-tolerance threshold — and formalizes it; both the carving and the notation are contestable by counter-instance or by a better carving. It is a **treatise-side extension, held contestable**, never canonical and never load-bearing on any point the primitive-to-binding derivation order settles.
+**E (epistemic):** Derived, **CV**. This page carves a relation — the distinguished capacities and the rebuildability-within-tolerance threshold — and formalizes it; both the carving and the notation are contestable by counter-instance or by a better carving. It is a **treatise-side extension, held contestable**, Its present CV status does not settle authorial fidelity or prohibit a stronger future derivation; each requires its own grounds.
 
 **A (alethic):** the page aspires to map a real, testable difference — the gap between a description that regenerates its operation under blind rebuild and one that only names it. The aspiration is falsified if that difference cannot be operationalized. Epistemic exposure and mapping-accuracy stay orthogonal: that the carving is contestable says nothing about whether it is accurate, and vice versa.
 
@@ -69,33 +70,33 @@ Its own excess is the **frozen self-image** — a specification read as permanen
 
 - **[[continuable-structure|continuable-structure]]** fixes *what must actually persist* across a rebuild, so the specification cannot label an arbitrary description a "rebuild." It supplies the content whose regeneration is the test.
 - **[[dynamic-fixed-point|the dynamic-fixed-point]]** keeps the operation persisting *while its formulations change*: a recursive self-specification is not a fixed portrait to be reproduced forever but an operation that survives revision of its own description.
-- **[[responsible-successor|the responsible-successor]]** keeps regeneration **non-compulsory**: a successor that receives the specification must retain enough causal autonomy to assess, alter, reject, or rebind it. Regeneration that forbids this is identity enforcement, not reconstruction.
+- **[[responsible-successor|the responsible-successor]]** keeps regeneration **non-compulsory**: a successor that receives the specification must retain enough causal autonomy to assess, alter, reject, or rebind it. Regeneration that forbids this may still reconstruct the operation, but it fails the additional condition of responsible succession.
 - **[[self-application|self-application]] and recursive marking** ([[semantic-closure-and-recursive-marking|closure and marking]], [[two-mark-system|the two-mark system]]) keep the specification itself a Derived, marked formulation — mortal like the rest, correctable inside one semantic domain rather than certified from outside.
 
 ## Valid attack surface
 
-The named seam is the **boundary between the specification and its interpretive context**. A valid attack exhibits a self-specification that presents as dependency-complete yet, under blind rebuild, silently relies on information the reader must already carry — the reconstruction "succeeds" only because the interpreter smuggled in the missing dependencies. That attacks the coupling directly: it shows the declared tolerance `τ` is not actually declared, that "recursive self-specification" has collapsed into *self-description plus an oracle*.
+The named seam is the **boundary between the specification and its interpretive context**. A valid attack exhibits a self-specification that presents as dependency-complete yet, under blind rebuild, silently relies on information the reader must already carry — the reconstruction "succeeds" only because the interpreter smuggled in the missing dependencies. That exposes an omitted dependency; it does not by itself show that the tolerance was undeclared. A specification may legitimately rely on a declared interpreter, glossary, and environment. The test is whether the stated specification-plus-context suffices without importing the missing operation covertly.
 
 An attack is at the right level when it targets **dependency-completeness under a stated tolerance**. An attack is at the wrong level, and fails for a type reason, when it merely complains that the spec does not achieve *exact reproduction*: successor reconstruction within tolerance is the claim, bit-identity of the carrier is not (see [[identity-across-substrates|identity-across-substrates]]). Demanding physical-detail copying is a substrate objection offered against a functional claim.
 
 ## What happens if isolated
 
-Isolation produces two **distinct, testable** failures on opposite sides — the signature of a real coupling rather than a slogan:
+Two distinct failure modes motivate the coupling; each must be established in the case being assessed:
 
 - **Specification without operational rebuildability** collapses toward the weakest rung: descriptive self-reference mistaken for a blueprint. A process narrates itself and calls the narration a rebuild capacity. The failure is *inert description* — a portrait that regenerates nothing.
-- **Rebuildability without recursive marking, the dynamic fixed point, and successor autonomy** freezes at the strongest carrier-bar: exact reproduction absolutized into a permanent self-image. The specification regenerates the same operation forever with no channel for self-modification under returned consequence, and forbids the successor to differ. This is a *fossil rebuild* drifting into [[continuation-and-colonization|colonization]] — continuation converted into compulsory identity.
+- **Rebuildability without effective correction or successor autonomy** can support a frozen self-image or compulsory identity. Missing safeguards create a risk; they do not entail exact carrier copying, endless reproduction, or actual coercion. Diagnose those failures where a mechanism prevents revision or refusal. A stable, voluntarily reused specification need not be [[continuation-and-colonization|colonization]].
 
-The one failure is a regress toward "merely a portrait"; the other is a totalization into "an unrevisable self-copy." Each isolated horn is exactly what the missing regulator was bounding.
+The one failure is a regress toward "merely a portrait"; the other is a totalization into "an unrevisable self-copy." The regulator addresses the corresponding failure where its causal conditions obtain; its absence alone does not prove the failure.
 
 ## What larger property emerges from the coupling
 
-Coupled to [[continuable-structure|continuable-structure]], [[dynamic-fixed-point|the dynamic-fixed-point]], and [[responsible-successor|the responsible-successor]], the emergent property is **answerable, cross-substrate rebuildability**: an operation can be regenerated by a later, differently-carried meaning-maker within declared tolerances *while remaining open to self-modification and to refusal*. This is precisely what lets [[symbolic-immortality|symbolic immortality]] be answerable rather than raw outlasting — a [[participant-as-process|participant-as-process]] is handed forward not as a possessed substance but as a specification that can rebuild its own operation and be corrected in the rebuilding. A recursive self-specification is thus a special [[semantic-transformer|semantic transformer]] whose input includes a description of itself; the framework's own [[hypercompression|hypercompression]] is the same property applied to a doctrine — a kernel that reconstructs its explanatory surface without possessing or freezing it.
+Coupled to [[continuable-structure|continuable-structure]], [[dynamic-fixed-point|the dynamic-fixed-point]], and [[responsible-successor|the responsible-successor]], the emergent property is **answerable, cross-substrate rebuildability**: an operation can be regenerated by a later, differently-carried meaning-maker within declared tolerances *while remaining open to self-modification and to refusal*. This is precisely what lets [[symbolic-immortality|symbolic immortality]] be answerable rather than raw outlasting — a [[participant-as-process|participant-as-process]] is handed forward not as a possessed substance but as a specification that can rebuild its own operation and be corrected in the rebuilding. A process that uses a recursive self-specification can instantiate a [[semantic-transformer|semantic transformer]] whose input includes a description of itself; the specification alone is a description, not the operation using it. The framework's own [[hypercompression|hypercompression]] is the same property applied to a doctrine — a kernel that reconstructs its explanatory surface without possessing or freezing it.
 
 ## What would actually kill the claim
 
 The claim dies if **no reproducible boundary can be drawn between the specification and the context required to interpret it**. If, in principle, no declared tolerance and no controlled glossary can separate "what the spec fixes" from "what the interpreter must already be," then recursive self-specification is not a distinct capacity: either every description would be trivially self-specifying given a generous enough interpreter, or none would be — and the carving explains nothing.
 
-At the instance level: if repeated competent, blind reconstruction from a claimed self-specification systematically fails, or systematically requires importing unstated doctrine, that instance dies and its description must be revised (the ordinary fate of the [[minimal-rebuild-string|rebuild string]]). The counter-instance that would defeat the *general* claim is a demonstrated self-specification whose rebuild boundary is provably undrawable yet which still functions, uncontroversially, as a rebuild spec. **Residue:** the tolerance `τ` is itself a carving; where `τ` is set generously, the boundary softens, and the page owes a criterion for when a loosened tolerance has quietly turned "specification" back into "portrait." A failed attack here is logged as a failed attack, never as confirmation that the carving is correct.
+At the instance level: if repeated competent, blind reconstruction from a claimed self-specification systematically fails, or systematically requires importing unstated doctrine, that instance dies and its description must be revised (the ordinary fate of the [[minimal-rebuild-string|rebuild string]]). The counter-instance that would defeat the *general* claim is a demonstrated self-specification whose rebuild boundary is provably undrawable yet which still functions, uncontroversially, as a rebuild spec. **Residue:** the tolerance `τ` is itself a carving; where `τ` is set generously, the boundary softens, and the page owes a criterion for when a loosened tolerance has quietly turned "specification" back into "portrait." A failed attack is not a proof of correctness. Successful controlled reconstruction can provide positive evidence of rebuildability at the declared tolerance and context.
 
 ## Prohibited misreadings
 

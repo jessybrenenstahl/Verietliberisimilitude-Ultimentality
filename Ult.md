@@ -116,7 +116,7 @@
 
    **1.3** Symbolic mediation does not imply causal self-enclosure.
 
-      **1.31** Causal source and experiential format are independent.
+      **1.31** Causal source and experiential format are distinct questions; neither generally determines the other.
 
          **1.311** An event may be externally caused and symbolically formatted.
 
@@ -124,11 +124,11 @@
 
          **1.313** Externally caused does not mean extra-symbolically received.
 
-      **1.32** A returned consequence is external where it is not wholly authored, controlled, or predicted by the receiving participant.
+      **1.32** A returned consequence has an external source where its causal origin lies beyond the specified participant boundary; prediction and control are separate relations.
 
-         **1.321** External resistance can wound a participant’s model while remaining intelligible only through significance.
+         **1.321** External conditions can constrain and improve a participant’s model while becoming intelligible through significance.
 
-         **1.322** Correctability requires real resistance in a mediated channel.
+         **1.322** Correctability requires relevant information and constraints to be capable of changing the account or operation.
 
    **1.4** Every formulation of closure is mortal.
 

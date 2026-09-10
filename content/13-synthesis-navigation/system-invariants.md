@@ -83,7 +83,7 @@ record fields per invariant:
 *Regulator:* returned external consequence and the [[alethic-axis|accuracy aspiration]] — the map answers to what it does not own.
 *Isolation failure:* a possession claim collapses map into territory and forfeits correction by externality.
 *Kill condition:* exhibit possession of the mapped case that remains participant-access.
-*Required tests:* the source-versus-format independence check ([[causal-source-and-experiential-format]]).
+*Required tests:* the source-versus-format distinction check ([[causal-source-and-experiential-format]]).
 
 **3 — All content-bearing claims are Derived.**
 *Formal statement:* every content-bearing claim carries the Derived mark; none is Forced, founded, exempt, or unmarked — including claims about closure and marking.
