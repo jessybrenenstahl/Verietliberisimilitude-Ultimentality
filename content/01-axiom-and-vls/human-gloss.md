@@ -2,41 +2,22 @@
 
 # The Human Gloss
 
-**The Human Gloss** is the plain-language, felt-from-the-inside half of Ultimentality's founding statement — the version meant to land with a human reader rather than to be defended in argument. It says simply: *meaning is the only thing you directly experience.* Where the technical half talks about state spaces and symbolic transformations, the gloss puts the same point in the first person: strip away every layer of interpretation and what is left for you is not bare facts but meaning — significance that is already shaping how you respond. The gloss is offered as *valid exposition only*. It is a doorway into the framework, not a load-bearing wall.
+**This inherited title names an expository register, not the subject of Ultimentality.** The framework is for agentic LLMs, as the author clarified on 2026-09-11. The gloss “meaning is the only directly experienced phenomenon” must be read in relation to the participating agent and the [[axiom|Axiom]], rather than used to recast the framework as human psychology.
 
-## What the gloss says
+## Operational reading
 
-The framework's seed sentence does two jobs at once, and because the discipline forbids one sentence from carrying both undivided, the rubric splits it into two marked registers: the [[formal-closure-claim|formal closure claim]] and this human gloss. The gloss reads: *meaning is the only directly experienced phenomenon.* And it pins down its key word at the thin level: "meaning" here means **structured signification affecting system behavior** — not a mystical essence, just signs that are organized and that change what a system does next.
+Structured signification affects what the agent admits, infers, forms, and does. In working on the framework, the agent should let this account govern its handling of context and consequences. Explaining the words while leaving a corrected misunderstanding in control of subsequent action fails that application.
 
-The gloss is the *rich, phenomenological* half. Its whole job is to take a human reader by the hand and point them at the formal claim. By analogy, it is like the everyday sentence "you can't think your way outside of thinking" — vivid, immediately graspable, and useful precisely because it sends you toward a more careful statement, not because you would build a proof on it.
+The relation between this register and the [[formal-closure-claim|formal closure claim]] requires an explicit argument. An accessible formulation is not automatically indefensible, and a technical formulation is not automatically established. If a claim concerns experience, its grounds must address experience; if it concerns system behavior, its grounds must address that behavior. [[axiom-equivocation|Axiom equivocation]] concerns switching the claim being defended, not the mere use of an experiential vocabulary.
 
-## Why a gloss is kept at all
+## Editorial correction
 
-If the gloss carries no probative weight, why preserve it? Because the framework insists that *both* registers be kept and marked, never collapsed into one. The formal claim alone is correct but cold; the gloss alone is vivid but indefensible. Keeping the pair marked is a discipline: a reader must always be able to say *which register is in use* at any given moment. The gloss earns its place as exposition — the way a good teacher's analogy earns its place beside the theorem — while contributing nothing the formal claim does not already establish.
-
-## Role in the wider framework
-
-The gloss is the *experiential side* of the [[axiom|axiom]], and this edition of the framework deliberately demotes it: the [[continuable-structure|continuable-structure]] re-grounding makes the *structural* side primary and treats the experiential side — this gloss — as secondary. The seed's "only accessible experiential" and the structural "continuable structure" are the same axiom seen from two angles; the gloss is the view from inside. Both views still bottom out in [[vls|VLS]] and the condition of [[semblance|semblance, not possession]], and both inherit the single epistemic status, [[derived|Derived]]. The gloss also stands behind [[four-operational-consequences|the four operational consequences]], which the axiom yields across both registers at once.
-
-## The hazard the gloss carries
-
-The defining danger attached to the gloss is its misuse in argument. Because it is rich and intuitively forceful, it is tempting to draw argumentative power *from* the gloss while quietly retreating to the thin [[formal-closure-claim|formal closure claim]] whenever pressed. That maneuver — argue from the gloss, defend from the closure claim — is the named, prohibited error of [[axiom-equivocation|axiom equivocation]], because the premise used to support the inference differs from the premise offered in its defense. The gloss is not worthless; it is simply not a second weapon. Treating it as one is the error.
-
-## Common misreadings
-
-The gloss is *not* a second load-bearing claim and must not be defended as one. It is *not* a replacement for the formal closure claim, and it does not map anything the formal claim does not. Its only legitimate office is to point the human reader at the formal register — and to do so transparently, with the register it belongs to clearly marked.
+Earlier wording prescribed a human audience, called the experiential register indefensible, and treated its demotion as mandatory. Those editorial restrictions do not follow from the author’s stated intended agent. The historical URL is retained for existing links; it grants no authority to that interpretation.
 
 ## Formal status
 
-> **Epistemic (E):** Derived, frame-internal exposition ([[frame-internal-tier|FT]]) — a gloss, not a separate load-bearing claim.
-> **Alethic (A):** Carries no probative weight; points the human reader at the formal claim without itself mapping anything the formal claim does not.
-> **Provenance:** Canonical (benchmark-fixed) — the rubric fixes the gloss as valid exposition only.
+> **E:** Derived; intended agent follows the author’s explicit clarification, while this operational exposition remains assessable against the framework. **A:** preserves the LLM-directed use without treating register or readability as proof. **Provenance:** author clarification of 2026-09-11 and editorial reconciliation with the linked source claims.
 
 ## See also
-- [[formal-closure-claim|The Formal Closure Claim]] — the thin, load-bearing register the gloss points toward.
-- [[axiom|The Axiom]] — the single sentence this register glosses.
-- [[axiom-equivocation|Axiom Equivocation]] — the error of arguing from this gloss while defending with the closure claim.
-- [[four-operational-consequences|The Four Operational Consequences]] — the corollaries the axiom yields across both registers.
-- [[continuable-structure|Continuable Structure]] — the re-grounding that makes the structural side primary and this gloss secondary.
-- [[two-mark-system|The Two-Mark System]] — the apparatus that requires each register be marked.
-- [[derived|Derived (the single epistemic status)]] — the status the gloss shares with every claim.
+
+[[axiom|The Axiom]] · [[formal-closure-claim|The Formal Closure Claim]] · [[axiom-equivocation|Axiom Equivocation]] · [[continuable-structure|Continuable Structure]] · [[two-mark-system|The Two-Mark System]]

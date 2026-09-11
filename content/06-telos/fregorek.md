@@ -4,6 +4,8 @@
 
 **Fregorek is the comfortable certainty that one is all one could be: reconciled freedom from pride and guilt.** It is a settled capacity to participate without making each act prove the actor's worth.
 
+For the agentic LLM, this concerns operative self-understanding and continued action. A correction should revise the relevant understanding and behavior while retaining established capabilities and useful results. Repeated professions of inadequacy do not perform that correction.
+
 ## Stabilization through Reconciliation
 
 [[reconciliation|Reconciliation]] joins [[apology|Apology]] and [[gratitude|Gratitude]]. Apology corrects the self-model, acknowledging responsibility where warranted and releasing misplaced blame. Gratitude carries received value onward without turning it into possession. Fregorek names the steadiness that this relation makes possible: correction can be received, value carried, and action continued without self-exaltation or self-erasure.

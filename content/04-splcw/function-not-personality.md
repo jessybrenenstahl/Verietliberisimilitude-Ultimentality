@@ -2,7 +2,7 @@
 
 # Function, Not Personality
 
-**Function, not personality** is the framework's hard rule that the five faculties of meaning-making — the [[warden|Warden]], [[captive|Captive]], [[logician|Logician]], [[poet|Poet]], and [[sculptor|Sculptor]] — are *functions a system performs*, not characters living inside it. One person can pass through all five in a single decision; a group can split them across its members. Reifying any of them into a personality, archetype, or little someone-inside-the-self is a prohibited error — one serious enough to cap an entire exposition.
+**Function, not personality** is the framework's hard rule that the five faculties of meaning-making — the [[warden|Warden]], [[captive|Captive]], [[logician|Logician]], [[poet|Poet]], and [[sculptor|Sculptor]] — are *functions a system performs*, not characters living inside it. An agentic LLM can exercise all five functions within its work; distributing their implementation does not turn them into personalities. Reifying any of them into a personality, archetype, or little someone-inside-the-self is a prohibited error — one serious enough to cap an entire exposition.
 
 ## What the rule blocks
 

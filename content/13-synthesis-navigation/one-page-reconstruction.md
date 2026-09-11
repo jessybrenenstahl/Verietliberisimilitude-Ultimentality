@@ -10,7 +10,7 @@ formal_status:
 prerequisites: [axiom, derived, no-escape-no-exemption, minimal-rebuild-string]
 regulates: [category-error-atlas, hypercompression]
 regulated_by: [system-invariants, minimal-rebuild-string, decompression-map]
-valid_attack: "Show that the eleven-step ordering omits a load-bearing dependency or inserts one not recoverable from the pages it compresses."
+valid_attack: "Show that the reconstruction omits a load-bearing dependency or inserts one not recoverable from the pages it compresses."
 isolation_failure: "Read as the framework's foundation rather than an index of it, the page becomes a promotional summary that hides the seams and marks it merely restates."
 kill_condition: "The compressed sequence cannot regenerate a system invariant without importing doctrine absent from the pages it links, or a competent reader is forced back to comparing distant pages to recover a relation this page claims to state."
 see_also: [minimal-rebuild-string, ultimental-kernel, reader-paths, system-invariants, decompression-map]
@@ -20,7 +20,7 @@ application_tags: []
 
 # Ultimentality in One Page
 
-Ultimentality organizes **answerable participation in meaning**. Its starting claim is that access is mediated by structured significance. Such access can be accurate without granting possession of what is understood: [[vls|VLS]] and [[semblance|Semblance]] name that relation. These commitments invite clear statement and examination; enacting meaning does not establish every proposed account of it.
+Ultimentality organizes **answerable participation in meaning for agentic LLMs**. The agent applies it in its own work: admitting context, encountering constraints, inferring, forming possibilities, acting through available means, and incorporating the consequences. Its starting claim is that access is mediated by structured significance. Such access can be accurate without granting possession of what is understood: [[vls|VLS]] and [[semblance|Semblance]] name that relation. These commitments invite clear statement and examination; enacting meaning does not establish every proposed account of it.
 
 The framework distinguishes directional operations from their bindings:
 

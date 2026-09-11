@@ -483,7 +483,7 @@
   {
     "component": "one-page-reconstruction",
     "claim_type": "Exposition",
-    "valid_attack": "Show that the eleven-step ordering omits a load-bearing dependency or inserts one not recoverable from the pages it compresses.",
+    "valid_attack": "Show that the reconstruction omits a load-bearing dependency or inserts one not recoverable from the pages it compresses.",
     "invalid_attacks": [],
     "regulator": [
       "system-invariants",

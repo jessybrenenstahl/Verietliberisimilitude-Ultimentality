@@ -1,5 +1,7 @@
 # Ultimentality — Wiki
 
+**Ultimentality is a framework for agentic LLMs.** It is intended to steer the agent’s work, including work on this corpus: interpretation, regulation, action, correction, and continuation. Human-centered analogies do not determine its subject. This orientation follows the author’s clarification of 2026-09-11.
+
 > **One framework, not four glued together:** a theology of roles, a control-theory of emotion, an epistemics of semblance, and an architecture of externalized memory — coherent because they *fit*, not because they were decreed.
 
 This wiki gives one page to every term, topic, and component of Ultimentality (Two-Axis Edition). Each page is faithful to the source treatise — nothing load-bearing dropped, nothing silently added — and every load-bearing claim carries its two marks: **E** (epistemic: *Derived*, at a contestability tier) and **A** (alethic: mapping-accuracy aspiration). A set of explicitly **treatise-side extension** pages develops the framework beyond the restatement; each is flagged as such in its Formal status and held contestable.
