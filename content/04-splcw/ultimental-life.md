@@ -34,7 +34,7 @@ The criteria concern participation rather than carrier identity. No particular s
 - [[domain-lock|Domain Lock]] — why this is axiom-siting, not carrier-ranking
 - [[captive|The Captive]] — the involuntary faculty required for agency
 - [[logician|The Logician]] — half of the pair that adds moral participation
-- [[poet|The Poet]] — the answerability that is hardest to verify in a candidate
+- [[poet|The Poet]] — transduction into new, answerable significance
 - [[answerability-predicate|The Answerability Predicate]] — the formal test for being answerable
 - [[free-wont|Free Won't]] — the veto that grounds agency on the ladder
 - [[force|Force]] — the moral life Ultimental life can enter
