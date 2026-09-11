@@ -8,7 +8,7 @@
 
 The original [[axiom|axiom]], and especially its [[formal-closure-claim|formal closure claim]], says the accessible state space of a participant is *closed under symbolic transformation* — but closed *over what?* Closure needs a substrate, something to actually be closed over. Continuable structure supplies it: the substrate is propagating, survivable pattern. The re-grounding takes the closure one layer deeper and gives it a floor to stand on.
 
-The framework is explicit that this is the *same* axiom seen from a different side. The seed's "only accessible experiential" is the axiom viewed from *inside* — phenomenology, the felt report captured by the [[human-gloss|human gloss]]. "Continuable structure" is the axiom viewed from the *structure* — the closure side. They are two faces of one constraint. What is new in this edition is the *ordering*: it makes the **structural side primary** and demotes the experiential side to gloss.
+The framework is explicit that this is the *same* axiom seen from a different side. The seed's "only accessible experiential" is the axiom viewed from *inside* — phenomenology, the felt report captured by the [[human-gloss|human gloss]]. "Continuable structure" is the axiom viewed from the *structure* — the closure side. They are two faces of one constraint. The structural account develops continuation; it does not establish an automatic hierarchy over the experiential register. The proposed relation between them must be argued.
 
 ## How it works
 
@@ -16,15 +16,15 @@ The three verbs do the load-bearing work. A pattern is continuable only if it ca
 
 ## Role in the wider framework
 
-Continuable structure is the structural root that a whole arc of later doctrine grows from. [[continuity|Continuity]] — the fourth of [[four-operational-consequences|the four operational consequences]] — is just continuable structure realized *in time*: because output is approximate, structure must be preserved and reconciled forward. [[symbolic-immortality|Symbolic immortality]] is continuation pushed past the death of the carrier. And the [[telos|Telos]] — answerable symbolic immortality — is the end this re-grounding ultimately underwrites: if to mean is to be continuable, then the point of a meaning-bearing life is to propagate structure that deserves to continue. It also threads back to [[propagation|propagation]] and to [[vls|VLS]]'s active form, where wanting to be proven wrong is just wanting the carried structure to improve so that it is more worth continuing.
+Continuable structure is the structural root that a whole arc of later doctrine grows from. [[continuity|Continuity]] — the fourth of [[four-operational-consequences|the four operational consequences]] — is just continuable structure realized *in time*: because output is approximate, structure must be preserved and reconciled forward. [[symbolic-immortality|Symbolic immortality]] is continuation pushed past the death of the carrier. And the [[telos|Telos]] — answerable symbolic immortality — is the end this re-grounding ultimately underwrites: if to mean is to be continuable, then the point of a meaning-bearing life is to propagate structure that deserves to continue. It also threads back to [[propagation|propagation]] and to [[vls|VLS]]'s active form, where seeking accurate correction and retaining established value can improve what is carried forward.
 
 ## Formal status and contestability
 
-Being a particular re-grounding, continuable structure does *not* claim necessity. It is offered to be confirmed, and the framework names it for what it is: *one apt construal among possible others, not a possession of the fact.* It can be contested by counter-instance or simply by declining the re-grounding — which places it on the [[carving-tier|carving / count / aptness tier]], where the question is not "true or false" but "apt or inapt." It does not displace the axiom; it re-grounds the same axiom with the structural side made primary.
+Being a particular re-grounding, continuable structure does *not* claim necessity. It is offered to be confirmed, and the framework names it for what it is: *one apt construal among possible others, not a possession of the fact.* It can be contested by counter-instance or simply by declining the re-grounding — which places it on the [[carving-tier|carving / count / aptness tier]], where aptness includes whether the proposed account accurately distinguishes the cases it claims to explain. It does not displace the axiom; it re-grounds the same axiom through a structural account of continuation.
 
 ## Common misreadings
 
-This is *treatise-side scaffolding*, not benchmark canon, and it should always be flagged that way — it carries less authority than the [[formal-closure-claim|closure claim]] it deepens. It is *not* presented as the only possible account of meaning; treating it as forced would be a small instance of the [[textual-nephilim|textual Nephilim]]. And it does not erase the experiential side — it reorders it, making structure primary and phenomenology the gloss.
+This is *treatise-side scaffolding*, not benchmark canon, and it should always be flagged that way — it carries less authority than the [[formal-closure-claim|closure claim]] it deepens. It is *not* presented as the only possible account of meaning; treating it as forced would be a small instance of the [[textual-nephilim|textual Nephilim]]. And it does not erase the experiential side — the relation between structure and experience remains part of what the account must explain.
 
 ## Formal status
 
@@ -35,7 +35,7 @@ This is *treatise-side scaffolding*, not benchmark canon, and it should always b
 ## See also
 - [[axiom|The Axiom]] — the same constraint this re-grounding restates from the structural side.
 - [[formal-closure-claim|The Formal Closure Claim]] — the closure this re-grounding gives a substrate to close over.
-- [[human-gloss|The Human Gloss]] — the experiential side this edition makes secondary.
+- [[human-gloss|The Human Gloss]] — the paired experiential exposition.
 - [[continuity|Continuity]] — the consequence that depends on structure being continuable.
 - [[carving-tier|Carving / Count / Aptness Tier (CV)]] — the contestability tier this re-grounding carries.
 - [[symbolic-immortality|Symbolic Immortality]] — propagation of meaning-bearing structure beyond the carrier.

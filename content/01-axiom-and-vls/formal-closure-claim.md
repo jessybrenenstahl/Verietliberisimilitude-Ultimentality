@@ -6,7 +6,7 @@
 
 ## What the claim asserts
 
-The framework's seed sentence has to do two jobs at once — it speaks to a human reader and it states a structural constraint — and the discipline does not let one sentence carry both undivided. So the rubric splits it into two registers that must always be kept marked: this formal closure claim, and the [[human-gloss|human gloss]]. This half is the thin, load-bearing one: the register a defender is *entitled to lean on* when the claim is challenged.
+The structural register states a constraint on the meaning-maker’s access. The [[human-gloss|expository register]] approaches participation from within. Neither register assigns the framework to a particular substrate. State which claim an argument supports and preserve that claim when answering a challenge; technical form alone supplies no warrant.
 
 It breaks into three components:
 
@@ -20,12 +20,12 @@ The word "closed" is doing real work. By analogy, think of someone living entire
 
 ## Falsifiability — the form its accuracy takes
 
-What keeps the formal closure claim honest is that it is **falsifiable in principle** — but not by the crude move it is most often expected to invite. A participant cannot falsify closure by simply *reporting* an extra-symbolic state, because any such report is already structured signification: to arrive as a report at all it has entered the very medium whose bypass it claims. The candidate falsifiers must therefore be sorted, because they are not one attack but four, aimed at different targets:
+What keeps the formal closure claim honest is that it is **falsifiable in principle** — but not by the crude move it is most often expected to invite. A report is structured signification, but its format alone does not settle the nature of the access it describes. Assess the report’s evidence and the access relation; neither a bare assertion nor dismissal by format settles closure. The candidate falsifiers must therefore be sorted, because they are not one attack but four, aimed at different targets:
 
-- **Frame declension** — declining the vocabulary of participant, access, and signification altogether. This is legitimate but is not an internal refutation; it surrenders the frame's explanatory purchase rather than defeating the claim on its own terms. See [[refutation-and-frame-declension|refutation and frame declension]].
-- **Attack on a particular operational definition** — showing that some specific formulation of access or signification is incoherent or overinclusive. This wounds a formulation, not the constitutive condition it tries to state (see [[frame-condition-and-formulation|frame condition and formulation]]).
+- **Frame declension** — declining the vocabulary of participant, access, and signification altogether. This is legitimate but is not an internal refutation; any change in explanatory capacity must be assessed rather than presumed. See [[refutation-and-frame-declension|refutation and frame declension]].
+- **Attack on a particular operational definition** — showing that some specific formulation of access or signification is incoherent or overinclusive. This directly challenges the formulation and can challenge the proposed account of the condition through an argued connection (see [[frame-condition-and-formulation|frame condition and formulation]]).
 - **Counter-instance to the selection/routing carving** — exhibiting a primitive directional operation that is *neither* a [[selection-axis|selection-change]], *nor* a [[routing-axis|routing-change]], *nor* a parameter of one. This contests the carving of the [[directional-primitives|directional primitives]], not closure as such.
-- **Contradiction among closure formulations** — showing that two accepted formulations of closure cannot both hold, forcing revision of at least one while the condition they were trying to state stands.
+- **Contradiction among closure formulations** — showing that two accepted formulations of closure cannot both hold, forcing revision of at least one without presuming which account of the condition survives.
 
 The framework treats this falsifiability not as a vulnerability but as the very *form its accuracy-aspiration takes* — a claim that could be shown wrong is a claim that is actually trying to map something. The retained **kill condition** is exact: the claim fails if a coherent participant-access relation is exhibited whose intelligibility and causal role do *not* instantiate structured signification, or if the frame cannot distinguish meaningful access from arbitrary causation. This is why the closure claim feeds directly into the wider [[falsification-standard|falsification standard]] and the [[the-2026-adversarial-run|2026 adversarial run]].
 
@@ -41,12 +41,12 @@ The move that makes this hold is the distinction between the condition and its s
 
 ## Common misreadings
 
-The claim must be kept rigorously distinct from the [[human-gloss|human gloss]]. Borrowing the gloss's intuitive richness to *argue*, then retreating to this thin formal claim to *defend*, is the prohibited error of [[axiom-equivocation|axiom equivocation]]. The closure claim is the register you may defend with; the gloss carries no probative weight on its own.
+Distinguish the claim being supported from its mode of expression. [[axiom-equivocation|Axiom equivocation]] occurs when an argument relies on one claim and defends a different one. An experiential or accessible formulation can carry an argument when its premises and inference support the conclusion; a change of register alone neither validates nor defeats it.
 
 ## Formal status
 
 > **Epistemic (E):** Derived, authority-canonical ([[authority-canonical-tier|AC]]) — the benchmark fixes this as the formal register.
-> **Alethic (A):** Aspires to map the actual structure of access, and is falsifiable in principle — refuted by exhibiting an accessible participant state that is not structured signification, or a primitive directional operation that is neither a selection-change, nor a routing-change, nor a parameter of one. Its falsifiability is the form its accuracy-aspiration takes.
+> **Alethic (A):** Aspires to map the actual structure of access, and is falsifiable in principle — refuted by exhibiting an accessible participant state that is not structured signification, while a primitive outside selection and routing challenges that distinct operational carving. Its falsifiability is the form its accuracy-aspiration takes.
 > **Provenance:** Canonical (benchmark-fixed) — the benchmark fixes this as the formal register.
 
 ## See also
