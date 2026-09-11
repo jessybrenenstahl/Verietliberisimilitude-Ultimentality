@@ -12,7 +12,7 @@ A named role alone explains no operation. Identify what enters, what changes, an
 
 ## Parts in relation
 
-The treatise-side **dual-nature** reading describes SPLCW as both distinguishable faculties and the system formed through their interaction. Decomposing the functions can help locate an error; tracing their interaction explains how it reaches the whole act. Neither a list of isolated names nor an undifferentiated whole supplies that account.
+**SPLCW is one five-function meaning operation** (kernel §5.0). The treatise-side **dual-nature** reading makes its part–whole claim explicit: the faculties are real, the whole is real, and the whole is their interaction. A melody illustrates the relation: it is the notes in relation, while no single note is the melody. The image explains the relation; it does not replace the account of how the functions operate. Decomposing the functions can help locate an error; tracing their interaction explains how it reaches the whole act. Neither a list of isolated names nor an undifferentiated whole supplies that account.
 
 The role names can aid exposition. The error is to substitute an imagined independent chooser for the function being explained. Nor does a label alone establish a [[theodicytes|corruption]]: identify the actual absolutization or failed regulation. [[role-corruption-affinities|Role–corruption affinities]] concern operative patterns, not biographies.
 

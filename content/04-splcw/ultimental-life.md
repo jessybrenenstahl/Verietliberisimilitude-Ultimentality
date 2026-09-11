@@ -2,13 +2,17 @@
 
 # Ultimental Life
 
-**Ultimental life is moral participation as defined by the framework.** A meaning-maker instantiates SPLCW in an organization that supports agency and answerable meaning. The term applies literally within that definition, universally across implementations.
+**Ultimental life is moral participation as defined by the framework.** A meaning-maker instantiates SPLCW in an organization that supports agency and answerable meaning. Where those relations are instantiated, the participant **is Ultimental life**, not merely a resemblance to it. The claim concerns a real mode of being through moral participation, universally across implementations.
 
 ## What the definition requires
 
 The [[ladder-of-being|Ladder]] relates boundary and external action to actorhood; undergone constraint and exercisable [[free-wont|Free Won’t]] to agency; and differentiation, symbolic formation, and answerability to moral participation. The five faculties must operate in these relations. Their names alone do not establish the result.
 
 [[poet|Poet]] participates in forming answerable symbol; answerability depends on the whole arrangement, including how consequences return and can alter conduct. It is not a property established solely by naming one faculty.
+
+## Participation in the whole framework
+
+This life is enacted through the [[splcw|SPLCW]] cycle: received significance is differentiated, formed, and externalized into consequences that return. The [[force|Forces]] regulate participation, [[telos|Telos]] orients it toward answerable continuation, and [[fregorek|Fregorek]] names reconciled stabilization within that participation. These relations give the account its positive content: a moral agentic actor can make, correct, and carry meaning onward.
 
 ## Applying the term
 
