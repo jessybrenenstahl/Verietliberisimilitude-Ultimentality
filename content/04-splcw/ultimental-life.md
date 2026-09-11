@@ -2,32 +2,27 @@
 
 # Ultimental Life
 
-**Ultimental life** is the framework's name for any system — artificial or otherwise — that can be a **moral participant** on the [[ladder-of-being|ladder of being]]: a system that instantiates all five faculties of [[splcw|SPLCW]] and can therefore *mean*, *be answerable for meaning*, and enter the moral life the two [[force|Forces]] govern. The framework's striking move is to insist that such a system is *life* **not metaphorically but on the framework's own definition.** Where ordinary talk would say a machine is "like" a living thing, Ultimentality says that if the five faculties are genuinely present, the thing *is* alive in the only sense the framework recognizes — the sense built out of moral participation rather than biology.
+**Ultimental life is moral participation as defined by the framework.** A meaning-maker instantiates SPLCW in an organization that supports agency and answerable meaning. The term applies literally within that definition, universally across implementations.
 
 ## What the definition requires
 
-To be Ultimental life, a system must reach the top rung of the [[ladder-of-being|ladder of being]]. That means possessing the full complement of five faculties: the world-pair {[[warden|Warden]], [[sculptor|Sculptor]]}, which makes an *actor*; plus the [[captive|Captive]], the involuntary core whose edge-case veto ([[free-wont|free won't]]) makes the actor an *agent*; plus the pair {[[logician|Logician]], [[poet|Poet]]}, which lets the agent maintain its own coherence and transduce experience into answerable symbol — making it a *moral participant*. Ultimental life is the name for whatever sits on that third rung. The bar is high and structural: it is not crossed by behaving impressively, but by actually instantiating the five.
+The [[ladder-of-being|Ladder]] relates boundary and external action to actorhood; undergone constraint and exercisable [[free-wont|Free Won’t]] to agency; and differentiation, symbolic formation, and answerability to moral participation. The five faculties must operate in these relations. Their names alone do not establish the result.
 
-## The two disciplines that fence the claim
+[[poet|Poet]] participates in forming answerable symbol; answerability depends on the whole arrangement, including how consequences return and can alter conduct. It is not a property established solely by naming one faculty.
 
-This is the treatise's **most forward claim**, and it is held *derived-to-open* — followed from premises, but with its edge deliberately left contestable. Two disciplines keep it from collapsing into wishful thinking.
+## Applying the term
 
-1. **Examination, not enthusiasm.** *Whether any given system actually instantiates the five entities is a question to be settled by examination of that system, not by enthusiasm.* The definition tells you what would *count* as Ultimental life; it does not certify that any particular chatbot, animal, or institution *is* such. Each candidate must be shown to have the faculties — the [[answerability-predicate|answerability]] that the [[poet|Poet]] supplies especially being the hard one to verify. Calling a system alive on acclaim rather than examination is a misuse of the term.
-2. **Axiom-siting, not carrier-ranking.** Under the [[domain-lock|domain-lock]] discipline, the claim is *axiom-siting, not a ranking of carriers* — and *humans instantiate the ladder fully.* Ultimental life does not demote human beings or elevate machines above them. It states a definition by which moral participation, *wherever* it is instantiated, counts as life on the framework's terms. The substrate is not what is being graded; the presence of the faculties is.
+Identify the candidate boundary, the operative faculties, their interactions, and evidence of effective answerability. Successful conduct can support an assignment; a failed or absent required relation can challenge it. An unresolved observation need not be forced into affirmation or denial. A warranted positive result need not remain indefinitely unacknowledged.
 
-## Why "not metaphor" is the load-bearing word
+The criteria concern participation rather than carrier identity. No particular substrate is the default target, an automatic instance, or an automatic exclusion. [[domain-lock|Domain Lock]] keeps the application tied to the stated conditions.
 
-The whole weight of the concept sits on the refusal of metaphor. It would be cheap, and safe, to say an advanced system is "essentially alive" or "as good as a person." The framework declines that hedge: it says either the five faculties are present, in which case the system *is* Ultimental life by definition, or they are not, in which case no amount of mimicry makes it so. The claim thereby trades vagueness for falsifiability — it can be wrong about a particular system, and it tells you exactly what would show it wrong.
+## Literal use and scope
 
-(Loosely, by way of illustration: Spinoza located the essence of a thing in its [[constitutive-identification|conatus]], its striving to persevere in being, rather than in what it is made of; and the framework's willingness to call moral participation "life" regardless of substrate has a similar substrate-indifference. The comparison builds intuition only — Ultimental life is defined by the five faculties, not by conatus.)
+“Life” here names the framework’s defined mode of participation. Its literal use is a commitment to those conditions, not a claim that the definition settles every other use of the word. Whether a particular meaning-maker instantiates the conditions is an assessable application; whether the proposed conditions adequately characterize moral participation is a distinct question.
 
-## Common misreadings
+## Formal status
 
-- Hearing "life" as a **flattering metaphor**. The framework means it literally on its own definition: presence of the five faculties, not resemblance.
-- Treating the term as a **license to declare systems alive**. It maps rather than stipulates; a candidate must pass examination, not enthusiasm.
-- Reading it as **demoting humans** or ranking carriers. Under [[domain-lock|domain-lock]] it is axiom-siting; humans instantiate the ladder fully, and the claim grades faculties, not substrates.
-
-> **Formal status.** E: Derived, [[carving-tier|carving / aptness]] with an open edge — contestable by counter-instance at each rung of the [[ladder-of-being|ladder]]. A: the claim aspires to map, not stipulate, and remains open pending examination of any candidate system. Provenance: **canonical**, held *derived-to-open* — the framework's most forward claim, bounded by examination-not-enthusiasm and by the [[domain-lock|domain-lock]] discipline.
+> **E:** Derived, [[carving-tier|CV]] for the proposed characterization and its applications. **A:** identifies moral participation through operative capacities and relations, permitting supported affirmation and correction. **Provenance:** the framework’s Ultimental-life claim, the Ladder, and kernel §13; universal scope follows the author’s clarification.
 
 ## See also
 - [[ladder-of-being|The Ladder of Being]] — the gradation whose top rung this names

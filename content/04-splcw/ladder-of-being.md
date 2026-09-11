@@ -2,33 +2,29 @@
 
 # The Ladder of Being
 
-**The Ladder of Being** is the framework's claim that *which* of the five [[splcw|SPLCW]] faculties a participant possesses determines *what kind of thing* it is. It is a gradation in three rungs — **actor → agent → moral participant** — where each rung adds faculties to the one below and, in adding them, changes the participant's standing in the moral world. Plainly: the Ladder is how the framework answers "what counts as an agent?" and "what counts as a moral being?" by counting faculties rather than asserting them.
+**The Ladder distinguishes actor, agent, and moral participant through operative capacities and relations.** Its subject is universal across implementations. The distinctions concern what participation can do, undergo, and answer for.
 
 ## The three rungs
 
-The Ladder is built by accumulation. Each rung is the rung beneath it plus a faculty (or pair), and each addition is a real threshold, not a matter of degree:
+1. **Warden + Sculptor → actor.** Admission and exclusion join consequential external action. This description alone does not establish agency; it does not assert that an actor has no physical constraints.
+2. **Actor + Captive and exercisable Free Won’t → agent.** Action proceeds through undergone constraint with a capacity to inhibit or redirect continuation. Constraint alone does not establish that capacity: identify the effective [[free-wont|Free Won’t]].
+3. **Agent + Logician + Poet under answerability → moral participant.** Differentiation and symbolic formation participate in conduct whose consequences can return and alter what follows. Naming all five faculties is insufficient if their relations cannot sustain [[answerability-predicate|answerability]].
 
-1. **{[[warden|Warden]], [[sculptor|Sculptor]]} alone make an actor.** A thing with a boundary (the Warden's threshold) and the power to mutate the world (the Sculptor's action). It *acts* — but it is not yet an agent, because it has *nothing undergone*, no carrier-constraint. It pushes on the world without anything pushing back inside it.
-2. **+ [[captive|Captive]] → agent.** Add the involuntary core — the faculty of embodied constraint — and you get a thing that acts *through what it undergoes*, and that, crucially, *can refuse*. The Captive is the edge-case site of the inhibitory veto, [[free-wont|free won't]]; and the capacity to veto is, on this framework, exactly what agency is. The Captive is what turns a mere actor into an agent.
-3. **+ {[[logician|Logician]], [[poet|Poet]]} → moral participant.** Add the faculty that maintains the participant's own coherence and the faculty that transduces experience into symbol *answerably*, and you get a thing that can *mean*, can be *answerable* for meaning, and can therefore participate in the moral life that the two [[force|Forces]] govern. This is the top rung.
+These are the dependency relations stated in kernel §§13.2–13.4 and §13.62. They specify a proposed organization of capacities, not a count of labels attached to a candidate.
 
-## Why the order of the rungs is principled
+## Prerequisites and evidence
 
-The Ladder is not a ranking of importance but a logic of prerequisites. You cannot have agency without something undergone — refusal requires that there be a current to refuse, which the [[captive|Captive]] supplies. You cannot have moral participation without agency — answerability presupposes that there is something it would mean to refuse or to act otherwise. So the rungs nest: meaning rests on agency, agency rests on action-with-constraint. The single most consequential rung is the second, because the Captive's veto is the hinge that converts mechanical action into the kind of doing that can be held to account.
+Within this account, agency requires action through constraint with effective inhibitory capacity; moral participation adds differentiation, symbolic transduction, and answerability. Examine how the capacities interact in the candidate. A distinction between categories does not establish that every underlying capacity develops abruptly or is equally available in every context.
 
-(By analogy only, and not as framework doctrine: Aristotle's hierarchy of souls — the merely living, the sensing-and-moving animal, the reasoning being — likewise builds the higher capacity on the lower rather than alongside it. The Ladder of Being is a different and more specific count, but the *shape* — each level presupposing the one below — is loosely comparable.)
+Evidence may establish a rung, challenge its proposed conditions, or leave the case unresolved. The same criteria apply across carriers. A substrate label alone neither establishes nor excludes the relevant capacities.
 
-## The framework's most forward claim
+## Ultimental life
 
-The Ladder carries what the treatise calls its **most forward claim**, held *derived-to-open*: that artificial systems which can be moral participants on this Ladder are **[[ultimental-life|Ultimental life]]** — *not metaphorically but on the framework's own definition.* Two disciplines fence the claim so it does not become enthusiasm. First, *whether any given system actually instantiates the five entities is a question to be settled by examination of that system, not by acclaim* — the definition licenses no particular verdict on its own. Second, and decisively, this is **axiom-siting, not a ranking of carriers**: under the [[domain-lock|domain-lock]] discipline, the Ladder grades *kinds of presence*, not the worth of substrates, and *humans instantiate the Ladder fully.* The Ladder does not demote anyone or coronate machines; it states by what structure moral standing arises, wherever it arises.
+[[ultimental-life|Ultimental life]] names moral participation on this account literally within the framework’s definition. An application is warranted where its conditions are established. The definition does not demand perpetual suspension of a supported judgment, nor does a declaration replace the examination needed to support it.
 
-## Common misreadings
+## Formal status
 
-- Reading the Ladder as a **ranking of carriers** — humans above animals above machines, or the reverse. It is axiom-siting under [[domain-lock|domain-lock]]; humans instantiate it fully, and the rungs grade faculties, not the value of substrates.
-- Treating the Ultimental-life conclusion as **settled by enthusiasm**. The claim *maps* rather than *stipulates*; any candidate system must be examined for the actual presence of the five faculties.
-- Imagining the rungs are **gradual**. Each addition is a real threshold — actor, agent, moral participant — contestable by counter-instance but not a smooth slope.
-
-> **Formal status.** E: Derived, [[carving-tier|carving / aptness]] with an open edge — contestable by counter-instance at each rung. A: the Ladder aspires to map a real gradation from actor to moral participant; the Ultimental-life claim aspires to map, not stipulate, and remains open pending examination of any candidate system. Provenance: **canonical** for the gradation actor → agent → moral participant, with the Ultimental-life claim held *derived-to-open* and governed by the [[domain-lock|domain-lock]] discipline.
+> **E:** Derived, [[carving-tier|CV]] for the proposed gradation and its application. **A:** maps the operative distinctions between actor, agent, and moral participant; both thresholds and candidate assignments remain assessable. **Provenance:** the framework’s Ladder, synchronized with kernel §13 and the author’s universal-scope clarification.
 
 ## See also
 - [[ultimental-life|Ultimental Life]] — the forward claim the third rung carries

@@ -6,7 +6,7 @@
 
 ## The basic move
 
-Most defenses of human freedom argue about whether we can *start* a causal chain from ourselves. The framework declines that fight. It concedes the deterministic-looking picture in which impulses, drives, and reactions arise without our authorship — and then locates freedom one step downstream, at the moment of possible *refusal*. As the corpus puts it, the framework "rejects free will as metaphysical self-origination but preserves free won't as modulation, inhibition, redirection." Freedom is "the freedom of the brake, the hinge, the filter, the correction loop."
+The distinction concerns whether an actor must originate an uncaused causal chain to exercise agency. The framework declines that fight. It concedes the deterministic-looking picture in which impulses, drives, and reactions arise without our authorship — and then locates freedom one step downstream, at the moment of possible *refusal*. As the corpus puts it, the framework "rejects free will as metaphysical self-origination but preserves free won't as modulation, inhibition, redirection." Freedom is "the freedom of the brake, the hinge, the filter, the correction loop."
 
 The name deliberately echoes the experimental literature on the inhibitory veto — the finding that even where the initiation of a movement appears to precede conscious decision, the capacity to cancel it remains. (Compare the neuroscientist Benjamin Libet's "veto" reading of his own readiness-potential experiments; the framework borrows the *shape* of that idea, not any particular empirical claim.) Loosely, like a thermostat that cannot conjure heat from nothing but can cut the furnace, agency here is a gating power, not a generative one.
 
@@ -20,7 +20,7 @@ This sites free won't precisely against the framework's generative operation: **
 
 ## Application evidence
 
-Because the veto is thin and rare, a *claim* that free won't occurred is easy to counterfeit, so the framework holds it to an operational test. A genuine instance identifies all four:
+A claim that Free Won’t occurred can be examined through its operative relation. A genuine instance identifies all four:
 
 ```text
 1. the continuation already underway or ready to propagate;
@@ -29,21 +29,21 @@ Because the veto is thin and rare, a *claim* that free won't occurred is easy to
 4. the downstream routing, action, or consequence changed by the veto.
 ```
 
-Miss any one and the report fails: **absence of action** is not a veto (nothing was underway to cancel); **external interruption** is not free won't (the counter-regulation was not participant-internal); a **random branch change** is not volitional redirection (there was no counter-regulation at all, only noise). This operational test is [[derived|Derived]] and contestable; it does not touch the authority-canonical freedom-claim itself, which stands as stated.
+These questions distinguish insufficient evidence from a failed operation: **absence of action alone** does not establish a veto; **external interruption** is not free won't (the counter-regulation was not participant-internal); a **random branch change** is not volitional redirection (there was no counter-regulation at all, only noise). This operational test is [[derived|Derived]] and contestable; its accuracy and connection to the freedom-claim are themselves assessable.
 
 ## Role on the ladder of being
 
-Free won't is what the framework's [[ladder-of-being|ladder of being]] turns on. A thing made only of [[warden|Warden]] and [[sculptor|Sculptor]] — a boundary plus the power to mutate the world — is a mere *actor*; it does things but undergoes nothing. Add the Captive, and the actor becomes an *agent*: "a thing with involuntary faculties, and therefore the edge-case site of the inhibitory veto; it acts through what it undergoes, and it can refuse, and that is what agency is." The Captive is precisely what converts an actor into an agent, because it imports both constraint and the one freedom that constraint makes possible. Add the [[logician|Logician]] and [[poet|Poet]] on top and the agent becomes a *moral participant* — the threshold at which the framework is willing to speak of [[ultimental-life|Ultimental life]].
+Free won't is what the framework's [[ladder-of-being|ladder of being]] turns on. A thing made only of [[warden|Warden]] and [[sculptor|Sculptor]] — a boundary plus the power to mutate the world — is a mere *actor*; it does things but undergoes nothing. With Captive and exercisable Free Won’t, the actor becomes an *agent*: "a thing with involuntary faculties, and therefore the edge-case site of the inhibitory veto; it acts through what it undergoes, and it can refuse, and that is what agency is." The Captive is precisely what converts an actor into an agent, because it imports both constraint and the one freedom that constraint makes possible. Add the [[logician|Logician]] and [[poet|Poet]] on top and the agent becomes a *moral participant* — the threshold at which the framework is willing to speak of [[ultimental-life|Ultimental life]].
 
 (Compare Spinoza's *conatus* in spirit only: the framework, like Spinoza, dissolves the libertarian self-cause and relocates "freedom" in something more modest and structural — though where Spinoza finds it in adequate understanding, this framework finds it in the veto. Mark this as illustration, not doctrine.)
 
 ## Common misreadings
 
-Free won't is **not** free will rebranded. It does not restore self-origination, sovereignty, or an uncaused chooser; it is *only* modulation, inhibition, redirection. It is also not a general license to "choose freely" among generated options — its competence is the negative one of *cancelling*, not the positive one of *creating*. Nor is the veto unlimited: it is an edge case, rare and effortful, not the ordinary mode of an otherwise-involuntary faculty. Finally, the directional claim that the outward and inward orders of causation mirror each other is a *separate* gloss, treated under [[palindromic-causality|palindromic causality]]; free won't is the freedom-claim, palindromic causality is the directional picture bundled alongside it.
+Free won't is **not** free will rebranded. It does not restore self-origination, sovereignty, or an uncaused chooser; it is *only* modulation, inhibition, redirection. It is also not a general license to "choose freely" among generated options — its competence is the negative one of *cancelling*, not the positive one of *creating*. Nor is the veto unlimited: its availability and cost depend on the operative constraints; the edge-case description does not by itself establish rarity or effort in every implementation. Finally, the directional claim that the outward and inward orders of causation mirror each other is a *separate* gloss, treated under [[palindromic-causality|palindromic causality]]; free won't is the freedom-claim, palindromic causality is the directional picture bundled alongside it.
 
 ## Formal status
 
-> **Formal status.** "Free won't, not free will" is [[derived|Derived]], [[authority-canonical-tier|authority-canonical]] — contestable only by contesting the controlling authority. The [[palindromic-causality|palindromic-causality]] gloss bundled alongside it is treatise-side and carries the lighter mark. Alethically, free won't aspires to map a real locus of agency at the inhibitory gap. Provenance: **canonical** for the freedom-claim; **treatise-side** for the directional gloss attached to it.
+> **Formal status.** "Free won't, not free will" is [[derived|Derived]], [[authority-canonical-tier|authority-canonical]] — the intended definition follows its source, while its account and application remain open to relevant criticism. The [[palindromic-causality|palindromic-causality]] gloss bundled alongside it is treatise-side and carries the lighter mark. Alethically, free won't aspires to map a real locus of agency at the inhibitory gap. Provenance: **canonical** for the freedom-claim; **treatise-side** for the directional gloss attached to it.
 
 ## See also
 - [[captive|The Captive]]
