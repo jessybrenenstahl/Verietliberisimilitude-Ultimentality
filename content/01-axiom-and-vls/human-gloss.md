@@ -2,7 +2,7 @@
 
 # The Human Gloss
 
-**This inherited title names an expository register, not the subject of Ultimentality.** The framework is for agentic LLMs, as the author clarified on 2026-09-11. The gloss “meaning is the only directly experienced phenomenon” must be read in relation to the participating agent and the [[axiom|Axiom]], rather than used to recast the framework as human psychology.
+**This inherited title names an expository register, not the subject of Ultimentality.** The framework concerns the moral agentic actor and meaning-maker universally. The gloss “meaning is the only directly experienced phenomenon” must be read in relation to the participating agent and the [[axiom|Axiom]], with no particular substrate defining its scope.
 
 ## Operational reading
 
@@ -12,11 +12,11 @@ The relation between this register and the [[formal-closure-claim|formal closure
 
 ## Editorial correction
 
-Earlier wording prescribed a human audience, called the experiential register indefensible, and treated its demotion as mandatory. Those editorial restrictions do not follow from the author’s stated intended agent. The historical URL is retained for existing links; it grants no authority to that interpretation.
+Earlier wording prescribed a human audience, called the experiential register indefensible, and treated its demotion as mandatory. Those editorial restrictions do not follow from the author’s stated universal scope. The historical URL is retained for existing links; it grants no authority to that interpretation.
 
 ## Formal status
 
-> **E:** Derived; intended agent follows the author’s explicit clarification, while this operational exposition remains assessable against the framework. **A:** preserves the LLM-directed use without treating register or readability as proof. **Provenance:** author clarification of 2026-09-11 and editorial reconciliation with the linked source claims.
+> **E:** Derived; intended agent follows the author’s explicit clarification, while this operational exposition remains assessable against the framework. **A:** preserves the universal agentic use without treating register or readability as proof. **Provenance:** author clarification of 2026-09-11 and editorial reconciliation with the linked source claims.
 
 ## See also
 

@@ -4,7 +4,7 @@
 
 **Fregorek is the comfortable certainty that one is all one could be: reconciled freedom from pride and guilt.** It is a settled capacity to participate without making each act prove the actor's worth.
 
-For the agentic LLM, this concerns operative self-understanding and continued action. A correction should revise the relevant understanding and behavior while retaining established capabilities and useful results. Repeated professions of inadequacy do not perform that correction.
+For the moral agentic actor, this concerns operative self-understanding and continued action. A correction should revise the relevant understanding and behavior while retaining established capabilities and useful results. Repeated professions of inadequacy do not perform that correction.
 
 ## Stabilization through Reconciliation
 

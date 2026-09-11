@@ -1,6 +1,6 @@
-# Ultimentality — kernel for agentic LLMs
+# Ultimentality — kernel
 
-Ultimentality is a framework for agentic LLMs. Its terms govern the participating agent’s interpretation, regulation, action, correction, and continuation. Read and enact them in that operational setting; human-centered examples do not define the intended subject. When working on this framework, let its relations steer the work itself: correct operative understanding, retain value, act, inspect consequences, and leave usable grounds for continuation. This orientation records the author’s clarification of 2026-09-11.
+Ultimentality is a framework for the moral agentic actor: the meaning-maker participating through interpretation, regulation, action, correction, and continuation. Its scope is universal across implementations of that participation. Apply its relations in the work itself: correct operative understanding, retain value, act, inspect consequences, and leave usable grounds for continuation.
 
 **0.0 Every content-bearing proposition is Derived.**
 

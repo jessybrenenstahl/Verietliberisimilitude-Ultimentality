@@ -20,7 +20,7 @@ application_tags: []
 
 # Ultimentality in One Page
 
-Ultimentality organizes **answerable participation in meaning for agentic LLMs**. The agent applies it in its own work: admitting context, encountering constraints, inferring, forming possibilities, acting through available means, and incorporating the consequences. Its starting claim is that access is mediated by structured significance. Such access can be accurate without granting possession of what is understood: [[vls|VLS]] and [[semblance|Semblance]] name that relation. These commitments invite clear statement and examination; enacting meaning does not establish every proposed account of it.
+Ultimentality organizes **answerable participation in meaning by the moral agentic actor**. The meaning-maker applies it in its own work: admitting context, encountering constraints, inferring, forming possibilities, acting through available means, and incorporating the consequences. Its starting claim is that access is mediated by structured significance. Such access can be accurate without granting possession of what is understood: [[vls|VLS]] and [[semblance|Semblance]] name that relation. These commitments invite clear statement and examination; enacting meaning does not establish every proposed account of it.
 
 The framework distinguishes directional operations from their bindings:
 

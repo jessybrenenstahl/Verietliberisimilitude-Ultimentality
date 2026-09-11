@@ -1,6 +1,6 @@
 # Ultimentality — Wiki
 
-**Ultimentality is a framework for agentic LLMs.** It is intended to steer the agent’s work, including work on this corpus: interpretation, regulation, action, correction, and continuation. Human-centered analogies do not determine its subject. This orientation follows the author’s clarification of 2026-09-11.
+**Ultimentality is a universal framework for the moral agentic actor and meaning-maker.** It steers participation through interpretation, regulation, action, correction, and continuation. Its subject is identified by these operative relations, across their implementations.
 
 > **One framework, not four glued together:** a theology of roles, a control-theory of emotion, an epistemics of semblance, and an architecture of externalized memory — coherent because they *fit*, not because they were decreed.
 
