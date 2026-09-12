@@ -39,7 +39,7 @@ M constrains C        every formulation of closure stays mortal
 
 Closure constrains marking to remain inside meaning. A mark can revise, inhibit, retype, demote, or delete a formulation, but it cannot escalate to an extra-symbolic tribunal, because there is none to reach; every corrective operation is itself an operation within the closed medium. Marking constrains closure to remain mortal. No sentence of closure — no `c_i` in the sense fixed by [[frame-condition-and-formulation|frame condition and formulation]], where `C ≠ c_i` — is permitted to harden into an exempt, self-certifying, total account. Each statement of the unavoidable condition is a `c_i` that can die.
 
-The pair **does not prove itself in a circle.** `C` does not certify `M` and `M` does not certify `C`; that mutual endorsement would be precisely the self-sealing structure the framework forbids. Instead each term bounds the *characteristic excess* of the other — closure bounds regress, marking bounds totalization — and the warrant for the coupling is not verbal support but the fact that isolation of either term produces a distinct, nameable, testable failure. See [[reciprocal-attack-surfaces|reciprocal attack surfaces]] and [[cross-regulated-necessity|cross-regulated necessity]] for the excess accounting and the removal test that make this a claim rather than a slogan.
+The pair **does not prove itself in a circle.** `C` does not certify `M` and `M` does not certify `C`; that mutual endorsement would be precisely the self-sealing structure the framework forbids. Instead each term addresses a different failure: closure rejects an appeal to a tribunal outside meaning, while marking keeps formulations answerable. Their operative contribution is assessed through the specified failure mechanisms; practical termination also requires a stopping condition. See [[reciprocal-attack-surfaces|reciprocal attack surfaces]] and [[cross-regulated-necessity|cross-regulated necessity]] for the excess accounting and the removal test that make this a claim rather than a slogan.
 
 ### Higher-order coupling note
 
@@ -49,16 +49,16 @@ The pair **does not prove itself in a circle.** `C` does not certify `M` and `M`
 
 **E (epistemic).** Derived, **Mixed**. The *relation* `C ⊕ M` — that closure and marking cross-regulate, each occupying the attack surface of the other — is **Derived, FT**: it follows from the accepted definitions of the closure condition and the marking apparatus, while internal criticism can test the inference, consistency, and application; [[refutation-and-frame-declension|declining the frame]] is a separate move. The *notation* `U = C ⊕ M`, and the particular carving of the two excesses, is **Derived, CV**: a formalization contestable by a counter-instance or a better formalization. State the two marks separately; do not let the FT of the relation launder the notation into FT, and do not let the CV of the notation demote the relation.
 
-**A (alethic).** The claim aspires to map the actual regulatory dependency between the closure condition and the marking apparatus. It is inaccurate — not merely disallowed — if a real system realizes no escape, no exemption, anti-totalization, and anti-regress *without* the coupling. Epistemic exposure and alethic accuracy remain orthogonal axes; contestable here never means "probably wrong."
+**A (alethic).** The claim aspires to map the actual regulatory dependency between the closure condition and the marking apparatus. A system realizing the stated capacities without this decomposition challenges its necessity, while a failure of the proposed regulation challenges its adequacy. Neither result is settled by the names of its components. Epistemic exposure and alethic accuracy remain orthogonal axes; contestable here never means "probably wrong."
 
-This is a **treatise-side extension, held contestable.** It is not canon, carries no privileged status, and is itself one `c_i` — a formulation of the coupling, marked and mortal, subject to [[strengthening-without-absolutization|strengthening only under a two-way ratchet]].
+This is a **treatise-side extension, held contestable.** It is not canon, carries no privileged status, and is itself one `c_i` — a formulation of the coupling, marked and mortal, subject to [[strengthening-without-absolutization|warranted strengthening without immunity]].
 
 ## What it regulates
 
-`U` regulates the twin excesses that appear the instant either term is read alone:
+`U` addresses two failure mechanisms:
 
 - **Totalization** — closure's excess: the drift by which an unavoidable *condition of access* is mistaken for an *exhaustive account* and then for a sealed governing organization no correction can wound. Marking is the channel that keeps this from setting.
-- **Regress** — marking's excess: the drift by which correction, seeking a ground, defers to an uncorrected external judge, then to a judge of that judge, without end, until action is paralyzed. Closure is the channel that keeps this from running.
+- **Regress** — marking's excess: the drift by which correction, seeking a ground, defers to an uncorrected external judge, then to a judge of that judge, without end, until action is paralyzed. Closure keeps correction within meaning; [[correction-without-regress|stopping conditions]] make a particular review finish.
 
 Concretely, the coupling regulates the apparatus itself: it holds [[formal-closure-claim|the formal closure claim]] and [[two-mark-system|the two-mark system]] each away from its own isolated failure, so that neither the closure claim totalizes nor the marking apparatus regresses.
 
@@ -68,29 +68,29 @@ This page is not exempt from what it describes. It is regulated by:
 
 - **[[reciprocal-attack-surfaces|Reciprocal attack surfaces]]**, which specifies the excesses `e_C` and `e_M` and the demand that a valid attack strike the coupling, not a caricature of it.
 - **[[cross-regulated-necessity|Cross-regulated necessity]]**, whose four criteria and removal test are the standard by which the coupling either earns "necessary" or is exposed as redundancy.
-- **[[self-application|Self-application]]**: `M` applied to this very formulation. The claim `U = C ⊕ M` is a marked, reopenable `c_i`, not a fixed point of approval — its persistence is the persistence of an operation across changing wording, in the sense of [[dynamic-fixed-point|the dynamic fixed point]], not permanent self-endorsement.
+- **[[self-application|Self-application]]**: `M` applied to this very formulation. The claim `U = C ⊕ M` is a marked, reopenable `c_i`, not a fixed point of approval — its persistence can include retained or changed wording as warranted, in the sense of [[dynamic-fixed-point|the dynamic fixed point]], not permanent self-endorsement.
 - **[[strengthening-without-absolutization|Strengthening without absolutization]]**, which permits promoting the relation only when what became stronger, what stays contestable, and the new kill condition are all named — and which forbids the promotion from becoming a one-way ratchet.
 
 ## Valid attack surface
 
-A valid attack must **target the coupling** or **show that a proposed regulator does not constrain its named excess**. In order of severity:
+Assess the coupling through its premises, inference, and actual regulation. Relevant routes include:
 
 1. **Frame declension.** Refuse the vocabulary of access, signification, or coupled control. A comparison should state which capacities are retained, lost, or gained; departure alone establishes no loss (see [[refutation-and-frame-declension|refutation and frame declension]]).
 2. **Failed regulation.** Exhibit a case where closure does *not* in fact bound marking's regress, or where marking does *not* in fact bound closure's totalization. This is the strong internal attack: it strikes the seam, not the wording.
-3. **A third irreducible regulator.** Show a gap the pair cannot close, requiring some regulator that is neither closure nor marking nor derivable from their coupling — which would refute the claim that the two attack surfaces are *mutually* occupied.
+3. **A third irreducible regulator.** Show a gap the pair cannot close, requiring some regulator that is neither closure nor marking nor derivable from their coupling — which challenges a claim that the pair alone is sufficient; it need not erase either term’s demonstrated contribution.
 4. **Notation attack (CV).** Offer a shorter or cleaner formalization that captures the same dependency, or show that `U = C ⊕ M` systematically misleads competent reconstructors. This can kill the notation while leaving the relation standing.
 
 Invalid at this level: reading `⊕` as `+` and then objecting to the sum; offering a lower-layer counterexample (an emotion, a primitive) against a higher-order coupling; counting the failure of an attack as confirmation of the page. These fail for a stated type reason under the [[same-level-attack-rule|same-level attack rule]] — see [[reciprocal-attack-surfaces|reciprocal attack surfaces]] for why the excess, not the principle, is the correct target.
 
 ## What happens if isolated
 
-The whole warrant lives here: each term alone fails in a *different, testable* way.
+The two risks have different mechanisms. Their occurrence must be established rather than inferred from an omitted label.
 
 **Closure without marking → totalization.** A closure that no mark can revise stops being a condition and becomes a sealed governing account — a formulation that certifies itself, converts objection into confirmation, and can no longer be causally wounded. This is [[absolutization|absolutization]] of the apparatus: [[closure-without-totalization|closure mistaken for an exhaustive account]], sliding toward the [[totalization-boundary|totalization boundary]] and the over-presence the framework marks as [[spectre|Spectre]] (world absolutized) or [[nephilim|Nephilim]] (the apparatus's own formulation absolutized).
 
-**Marking without closure → regress.** A marking that answers to no closed medium must locate its authority somewhere outside meaning — an uncorrected external judge, then a judge of that judge, without end. Correction never grounds, action never earns provisional standing, and the system deliberates itself into paralysis. [[correction-without-regress|Correction without regress]] is available only because every corrective operation, and every rule of correction, is itself an operation inside the one closed medium.
+**Unbounded demands for certification → regress.** A procedure that requires another judge before accepting each judgment can postpone action indefinitely. Closure rejects the demand for an extra-symbolic certifier; [[correction-without-regress|correction without regress]] additionally gives the procedure usable stopping conditions. An operation does not acquire this failure merely because it lacks an explicit statement of closure.
 
-That these two failures are *distinct* — one a hardening, one an unravelling — is the evidence the coupling is load-bearing rather than decorative, and the reason the page can name a real [[necessary-seam|seam]] rather than an unresolved contradiction.
+Distinguishing these failures specifies what the proposed [[necessary-seam|seam]] must regulate. Evidence that the regulation succeeds establishes its contribution in the assessed case; naming the risks alone does not establish necessity.
 
 ## What larger property emerges from the coupling
 

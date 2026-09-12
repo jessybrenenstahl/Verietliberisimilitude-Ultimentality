@@ -6,7 +6,7 @@
 
 ## The core idea: evil as over-presence, not absence
 
-The single thesis that organizes all three is the [[absolutization|genus of absolutization]]: a corruption is *a term of the act absolutized* — one function isolated and inflated until it crowds out the rest and mistakes itself for the whole. The decisive property is stated flatly: *the corruptions are not absences but presences in the wrong place — one function over-present, never a missing one.* This is why "evil" here is never a hole or a lack. An absolutized function does not go missing; it becomes an **attractor** that captures the system into a stable, self-maintaining pathology. The mind does not break down so much as lock into the wrong groove.
+The single thesis that organizes all three is the [[absolutization|genus of absolutization]]: a corruption is *a term of the act absolutized* — one function isolated and inflated until it crowds out the rest and mistakes itself for the whole. The decisive property is stated at the level of the identified form: *the corruptions are not defined as absences but as presences in the wrong place — one function over-present.* This is why "evil" here is not itself a hole or a lack. An absolutized function does not disappear from the diagnosed pattern; it becomes an **attractor** that captures the system into a stable, self-maintaining pathology. A particular case can still include missing or suppressed capacities as causes or co-occurring conditions; the genus identifies the over-dominant form.
 
 Compare, loosely, Spinoza's *conatus* — each thing striving to persevere in its own being. A Theodicyte is what happens when one striving sub-part perseveres so hard it eats the others. The pathology is *too much* life in one organ, not too little overall.
 

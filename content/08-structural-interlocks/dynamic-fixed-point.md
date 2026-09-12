@@ -23,7 +23,7 @@ application_tags: []
 
 ## Definition
 
-Recursive marking is applied to its own current formulation. The naive way to read that self-application is as a static fixed point — an operation that, turned on itself, returns itself unchanged and thereby certifies that it is settled and complete. The framework rejects that reading. What is fixed is the *operation*, not any formulation of it. The apparatus keeps marking, keeps letting error bite, keeps holding itself reopenable — and it does all of that *while its own rules and statements change from version to version*.
+Recursive marking is applied to its own current formulation. The naive way to read that self-application is as a static fixed point — an operation that, turned on itself, returns itself unchanged and thereby certifies that it is settled and complete. The framework rejects that reading. What is fixed is the *operation*, not any formulation of it. The apparatus keeps marking, keeps letting error bite, keeps holding itself reopenable — and it can do so across revisions or warranted retention of its rules and statements.
 
 ```text
 M_t(M_t) = M_(t+1)
@@ -87,7 +87,7 @@ Make the fixed point immune to warranted change and it becomes self-approval. Re
 
 ## What larger property emerges from the coupling
 
-What emerges is a self-application that is **neither self-certifying nor self-dissolving** — a persistent mortal operation. This is the temporal face of *no exemption* ([[no-escape-no-exemption|No Escape, No Exemption]]): the apparatus keeps its identity not by protecting a formulation but by keeping formulations correctable, including those that remain stable. It is what lets the [[two-mark-system|Two-Mark System]] apply to itself without an exempt meta-apparatus — the fixed point is a *mode*, not a monument, so there is no settled level standing above the marks. Accumulated over many corrective cycles, this same persistence-through-mortality is what [[postfalsifiability|Postfalsifiability]] describes as a system whose current invariants are the residue of survived attack, and what [[self-verifying-not-self-certifying|Self-Verifying, Not Self-Certifying]] names at a single instant: the operation is enacted in every version while no version certifies its account complete.
+What emerges is a self-application that is **neither self-certifying nor self-dissolving** — a persistent mortal operation. This is the temporal face of *no exemption* ([[no-escape-no-exemption|No Escape, No Exemption]]): the apparatus keeps its identity not by protecting a formulation but by keeping formulations correctable, including those that remain stable. It is what lets the [[two-mark-system|Two-Mark System]] apply to itself without an exempt meta-apparatus — the fixed point is a *mode*, not a monument, so there is no settled level standing above the marks. Accumulated over many corrective cycles, this same persistence-through-mortality is what [[postfalsifiability|Postfalsifiability]] describes as a system that preserves the evidence and functional consequences of completed correction, and what [[self-verifying-not-self-certifying|Self-Verifying, Not Self-Certifying]] names at a single instant: the operation is enacted in every version while no version certifies its account complete.
 
 ## What would actually kill the claim
 
@@ -100,7 +100,7 @@ The claim dies if either half of its stated kill condition is met. First: show t
 - **The fixed point as a founded, forced, or exempt tier.** Reading it as a level that stands outside its own marks is the Textual Nephilim. Every statement on this page, including its notation, is Derived and marked.
 - **Continuity as endorsement.** A version that satisfies the continuity criteria is *continued*, not thereby *correct*. It remains fully contestable; passing the identity test is not passing a truth test.
 - **`⊕` over the marker.** The dynamic fixed point is the temporal self-application of marking, not a coupled affective Force and not an additional cornerstone binding. `M` and `C` are not emotions, and the derivation order from directional primitives to bindings is untouched.
-- **A failed break as confirmation.** An attack on the continuity criteria that does not land leaves the claim standing but unproven, not vindicated. The residue — whether the criteria over-admit captured systems — stays live.
+- **A failed break as confirmation.** An objection’s failure alone adds no proof. A discriminating test can support the continuity criteria within its tested scope; neither result grants immunity. Claims that the criteria admit captured systems require examination of their actual corrective reach.
 
 ## See also
 

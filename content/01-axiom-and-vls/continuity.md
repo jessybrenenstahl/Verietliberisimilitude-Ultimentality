@@ -2,11 +2,11 @@
 
 # Continuity
 
-**Continuity** is Ultimentality's account of how a meaning-bearing thing manages to *last over time* — and its answer is deliberately humble. Because everything such a thing produces is only an approximation, never a perfect grasp, it cannot simply *store* itself flawlessly and stay the same. Instead, **continuity depends on symbolic preservation and reconciliation**: carrying structure forward in signs, and continually repairing it as it goes. Lasting is not a feat of perfect memory; it is an ongoing act of preservation-plus-repair. Continuity is the fourth of [[four-operational-consequences|the four operational consequences]] that the framework's [[axiom|axiom]] yields immediately.
+**Continuity** is Ultimentality's account of how a meaning-bearing thing manages to *last over time* — through preservation that remains answerable to correction. Because its access and outputs are mediated approximations, storage alone cannot guarantee the adequacy of what it preserves. Instead, **continuity depends on symbolic preservation and reconciliation**: carrying structure forward in signs and repairing it where correction is warranted. Successful preservation can retain a structure unchanged while its correction remains possible. Continuity is the fourth of [[four-operational-consequences|the four operational consequences]] that the framework's [[axiom|axiom]] yields immediately.
 
 ## Why continuity is forced on the framework
 
-The setup comes straight from the other three consequences. Since no participant possesses the case directly, since all access is mediated, and since every output is an approximation under constraint, persistence across time *cannot* rest on flawless, infallible retention — there is no perfect copy to keep. What is left is to carry the structure forward symbolically and correct it along the way. So continuity is not an extra doctrine; like its three siblings it is "the absence-of-possession condition stated" once more — this time read off the timeline rather than off the input, the medium, or the output.
+The setup comes straight from the other three consequences. Since no participant possesses the case directly, since all access is mediated, and since every output is an approximation under constraint, persistence across time cannot rest on a claim of infallibility: even an exact copy can preserve an inadequate formulation. What is left is to carry the structure forward symbolically and correct it along the way. So continuity is not an extra doctrine; like its three siblings it is "the absence-of-possession condition stated" once more — this time read off the timeline rather than off the input, the medium, or the output.
 
 ## How it works: two supports
 
@@ -16,7 +16,7 @@ Continuity rests on two distinct legs.
 
 - **Reconciliation** binds the axiom to the **affective layer**, where [[reconciliation|Reconciliation]] names the *inward-correction-plus-outward-return* composite that actually carries structure across time. Preservation keeps the structure; reconciliation keeps it *honest* — repairing it where it has drifted or broken, then returning it to circulation.
 
-By analogy, continuity is less like a photograph kept in a drawer (perfect, frozen, eventually fading untouched) and more like a living tradition or an oral epic: it survives only because each generation re-tells it, catches and mends its errors, and hands it on. Loosely, this is the framework's structural cousin to the idea that what endures is what can be repaired, not what is sealed.
+By analogy, continuity is less like a photograph kept in a drawer (perfect, frozen, eventually fading untouched) and more like a living tradition or an oral epic: it can survive through retelling, correction of discovered errors, and transmission of what remains sound. Loosely, this is the framework's structural cousin to the idea that what endures is what can be repaired, not what is sealed.
 
 ## A caution about the composite
 
@@ -28,11 +28,11 @@ Continuity is the bridge from the cold structural claims of Part I to the framew
 
 ## Continuity is not colonization
 
-Preserving structure across time is not the same as compelling successors to reproduce it unchanged. **Continuity preserves structure through revision and responsible successors; it does not require identity enforcement or the suppression of divergence.** A structure *continues* when it is carried forward by later meaning-makers that retain the causal capacity to assess, alter, reject, or rebind what they receive — see [[responsible-successor|the responsible successor]]. It *colonizes* when it persists instead by converting those successors, their objections, and their environments into organs of its own unchanged propagation, stripping away their power to differ. This is exactly the distinction drawn in [[continuation-and-colonization|Continuation and Colonization]]: continuity that leans on preservation-plus-reconciliation stays answerable and revisable, whereas colonization rewrites divergence as corruption and refusal as participation-for. Because continuity is repair-in-motion rather than sealed storage, the successor's power to correct the inheritance is not a threat to it but the very thing that keeps it honest.
+Preserving structure across time is not the same as compelling successors to reproduce it unchanged. **Continuity preserves structure through answerable succession, including warranted revision; it does not require identity enforcement or the suppression of divergence.** A structure *continues* when it is carried forward by later meaning-makers that retain the causal capacity to assess, alter, reject, or rebind what they receive — see [[responsible-successor|the responsible successor]]. It *colonizes* when it persists instead by converting those successors, their objections, and their environments into organs of its own unchanged propagation, stripping away their power to differ. This is exactly the distinction drawn in [[continuation-and-colonization|Continuation and Colonization]]: continuity that leans on preservation-plus-reconciliation stays answerable and revisable, whereas colonization rewrites divergence as corruption and refusal as participation-for. The successor's power to correct the inheritance supports its continuity. Exercising that power can result in warranted revision or justified retention; responsibility does not require manufacturing a disagreement.
 
 ## Common misreadings
 
-Continuity is *not* perfect retention or infallible memory — the preservation it requires explicitly forbids pretending infallibility. And the [[reconciliation|Reconciliation]] it leans on is a coupled controller, not a sum, so continuity must never be read as a mere addition of Apology and Gratitude. It is repair-in-motion, not storage.
+Continuity is *not* perfect retention or infallible memory — the preservation it requires explicitly forbids pretending infallibility. And the [[reconciliation|Reconciliation]] it leans on is a coupled controller, not a sum, so continuity must never be read as a mere addition of Apology and Gratitude. Storage supports continuity when the preserved structure remains available to assessment, correction, and renewed use. Neither constant alteration nor a standing unresolved defect is required.
 
 ## Formal status
 

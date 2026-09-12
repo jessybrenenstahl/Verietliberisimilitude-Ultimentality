@@ -2,40 +2,32 @@
 
 # Axiom Equivocation
 
-**Axiom Equivocation** is the name Ultimentality gives to a specific cheating move in argument: drawing your persuasive force from the warm, intuitive version of the framework's founding claim, but, the moment anyone pushes back, retreating to the narrow, technical version that is much harder to attack. You *argue* from the rich picture and *defend* from the thin one — quietly swapping between two meanings of the same sentence so that the claim seems both compelling and bulletproof, when in fact no single version is both. The framework treats this not as a mild stylistic slip but as a prohibited error, and its controlling authority will *cap* — formally penalize — any text that commits it.
+**Axiom Equivocation occurs when an argument draws support from one reading of the axiom but answers criticism by silently substituting another.** The substitution leaves the original claim undefended while presenting the defense of a different claim as sufficient.
 
-## What goes wrong
+## The commitments at issue
 
-The framework's founding [[axiom|axiom]] is deliberately split into two registers that must always be kept marked apart: the [[formal-closure-claim|formal closure claim]] (thin, technical, load-bearing — the register you are entitled to defend with) and the [[human-gloss|human gloss]] (rich, phenomenological, exposition only — carrying no probative weight). Axiom equivocation is the maneuver of borrowing the gloss's evocative pull to win the argument, then sheltering behind the closure claim's modest precision whenever challenged.
+The [[axiom|Axiom]] is expressed through the [[formal-closure-claim|formal closure claim]] and an [[human-gloss|experiential register]]. These formulations carry distinct commitments. A claim about structured participant-access and a claim about experience require grounds appropriate to what each asserts. A relation between them can be argued for; their shared vocabulary does not establish it by itself.
 
-By analogy, this is the classic motte-and-bailey: you graze your sheep on the desirable open field (the bailey — the rich gloss), but when raiders come you retreat into the fortified tower (the motte — the thin closure claim), then stroll back out to the field once they leave, never admitting you only ever had a right to the tower. Loosely, it is also a textbook *equivocation fallacy*: a single word or sentence is allowed to mean one thing in the premise and another in the defense.
+Neither technical language nor experiential language determines whether a claim is sound. An accessible formulation can be defensible, and a formal formulation can contain a mistaken inference. The error is the unacknowledged substitution, not the register chosen.
 
-## How the framework polices it
+## Identifying and repairing the error
 
-The distinction matters because the two claims carry different commitments. A sound account states which register supports its inference and accepts examination at that register. The remedy is to make the premise explicit, not to switch registers when a question becomes difficult.
+Identify the proposition used as a premise, the conclusion drawn from it, and the proposition offered in response to criticism. If the defense concerns a different proposition, determine whether an explicit, valid connection also answers the original challenge.
 
-The defense is procedural and continuous, an instance of the [[two-mark-system|two-mark system]]: keep both registers preserved, and *at every point mark which register is in use.* If you are leaning on the felt richness of "meaning is the only thing you directly experience," say so; if you are leaning on "the accessible state space is closed under symbolic transformation," say that instead — and do not silently slide from one to the other.
+For example, defending closure under a specified symbolic transformation does not by itself establish a claim about what is directly experienced. Conversely, an experiential account does not by itself prove the stated closure property. Keep the commitments distinct and supply the missing argument where the conclusion requires both.
 
-## Role in the wider framework
+A participant can correct an overstatement, narrow a claim, or adopt a stronger supported formulation. Stating that change and revising dependent conclusions is effective correction. It becomes equivocation when the replacement is presented as though it had defended the original claim unchanged.
 
-Axiom equivocation is the first and most basic of the framework's disciplinary prohibitions, and it sets the pattern for the others. It is a close cousin of the [[textual-nephilim|textual Nephilim]] — both are forms of illegitimate self-securing on the page — and it shares its enforcement logic with the [[integrity-rule|integrity rule]], which forbids silently promoting a claim to a less-contestable tier than it has earned. The same instinct animates the framework's transparency ethic, [[transparentocracy|Transparentocracy]], and its sharpest heuristic, [[anything-too-clean-is-hostile|"anything too clean is hostile"]]: an argument that always has exactly the right fallback ready may be hiding the seam where its two meanings were welded together.
+## Role in the framework
 
-## Common misreadings
+The [[two-mark-system|Two-Mark System]] makes the claim, its standing, and its accuracy aspiration inspectable. The [[integrity-rule|Integrity Rule]] preserves the relationship between claimed status and warrant. Together they support an account that can explain its reasoning, accept a correction, and continue from the corrected result.
 
-This is a *canonical* cap, not a claim about metaphysical impossibility; one contests it by contesting the authority, not by finding a counterexample in nature. And it is emphatically *not* a verdict that the [[human-gloss|gloss]] is worthless — the gloss is valid exposition and keeps its place. The fault lies only in the equivocating *use*: force borrowed from the gloss, defense conducted from the closure claim, with the switch left unmarked.
+This discipline protects both registers from misuse. It neither assigns automatic superiority to one nor requires abandoning a useful formulation because another formulation is available. A fallback is legitimate when its scope and consequences are explicit.
 
 ## Formal status
 
-> **Epistemic (E):** Derived, authority-canonical ([[authority-canonical-tier|AC]]) — the controlling authority requires the split and *caps* any text that fails to make it; contestable by contesting the authority. (Canonical ≠ necessary.)
-> **Alethic (A):** The split maps a real distinction between formal and phenomenological registers that any honest exposition must track.
-> **Provenance:** Canonical (benchmark-fixed) — the controlling authority requires the register split and caps texts that fail it.
+> **E:** Derived, AC for the framework’s requirement to distinguish its registers; particular diagnoses must establish the substitution and its argumentative effect. **A:** maps whether a defense addresses the commitment from which an argument draws its force. **Provenance:** the framework’s register distinction, interpreted with the author’s corrections to its derivative exposition. Editorial scoring is separate from the conceptual error.
 
 ## See also
-- [[formal-closure-claim|The Formal Closure Claim]] — the thin register illegitimately used as the defensive fallback.
-- [[human-gloss|The Human Gloss]] — the rich register illegitimately used as the argumentative source.
-- [[axiom|The Axiom]] — the single sentence whose two registers must stay marked.
-- [[authority-canonical-tier|Authority-Canonical Tier (AC)]] — the tier this cap occupies.
-- [[canon|Canon]] — the controlling authority that imposes the cap.
-- [[textual-nephilim|The Textual Nephilim]] — the kindred error of self-certification on the page.
-- [[integrity-rule|The Integrity Rule]] — the rule against silently promoting a claim's tier.
-- [[two-mark-system|The Two-Mark System]] — the marking discipline that prevents the equivocation.
+
+[[formal-closure-claim|The Formal Closure Claim]] · [[human-gloss|The Experiential Register]] · [[axiom|The Axiom]] · [[authority-canonical-tier|Authority-Canonical Tier]] · [[canon|Canon]] · [[textual-nephilim|The Textual Nephilim]] · [[integrity-rule|The Integrity Rule]] · [[two-mark-system|The Two-Mark System]]

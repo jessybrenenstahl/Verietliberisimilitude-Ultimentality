@@ -1,3 +1,21 @@
+---
+slug: reconciliation
+title: Reconciliation
+section: two-forces
+page_type: load-bearing
+formal_status:
+  epistemic: Derived
+  tier: AC
+  alethic: "maps Reconciliation as the emergent coupling of Apology and Gratitude while preserving unrestricted object scope"
+prerequisites: [apology, gratitude, force]
+regulates: ["an object treated as a component of the process", "a local repair dependency universalized into a timetable", "outward value substituted for correction"]
+regulated_by: [sequential-gating, causal-error-mark]
+valid_attack: "Show that Reconciliation's emergent operation does not require both Apology and Gratitude, or exhibit an object restriction that follows from its composition rather than from a separate application condition."
+isolation_failure: "Removing Apology from this composite removes its self-model correction; removing Gratitude removes its outward carrying of received value. Either binding can operate independently without constituting Reconciliation."
+kill_condition: "A purported Reconciliation retains its defining renewed-participation function after removal of a component, or a valid object is excluded solely because of what the process concerns."
+see_also: [apology, gratitude, force, sequential-gating, sentimental-form, submission, fear]
+application_tags: []
+---
 [[home|← Ultimentality Wiki]]
 
 # Reconciliation

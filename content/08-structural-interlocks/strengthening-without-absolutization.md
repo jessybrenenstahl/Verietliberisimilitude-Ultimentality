@@ -11,8 +11,8 @@ prerequisites: [contestability-gradient, two-mark-system, outcomes-of-attack]
 regulates: [absolutization, textual-nephilim, contestability-gradient]
 regulated_by: [self-application, outcomes-of-attack, kill-table]
 valid_attack: "Show a warranted improvement that these criteria exclude, or an immune claim they incorrectly accept as warranted strengthening."
-isolation_failure: "Strengthening without the demotion constraint becomes an absolutizing ratchet; the demotion constraint without a strengthening channel freezes every claim at its most timid tier."
-kill_condition: "Show that strengthening functions as a one-way ratchet in which deletion and demotion are no longer possible."
+isolation_failure: "Strengthening insulated from relevant correction can become an absolutizing ratchet; correction that cannot recognize warranted gains can freeze claims below their demonstrated strength."
+kill_condition: "Show that these criteria accept immunity to relevant correction, reject a warranted improvement, or require undoing a corrected type without counter-warrant."
 see_also: [absolutization, textual-nephilim, outcomes-of-attack, contestability-gradient, two-axis-ledger, self-application, postfalsifiability, semantic-closure-and-recursive-marking]
 application_tags: []
 ---

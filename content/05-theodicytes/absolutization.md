@@ -6,7 +6,7 @@
 
 ## The decisive property: presence in the wrong place
 
-What makes absolutization a genuine claim, and not just a label, is the property it insists on: corruption is **over-presence, never absence.** In the corpus's own words, *the corruptions are not absences but presences in the wrong place — one function over-present, never a missing one.* A Theodicyte is identified by the domination of a term; a particular case may also involve missing or suppressed capacities. The over-present function does not vanish — it becomes an **attractor** that captures the system into a stable, self-maintaining pathology, a groove the act keeps falling back into.
+What makes absolutization a genuine claim, and not just a label, is the property it insists on: a Theodicyte is identified by **over-presence rather than by absence.** In the corpus's own words, the corruption is a presence in the wrong place — one function over-present. A particular case may also involve missing or suppressed capacities, which can help cause or sustain the pattern. The over-present function does not vanish from the diagnosed form; it becomes an **attractor** that captures the system into a stable, self-maintaining pathology, a groove the act keeps falling back into.
 
 By analogy, think of a thermostat whose sensor is fine but whose heating element has seized full-on: nothing is *missing*, yet the room cooks. The fault is a presence stuck in the wrong setting, not a hole. (That is an illustration, not framework doctrine — the corpus's terms are *self*, *world*, and *medium*, the three [[propagation|terms of the act]], not thermostats.)
 

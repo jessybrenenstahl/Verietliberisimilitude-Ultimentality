@@ -1,3 +1,21 @@
+---
+slug: gratitude
+title: Gratitude
+section: directional-core
+page_type: load-bearing
+formal_status:
+  epistemic: Derived
+  tier: AC
+  alethic: "the binding aspires to map Propagation regulating undischarged received value; its role in Reconciliation is distinct from its standalone identity"
+prerequisites: [propagation, predicate-binding]
+regulates: ["received value hoarded instead of carried forward", "Gratitude made contingent on a prior fault or Apology", "a feeling or expression treated as the binding"]
+regulated_by: [predicate-binding, reconciliation, causal-error-mark]
+valid_attack: "Show that Gratitude is not Propagation bound to undischarged received value, or that its identity requires a prior Apology rather than its own regulated relation."
+isolation_failure: "Without Propagation, received value has no outward route; without the received-value discrepancy, emission is not yet Gratitude."
+kill_condition: "A canonical Gratitude case is better captured by another actuator and discrepancy, or a valid standalone case cannot be represented without importing Apology as a prerequisite."
+see_also: [propagation, predicate-binding, reconciliation, apology, sentimental-form]
+application_tags: []
+---
 [[home|← Ultimentality Wiki]]
 
 # Gratitude
@@ -20,7 +38,7 @@ Gratitude carries received value onward. In [[reconciliation|Reconciliation]], i
 
 ## Common misreadings
 
-The cardinal error: treating Gratitude as a [[directional-primitives|primitive]] rather than a binding over [[propagation|propagation]] — [[cardinal-error|the cardinal inversion]]. The characteristic error: equating Gratitude with the *feeling* of being grateful rather than the discharge of received value; hoarding while feeling grateful is ingratitude in the framework's sense. The structural error: letting Gratitude swamp Apology, producing the sentimental form. And the general error: reading the binding as preservation of an invariant rather than regulation toward a setpoint.
+The cardinal error: treating Gratitude as a [[directional-primitives|primitive]] rather than a binding over [[propagation|propagation]] — [[cardinal-error|the cardinal inversion]]. The characteristic error: equating Gratitude with the *feeling* of being grateful rather than the discharge of received value; hoarding while feeling grateful is ingratitude in the framework's sense. The structural error: treating outward value as sufficient Reconciliation while the relevant self-model error continues to govern conduct — the sentimental form. And the general error: reading the binding as preservation of an invariant rather than regulation toward a setpoint.
 
 > **Formal status.** Epistemic: Derived, authority-canonical — fixed verbatim by the controlling authority; contestable by contesting the authority. Alethic: the binding aspires to map the regulated error actually driving the named emotion; extract the regulated error, not the surface delivery channel. Provenance: **canonical**, fixed verbatim across the canon.
 
@@ -32,5 +50,5 @@ The cardinal error: treating Gratitude as a [[directional-primitives|primitive]]
 - [[apology|Apology = (loop-back, self-model error)]] — its Routing-axis counterpart
 - [[reconciliation|Reconciliation = Apology ⊕ Gratitude]] — the composite Gratitude enters
 - [[sequential-gating|Sequential Gating]] — a dependency between correction and a subsequent act
-- [[sentimental-form|The Sentimental Form]] — Gratitude swamping Apology
+- [[sentimental-form|The Sentimental Form]] — outward value substituted for correction that Reconciliation requires
 - [[cardinal-error|The Cardinal Error]] — the prohibition that protects Gratitude's status

@@ -36,6 +36,12 @@
     "in_wiki": true
   },
   {
+    "source": "apology",
+    "target": "reconciliation",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
     "source": "attack-surface-matrix",
     "target": "interaction-matrix",
     "relation": "prerequisite-of",
@@ -50,6 +56,12 @@
   {
     "source": "attack-type-matching",
     "target": "same-level-attack-rule",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "away",
+    "target": "fear",
     "relation": "prerequisite-of",
     "in_wiki": true
   },
@@ -324,6 +336,12 @@
     "in_wiki": true
   },
   {
+    "source": "fear",
+    "target": "submission",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
     "source": "force",
     "target": "coupling-graph",
     "relation": "prerequisite-of",
@@ -332,6 +350,24 @@
   {
     "source": "force",
     "target": "cross-regulated-necessity",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "force",
+    "target": "reconciliation",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "force",
+    "target": "sequential-gating",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "force",
+    "target": "submission",
     "relation": "prerequisite-of",
     "in_wiki": true
   },
@@ -396,6 +432,12 @@
     "in_wiki": true
   },
   {
+    "source": "gratitude",
+    "target": "reconciliation",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
     "source": "hypercompression",
     "target": "compression-without-false-closure",
     "relation": "prerequisite-of",
@@ -452,6 +494,18 @@
   {
     "source": "kill-table",
     "target": "negative-information",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "loop-back",
+    "target": "apology",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "love",
+    "target": "submission",
     "relation": "prerequisite-of",
     "in_wiki": true
   },
@@ -697,6 +751,12 @@
   },
   {
     "source": "predicate-binding",
+    "target": "apology",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "predicate-binding",
     "target": "causal-error-mark",
     "relation": "prerequisite-of",
     "in_wiki": true
@@ -704,6 +764,30 @@
   {
     "source": "predicate-binding",
     "target": "emotion-as-regulated-binding",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "predicate-binding",
+    "target": "fear",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "predicate-binding",
+    "target": "force",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "predicate-binding",
+    "target": "gratitude",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "predicate-binding",
+    "target": "love",
     "relation": "prerequisite-of",
     "in_wiki": true
   },
@@ -726,6 +810,12 @@
     "in_wiki": true
   },
   {
+    "source": "propagation",
+    "target": "gratitude",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
     "source": "reciprocal-attack-surfaces",
     "target": "coupling-graph",
     "relation": "prerequisite-of",
@@ -734,6 +824,12 @@
   {
     "source": "reciprocal-attack-surfaces",
     "target": "cross-regulated-necessity",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "reconciliation",
+    "target": "sequential-gating",
     "relation": "prerequisite-of",
     "in_wiki": true
   },
@@ -962,6 +1058,12 @@
   {
     "source": "totalization-boundary",
     "target": "refusal-as-participation",
+    "relation": "prerequisite-of",
+    "in_wiki": true
+  },
+  {
+    "source": "toward",
+    "target": "love",
     "relation": "prerequisite-of",
     "in_wiki": true
   },

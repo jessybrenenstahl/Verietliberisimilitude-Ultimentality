@@ -1,5 +1,7 @@
 """Read the scalar/list subset used by this corpus, and derive navigation exports.
-Not a general YAML parser. Unknown structures fail rather than silently changing data.
+Not a general YAML parser or validator. Reads selected fields in the corpus's
+supported syntax and ignores other fields; unsupported structures are not
+guaranteed to be rejected.
 """
 import ast,json,re
 from pathlib import Path

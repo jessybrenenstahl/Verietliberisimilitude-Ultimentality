@@ -12,7 +12,7 @@ regulates: [closure-without-totalization, correction-without-regress, totalizati
 regulated_by: [cross-regulated-necessity, same-level-attack-rule, self-sealing-test]
 valid_attack: "Target the coupling itself, or show that the proposed regulator does not constrain the named excess."
 isolation_failure: "Read without the isolation-failure tests it degrades into a slogan about mutual support and can no longer be told apart from circular self-approval."
-kill_condition: "Exhibit a third irreducible regulator required to close a gap the pair cannot regulate, or show that one principle's attack surface is not occupied by the other in practice."
+kill_condition: "Show that the claimed reciprocal regulatory relation fails under its stated conditions; a required additional regulator defeats sufficiency only where sufficiency is claimed."
 see_also: [semantic-closure-and-recursive-marking, no-escape-no-exemption, cross-regulated-necessity, necessary-seam, dynamic-fixed-point]
 application_tags: []
 ---
@@ -33,7 +33,7 @@ e_C -> M
 e_M -> C
 ```
 
-`e_C` is the characteristic excess of constitutive closure `C` left alone: with nothing to mark its formulations mortal, closure hardens into a total account that can no longer be causally wounded. `e_M` is the characteristic excess of recursive marking `M` left alone: with no closed field to terminate the appeal, correction demands a corrector for every corrector and never reaches action. The arrows do **not** read "causes." `e_C -> M` reads *the totalization excess is the surface on which marking does its regulating*; `e_M -> C` reads *the regress excess is the surface on which closure does its regulating.* The excesses are what isolation *produces*, and they are precisely the grips the opposite controller needs.
+`e_C` is the characteristic excess of constitutive closure `C` left alone: with nothing to mark its formulations mortal, closure hardens into a total account that can no longer be causally wounded. `e_M` is the characteristic excess of recursive marking `M` left alone: with no closed field to terminate the appeal, correction demands a corrector for every corrector and never reaches action. The arrows do **not** read "causes." `e_C -> M` reads *the totalization excess is the surface on which marking does its regulating*; `e_M -> C` reads *the regress excess is the surface on which closure does its regulating.* These are risks under the described failure mechanisms. Regulation acts through the corresponding interfaces and can reduce the excess without preserving an active failure.
 
 ## Type and formal status
 
@@ -41,15 +41,17 @@ e_M -> C
 
 ## What it regulates
 
-It regulates what counts as *repair*. The reflex on meeting closure's totalization risk is to remove the risk — to certify closure complete, finished, exempt. The page prohibits that move: removing `e_C` removes the surface through which `M` regulates `C`, and closure with no marking is exactly the failure mode that [[closure-without-totalization|closure without totalization]] guards against. Symmetrically it forbids removing `e_M`: strip marking of its regress-vulnerability by installing a final, uncorrected judge, and you have severed the channel by which `C` bounds `M` into [[correction-without-regress|correction without regress]]. So the page governs three excesses at once — totalization risk, regress-or-paralysis risk, and the *false repair* that would "fix" either by deleting its coupling channel. It hands each load-bearing page the discipline of naming its seam rather than sanding it flat; see [[necessary-seam|the necessary seam]].
+It regulates what counts as *repair*. Correcting totalization can restore marking's reach into a closure formulation; correcting regress can supply usable stopping conditions for an assessment. Successful repair can end the failure while preserving the channel for relevant future correction. Completing a task or retaining a sound formulation does not remove that channel.
+
+The false repair is to insulate the affected claim from correction, or to install an uncorrectable judge as the price of acting. See [[closure-without-totalization|Closure Without Totalization]], [[correction-without-regress|Correction Without Regress]], and [[necessary-seam|Necessary Seam]]. The regulatory interface must remain operative; the excess need not remain active.
 
 ## What regulates it
 
-[[cross-regulated-necessity|Cross-regulated necessity]] supplies the removal test that keeps this page from collapsing into "the two terms support each other, therefore both hold" — the circular-proof reading. [[same-level-attack-rule|The same-level attack rule]] keeps attack and defense at the level of the coupling, so a token, a substrate, or a surface expression cannot be offered against a coupling-level claim. [[self-sealing-test|The self-sealing test]] is run against this very page: a reciprocity that can convert every objection into further evidence of its own elegance has become self-sealing and must fail its own diagnostic. And [[two-mark-system|the two-mark system]] marks the page as such — Derived, contestable, mortal, one row among rows.
+[[cross-regulated-necessity|Cross-regulated necessity]] supplies the removal test that keeps this page from collapsing into "the two terms support each other, therefore both hold" — the circular-proof reading. [[same-level-attack-rule|The same-level attack rule]] requires evidence to bear on the asserted coupling. A token, substrate, or surface expression can supply such evidence when the connection is established. [[self-sealing-test|The self-sealing test]] is run against this very page: a reciprocity that can convert every objection into further evidence of its own elegance has become self-sealing and must fail its own diagnostic. And [[two-mark-system|the two-mark system]] marks the page as such — Derived, contestable, mortal, one row among rows.
 
 ## Valid attack surface
 
-Two important attacks reach the claim. **(1) Target the coupling.** Show that the wiring drawn between `C` and `M` does not hold — that `e_C` is not in fact regulated by `M`, or `e_M` not by `C`, at the level where the coupling is asserted. **(2) Show the regulator does not constrain the named excess.** Exhibit a formulation of closure that totalizes despite live marking, or a marking regime that regresses despite a closed field. An attack that merely dislikes the notation, or that offers a lower-level counter-instance against a coupling-level relation, is turned away by [[same-level-attack-rule|the same-level attack rule]] — and turning it away is *not* logged as confirmation. It leaves the claim exactly as contestable as it was.
+Two important attacks reach the claim. **(1) Target the coupling.** Show that the wiring drawn between `C` and `M` does not hold — that `e_C` is not in fact regulated by `M`, or `e_M` not by `C`, at the level where the coupling is asserted. **(2) Show the regulator does not constrain the named excess.** Exhibit a formulation of closure that totalizes despite live marking, or a marking regime that regresses despite a closed field. Criticism of the notation can challenge its clarity or fidelity; a counter-instance challenges the coupling when it demonstrates a failure of the asserted relation. Rejecting irrelevant evidence is *not* logged as confirmation. It leaves the claim exactly as contestable as it was.
 
 ## What happens if isolated
 
@@ -57,7 +59,7 @@ Read alone, without [[cross-regulated-necessity]] and its isolation-failure test
 
 ## What larger property emerges from the coupling
 
-The emergent property is **no escape and no exemption held as one structure** — see [[no-escape-no-exemption|no escape, no exemption]]. Because each principle's vulnerability *is* the other's regulating grip, the pair needs no tribunal outside itself to stay stable: closure keeps marking from fleeing into an imagined extra-symbolic outside, marking keeps closure from freezing into a finished whole, and what persists is a [[dynamic-fixed-point|dynamic fixed point]] — an operation that continues while its formulations keep dying and being remade. This is what the framework intends by cross-regulation, and it is emphatically not self-proof: `⊕` is [[force|coupled-controller composition]], never addition and never mutual endorsement. Each term bounds the characteristic excess of the other, and that bounding — not agreement — is the coupling.
+The emergent property is **no escape and no exemption held as one structure** — see [[no-escape-no-exemption|no escape, no exemption]]. Because each principle's vulnerability *is* the other's regulating grip, the pair needs no tribunal outside itself to stay stable: closure keeps marking from fleeing into an imagined extra-symbolic outside, marking keeps closure formulations answerable, and what persists is a [[dynamic-fixed-point|dynamic fixed point]] — responsive operation that can retain successful formulations and revise them when warranted. This is what the framework intends by cross-regulation, and it is emphatically not self-proof: `⊕` is [[force|coupled-controller composition]], never addition and never mutual endorsement. Each term bounds the characteristic excess of the other, and that bounding — not agreement — is the coupling.
 
 ## Scope of the regulating claim
 
@@ -65,15 +67,17 @@ Closure locates correction within meaning; it does not by itself terminate a rec
 
 ## What would actually kill the claim
 
-Exhibit a **third irreducible regulator**: a gap the closure–marking pair cannot regulate, one that demands some independent controller neither `C` nor `M` supplies. Or show that **one principle's attack surface is not, in practice, occupied by the other** — a real totalization that marking cannot reach, or a real regress that closure cannot terminate — so that the reciprocity is decorative rather than load-bearing. Either result kills the specific claim of *reciprocal* regulation; the two might survive as independent regulators, but not as this coupling. **Residue.** The page cannot, by itself, prove that two regulators are *sufficient* — that no third controller is lurking behind an unexamined gap. It can only keep that question live and route it to [[self-sealing-test|the self-sealing test]] and [[totalization-boundary|the totalization boundary]]. A failed search for a third regulator does not establish there is none.
+The reciprocal claim fails where the specified regulatory influence is absent or ineffective under its stated conditions: marking does not reach the claimed totalization risk, or the asserted closure–marking arrangement cannot support correction without regress. Identify the relation, conditions, and failed function so that the affected claim can be revised.
+
+A required **third irreducible regulator** defeats a claim that the pair alone is sufficient for that function. It does not by itself show that the pair has no reciprocal regulatory role. Necessity, contribution, and sufficiency require distinct evidence; an unsuccessful search for a third regulator establishes none of them on its own.
 
 ## Prohibited misreadings
 
-- **Excess read as principle.** `e_C` is not `C`, and `e_M` is not `M`. The excess is what isolation produces; treating them as identical makes the page assert that closure simply *is* totalization.
+- **Excess read as principle.** `e_C` is not `C`, and `e_M` is not `M`. The excess is a risk under the specified isolation mechanism; treating them as identical makes the page assert that closure simply *is* totalization.
 - **Arrow read as production.** `e_C -> M` does not say marking *causes* or *produces* totalization. The arrow points to the regulator that occupies the surface, not to a downstream effect.
 - **Coupling read as circular proof.** Reciprocal regulation is not mutual verbal support that certifies both terms true. Each term bounds the other's *excess*; neither certifies the other's *truth*. The distinction is enforced by [[cross-regulated-necessity]].
 - **`⊕` read as `+`.** The pair is a coupled controller, not a sum, an average, or an endorsement pact.
-- **Vulnerability read as defect.** The attack surface is not a flaw awaiting a patch. Deleting the surface deletes the channel through which the paired regulator operates.
+- **Vulnerability read as defect.** The operative correction channel is distinct from the error it regulates. Repair can eliminate an error while preserving that channel; requiring the error to persist would defeat regulation.
 - **Failed attack read as confirmation.** Turning away an invalid or wrong-level attack changes nothing about the claim's standing; it does not add evidence.
 - **Reciprocity read as exemption.** That the pair regulates itself does not lift it above marking. This relation is Derived and mortal like every other, and any move to make it self-justifying is the [[textual-nephilim|Textual Nephilim]].
 

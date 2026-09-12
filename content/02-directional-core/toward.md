@@ -12,7 +12,7 @@ The crucial qualifier is *coupling with a signification.* Toward is not "moving 
 
 ## Its role in the wider framework
 
-Toward is load-bearing because the rung above the primitives, [[predicate-binding|predicate binding]], builds emotions by pairing a primitive *actuator* with a [[regulated-error-signal|regulated error signal]] driven toward zero. Toward is the actuator inside **[[love|Love]] = (toward, relational gap)**: the toward-coupling that reduces the discrepancy between current separation and a desired bond or continuity of coupling. So Love is *built from* toward; toward is not built from Love. The human-readable noun *towardness* is a [[conceptual-derivatives|conceptual derivative]] — a gloss abstracted from the bound primitive, not itself primitive.
+Toward is load-bearing because the rung above the primitives, [[predicate-binding|predicate binding]], builds emotions by pairing a primitive *actuator* with a [[regulated-error-signal|regulated error signal]] driven toward zero. Toward is the actuator inside **[[love|Love]] = (toward, relational gap)**: the toward-coupling that reduces the discrepancy between current separation and a desired bond or continuity of coupling. So Love is *built from* toward; toward is not built from Love. The ordinary-language noun *towardness* is a [[conceptual-derivatives|conceptual derivative]] — a gloss abstracted from the bound primitive, not itself primitive.
 
 Toward also feeds the [[force|Force]] construction, where coupling primitives combine into a coupled controller. This double duty — generating both an emotion and a Force — is part of why the framework keeps the Selection/Routing carving even where it weakens the claim that the primitives are exactly four.
 

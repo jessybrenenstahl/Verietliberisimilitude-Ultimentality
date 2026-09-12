@@ -1,14 +1,32 @@
+---
+slug: apology
+title: Apology
+section: directional-core
+page_type: load-bearing
+formal_status:
+  epistemic: Derived
+  tier: AC
+  alethic: "the binding aspires to map Loop-back regulating self-model error; expression and personal blame remain separate application questions"
+prerequisites: [loop-back, predicate-binding]
+regulates: ["self-model error treated as a fixed identity", "an apology expression treated as the correction itself", "correction detached from the action it is meant to change"]
+regulated_by: [predicate-binding, reconciliation, causal-error-mark]
+valid_attack: "Show that Apology is not Loop-back bound to self-model error, or that a claimed correction cannot alter the dependent operation while still counting as effective Apology."
+isolation_failure: "Without Loop-back, the process has no inward route for revising its self-model; without a regulated discrepancy, return becomes repetition without correction."
+kill_condition: "A canonical Apology case is better captured by a different actuator and discrepancy, or the self-model remains causally unchanged in every case counted as successful Apology."
+see_also: [loop-back, predicate-binding, reconciliation, gratitude, causal-error-mark]
+application_tags: []
+---
 [[home|← Ultimentality Wiki]]
 
 # Apology
 
-In this framework, **Apology** is an internal correction, not a spoken phrase: it is *loop-back that reduces self-model error* — the move of routing information back into oneself, working to shrink the gap between one's self-model and one's actual act, harm, obligation, or the truth. Formally it is the [[predicate-binding|predicate binding]] **Apology = (loop-back, self-model error)**: the directional operator [[loop-back|loop-back]] driven by a controller whose target is to make one's model of oneself match the facts. When the model is wrong — when you have done harm your self-image does not yet contain — the controller drives the model to update; as the model is corrected, the error shrinks toward zero. The words "I'm sorry" are a possible *output* of this process, never the process itself.
+In this framework, **Apology** is self-model correction: it is *loop-back that reduces self-model error* — the move of routing information back into oneself, working to shrink the gap between one's self-model and one's actual act, harm, obligation, or the truth. Formally it is the [[predicate-binding|predicate binding]] **Apology = (loop-back, self-model error)**: the directional operator [[loop-back|loop-back]] driven by a controller whose target is to make one's model of oneself match the facts. When the model is wrong — for example, it omits harm caused or assigns responsibility without grounds — the controller drives the model to update; as the model is corrected, the error shrinks toward zero. The words "I'm sorry" can express this process; their occurrence alone does not establish it.
 
 ## How it works
 
 The three parts of the binding: the actuator is [[loop-back|loop-back]], the primitive that routes transformed structure back into the system for retention, revision, correction, or self-model update. The controller is named "Apology." The [[regulated-error-signal|regulated error signal]] is **self-model error** — the discrepancy between one's model and one's act, harm, obligation, or the truth. The controller drives that discrepancy toward zero.
 
-The framework draws the sharpest version of the layer's accuracy discipline here: **a spoken apology is a downstream expression of that loop-back, not its content.** This is the cleanest illustration of "extract the regulated error, not the surface delivery channel." Two people can say identical words; only one may be running the binding. The test is not the utterance but whether the self-model actually updated. Loosely, like debugging a program: saying "the bug is fixed" is not the fix; the fix is the correction looped back into the code. Apology is that loop-back, applied to the self-model.
+**An expression can report, support, or enact correction; its form alone does not establish that correction occurred.** Articulating an accurate account can expose a contradiction and revise the self-model. Repeating the same words without that effect does not perform the binding. Examine how the relevant discrepancy changes the model and the conduct that depends on it.
 
 ## Place on the Routing axis
 
@@ -20,9 +38,9 @@ Apology couples with [[gratitude|Gratitude]] in [[reconciliation|Reconciliation]
 
 ## Common misreadings
 
-The cardinal one: treating Apology as a [[directional-primitives|primitive]] rather than a binding over [[loop-back|loop-back]] — [[cardinal-error|the cardinal error]]. The characteristic one: identifying Apology with the *spoken apology*, mistaking the surface channel for the regulated error; the framework explicitly denies this — the speech is downstream expression, not content. And the general one: reading the binding as preservation of an invariant rather than regulation toward a setpoint.
+The cardinal one: treating Apology as a [[directional-primitives|primitive]] rather than a binding over [[loop-back|loop-back]] — [[cardinal-error|the cardinal error]]. The characteristic one: inferring effective Apology from a familiar expression alone, without examining its relation to self-model correction. And the general one: reading the binding as preservation of an invariant rather than regulation toward a setpoint.
 
-> **Formal status.** Epistemic: Derived, authority-canonical — fixed verbatim by the controlling authority; contestable by contesting the authority. Alethic: the binding aspires to map the regulated error actually driving the named emotion; extract the regulated error, not the surface delivery channel — a spoken apology is downstream expression, not content. Provenance: **canonical**, fixed verbatim across the canon.
+> **Formal status.** **E:** Derived, AC for Apology as Loop-back bound to self-model error. **A:** maps effective self-model correction; particular expressions are assessed through the regulation they perform or convey. **Provenance:** the framework’s named binding; applications must preserve its actuator and discrepancy.
 
 ## See also
 
@@ -32,5 +50,5 @@ The cardinal one: treating Apology as a [[directional-primitives|primitive]] rat
 - [[gratitude|Gratitude = (propagation, undischarged received value)]] — its Routing-axis counterpart
 - [[reconciliation|Reconciliation = Apology ⊕ Gratitude]] — the composite Apology enters
 - [[sequential-gating|Sequential Gating]] — a dependency between correction and a subsequent act
-- [[sentimental-form|The Sentimental Form]] — what happens when the gate is skipped
+- [[sentimental-form|The Sentimental Form]] — apparent reconciliation that substitutes outward value for required correction
 - [[cardinal-error|The Cardinal Error]] — the prohibition that protects Apology's status

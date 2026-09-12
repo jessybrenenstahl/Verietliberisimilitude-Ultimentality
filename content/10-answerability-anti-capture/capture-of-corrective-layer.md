@@ -10,7 +10,7 @@ formal_status:
 prerequisites: [effective-and-ornamental-answerability, causal-error-mark, answerability-predicate]
 regulates: [totalization-boundary, captured-propagation, "correction preserved but neutralized"]
 regulated_by: [causal-error-mark, self-sealing-test, "legitimate integration of correction"]
-valid_attack: "A correction remains fully effective despite every admission, memory, and enforcement path being controlled by its target."
+valid_attack: "Show that the proposed diagnostic misclassifies effective self-correction as capture, or fails to distinguish neutralized correction from legitimate integration. Ownership alone does not establish capture."
 isolation_failure: "Without the legitimate-integration counterweight, every absorbed correction reads as capture and no learning can count as correction."
 kill_condition: "Capture cannot be distinguished from legitimate integration of correction."
 see_also: [effective-and-ornamental-answerability, causal-error-mark, totalization-boundary, transparentocracy-as-cross-regulation, continuation-and-colonization, responsible-successor]
@@ -57,7 +57,7 @@ This is a treatise-side extension, held contestable — an instrument for locati
 
 ## What it regulates
 
-It regulates the slide from *correction is present* to *correction is effective*. Where [[answerability-predicate|the answerability predicate]] and [[effective-and-ornamental-answerability|ornamental answerability]] establish that preservation of an objection is not its force, this page names the concrete mechanism by which force is stripped while preservation is kept: the target seizes the corrective channels. It regulates [[captured-propagation|captured propagation]] at its root — a lineage loses answerability where its control of correction prevents relevant errors from changing what it carries. And it marks the specific site at which an otherwise open system crosses the [[totalization-boundary|totalization boundary]]: not by deleting marking, but by owning it.
+It regulates the slide from *correction is present* to *correction is effective*. Where [[answerability-predicate|the answerability predicate]] and [[effective-and-ornamental-answerability|ornamental answerability]] establish that preservation of an objection is not its force, this page names the concrete mechanism by which force is stripped while preservation is kept: the target seizes the corrective channels. It regulates [[captured-propagation|captured propagation]] at its root — a lineage loses answerability where its control of correction prevents relevant errors from changing what it carries. And it marks the specific site at which an otherwise open system crosses the [[totalization-boundary|totalization boundary]]: by neutralizing the corrective influence while retaining its visible marks.
 
 ## What regulates it
 

@@ -32,7 +32,7 @@
   {
     "a": "accurate",
     "b": "exhaustive",
-    "damage": "reads a closed medium as a complete local account",
+    "damage": "infers exhaustive coverage from accuracy within a stated scope",
     "bridge": "closure-without-totalization"
   },
   {
@@ -98,7 +98,7 @@
   {
     "a": "semantic closure",
     "b": "doctrinal completion",
-    "damage": "reads the access condition as a finished doctrine",
+    "damage": "infers doctrinal coverage from the access condition alone",
     "bridge": "closure-without-totalization"
   },
   {

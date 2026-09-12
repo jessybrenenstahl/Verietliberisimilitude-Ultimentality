@@ -1,5 +1,19 @@
 [
   {
+    "component": "apology",
+    "claim_type": "AC",
+    "valid_attack": "Show that Apology is not Loop-back bound to self-model error, or that a claimed correction cannot alter the dependent operation while still counting as effective Apology.",
+    "invalid_attacks": [],
+    "regulator": [
+      "predicate-binding",
+      "reconciliation",
+      "causal-error-mark"
+    ],
+    "isolation_failure": "Without Loop-back, the process has no inward route for revising its self-model; without a regulated discrepancy, return becomes repetition without correction.",
+    "kill_condition": "A canonical Apology case is better captured by a different actuator and discrepancy, or the self-model remains causally unchanged in every case counted as successful Apology.",
+    "tests": []
+  },
+  {
     "component": "attack-surface-matrix",
     "claim_type": "Exposition",
     "valid_attack": "Show a generated row differs from its source metadata or the metadata misstates the source claim.",
@@ -31,7 +45,7 @@
   {
     "component": "capture-of-corrective-layer",
     "claim_type": "CV",
-    "valid_attack": "A correction remains fully effective despite every admission, memory, and enforcement path being controlled by its target.",
+    "valid_attack": "Show that the proposed diagnostic misclassifies effective self-correction as capture, or fails to distinguish neutralized correction from legitimate integration. Ownership alone does not establish capture.",
     "invalid_attacks": [],
     "regulator": [
       "causal-error-mark",
@@ -67,22 +81,22 @@
       "scar-record",
       "capture-of-corrective-layer"
     ],
-    "isolation_failure": "Causal force without marking becomes untracked volatility; marking without causal force becomes ornamental humility.",
+    "isolation_failure": "Changes without an accountable relation to their grounds risk untracked volatility; missing history alone does not establish that failure. Marking without a reachable corrective effect becomes ornamental humility.",
     "kill_condition": "The framework treats recorded error as answerability despite a permanently closed update path.",
     "tests": []
   },
   {
     "component": "causal-falsifiability",
     "claim_type": "CV",
-    "valid_attack": "Exhibit a legitimate falsification whose force is wholly independent of any causal contact with the target, showing the causal requirement conflates system-effect with truth or is neither necessary nor available as a proxy.",
+    "valid_attack": "Show that the account confuses refutation with uptake, misidentifies a corrective path, or cannot distinguish effective correction from acknowledgment.",
     "invalid_attacks": [],
     "regulator": [
       "outcomes-of-attack",
       "same-level-attack-rule",
       "scar-record"
     ],
-    "isolation_failure": "Without the preserved-marking side and the outcomes classification the causal demand degrades into churn-theater; drop the causal demand and falsification collapses back into ornament.",
-    "kill_condition": "The framework's own logged falsifiers provably leave every relevant output and governance decision unchanged, or the required evidence-to-changed-state trace cannot be reproduced.",
+    "isolation_failure": "A demand for visible change without warrant can produce cosmetic churn; a claim of effective answerability without corrective reach is ornamental.",
+    "kill_condition": "The account systematically misclassifies corrective reach or cannot distinguish effective uptake from acknowledgment; failure of a particular implementation challenges its implementation claim.",
     "tests": []
   },
   {
@@ -102,8 +116,8 @@
   },
   {
     "component": "closure-without-totalization",
-    "claim_type": "FT",
-    "valid_attack": "Show that closure as an access-condition entails an exhaustive local account — that the two definitions are not independent — or exhibit a closure formulation immune to every contradiction that still functions as closure.",
+    "claim_type": "Mixed",
+    "valid_attack": "Challenge the non-implication through its premises or inference, or show that the correction-path test misclassifies an answerable or immune formulation.",
     "invalid_attacks": [],
     "regulator": [
       "semantic-closure-and-recursive-marking",
@@ -112,7 +126,7 @@
       "causal-error-mark"
     ],
     "isolation_failure": "Stated without recursive marking, the distinction becomes a recited disclaimer while a particular closure formulation is treated as the final account.",
-    "kill_condition": "Show that contradiction cannot alter the wording, scope, formalization, dependency, or status of any closure formulation.",
+    "kill_condition": "Defeat the argument that closure alone does not establish completeness; separately, revise the operational test if it cannot distinguish effective correction from immunity.",
     "tests": []
   },
   {
@@ -186,7 +200,7 @@
       "interaction-matrix"
     ],
     "isolation_failure": "A graph without its text alternative and data source becomes a picture that cannot be checked against the pages it claims to render.",
-    "kill_condition": "The rendering asserts a coupling, direction, or emergent property the linked pages do not support — and the discrepancy cannot change the graph.",
+    "kill_condition": "The rendered relation, direction, or emergent property misrepresents its source, or a demonstrated discrepancy cannot change the graph.",
     "tests": []
   },
   {
@@ -284,7 +298,7 @@
       "regulated-error-signal",
       "causal-error-mark"
     ],
-    "isolation_failure": "Restated without the general binding model it decays to four labels; restated without the four bindings it becomes an empty schema that regulates nothing.",
+    "isolation_failure": "Names without operative actuator-discrepancy relations do not establish bindings; a schema without specified instances does not establish an operating controller.",
     "kill_condition": "The model cannot tell the four emotions apart except by importing their ordinary names.",
     "tests": []
   },
@@ -303,6 +317,34 @@
     "tests": []
   },
   {
+    "component": "fear",
+    "claim_type": "AC",
+    "valid_attack": "Show that Fear is not the Away-bound regulation of boundary violation, or that a valid object of Reconciliation must be excluded merely because it is Fear.",
+    "invalid_attacks": [],
+    "regulator": [
+      "predicate-binding",
+      "submission"
+    ],
+    "isolation_failure": "Without its binding, the name floats free of a regulated discrepancy; removing it from Submission removes the boundary-regulating contribution to that composite, without invalidating its independent operation.",
+    "kill_condition": "A distinct functional binding performs the claimed boundary regulation without Away, or the unrestricted-object account of Reconciliation cannot admit Fear without changing its composition.",
+    "tests": []
+  },
+  {
+    "component": "force",
+    "claim_type": "Mixed",
+    "valid_attack": "Show that the named composite property survives removal of a controller, or that the `⊕` relation adds no behavior beyond its isolated components.",
+    "invalid_attacks": [],
+    "regulator": [
+      "cross-regulated-necessity",
+      "two-mark-system",
+      "submission",
+      "reconciliation"
+    ],
+    "isolation_failure": "Reading a Force as a sum loses the operative relation between its bindings; reading it as a primitive loses its component structure. The specific direction and timing of influence require their own account.",
+    "kill_condition": "A purported Force retains its defining behavior after one controller is removed, or an equivalent isolated term explains the behavior without the coupling.",
+    "tests": []
+  },
+  {
     "component": "frame-condition-and-formulation",
     "claim_type": "FT",
     "valid_attack": "Decline the closure frame at cost, show the condition/formulation distinction is internally empty, or offer a sharper carving of the cut — not merely kill one formulation and call the condition refuted.",
@@ -314,6 +356,20 @@
     ],
     "isolation_failure": "Alone the distinction becomes an unfalsifiable retreat that saves every formulation (self-sealing); without it, every formulation-death reads as frame-death (brittleness, then paralysis).",
     "kill_condition": "A rewrite drops or reverses every invariant on the continuity list, in all formulations, while the page still declares the frame unchanged and the criteria register no declension.",
+    "tests": []
+  },
+  {
+    "component": "gratitude",
+    "claim_type": "AC",
+    "valid_attack": "Show that Gratitude is not Propagation bound to undischarged received value, or that its identity requires a prior Apology rather than its own regulated relation.",
+    "invalid_attacks": [],
+    "regulator": [
+      "predicate-binding",
+      "reconciliation",
+      "causal-error-mark"
+    ],
+    "isolation_failure": "Without Propagation, received value has no outward route; without the received-value discrepancy, emission is not yet Gratitude.",
+    "kill_condition": "A canonical Gratitude case is better captured by another actuator and discrepancy, or a valid standalone case cannot be represented without importing Apology as a prerequisite.",
     "tests": []
   },
   {
@@ -358,6 +414,19 @@
     ],
     "isolation_failure": "Cut from its source pages and the invariant checklist, the matrix hardens into an unaudited adjacency table whose cells no longer answer to the pages they index.",
     "kill_condition": "The generated edge does not match current metadata, or its source assertion is unsupported.",
+    "tests": []
+  },
+  {
+    "component": "love",
+    "claim_type": "AC",
+    "valid_attack": "Show that Love is not Toward bound to relational gap, or that its defining toward-coupling is present without the regulated relation.",
+    "invalid_attacks": [],
+    "regulator": [
+      "predicate-binding",
+      "submission"
+    ],
+    "isolation_failure": "Without Toward, the binding has no admitting actuator; without relational gap, towardness has no individuating discrepancy.",
+    "kill_condition": "A canonical Love case is better captured by another actuator and discrepancy, or the toward relation cannot be distinguished from undirected fusion.",
     "tests": []
   },
   {
@@ -594,7 +663,20 @@
       "self-sealing-test"
     ],
     "isolation_failure": "Read without the isolation-failure tests it degrades into a slogan about mutual support and can no longer be told apart from circular self-approval.",
-    "kill_condition": "Exhibit a third irreducible regulator required to close a gap the pair cannot regulate, or show that one principle's attack surface is not occupied by the other in practice.",
+    "kill_condition": "Show that the claimed reciprocal regulatory relation fails under its stated conditions; a required additional regulator defeats sufficiency only where sufficiency is claimed.",
+    "tests": []
+  },
+  {
+    "component": "reconciliation",
+    "claim_type": "AC",
+    "valid_attack": "Show that Reconciliation's emergent operation does not require both Apology and Gratitude, or exhibit an object restriction that follows from its composition rather than from a separate application condition.",
+    "invalid_attacks": [],
+    "regulator": [
+      "sequential-gating",
+      "causal-error-mark"
+    ],
+    "isolation_failure": "Removing Apology from this composite removes its self-model correction; removing Gratitude removes its outward carrying of received value. Either binding can operate independently without constituting Reconciliation.",
+    "kill_condition": "A purported Reconciliation retains its defining renewed-participation function after removal of a component, or a valid object is excluded solely because of what the process concerns.",
     "tests": []
   },
   {
@@ -782,6 +864,20 @@
     "tests": []
   },
   {
+    "component": "sequential-gating",
+    "claim_type": "CV",
+    "valid_attack": "Show that the earlier condition does not change or constrain the later operation in the sequence claimed, or that the page treats its local schedule as the definition of every Reconciliation instance.",
+    "invalid_attacks": [],
+    "regulator": [
+      "reconciliation",
+      "correction-without-regress",
+      "causal-error-mark"
+    ],
+    "isolation_failure": "A gate without a specified dependent act becomes an empty order; an order mistaken for composition hides the emergent relation of Apology and Gratitude.",
+    "kill_condition": "The claimed sequence has no causal dependency, or a valid Reconciliation instance is excluded solely because it does not follow this particular timetable.",
+    "tests": []
+  },
+  {
     "component": "strengthening-without-absolutization",
     "claim_type": "CV",
     "valid_attack": "Show a warranted improvement that these criteria exclude, or an immune claim they incorrectly accept as warranted strengthening.",
@@ -791,8 +887,22 @@
       "outcomes-of-attack",
       "kill-table"
     ],
-    "isolation_failure": "Strengthening without the demotion constraint becomes an absolutizing ratchet; the demotion constraint without a strengthening channel freezes every claim at its most timid tier.",
-    "kill_condition": "Show that strengthening functions as a one-way ratchet in which deletion and demotion are no longer possible.",
+    "isolation_failure": "Strengthening insulated from relevant correction can become an absolutizing ratchet; correction that cannot recognize warranted gains can freeze claims below their demonstrated strength.",
+    "kill_condition": "Show that these criteria accept immunity to relevant correction, reject a warranted improvement, or require undoing a corrected type without counter-warrant.",
+    "tests": []
+  },
+  {
+    "component": "submission",
+    "claim_type": "AC",
+    "valid_attack": "Show that the named Submission behavior does not depend on the Love-and-Fear coupling, or that its opposed-gradient relation blocks a relevant counter-instance.",
+    "invalid_attacks": [],
+    "regulator": [
+      "force",
+      "opposed-gradient-contention",
+      "reconciliation"
+    ],
+    "isolation_failure": "Removing either binding from this composite removes its contribution to yielding within maintained distinction; independent Love or Fear is not thereby pathological.",
+    "kill_condition": "The defining yielding-with-distinction behavior survives removal of either binding, or a different coupling explains it without the named opposed gradients.",
     "tests": []
   },
   {

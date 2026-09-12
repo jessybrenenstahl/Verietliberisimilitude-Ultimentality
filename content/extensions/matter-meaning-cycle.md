@@ -37,6 +37,10 @@ This leaves substantial positive work: identify the transformations, constraints
 
 The [[the-ring|Ring]] emphasizes differentiated participation and return through a changed world. The cycle emphasizes reciprocal becoming. They can illuminate the same operation at different resolutions. The [[epigraph|epigraph]] supplies an additional symbolic reading; an interior/boundary image can guide interpretation without serving as a proof of universal coverage.
 
+The inherited Telos reading pairs the cycle as a **minimal complete interior** with the aphorism as a **maximal incomplete boundary**: reciprocal becoming holds the two directions together, while the boundary keeps their unexperienced horizon in view. Both reflect [[nihil|Nihil]] in this reading. These descriptions articulate the image's organization; they do not supply the separate argument that the image exhausts every possible account.
+
+At this interpretive level, Nietzsche's hammer carries the creating and de-absolutizing will; Christ's nails carry reconciliation and love through the wound; Wittgenstein's ladder carries the transcendable apparatus; Heidegger's floor carries Being. Together they figure an apparatus fixed to Being through reconciliation and will. This Telos reading complements the [[epigraph|faculty reading]] rather than assigning a new mandatory role or mechanism to each symbol.
+
 [[telos|Telos]] adds the direction of answerable continuation. Mere cycling, persistence, or novelty does not by itself establish that ethical condition. Successful participation can preserve and transform received structure while enabling successors to assess what continues.
 
 ## Formal status

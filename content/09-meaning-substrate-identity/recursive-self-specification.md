@@ -49,7 +49,7 @@ A process can modify a description without enabling a successor to rebuild it, a
 
 ## Type and formal status
 
-**E (epistemic):** Derived, **CV**. This page carves a relation — the distinguished capacities and the rebuildability-within-tolerance threshold — and formalizes it; both the carving and the notation are contestable by counter-instance or by a better carving. It is a **treatise-side extension, held contestable**, Its present CV status does not settle authorial fidelity or prohibit a stronger future derivation; each requires its own grounds.
+**E (epistemic):** Derived, **CV**. This page carves a relation — the distinguished capacities and the rebuildability-within-tolerance threshold — and formalizes it; both the carving and the notation are contestable by counter-instance or by a better carving. It is a **treatise-side extension, held contestable**. Its present CV status does not settle authorial fidelity or prohibit a stronger future derivation; each requires its own grounds.
 
 **A (alethic):** the page aspires to map a real, testable difference — the gap between a description that regenerates its operation under blind rebuild and one that only names it. The aspiration is falsified if that difference cannot be operationalized. Epistemic exposure and mapping-accuracy stay orthogonal: that the carving is contestable says nothing about whether it is accurate, and vice versa.
 

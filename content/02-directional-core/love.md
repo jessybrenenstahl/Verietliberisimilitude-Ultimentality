@@ -1,3 +1,21 @@
+---
+slug: love
+title: Love
+section: directional-core
+page_type: load-bearing
+formal_status:
+  epistemic: Derived
+  tier: AC
+  alethic: "the binding aspires to map Toward regulating relational gap; its expressions and applications remain distinct from the functional definition"
+prerequisites: [toward, predicate-binding]
+regulates: ["relational gap treated as a feeling or label", "Love treated as a primitive rather than a binding", "toward-coupling mistaken for fusion"]
+regulated_by: [predicate-binding, submission]
+valid_attack: "Show that Love is not Toward bound to relational gap, or that its defining toward-coupling is present without the regulated relation."
+isolation_failure: "Without Toward, the binding has no admitting actuator; without relational gap, towardness has no individuating discrepancy."
+kill_condition: "A canonical Love case is better captured by another actuator and discrepancy, or the toward relation cannot be distinguished from undirected fusion."
+see_also: [toward, predicate-binding, submission, fear, reconciliation]
+application_tags: []
+---
 [[home|← Ultimentality Wiki]]
 
 # Love

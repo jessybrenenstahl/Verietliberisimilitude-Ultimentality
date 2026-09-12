@@ -1,3 +1,21 @@
+---
+slug: submission
+title: Submission
+section: two-forces
+page_type: load-bearing
+formal_status:
+  epistemic: Derived
+  tier: AC
+  alethic: "maps the coupled Love-and-Fear relation and its opposed-gradient pathologies; particular gain dynamics remain assessable"
+prerequisites: [love, fear, force]
+regulates: ["yielding read as fusion or flight", "Fear or Love isolated from the coupled relation", "fear-gain dominance treated as the identity of Submission"]
+regulated_by: [force, opposed-gradient-contention, reconciliation]
+valid_attack: "Show that the named Submission behavior does not depend on the Love-and-Fear coupling, or that its opposed-gradient relation blocks a relevant counter-instance."
+isolation_failure: "Removing either binding from this composite removes its contribution to yielding within maintained distinction; independent Love or Fear is not thereby pathological."
+kill_condition: "The defining yielding-with-distinction behavior survives removal of either binding, or a different coupling explains it without the named opposed gradients."
+see_also: [love, fear, force, opposed-gradient-contention, reconciliation, trapped-form]
+application_tags: []
+---
 [[home|← Ultimentality Wiki]]
 
 # Submission
@@ -10,9 +28,9 @@ Submission is one of the framework's two [[force|Forces]], and like every Force 
 
 ## How it works
 
-[[love|Love]] pulls [[toward|toward]], working to close a relational gap; [[fear|Fear]] pushes [[away|away]], working to reduce a boundary violation. Coupled, they do not cancel — they contend along opposed gradients, and out of that contention Submission *emerges*: the stance of bowing before what is greater without **collapsing into it** (which would be undefended Love, mere fusion) or **fleeing it** (which would be unrelated Fear, mere distance).
+[[love|Love]] pulls [[toward|toward]], working to close a relational gap; [[fear|Fear]] pushes [[away|away]], working to reduce a boundary violation. Coupled, they do not cancel — they contend along opposed gradients, and out of that contention Submission *emerges*: the stance of bowing before what is greater while sustaining both relation and boundary. If the coupled operation loses boundary regulation, it can collapse into fusion; if it loses the relational contribution, it can become mere distance. These describe failures of the composite, not the identity of independently operating Love or Fear.
 
-Loosely, like Spinoza's *conatus* held in check by a sense of one's own edges, the healthy form is a self that can yield without erasing itself, receive constraint without surrendering dignity, and stay bonded without becoming captured. This is the seed's reading made dynamic — *continued participation under limit; relation without sovereignty; persistence under constrained conditions* — where each clause names a coupled gradient rather than a finished outcome.
+Loosely, like Spinoza's *conatus* held in check by a sense of one's own edges, the healthy form is a self that can yield without erasing itself, receive constraint without surrendering dignity, and stay bonded without becoming captured. This is the seed's reading made dynamic — *continued participation under limit; relation without sovereignty; persistence under constrained conditions* — where the coupled regulation can sustain a successful outcome while remaining responsive to changed conditions.
 
 ## Failure modes
 

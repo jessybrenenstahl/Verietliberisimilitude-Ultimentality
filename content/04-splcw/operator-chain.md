@@ -2,23 +2,23 @@
 
 # The Operator Chain
 
-**The operator chain** is the fixed order in which the five faculties of a meaning-processing system hand work to one another: *Warden → Captive → Logician → Poet → Sculptor → changed world → Warden.* It is the framework's answer to a simple question — once something starts to *matter* to a participant, what happens next, and in what sequence, before it can act and matter differently? The chain names that sequence, and insists it is a loop rather than a line.
+**The operator chain** is the canonical dependency order in which the five faculties of a meaning-processing system hand work to one another: *Warden → Captive → Logician → Poet → Sculptor → changed world → Warden.* It is the framework's answer to a simple question — once something starts to *matter* to a participant, what relation enables the next one before it can act and matter differently? The chain names that dependency and insists it is a loop rather than a line; it does not prescribe one carrier topology or a rigid clock.
 
 ## Overview
 
-A participant in the framework — a person, a group, in principle a machine — processes meaning through five distinguishable faculties, collectively [[splcw|SPLCW]]. The operator chain is the canonical order in which those faculties operate: the [[warden|Warden]] first encounters significance; the [[captive|Captive]] bears it as embodied constraint; the [[logician|Logician]] gives it coherent structure; the [[poet|Poet]] transduces that structure into resonant, answerable symbol; the [[sculptor|Sculptor]] externalizes it as action that alters the world. Then the changed world comes back to the Warden as a new field of significance, and the cycle turns again.
+A participant in the framework can realize these functions through one carrier, a distributed arrangement, or coordinated components. The five distinguishable faculties, collectively [[splcw|SPLCW]], are related in a canonical dependency order: the [[warden|Warden]] first encounters significance; the [[captive|Captive]] bears it as embodied constraint; the [[logician|Logician]] gives it coherent structure; the [[poet|Poet]] transduces that structure into resonant, answerable symbol; the [[sculptor|Sculptor]] externalizes it as action that alters the world. Then the changed world comes back to the Warden as a new field of significance, and the cycle turns again.
 
-Two negations are part of the definition. The chain is **not a linear pipeline** — there is no terminal output, because every result re-enters as input. And it is **not a metaphor** — the recursion is presented as a real structural feature of how meaning gets processed, not a poetic gloss laid over it.
+Two negations are part of the definition. The chain is **not a linear pipeline** — its results enter a changed field that can return as input, including to later participants. And it is **not a metaphor** — the recursion is presented as a real structural feature of how meaning gets processed, not a poetic gloss laid over it.
 
 ## Why the order is load-bearing
 
 The sequence is not arbitrary decoration; each step exists because it solves a problem the previous step cannot solve alone. The treatise states the dependency directly: *the Warden encounters significance but cannot embody it; the Captive embodies constraint but cannot order it; the Logician orders but cannot make resonant; the Poet makes resonant but cannot make consequential; the Sculptor makes consequential but cannot control its return.* Each faculty hits a wall that only the next one can pass through. That is why the order cannot simply be permuted: it traces a real chain of competences and incompetences.
 
-The final handoff — Sculptor to *changed world* to Warden — is the one that makes the structure a chain that **recurs** rather than a process that ends. The Sculptor can act on the world but cannot govern what the altered world means when it returns; that return is the Warden's business again. So the loop closes without finishing.
+The final handoff — Sculptor to *changed world* to Warden — is the one that makes the structure a chain that **recurs** rather than a process that ends. The Sculptor can act on the world but cannot govern what the altered world means when it returns; that return is the Warden's business again. A particular operation may finish while its consequences condition subsequent participation.
 
 The return edge is **not only corrective feedback**. The changed world does not merely report whether the act succeeded or erred; it can alter *what is now available* — salience, the distinctions a participant can draw, routable possibilities, future acts, and future inventions. A world reshaped by the Sculptor is a different field of significance, and so it changes not just the correction but the *generation* that the next turn can perform. This is an explanation of the existing return edge, not a sixth node: there is no `possibility field` faculty added to the five; the productivity lives in the loop the chain already names.
 
-(By analogy only, and not as framework doctrine: control theory describes a feedback loop in which a system's output is sensed and fed back as a new input, so the controller never "completes" but continually re-regulates against a moving world. The operator chain is loosely that shape — sensing, transducing, acting, re-sensing — except that what is sensed is *significance*, not a scalar error. The comparison is meant to build intuition, not to reduce the chain to engineering.)
+(By analogy only, and not as framework doctrine: control theory describes a feedback loop in which a system's output is sensed and fed back as a new input, allowing renewed regulation as conditions change, even after a particular task completes. The operator chain is loosely that shape — sensing, transducing, acting, re-sensing — except that what is sensed is *significance*, not a scalar error. The comparison is meant to build intuition, not to reduce the chain to engineering.)
 
 ## A coordinate, not a script
 
@@ -26,11 +26,11 @@ The seed text gives the same five steps as a "default action order," but with a 
 
 ## Relation to the ring and the palindrome
 
-The operator chain is one of three ways the framework arranges the same five faculties, and keeping them distinct prevents confusion. Read through the [[epigraph|epigraph]], the same recursion appears as [[the-ring|the ring]] — a non-terminating figure held open at the act of [[sculptor|pinning]]. Read for symmetry, the faculties appear as a [[palindrome|palindrome]] about the involuntary [[captive|Captive]]. The operator-chain order (W → C → L → P → S → world → W) is stated separately and is *not touched* by the palindromic reconstruction; note in particular that both the chain and the seed's *processing* order place the Captive **second**, whereas the palindrome's mirror reading places it central. The orderings coexist; they answer different questions.
+The operator chain is one of three ways the framework arranges the same five faculties, and keeping them distinct prevents confusion. Read through the [[epigraph|epigraph]], the same recursion appears as [[the-ring|the ring]] — a recurring figure open to the consequences of [[sculptor|pinning]]. Read for symmetry, the faculties appear as a [[palindrome|palindrome]] about the involuntary [[captive|Captive]]. The operator-chain order (W → C → L → P → S → world → W) is stated separately and is *not touched* by the palindromic reconstruction; note in particular that both the chain and the seed's *processing* order place the Captive **second**, whereas the palindrome's mirror reading places it central. The orderings coexist; they answer different questions.
 
 ## Common misreadings
 
-- Reading it as a **pipeline with an end**. There is no final output; the "changed world → Warden" return is constitutive, not optional.
+- Reading it as a **pipeline with an end**. Task completion does not erase the "changed world → Warden" return through which consequences can shape subsequent participation.
 - Treating it as a **rigid script** the system must perform step by visible step, rather than a control coordinate that can be traversed in a single act.
 - Conflating it with the **palindromic order**. The two arrangements are distinct, and they disagree about where the Captive sits.
 
@@ -43,7 +43,7 @@ The operator chain is one of three ways the framework arranges the same five fac
 - [[logician|The Logician]] — third link: ordering, not yet resonant
 - [[poet|The Poet]] — fourth link: resonance, not yet consequential
 - [[sculptor|The Sculptor]] — fifth link: consequence, whose return it cannot control
-- [[the-ring|The Ring]] — the same recursion read as a non-terminating ring
+- [[the-ring|The Ring]] — the same recursion read as an open recurring ring
 - [[palindrome|The Palindrome]] — the symmetric reconstruction, stated separately
 - [[loop-back|Loop-back]] — the directional primitive of return that the cycle enacts
 - [[function-not-personality|Function, Not Personality]] — the faculties are functions, not characters in a sequence

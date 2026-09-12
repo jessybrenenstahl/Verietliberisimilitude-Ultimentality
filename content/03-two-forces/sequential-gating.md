@@ -1,3 +1,21 @@
+---
+slug: sequential-gating
+title: Sequential Gating
+section: two-forces
+page_type: load-bearing
+formal_status:
+  epistemic: Derived
+  tier: CV
+  alethic: "maps a causal dependency within a particular sequence; it does not by itself establish a universal schedule for Reconciliation"
+prerequisites: [reconciliation, force]
+regulates: ["a local repair dependency universalized into a timetable", "direction mistaken for timing", "a gate treated as the composition of Reconciliation"]
+regulated_by: [reconciliation, correction-without-regress, causal-error-mark]
+valid_attack: "Show that the earlier condition does not change or constrain the later operation in the sequence claimed, or that the page treats its local schedule as the definition of every Reconciliation instance."
+isolation_failure: "A gate without a specified dependent act becomes an empty order; an order mistaken for composition hides the emergent relation of Apology and Gratitude."
+kill_condition: "The claimed sequence has no causal dependency, or a valid Reconciliation instance is excluded solely because it does not follow this particular timetable."
+see_also: [reconciliation, force, correction-without-regress, sentimental-form]
+application_tags: []
+---
 [[home|← Ultimentality Wiki]]
 
 # Sequential Gating

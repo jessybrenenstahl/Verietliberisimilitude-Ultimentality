@@ -8,9 +8,9 @@
 
 Every claim in Ultimentality has the same epistemic *status* — it is [[derived|Derived]]. None is "forced" or "foundational." What differs from claim to claim is its *tier* on the [[contestability-gradient|contestability gradient]], and that tier is the epistemic mark:
 
-- **FT** — frame-internal / tautological: contestable by declining the frame or showing internal incoherence ([[frame-internal-tier|the FT tier]]);
-- **CV** — carving / count / aptness: contestable by counter-instance ([[carving-tier|the CV tier]]);
-- **AC** — authority-canonical: contestable by contesting the authority ([[authority-canonical-tier|the AC tier]]).
+- **FT** — frame-internal / tautological: examine the premises, inference, consistency, and application; declining the frame is a separate challenge ([[frame-internal-tier|the FT tier]]).
+- **CV** — carving / count / aptness: examine the representation’s adequacy, including counter-instances and better carvings ([[carving-tier|the CV tier]]).
+- **AC** — authority-canonical: examine the authorized statement, attribution, interpretation, scope, and authority’s standing; evidence about accuracy remains relevant ([[authority-canonical-tier|the AC tier]]).
 
 The second column is the [[alethic-axis|alethic mark]]: the claim's mapping-accuracy aspiration, drawn from the [[two-mark-system|two-mark system]] the ledger systematizes. So a single row reads, in effect, "held this way, attackable that way — and aspiring to map the world this well."
 

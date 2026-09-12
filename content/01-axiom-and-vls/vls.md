@@ -6,17 +6,19 @@
 
 ## The core claim, in ordinary words
 
-Strip away the coined vocabulary and one durable claim remains: truth and freedom come to us as semblances. A semblance, in this framework, is emphatically **not a lie**. It is an appearance that *participates in what it cannot exhaust* — the way a good map participates in the territory without ever being the territory, or the way a portrait can be a true likeness of a face it could never replace. This single sentence is the load-bearing content of VLS, and it is the sharpest statement anywhere in the corpus of the universal **no-possession condition**: the rule that no participant possesses its object, only approaches it. Everything else attached to the word "VLS" is illustration or contestable framing layered on top of this one claim. See [[semblance|Semblance (not possession)]] for the exact notion of appearance-without-possession that VLS deploys.
+Strip away the coined vocabulary and one durable claim remains: truth and freedom come to us as semblances. A semblance, in this framework, is emphatically **not a lie**. It is an appearance that *participates in what it cannot exhaust* — the way a good map participates in the territory without ever being the territory, or the way a portrait can be a true likeness of a face it could never replace. This expresses the kernel’s compact account of VLS and its universal **no-possession condition**: the rule that no participant possesses its object, only approaches it. The compact account does not by itself exhaust the source’s account of the relation between truth and freedom. See [[semblance|Semblance (not possession)]] for the exact notion of appearance-without-possession that VLS deploys.
 
-## What the seed says, and how much of it survives
+## The seed and its compact representation
 
 The framework's founding text — the **seed** — states VLS in its strangest and most poetic passage: *"VLS is the semblance of truth and freedom. Truth and freedom are a shattered unity. They are the 0 outside of experience which we approximate as 1 and 0, because we either believe one or the other. To believe in absolute truth and absolute freedom simultaneously is incoherent."*
 
-Here the wiki must be careful, because the framework is careful with itself. Exactly **one** part of that passage is carried forward as load-bearing — the semblance-not-possession condition — and the rest is the seed author's signature imagery. The contestable, descriptive **carvings** are: the "shattered unity"; the "either believe one or the other"; the claim that absolute truth and absolute freedom are *jointly incoherent*; and the signature arithmetic ("the 0 outside experience which we approximate as 1 and 0"). The shared standard of the corpus, the [[canon|Canon]], does not carry the arithmetic forward at all. And where the seed says the two ultimates are jointly *incoherent*, the benchmark says only that they are jointly *unpossessable* — a weaker, more modest claim — though that "jointly-unpossessable" reading is itself a treatise-side attribution of the benchmark's position rather than a quotation of it.
+The seed passage carries several related claims: semblance, shattered unity, the symbolic 0/1 expression, and the incompatibility of simultaneously believing in absolute truth and absolute freedom. Kernel §§1.223–1.233 emphasize accurate participation without possession. That compression does not establish that the other source claims are rejected or merely decorative.
+
+Joint unpossessability and joint incoherence are distinct claims. The former concerns a participant’s possession of truth and freedom; the latter concerns the compatibility of their absolute forms as stated in the seed. An account connecting them must explain what “absolute,” “believe,” and the numerical image do in that argument. A narrower paraphrase cannot silently replace the source claim. [[canon|Authorial clarification]] governs intended meaning, while the interpretation and its supporting argument remain assessable.
 
 ## What VLS rules out on both sides
 
-VLS is positioned between two errors and rejects both. Against **absolutism** it says: *you do not possess truth or freedom* — there is no standpoint from which either is held whole. Against **nihilism** it says: *a semblance is not a lie; it is an appearance that participates in what it cannot exhaust* — so the absence of possession is not the absence of contact. Notably, VLS achieves this balance without committing to the stronger incoherence thesis the seed reached for. (By analogy, this is close to Wittgenstein's ladder — useful framing one climbs and then sets aside — but VLS keeps the modest middle and discards only the overclaim.)
+VLS is positioned between two errors and rejects both. Against **absolutism** it says: *you do not possess truth or freedom* — there is no standpoint from which either is held whole. Against **nihilism** it says: *a semblance is not a lie; it is an appearance that participates in what it cannot exhaust* — so the absence of possession is not the absence of contact. This balance establishes the positive role of semblance. It does not settle the separate interpretation of the seed’s unity and incoherence claims.
 
 ## Why VLS governs the whole framework
 
@@ -24,11 +26,11 @@ The deepest move is this: VLS *is the alethic axis of the treatise turned into d
 
 ## Common misreadings
 
-- VLS is *not* the claim that absolute truth and absolute freedom are jointly *incoherent*. That is the seed's contestable carving; the carried position is that they are jointly *unpossessable*.
-- The "shattered unity" image and the 1/0 arithmetic are signature framing, not doctrine — the canon does not carry them forward.
-- VLS is neither absolutism nor nihilism. A semblance is not a lie, and it is not a possession either.
+- Treating non-possession as loss of contact, accuracy, or freedom to participate. Semblance supports those capacities.
+- Treating joint unpossessability and joint incoherence as interchangeable. Their subjects and grounds must be distinguished.
+- Treating omission from a compact kernel as rejection of the source. Compression alone supplies no such verdict.
 
-> **Formal status.** Epistemic: the semblance-not-possession claim is **Derived, authority-canonical (AC)** — the only point on VLS common to seed, benchmark, and this edition; contestable by contesting the authority. Its carvings (shattered unity, arithmetic) are **Derived, seed-side (CV)** — contestable by counter-instance, not carried by the authority. Alethic: the core claim is the framework's most direct statement of the universal no-possession condition and aspires to map it accurately; the carvings carry low mapping-aspiration, while the jointly-unpossessable reading aspires to map the truth–freedom relation more modestly than the incoherence thesis. Provenance: **canonical core with seed-side carvings**; the jointly-unpossessable reading is a **treatise-side** attribution.
+> **E:** Derived, AC for the framework’s named VLS commitments; interpretations of the seed’s images and relations must state their grounds. **A:** maps accurate participation without possession while preserving the source distinctions that require explanation. **Provenance:** the seed passage reproduced above and kernel §§1.223–1.233. Earlier benchmark-based exclusions are not independent authority over the source.
 
 ## See also
 [[alethic-axis|The Alethic Axis]] · [[semblance|Semblance (not possession)]] · [[integrity-rule|The Integrity Rule]] · [[vls-as-desire|VLS as Desire]] · [[transparentocracy|Transparentocracy]] · [[derived|Derived (the single epistemic status)]] · [[authority-canonical-tier|Authority-Canonical Tier (AC)]] · [[four-operational-consequences|The Four Operational Consequences]] · [[axiom|The Axiom]] · [[textual-nephilim|The Textual Nephilim]]

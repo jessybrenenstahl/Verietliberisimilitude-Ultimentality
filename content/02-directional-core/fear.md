@@ -1,3 +1,21 @@
+---
+slug: fear
+title: Fear
+section: directional-core
+page_type: load-bearing
+formal_status:
+  epistemic: Derived
+  tier: AC
+  alethic: "the binding aspires to map Away regulating boundary violation; its object-relations are assessed separately from its composition"
+prerequisites: [away, predicate-binding]
+regulates: ["boundary violation treated as a primitive or feeling", "an object of Reconciliation treated as one of its components", "Fear granted a privileged relationship to Reconciliation"]
+regulated_by: [predicate-binding, submission]
+valid_attack: "Show that Fear is not the Away-bound regulation of boundary violation, or that a valid object of Reconciliation must be excluded merely because it is Fear."
+isolation_failure: "Without its binding, the name floats free of a regulated discrepancy; removing it from Submission removes the boundary-regulating contribution to that composite, without invalidating its independent operation."
+kill_condition: "A distinct functional binding performs the claimed boundary regulation without Away, or the unrestricted-object account of Reconciliation cannot admit Fear without changing its composition."
+see_also: [away, predicate-binding, submission, reconciliation, love]
+application_tags: []
+---
 [[home|← Ultimentality Wiki]]
 
 # Fear

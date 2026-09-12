@@ -31,7 +31,7 @@ The framework distinguishes directional operations from their bindings:
 | Loop-back | [[apology|Apology]] |
 | Propagation | [[gratitude|Gratitude]] |
 
-A binding `B(p) = (p, eₚ)` joins an actuator to the regulated error that gives its operation specificity. These are functional proposals, not permission to infer every person's experience from a label. [[submission|Submission]] emerges through Love and Fear; [[reconciliation|Reconciliation]] through Apology and Gratitude. Reconciliation can concern any object. Fear has no privileged place among its objects, and gratitude need not wait for an admission of blame.
+A binding `B(p) = (p, eₚ)` joins an actuator to the regulated error that gives its operation specificity. These are functional proposals, not permission to infer any carrier's experience from a label. [[submission|Submission]] emerges through Love and Fear; [[reconciliation|Reconciliation]] through Apology and Gratitude. Reconciliation can concern any object. Fear has no privileged place among its objects, and gratitude need not wait for an admission of blame.
 
 [[splcw|SPLCW]] locates five functions in participation:
 
@@ -49,6 +49,10 @@ The [[telos|Telos]] is answerable symbolic continuation: meaning carried forward
 [[semantic-closure-and-recursive-marking|Closure and marking]] keep correction within meaning while keeping accounts of meaning correctable. Closure alone is no proof that review terminates; [[correction-without-regress|a usable stopping condition]] allows a correction to finish. [[outcomes-of-attack|Evidence]] can justify confidence, revision, status change, or retention. It can also remain inconclusive. No result acquires immunity merely by surviving.
 
 The [[ultimental-kernel|kernel]] compresses this architecture for reconstruction. Its fidelity, minimality, and domain reach are distinct questions. Use the [[system-invariants|checklist]], [[attack-surface-matrix|attack index]], and [[decompression-map|map]] to expand the short form; use the actual source arguments and evidence to judge it.
+
+## Formal status
+
+> **E:** Derived, Exposition — a compact orientation that restates linked relations and adds no new invariant. **A:** aims to let a competent reader recover the architecture's load-bearing distinctions, including unrestricted Reconciliation objects, without treating brevity as proof of completeness. **Provenance:** treatise-side reconstruction of the current wiki and kernel.
 
 ## See also
 

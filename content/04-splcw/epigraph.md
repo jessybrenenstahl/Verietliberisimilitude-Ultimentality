@@ -12,11 +12,11 @@ The aphorism gathers four figures the framework openly draws on, each contributi
 - **Floor = [[warden|Warden]].** Heidegger's floor is the ground of already-being-here: *thrownness*, the condition of finding oneself cast into a world and a boundary one did not choose. The Warden is exactly that threshold you operate *against* rather than select.
 - **Nails = [[captive|Captive]].** Christ's nails are a fastening that is also a wound — the faculties that hold whether or not you consent. The Captive, the involuntary core, is held in place the way a nailed thing is held: not by agreement.
 - **Hammer = [[poet|Poet]].** Nietzsche's hammer, read correctly, is *not only* the hammer that smashes idols but the **tuning fork** struck against an idol to hear whether it rings hollow. That listening-by-striking is symbolic transduction — the Poet's work of making structure resonate and testing whether it rings true.
-- **Pinning = [[sculptor|Sculptor]].** The one element that is not a noun but a gerund — an *act*, the thing happening rather than standing. The Sculptor externalizes, alters the world, leaves a trace; and because an act in the present progressive is never finished, pinning is what holds the whole figure open.
+- **Pinning = [[sculptor|Sculptor]].** The one element that is not a noun but a gerund — an *act*, the thing happening rather than standing. The Sculptor externalizes, alters the world, and leaves a trace. The gerund presents that work in motion within the figure; it does not establish that every act is endless or that no instance can complete. Pinning holds the figure open because its trace can return as a changed field.
 
 ## Why the verb matters
 
-The choice of *pinning* over *pin* is doing structural work, not stylistic work. Four of the elements stand still — a ladder, a floor, nails, a hammer are all things — while the fifth is caught mid-motion. That is why the figure cannot resolve into a finished diagram: the [[sculptor|Sculptor]]'s act is always underway, so there is never a moment at which the construction is complete and set down. The epigraph thereby enacts, in its grammar, the framework's refusal to close itself.
+The choice of *pinning* over *pin* is doing structural work in the image, not proving a universal law about duration. Four of the elements stand still — a ladder, a floor, nails, a hammer are all things — while the fifth is shown mid-motion. The figure therefore resists being read as a finished diagram while the act is being depicted; a particular act may still complete, and its trace may continue to condition what returns. The epigraph enacts openness to continuation in its grammar without turning completion into a taboo.
 
 ## From a row to a ring
 
@@ -26,13 +26,13 @@ The five elements are not a left-to-right list. The treatise insists the figure 
 
 - Taking the mapping as **authority-canonical doctrine**. It is treatise-side: a reading, contestable both by counter-instance and simply by *declining the reading*.
 - Hearing Nietzsche's hammer only as a weapon. The framework reads it as a **tuning fork** — diagnosis by resonance — which is why it fits the [[poet|Poet]] and not, say, the destroyer's faculty.
-- Mistaking the four still elements and the one moving one as interchangeable. The gerund **pinning** is deliberately the act that keeps the figure from ever closing.
+- Mistaking the four still elements and the one moving one as interchangeable. The gerund **pinning** depicts the act that keeps the figure open to return; it is not a universal non-termination theorem. Recurrence follows from the changed-world path, not from the tense of a word.
 - Taking the faculty-mapping as the *only* reading. A second, **telos-level** construal of the same figure (will / reconciliation / transcendable-apparatus / Being) is given in [[matter-meaning-cycle|the matter–meaning cycle]]; both are treatise-side.
 
 > **Formal status.** E: Derived, [[carving-tier|carving]] — a reading of an aphorism, contestable by counter-instance or by declining the reading. A: the one-to-one mapping aspires to map the five faculties onto the figure illuminatingly; it is one apt construal, not a possession of the aphorism's meaning. Provenance: **treatise-side** — the epigraph and the entire reading-apparatus built on it are explicitly the writer's scaffolding, not [[authority-canonical-tier|authority-canonical]].
 
 ## See also
-- [[the-ring|The Ring]] — the epigraph read as a non-terminating ring
+- [[the-ring|The Ring]] — the epigraph read as an open recurring ring
 - [[splcw|SPLCW]] — the five faculties the epigraph maps onto
 - [[warden|The Warden]] — the Floor (Heidegger's thrownness)
 - [[logician|The Logician]] — the Ladder (Wittgenstein's, climbed and discarded)
@@ -41,5 +41,5 @@ The five elements are not a left-to-right list. The treatise insists the figure 
 - [[sculptor|The Sculptor]] — the Pinning, the act that holds the figure open
 - [[operator-chain|The Operator Chain]] — the same loop given as canonical order
 - [[witness-outside-the-ring|The Witness Outside the Ring]] — the answerability the figure cannot self-supply
-- [[textual-nephilim|The Textual Nephilim]] — calling the figure "closed" is its corruption
+- [[textual-nephilim|The Textual Nephilim]] — mistaking the figure for final authority is the relevant corruption
 - [[matter-meaning-cycle|The Matter–Meaning Cycle]] — a telos-level reading of the same figure

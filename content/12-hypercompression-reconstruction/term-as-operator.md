@@ -6,7 +6,7 @@ page_type: load-bearing
 formal_status:
   epistemic: Derived
   tier: CV
-  alethic: accurate exactly insofar as removing each flagship term loses a stated operational constraint
+  alethic: "maps the identifiable transformations, distinctions, or decisions guided by a concept in use, including when another expression preserves that work"
 prerequisites: [hypercompression, ultimental-kernel]
 regulates: [coinage-without-constraint, sloganization]
 regulated_by: [self-sealing-test, derived, semantic-closure-and-recursive-marking]
@@ -33,6 +33,8 @@ A **term functions as an operator** when its defined use guides a transformation
 ## Test the work, not the prestige of the word
 
 Specify what changes when the concept is used correctly. Substitute another expression and see whether the relevant distinctions survive. If they do, the concept has been translated. If no operative difference can be identified at all, the claim that the term does special work needs revision. Clarity, learnability, and avoidable ambiguity are relevant criticisms of vocabulary.
+
+Test application separately from definition: in a fresh case, identify the distinction, inference, or action the concept guides and the grounds for it. Correctly reciting its definition establishes neither that use nor the correctness of the resulting judgment; a justified decision to retain an existing course can also demonstrate its operation. This applies the [[minimal-rebuild-string|distinction between reconstruction and enactment]] to individual terms.
 
 **E: Derived, CV. A:** the account concerns how terms actually guide use. Neither a new word nor a useful distinction proves the framework's world-mapping claims. [[hypercompression|Compression]] benefits from memorable shorthand only when its [[minimal-rebuild-string|expansion]] remains available and faithful.
 

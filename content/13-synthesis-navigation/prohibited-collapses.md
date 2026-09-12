@@ -26,6 +26,18 @@ These distinctions protect meaning during compression. They do not imply that th
 
 A distinction should guide examination, not exclude relevant evidence by label. [[same-level-attack-rule|Show how a concrete observation bears on the actual claim]]. A proposed collapse is an error only where it erases a difference the account needs; equivalence established under specific conditions can be a valid result.
 
+## Data contract and scope boundary
+
+The generated rows carry the two sides, the damage named by their collapse, and the bridge page that supplies the distinction. They do not encode every type, level, regulator, or application condition in the table itself. Those dimensions remain on the linked source pages and in the procedures below. A row is therefore a routing handle for a scoped examination, not a complete proof that the paired terms are always distinct.
+
+## Applying a distinction
+
+For each row, state the two sides at the same level, identify the bridge page that gives the distinction work, and test whether the proposed equivalence erases a required function. If the functions remain distinct only in one application, scope the row to that application. If an equivalent implementation preserves the regulated function, record the equivalence rather than treating the row as a taboo.
+
+## Formal status
+
+> **E:** Derived, Exposition — a revisable index of type boundaries used during reconstruction. **A:** each row aims to identify a real loss of functional information when the named sides are collapsed, while allowing scoped equivalence. **Provenance:** treatise-side generated reference surface linked to the current bridge pages.
+
 ## See also
 
 [[category-error-atlas|The Category-Error Atlas]] · [[same-level-attack-rule|The Same-Level Attack Rule]] · [[attack-type-matching|Attack-Type Matching]] · [[interaction-matrix|The Interaction Matrix]] · [[system-invariants|System Invariants]] · [[two-axis-ledger|The Two-Axis Ledger]]

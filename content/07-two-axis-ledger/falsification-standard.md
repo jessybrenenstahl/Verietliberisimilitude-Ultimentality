@@ -30,8 +30,8 @@ The falsification standard turns the desire for accuracy into a capacity to exam
 
 The three gates decide *admission*; a further discipline governs *refutation itself*, so the standard cannot be dodged by a well-aimed objection landing in the wrong place, nor by a missed objection being laundered into support. The following requirements govern how an attack is formulated, evaluated, and recorded. Naming a valid target admits examination; a demonstrated failure of the claim warrants a change. The outcome is classified after that examination:
 
-1. **The attack type matches the claim type.** A frame condition is contested by frame declension or internal incoherence; a carving or count by counter-instance or a better carving; a binding by a wrong actuator, error, or causal effect; a coupled controller by a removal test. Pairing attack to claim is what [[attack-type-matching|attack-type matching]] tabulates.
-2. **The attack occurs at the same abstraction level.** A process offered against an operator, a substrate against a function, a token against a type, does not reach the claim — the [[same-level-attack-rule|same-level attack rule]].
+1. **The examination addresses the claim’s commitments.** Relevant routes include premises, inference, application, counter-instances, better carvings, misidentified bindings, and controlled removal tests. A claim can expose several routes; [[attack-type-matching|attack-type matching]] supplies examples rather than exclusive permissions.
+2. **The attack reaches the asserted relation.** Establish how the evidence bears on the claim and its scope. A process can test an operator's claimed behavior, a substrate can test a realization claim, and a token can test a type's prediction; merely substituting one target for another does not refute it — the [[same-level-attack-rule|same-level attack rule]].
 3. **The target formulation is explicit.** The attacker names the exact sentence, notation, or relation under fire, so that what would change is unambiguous.
 4. **A possible causal effect is defined.** The attack states what it would revise, inhibit, delete, retype, or demote; a governed system that cannot respond to a warranted refutation lacks effective uptake; its refusal does not invalidate the refutation — the demand of [[causal-falsifiability|causal falsifiability]].
 5. **The outcome is classified as deletion, revision, retyping, or invariant recognition.** Record the applicable dispositions alongside the evidential result; the categories can overlap — the [[outcomes-of-attack|outcomes of attack]].
@@ -45,6 +45,10 @@ This expansion is itself [[derived|Derived]], held contestable at the [[carving-
 
 The standard is an operation whose content-bearing rules and descriptions are themselves marked. Calling the operation a gate does not exempt those propositions. [[self-application|Self-Application]] preserves the distinction between performing a check and asserting that the check is adequate; both the rule and its adequacy claim remain open to effective correction.
 
+The gate performs a check, while claims about its adequacy receive the check. Its implementation is answerable where evidence can revise its criteria and decisions. A challenge should identify an invalid inference, misclassification, or obstruction to that revision; [[self-application|Self-Application]] supplies the review procedure.
+
+## Formal status
+
 > **E:** Derived; the acceptance protocol is a CV specification under the framework's marking discipline. **A:** maps whether a claim can be examined and a demonstrated failure can change it. **Provenance:** operational exposition of the framework's falsifiability and self-application commitments.
 
 ## See also
@@ -52,7 +56,7 @@ The standard is an operation whose content-bearing rules and descriptions are th
 - [[vls-as-desire|VLS as Desire]] — the corrigibility gate, the desire to be proven wrong made operable.
 - [[transparentocracy|Transparentocracy]] — the witness gate, no self-certification from inside.
 - [[two-axis-ledger|The Two-Axis Ledger]] — the source of the two-axis gate.
-- [[open-proof-burden|The Open Proof-Burden]] — the benchmark authority licensing the demotions.
+- [[open-proof-burden|The Open Proof-Burden]] — the arguments still needed for completeness claims.
 - [[the-2026-adversarial-run|The 2026 Adversarial Run]] — records proposed closure challenges.
 - [[textual-nephilim|The Textual Nephilim]] — the breakage the gates forbid.
 - [[keystone|The Keystone]] — the standing the gate secures.

@@ -11,7 +11,7 @@ prerequisites: [predicate-binding, regulated-error-signal, answerability-predica
 regulates: ["ornamental humility (marking that cannot move what it marks)", answerability-predicate, integrity-rule]
 regulated_by: [two-mark-system, semantic-closure-and-recursive-marking, scar-record, capture-of-corrective-layer]
 valid_attack: "Exhibit a marked claim whose error can never, even in principle, alter any relevant operation while still functioning as genuine answerability rather than decoration."
-isolation_failure: "Causal force without marking becomes untracked volatility; marking without causal force becomes ornamental humility."
+isolation_failure: "Changes without an accountable relation to their grounds risk untracked volatility; missing history alone does not establish that failure. Marking without a reachable corrective effect becomes ornamental humility."
 kill_condition: "The framework treats recorded error as answerability despite a permanently closed update path."
 see_also: [predicate-binding, regulated-error-signal, answerability-predicate, effective-and-ornamental-answerability, capture-of-corrective-layer, causal-falsifiability, outcomes-of-attack, necessary-seam, two-mark-system, scar-record, totalization-boundary, integrity-rule]
 application_tags: []
@@ -44,9 +44,9 @@ For auditable correction, the proposed pathway makes causal force traceable:
 2. error is preserved without suppression
 3. error reaches the governing decision or formulation
 4. a defined change is possible
-5. the resulting change and residual error are recorded
+5. the resulting revision or justified retention, its grounds, and residual error are recorded
 
-The load-bearing word in step 4 is *possible*. The requirement is on the existence of the path, not on its constant firing: a claim may be correct and its error term quiescent, and the mark is still answerable so long as a `Delta(p)` remains reachable. Step 5 closes the loop back onto marking — the change and its residue are themselves logged — so that causal force never becomes untracked mutation.
+The load-bearing word in step 4 is *possible*. The requirement is on the existence of the path, not on its constant firing: a claim may be correct and its error term quiescent, and the mark is still answerable so long as a `Delta(p)` remains reachable. Step 5 closes the loop back onto marking — the disposition, its grounds, and its residue are themselves logged — so that causal force never becomes untracked mutation.
 
 ## Type and formal status
 
@@ -60,7 +60,7 @@ It regulates the excess of **ornamental humility**: marking that is present, sin
 
 ## What regulates it
 
-Marking regulates it back. Causal force with no preserved trace is **untracked volatility**: a system that moves under pressure but cannot say what moved, or why, and so cannot be held to any of it. The [[two-mark-system]] and recursive marking ([[semantic-closure-and-recursive-marking]]) keep every `Delta(p)` typed, logged, and reopenable; the [[scar-record]] preserves the minimum visible trace of why a present constraint exists, so a landed correction can be told from drift. And [[capture-of-corrective-layer]] names the way an apparently live pathway is neutralized without deleting a single step: the error is detected, preserved, and routed to the governing layer, but the governing layer neutralizes the relevant corrective influence. Internal control alone does not establish neutralization. This page's requirement is therefore **necessary but not sufficient** against capture — it is one seam in the wider anti-capture architecture ([[totalization-boundary]]), not the whole of it.
+Marking regulates it back. A preserved trace supports attribution and later review of causal change. Missing history limits that review; it does not by itself establish volatility or erase the corrective effect. Untracked volatility arises where changes lack an accountable relation to their grounds. The [[two-mark-system]] and recursive marking ([[semantic-closure-and-recursive-marking]]) keep every `Delta(p)` typed, logged, and reopenable; the [[scar-record]] preserves the minimum visible trace of why a present constraint exists, so a landed correction can be told from drift. And [[capture-of-corrective-layer]] names the way an apparently live pathway is neutralized without deleting a single step: the error is detected, preserved, and routed to the governing layer, but the governing layer neutralizes the relevant corrective influence. Internal control alone does not establish neutralization. This page's requirement is therefore **necessary but not sufficient** against capture — it is one seam in the wider anti-capture architecture ([[totalization-boundary]]), not the whole of it.
 
 ## Valid attack surface
 

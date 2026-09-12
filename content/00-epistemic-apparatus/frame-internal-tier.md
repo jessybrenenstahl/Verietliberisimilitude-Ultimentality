@@ -26,7 +26,7 @@ A valid consequence of stipulated premises does not by itself establish that tho
 
 ## Formal status
 
-> **Formal status.** *Expository tier-term: FT names a position on the epistemic axis rather than asserting a load-bearing claim of its own.* Claims *placed* at FT carry the epistemic mark **E: Derived, FT — contestable by declining the frame or showing internal incoherence**; their alethic accuracy is marked independently and may still be in question. Provenance: **canonical** — the tier is benchmark-fixed, part of the controlling apparatus (Preamble contestability gradient; Two-Axis Ledger tier key, Part VII).
+> **E:** Derived, Exposition of the FT tier. **A:** distinguishes valid entailment from an asserted tier label and from accurate application. The definitions and claims used in this exposition remain assessable. **Provenance:** the framework’s contestability distinction and kernel §0.21.
 
 ## See also
 

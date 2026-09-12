@@ -12,7 +12,7 @@ regulates: [silent-symmetry-assumption, inference-of-couplings-from-scattered-pa
 regulated_by: [system-invariants, attack-surface-matrix, interaction-matrix]
 valid_attack: "Exhibit a coupling the source pages assert that the graph omits, or an edge the graph draws that no source page's regulation supports."
 isolation_failure: "A graph without its text alternative and data source becomes a picture that cannot be checked against the pages it claims to render."
-kill_condition: "The rendering asserts a coupling, direction, or emergent property the linked pages do not support — and the discrepancy cannot change the graph."
+kill_condition: "The rendered relation, direction, or emergent property misrepresents its source, or a demonstrated discrepancy cannot change the graph."
 see_also: [interaction-matrix, attack-surface-matrix, system-invariants, decompression-map, reciprocal-attack-surfaces, force]
 application_tags: []
 ---

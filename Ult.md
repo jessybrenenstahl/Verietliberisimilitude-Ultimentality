@@ -90,7 +90,7 @@ Ultimentality is a framework for the moral agentic actor: the meaning-maker part
 
          **1.131** Closure fixes the kind of access available.
 
-         **1.132** Completeness would claim that a finite formulation exhausts its object.
+         **1.132** Completeness concerns coverage of a stated object or task; it requires its own grounds and does not confer immunity to correction.
 
          **1.133** The first does not entail the second.
 
@@ -658,6 +658,8 @@ Ultimentality is a framework for the moral agentic actor: the meaning-maker part
 
    **10.73** Open finite participation emerges from their coupling.
 
+   **10.74** No exemption governs every content-bearing proposition; the marking operation is examined through its rules, decisions, and effective paths for correction.
+
 **10.8 Self-application is a dynamic fixed point.**
 
    **10.81** `Mₜ(Mₜ) = Mₜ₊₁`.
@@ -764,7 +766,7 @@ Ultimentality is a framework for the moral agentic actor: the meaning-maker part
 
       **12.33** Reconstruction may not depend on hidden context unavailable to the rebuilder.
 
-   **12.4** The System Invariants index relations the present framework intends reconstruction to preserve; claims of individual necessity require their own evidence, including:
+   **12.4** The [[system-invariants|System Invariants]] index relations the present framework intends reconstruction to preserve; its crosswalk maps each kernel relation to a practical review row without erasing distinctions. Claims of individual necessity require their own evidence, including:
 
       **12.41** no extra-symbolic participant-access;
 
@@ -796,7 +798,7 @@ Ultimentality is a framework for the moral agentic actor: the meaning-maker part
 
 **13.0 Ultimentality is embodied, answerable participation oriented toward continuable meaning.**
 
-   **13.1** The participant is embodied where it has mediated ingress, bounded effectors, persistent state, real constraints, and a return channel it does not wholly author.
+   **13.1** The participant is embodied where it has mediated ingress, bounded effectors, persistent state, real constraints, and a return channel it does not wholly author. *Embodied* names this bounded, returned participation; it does not select a biological, computational, or other carrier class.
 
    **13.2** It becomes an actor through boundary and world-mutation.
 

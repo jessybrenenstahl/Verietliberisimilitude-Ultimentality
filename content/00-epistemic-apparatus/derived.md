@@ -22,22 +22,27 @@ Prior editions ran a two-tier *Forced / Derived* ledger. This edition removes th
 
 One route back to bedrock is subtler than a reserved ledger row, and closing it completes the abolition. The [[axiom|Axiom]]'s condition — that all participant-access is symbolically mediated — is *constitutively unavoidable*: one cannot step outside it even to deny it, since the denial is itself symbolically mediated. It is tempting to hear "cannot be escaped" as "forced," and "forced" as licence to exempt the condition from derivation. The inference fails. Unavoidability is a property of the *condition*; **Derived** is the status borne by every finite *statement* of it, and a statement does not inherit exemption from the inescapability of what it is about. This is the distinction drawn in [[frame-condition-and-formulation|frame condition and formulation]]: the condition may be unavoidable while each finite formulation of it — this sentence, this wording of the Axiom, this model of "symbolic" — remains Derived, mortal, and open to narrowing, replacement, or a better carving. To let the condition's inescapability rub off on its formulations would smuggle the abolished "Forced" tier back in under the condition's authority: the [[textual-nephilim|textual Nephilim]] wearing a new name. So unavoidability changes only *what it costs* to challenge a formulation — one may decline the frame or demonstrate internal incoherence; a counter-instance to a purported entailment tests whether it follows from the stated premises — never *whether* one may.
 
-## The one apparent exception
+## The apparent exception: operation and formulation
 
-There is exactly one thing that is *not* a derived claim — and it is no foundation either. The [[bare-operation-of-inference|bare operation of inference]], the medium in which derivation happens, carries no content and asserts nothing, so it is not a term anything can rest *on*. It is the river, not a stone in it. Naming it does not reopen a back door to bedrock; it closes the last one.
+There is one apparent exception at the level of **type**: the [[bare-operation-of-inference|bare operation of inference]] is not a derived claim because it is an act, not a proposition. It is no foundation; no claim rests on it. The distinction is between the operation in which derivation occurs and the finite formulations that describe it.
+
+Every content-bearing description of the operation remains a claim. Statements that access is symbolic, that inference carries no propositional content, that marks govern claims, or that a rule is reliable are all formulations available to evaluation and revision. They are Derived and receive the appropriate contestability and accuracy marks. Naming the operation therefore creates no unmarked proposition and no extra-symbolic source.
+
+The type distinction keeps inference usable while its descriptions remain answerable. [[self-application|Self-Application]] also examines whether the implemented rules can be corrected. A specific blocked correction path or invalid inference warrants revision; the distinction between operation and proposition alone does not establish an exempt level.
 
 ## Common misreadings
 
 - Hearing "Derived" as "probably wrong" or "merely optional." That collapses the epistemic axis into the [[alethic-axis|alethic axis]] — the exact error the [[two-mark-system|two-mark system]] exists to block. Derived claims can be maximally accurate.
 - Thinking single-status means all claims are equally easy to attack. It does not; see the gradient.
+- Treating the operation/formulation distinction as an exemption for descriptions of the operation. The act and its accounts have different types, but the accounts remain Derived and answerable.
 - Treating the abolition of "Forced" as a softening. It is the framework holding itself to its own rule.
 
-> **Formal status.** *Preamble (Part 0a).* This page describes the *frame* in which load-bearing claims receive their marks; the single-status declaration is a structural rule, not itself a world-mapping claim, so it carries the [[two-mark-system|two-mark]] apparatus rather than asserting through it.
-> Provenance: **canonical** — entailed by the benchmark-fixed [[axiom|Axiom]]; the abolition of the "Forced" tier overrides the prior ledger-edition.
+> **Formal status.** *Preamble (Part 0a).* This page describes the *frame* in which load-bearing claims receive their marks; the single-status declaration and its content-bearing descriptions remain Derived and answerable. The operation/formulation distinction is an exposition of how the apparatus works, with its implementation subject to examination (see [[self-application|Self-Application]]).
+> Provenance: **canonical** for the declared single-status rule — entailed by the benchmark-fixed [[axiom|Axiom]]; the abolition of the "Forced" tier overrides the prior ledger-edition.
 
 ## See also
 - [[axiom|The Axiom]] — entails the single Derived status.
-- [[bare-operation-of-inference|The Bare Operation of Inference]] — the one non-derived thing, yet no foundation.
+- [[bare-operation-of-inference|The Bare Operation of Inference]] — the operation/formulation distinction, with no foundation or exempt description.
 - [[textual-nephilim|The Textual Nephilim]] — why a "Forced" tier had to be abolished.
 - [[frame-condition-and-formulation|Frame Condition and Formulation]] — the unavoidable condition versus its Derived finite formulations.
 - [[contestability-gradient|The Contestability Gradient]] — how Derived claims still differ in exposure.

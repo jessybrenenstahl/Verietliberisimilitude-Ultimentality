@@ -2,7 +2,7 @@
 
 # The Directional Primitives
 
-**The directional primitives** are the four most basic moves that any single step of a self-transforming system can make — *toward, away, loop-back,* and *propagation* — understood not as feelings, images, or metaphors but as bare structural operators: the directional "verbs" out of which everything richer in the framework is built. They are the bottom rung of [[ultimental-life|Ultimental Life]]'s architecture. When you hear their names and picture an emotion (drawing near, recoiling, turning inward, reaching out), you are hearing the *gloss* — the human echo — not the thing itself. The thing itself is unexperienced structure.
+**The directional primitives** are the four most basic moves that any single step of a self-transforming system can make — *toward, away, loop-back,* and *propagation* — understood not as feelings, images, or metaphors but as bare structural operators: the directional "verbs" out of which everything richer in the framework is built. They are the bottom rung of [[ultimental-life|Ultimental Life]]'s architecture. When their names evoke an emotion (drawing near, recoiling, turning inward, reaching out), that is the *gloss* — an expository echo — not the thing itself. The thing itself is unexperienced structure.
 
 ## What the four are
 

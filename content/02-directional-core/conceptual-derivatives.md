@@ -2,7 +2,7 @@
 
 # Conceptual Derivatives
 
-The **conceptual derivatives** are the four ordinary-language nouns the framework allows you to *talk with* but not to *build from*: **towardness, awayness, inwardness, outwardness.** They are human-readable abstractions drawn from the bound primitives — handy labels for the directional character of a move — and the seed flags them explicitly as **not primitive**. They give the framework a vocabulary a person can actually use in a sentence, while making sure that convenience never gets mistaken for foundation. A derivative is a name; the operator it names is the real thing.
+The **conceptual derivatives** are the four ordinary-language nouns the framework allows a participant to *talk with* but not to *build from*: **towardness, awayness, inwardness, outwardness.** They are readable abstractions drawn from the bound primitives — handy labels for the directional character of a move — and the seed flags them explicitly as **not primitive**. They give the framework a vocabulary a participant can use in a sentence, while making sure that convenience never gets mistaken for foundation. A derivative is a name; the operator it names is the real thing.
 
 ## Where they sit in the order
 

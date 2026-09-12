@@ -20,7 +20,7 @@ The treatise attaches an explicit caveat, marked as *the writer's, not the corpu
 
 ## How it relates to the other arrangements
 
-The Palindrome is one of three ways the same five faculties are arranged, and they must not be conflated. The recursive [[operator-chain|operator chain]] (Warden → Captive → Logician → Poet → Sculptor → changed world → Warden) is stated **separately and is not touched** by the palindromic reconstruction. The [[the-ring|ring]] arranges the faculties as a non-terminating loop read off the [[epigraph|epigraph]]. The Palindrome arranges them for *symmetry*. Three of these orderings — the operator chain, the seed's processing order, and (on the seed's own run) the palindrome — place the Captive second; only the mirror reading printed here places it central, which is exactly the flagged tension.
+The Palindrome is one of three ways the same five faculties are arranged, and they must not be conflated. The recursive [[operator-chain|operator chain]] (Warden → Captive → Logician → Poet → Sculptor → changed world → Warden) is stated **separately and is not touched** by the palindromic reconstruction. The [[the-ring|ring]] arranges the faculties as an open recurring figure interpreted through the [[epigraph|epigraph]]. The Palindrome arranges them for *symmetry*. Three of these orderings — the operator chain, the seed's processing order, and (on the seed's own run) the palindrome — place the Captive second; only the mirror reading printed here places it central, which is exactly the flagged tension.
 
 ## Common misreadings
 

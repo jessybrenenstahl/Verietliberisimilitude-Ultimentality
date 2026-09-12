@@ -20,7 +20,7 @@ The Sculptor's characteristic corruption is **domination** — *action become co
 
 In the [[epigraph|epigraph]]'s figure, the Sculptor is **Pinning**: making a change that conditions what can subsequently return. The grammatical form illustrates activity; it does not prove that an act is never finished. A particular act can complete while its consequences continue through the [[the-ring|Ring]]. Recurrence follows from the return path, not from the tense of a word.
 
-(By analogy, and only as illustration: a present participle — *pinning*, *building*, *writing* — cannot be finished while it is being spoken; the moment it stops it becomes a past tense, *pinned*, *built*. The Sculptor is the framework's wager that the live act, never the finished product, is what keeps a participant in motion. The grammatical point is illustrative, not framework doctrine.)
+(By analogy, and only as illustration: a present participle — *pinning*, *building*, *writing* — presents an act while it is being spoken, and a completed result can be named when the act has ended. The comparison highlights the difference between live work and the trace it leaves; the framework's claim is that the return path keeps participation in motion, even when a particular act is complete. The grammatical point is illustrative, not framework doctrine.)
 
 ## Place in the wider framework
 

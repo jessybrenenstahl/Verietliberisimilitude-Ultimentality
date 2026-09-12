@@ -87,16 +87,16 @@ An attack that merely re-states that the terms refer to each other is *not* a va
 
 ## What happens if isolated
 
-Split the coupling that constitutes this page — criteria on one side, removal test on the other — and it degrades in exactly the two ways it warns about.
+The criteria and removal test address two risks. Assess the actual use of each; an omitted procedure does not by itself establish either failure.
 
 - **Criteria without the test → a stamp.** The four criteria, applied by inspection alone, certify every favored pairing as "necessary architecture." Necessity becomes rhetorical, and any coupling can be promoted beyond deletion. This is [[absolutization|absolutization]] by classification — the totalizing failure.
 - **The test without the criteria → uninterpretable ablation.** Removals are performed with no account of what a distinct isolation failure *is*, so their results cannot be read. Every deletion "loses something" or "loses nothing" with no principle to adjudicate — a regress of inconclusive experiments.
 
-That these two failures are the totalizing and the regressive failure is not a coincidence: this page instantiates the very pattern it defines. Its founding case is the closure/marking pair, whose isolation failures are exactly [[closure-without-totalization|totalization]] and [[correction-without-regress|regress]].
+These risks motivate the combination of explicit criteria and discriminating tests. The closure/marking case applies that method to [[closure-without-totalization|totalization]] and [[correction-without-regress|regress]]; it requires the same evidence rather than validating this method by analogy alone.
 
 ## What larger property emerges from the coupling
 
-From criteria `⊕` removal-test emerges **diagnosable, falsifiable necessity**: the framework can assert that a structure is *necessary architecture, not circular proof* as a claim that could be wrong and would reveal its wrongness through a passed removal test. Without the coupling there is only unfalsifiable necessity-talk (criteria alone) or blind ablation (test alone).
+From criteria `⊕` removal-test emerges **diagnosable, falsifiable necessity**: the framework can assert that a structure is *necessary architecture, not circular proof* as a claim that could be wrong and would reveal its wrongness through a passed removal test. Criteria state what is being tested, and removal tests can establish a dependency within specified conditions. Other sound arguments may also establish necessity; the absence of this particular procedure does not make every assessment empty.
 
 Applied to the founding instance, the emergent property is the coupled foundation named on [[no-escape-no-exemption|its own page]]:
 

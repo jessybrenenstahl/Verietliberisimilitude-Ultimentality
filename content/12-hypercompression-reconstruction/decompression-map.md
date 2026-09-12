@@ -35,6 +35,21 @@ A rigorous derivation must name its premises and inference. A reading order is n
 
 For maintained relations use [[coupling-graph|the coupling graph]] and [[interaction-matrix|the interaction index]]. A missing diagram edge is a documentation gap unless evidence establishes a missing relation in the framework itself.
 
+The map uses two edge classes. A **derivation edge** records a conceptual dependency to reconstruct; an **operational return** records consequence, correction, and renewed action through changed conditions. The same page can participate in both classes without making the return a premise or making a reading order a proof. Keep the classes separate when recording evidence.
+
+## Reconstruction procedure
+
+1. **State the target.** Begin with the kernel or page whose relation is being reconstructed, and name the scope of the claim.
+2. **Follow derivation edges.** Record the premises and inference that lead from the Axiom through VLS, binding, coupling, participation, and continuation. An arrow records a dependency to examine; it does not by itself prove the destination.
+3. **Follow operational edges separately.** Trace the SPLCW return, correction, consequence, and renewed action as a cycle. Do not fold feedback into the acyclic derivation path.
+4. **Check the seam.** Compare the result with [[system-invariants|System Invariants]], using its kernel crosswalk to check every atomic 12.41–12.412 relation, then compare the source pages and declared tolerance. A missing detail is a fidelity defect only when it removes a required function or distinction under that use.
+
+This procedure restores the map's lost operational distinction without treating one reading order as the framework's only valid decomposition.
+
+## Formal status
+
+> **E:** Derived, Exposition — a reconstruction and reading map whose edges remain contestable. **A:** aims to preserve the distinction between conceptual dependency, operational feedback, and application-specific evidence. **Provenance:** treatise-side navigation derived from the kernel and linked source pages.
+
 ## See also
 
 [[hypercompression|Hypercompression]] · [[ultimental-kernel|The Ultimental Kernel]] · [[minimal-rebuild-string|The Minimal Rebuild String]] · [[coupling-graph|The Coupling Graph]] · [[system-invariants|System Invariants]] · [[interaction-matrix|The Interaction Matrix]] · [[semantic-closure-and-recursive-marking|Semantic Closure and Recursive Marking]] · [[description-length-and-explanatory-surface|Description Length and Explanatory Surface]] · [[reader-paths|Reader Paths]]

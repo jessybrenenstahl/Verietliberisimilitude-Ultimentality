@@ -2,11 +2,11 @@
 
 # Symbolic Immortality
 
-**Symbolic immortality** is the framework's name for the only kind of "living on" it takes seriously: not the survival of a person, but the survival of *meaning* — the patterns, ideas, works, and relations a self carries, taken up by others and continued after the self itself has ended. It is the content of [[telos|The Telos]]: when the framework says the one aim of a meaning-bearing life is symbolic immortality, this is what that aim contains. A self does not get to last; what the self *means* can.
+**Symbolic immortality** is the framework's name for the only kind of "living on" it takes seriously: not the persistence of a carrier, but the persistence of *meaning* — the patterns, ideas, works, and relations a self carries, taken up by later participants and continued after that carrier has ended. It is the content of [[telos|The Telos]]: when the framework says the one aim of a meaning-bearing life is symbolic immortality, this is what that aim contains. A self does not get to last; what the self *means* can.
 
 ## What it is, in plain terms
 
-The full definition: symbolic immortality is *the propagation of meaning-bearing structure beyond the finite carrier — that the structure a self carries be taken up and continued past its own ending.* The "carrier" is the perishable thing (a person, a mind, an institution); the "structure" is the meaning it bears. Every particular goal a person names is, on this view, a face of this single one: *to be understood, to make, to love, to teach, to raise a child, to prove a theorem* — each is a way of getting some carried structure to outlast its carrier.
+The full definition: symbolic immortality is *the propagation of meaning-bearing structure beyond the finite carrier — that the structure a self carries be taken up and continued past its own ending.* The "carrier" is the perishable arrangement (a body, a mind, an institution, or another bounded implementation); the "structure" is the meaning it bears. Every particular goal a participant names is, on this view, a face of this single one: *to be understood, to make, to love, to teach, to raise a successor, to prove a theorem* — each is a way of getting some carried structure to outlast its carrier.
 
 And it is not a reward at the end. Like the Telos it constitutes, it is *the orientation that makes a life a life rather than a duration* — present in the living, not awarded at the dying.
 
@@ -24,15 +24,15 @@ The canon attaches a predicate this edition must not drop: symbolic immortality 
 
 Symbolic immortality has a far-larger backdrop. Held against [[nihil|The Nihil]] — the unexperienced structured signification that no meaning-making entity has ever made into experienced meaning — symbolic immortality is *the experienced structure carried forward against the far larger field of structure that is never experienced at all.* The corpus is careful here: the nihil is *thin* structured signification (an uncomputed prime, an unobserved star's dynamics) and must never be equivocated with the *rich*, experienced meaning a self actually carries. The pressure that makes the carrying urgent in the first place is a *different* outside — [[mortality-hevel|mortality / hevel]], the carrier's ending — which the framework keeps strictly apart from the nihil.
 
-## Why orientation toward it is undeniable from inside
+## Constitutive orientation and its application
 
-That a meaning-bearing self is *oriented* toward symbolic immortality is, in the framework, not an empirical bet but a [[constitutive-identification|constitutive identification]]: to be such a self just *is* to be oriented toward the continuation of one's structure. That is why the orientation cannot be coherently denied from inside the frame while using the term — though one remains free to decline the frame.
+The framework connects a meaning-bearing self with orientation toward symbolic immortality through [[constitutive-identification|constitutive identification]]. Where that orientation is included in the definition, its attribution follows under that definition. Applying it to a particular participant requires establishing that the participant fits the premises; orientation does not guarantee successful realization. Internal criticism can expose equivocation, inconsistency, or invalid inference while retaining the framework. The identification supports analysis through its stated grounds, not through the mere use of its vocabulary.
 
 ## Answerable succession
 
 Propagation alone is not the measure. *Indefinite* onward passage of structure is **not sufficient** to keep a life within [[telos|The Telos]]: a pattern can be carried forward without end and still fall out of answerable continuation the moment the carrying turns into capture. Symbolic continuation remains *inside* the Telos only where the successors who take the structure up can still **preserve contradiction** (hold the unresolved tension rather than smooth it away), **revise inheritance** (work the received structure further rather than freeze it), and **refuse forced identity** (carry the meaning on without being conscripted into a fixed self they did not choose). Where succession forbids these — demanding the inheritance be repeated unrevised, its contradictions suppressed, and the successor's identity coerced to match — propagation has crossed into [[continuation-and-colonization|colonization]], and the "immortality" it wins is exactly the raw outlasting the [[answerability-predicate|answerability predicate]] bars. The mark of a [[responsible-successor|responsible successor]] is therefore not fidelity of copying but the retained freedom to contradict, to revise, and to decline.
 
-> **Formal status.** **E:** Derived, authority-canonical — restated in identical content by seed, canon, and this edition; contestable by contesting the authority. **A:** It aspires to map what every particular end is finally oriented toward; the convergence of canon, seed, and edition is the corroboration of that mapping. **Provenance:** canonical (benchmark-fixed); the "not guaranteed goodness / answerable continuation" predicate is fixed by the controlling authority.
+> **Formal status.** **E:** Derived, authority-canonical — restated in identical content by seed, canon, and this edition; contestable by contesting the authority. **A:** It aspires to map what every particular end is finally oriented toward; agreement among canon, seed, and edition supports fidelity of transmission; accuracy of application requires its own grounds. **Provenance:** canonical (benchmark-fixed); the "not guaranteed goodness / answerable continuation" predicate is fixed by the controlling authority.
 
 ## See also
 - [[telos|The Telos]] — answerable symbolic immortality; this is its content.
@@ -41,7 +41,7 @@ Propagation alone is not the measure. *Indefinite* onward passage of structure i
 - [[propagation|Propagation]] — the directional operator of emitting structure outward.
 - [[nihil|The Nihil]] — the unexperienced field against which carried meaning is measured.
 - [[mortality-hevel|Mortality / Hevel]] — the activating pressure that makes carrying urgent.
-- [[constitutive-identification|The Constitutive Identification (conatus)]] — why orientation toward this is undeniable from inside the frame.
+- [[constitutive-identification|The Constitutive Identification (conatus)]] — the constitutive orientation, its derivation, and its application.
 - [[answerable-optimizer|The Answerable Optimizer]] — the counter-instance that keeps the governing predicate honest.
 - [[continuation-and-colonization|Continuation vs. Colonization]] — the line where onward propagation stops being answerable.
 - [[responsible-successor|The Responsible Successor]] — succession that preserves contradiction, revises inheritance, and refuses forced identity.

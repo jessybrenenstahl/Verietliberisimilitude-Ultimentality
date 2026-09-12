@@ -19,7 +19,7 @@ def coupling_table(rows, pages):
         lines.append(f"| {left} | {cell(row['relation'])} | {right} | {cell(row['emergent_property'])} | {evidence} |")
     return '\n'.join(lines)
 
-def expand_references(pages, root):
+def _expand_couplings(pages, root):
     targets=[page for page in pages.values() if COUPLINGS_MARKER in page['raw']]
     if not targets:
         return
@@ -47,7 +47,6 @@ def data_tables(pages, root):
         result['collapses']=table(['Distinguish','From','Mistaken inference','Source'],[[cell(x['a']),cell(x['b']),cell(x['damage']),ref(x['bridge'])] for x in rows])
     return result
 
-_expand_couplings=expand_references
 def expand_references(pages,root):
     _expand_couplings(pages,root)
     for kind,table in data_tables(pages,root).items():

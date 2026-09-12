@@ -3,9 +3,9 @@
 
 Fails (exit 1) if any page contains a [[wikilink]] whose target slug does not
 exist anywhere under content/, if any page (other than the home landing) is
-missing its [[home|…]] backlink, if two pages share a slug, or if any page
-recreates or links to an excluded (deliberately removed) proposal slug. Run via
-`make check` or in CI.
+missing its [[home|…]] backlink or visible formal-status marks, if two pages
+share a slug, or if any page recreates or links to an excluded (deliberately
+removed) proposal slug. Run via `make check` or in CI.
 """
 import os
 import json
@@ -16,6 +16,10 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(ROOT, "content")
 WIKILINK = re.compile(r"\[\[([^|\]]+)(?:\|[^\]]+)?\]\]")
+FORMAL_STATUS = re.compile(
+    r"(?im)^(?:##[^\n]*formal status|\s*>\s*\*\*formal status\.?\*\*|"
+    r"\s*>?\s*\*\*E(?:\s*\(epistemic\))?\b)"
+)
 
 # Deliberately removed proposals — must never be recreated as pages or linked to.
 EXCLUDED = {
@@ -70,6 +74,8 @@ def main():
                 errors.append(f"{rel}: dangling wikilink [[{target}]]")
         if slug != "home" and not re.search(r"\[\[home\|", raw):
             errors.append(f"{rel}: missing [[home|…]] backlink")
+        if slug != "home" and not FORMAL_STATUS.search(raw):
+            errors.append(f"{rel}: missing visible Formal status marks")
 
     if errors:
         print(f"FAIL: {len(errors)} issue(s) in {len(pages)} pages:")

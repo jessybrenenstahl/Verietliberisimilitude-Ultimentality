@@ -5,14 +5,14 @@ section: structural-interlocks
 page_type: load-bearing
 formal_status:
   epistemic: Derived
-  tier: FT
-  alethic: "Aims to track the real difference between an access-condition and an exhaustive representation; the completeness reading is inaccurate, not merely disallowed."
+  tier: Mixed
+  alethic: "Aims to track the real difference between an access-condition and an exhaustive representation; inferring completeness from closure alone is inaccurate, not merely disallowed."
 prerequisites: [formal-closure-claim, semantic-closure-and-recursive-marking, two-mark-system]
 regulates: [formal-closure-claim, totalization-boundary]
 regulated_by: [semantic-closure-and-recursive-marking, self-application, two-mark-system, causal-error-mark]
-valid_attack: "Show that closure as an access-condition entails an exhaustive local account — that the two definitions are not independent — or exhibit a closure formulation immune to every contradiction that still functions as closure."
+valid_attack: "Challenge the non-implication through its premises or inference, or show that the correction-path test misclassifies an answerable or immune formulation."
 isolation_failure: "Stated without recursive marking, the distinction becomes a recited disclaimer while a particular closure formulation is treated as the final account."
-kill_condition: "Show that contradiction cannot alter the wording, scope, formalization, dependency, or status of any closure formulation."
+kill_condition: "Defeat the argument that closure alone does not establish completeness; separately, revise the operational test if it cannot distinguish effective correction from immunity."
 see_also: [formal-closure-claim, semantic-closure-and-recursive-marking, totalization-boundary, no-escape-no-exemption, self-application, causal-error-mark]
 application_tags: []
 ---
@@ -33,9 +33,11 @@ The left term is the frame condition asserted by [[formal-closure-claim|the form
 
 ## Type and formal status
 
-**E — Derived, FT.** The non-implication follows from the accepted definitions inside the frame: *closure* is defined as an access-condition (a property of the medium), *completeness* as an exhaustion claim (a property of a formulation's coverage). Because the two predicate different objects, one cannot entail the other without an added premise identifying medium with map — and that premise is exactly what the page denies. The only attacks that reach an FT relation are frame-declension or a demonstration that the two definitions are not, in fact, independent.
+**E — Derived, FT.** The non-implication follows from the accepted definitions inside the frame: *closure* is defined as an access-condition (a property of the medium), *completeness* as an exhaustion claim (a property of a formulation's coverage). The access-condition specifies mediation without specifying which relevant content a particular account includes. An account can omit relevant content while all access remains mediated; the closure premise therefore leaves its completeness unsettled. Establishing coverage requires further premises and evidence. The premises, inference, consistency, and application remain open to examination; declining the frame is a separate response. The operational correction-path test below is a CV proposal for assessing answerability, not a test of exhaustive coverage.
 
-**A — mapping-accuracy aspiration.** The distinction aspires to *track* a real difference between condition and content. If a case existed where closure did entail completeness, the distinction would be inaccurate, not merely disallowed — the alethic mark is the one that would move first.
+**Overall status: Derived, Mixed** — FT for the stated non-implication, CV for its operational assessment.
+
+**A — mapping-accuracy aspiration.** The distinction aspires to *track* a real difference between condition and content. If completeness followed from closure alone under the stated definitions, the distinction would be inaccurate, not merely disallowed — the alethic mark is the one that would move first.
 
 This page is a **treatise-side extension, held contestable** — a specialization of the closure/marking coupling, not a canonical stipulation and not exempt from its own marks.
 
@@ -48,21 +50,20 @@ It regulates the **totalization excess** of closure: the slide from *unavoidable
 The distinction alone is inert — a slogan is not a safeguard. What makes it operate is **recursive marking**: every statement of closure receives the same marks and revision pathways as any other content-bearing claim, per [[two-mark-system|the two-mark system]] and [[self-application|self-application]]. A closure formulation is [[derived|Derived]] like everything else, and its error mark must carry [[causal-error-mark|causal force]] — the capacity to actually change what it marks. The regulator is therefore not a promise of humility but a working update channel:
 
 ```text
-operational test — a closure formulation is non-totalizing iff a contradiction can change at least one of:
+operational test — relevant corrective evidence must be able to reach the affected claim through:
   wording · scope · formalization · dependency · status
 ```
 
-If contradiction can rewrite the *wording*, narrow the *scope*, refactor the *formalization*, revise a *dependency*, or demote the *status* of the closure statement, then "closed" has not become "exhaustive": the account remains a mortal formulation inside the medium rather than a wall mistaken for the horizon. Strip that channel and the disclaimer becomes [[effective-and-ornamental-answerability|ornamental]] — recited, never load-bearing.
+If relevant contradiction can change the wording, scope, formalization, dependency, or warranted status of the closure statement, the formulation remains answerable. The change must address the affected claim: cosmetic wording changes that preserve the error do not establish corrective reach. Effective reach concerns answerability, not whether coverage is exhaustive for a stated purpose. Strip that channel and the disclaimer becomes [[effective-and-ornamental-answerability|ornamental]] — recited, never load-bearing.
 
 ## Valid attack surface
 
-A valid attack operates at the frame/formulation level, where the claim is made. It must do one of:
+Relevant challenges include:
 
 - **Collapse the definitions.** Show that closure as an access-condition *entails* an exhaustive local account — that no coherent state has closed access without some finite representation already exhausting its domain. This would defeat the inequality directly.
-- **Exhibit a closed-and-complete formulation.** Produce a closure statement whose wording, scope, formalization, dependency, and status are all permanently fixed against every contradiction, while it still functions as a closure claim rather than as a mere axiom-by-fiat.
-- **Show the test is empty.** Demonstrate that no operational criterion distinguishes a "closed but revisable" formulation from a "closed and complete" one, so the distinction does no work.
+- **Challenge the correction-path test.** Show that it accepts a formulation insulated from relevant correction or rejects one whose correction remains effective. That challenges the operational criterion, not the non-implication between closure and completeness.
 
-Attacks that offer surface wording, a substrate difference, or a single failed formulation of closure do not reach the seam: a formulation `c_i` can die without touching the condition `C` (see [[frame-condition-and-formulation|frame condition and formulation]]), so killing one account of closure is not killing the closure/completeness distinction.
+Evidence from wording, a substrate, or a failed formulation can bear on the asserted condition when its connection is established. A failure of one formulation does not by itself defeat every formulation or the closure/completeness distinction; see [[frame-condition-and-formulation|frame condition and formulation]].
 
 ## What happens if isolated
 
@@ -72,11 +73,13 @@ The mirror-image isolation is instructive. Marking pressed *without* this distin
 
 ## What larger property emerges from the coupling
 
-Coupled with recursive marking as a [[semantic-closure-and-recursive-marking|⊕ coupled-controller]] — not a sum, not a synthesis — closure-without-totalization yields **open finite participation**: a medium one cannot exit that nonetheless never crystallizes into a closed account of itself. Closure supplies *no escape*; the marking that keeps every closure formulation revisable supplies *no exemption*. Each term bounds the characteristic excess of the other: closure without marking would totalize; marking without closure would regress. What emerges is closure that stays wound-able — the [[no-escape-no-exemption|no-escape, no-exemption]] architecture read from the closure end. The emergent property is not in either term; it lives in the coupling, exactly as a Force lives in the wiring and not in the parts.
+Coupled with recursive marking as a [[semantic-closure-and-recursive-marking|⊕ coupled-controller]] — not a sum, not a synthesis — closure-without-totalization yields **open finite participation**: a medium one cannot exit within which finite accounts can crystallize, complete stated tasks, and remain correctable. Closure supplies *no escape*; the marking that keeps every closure formulation revisable supplies *no exemption*. Each term bounds the characteristic excess of the other: closure treated as exemption permits totalization; marking that demands an outside judge produces regress. What emerges is closure that stays wound-able — the [[no-escape-no-exemption|no-escape, no-exemption]] architecture read from the closure end. The emergent property is not in either term; it lives in the coupling, exactly as a Force lives in the wiring and not in the parts.
 
 ## What would actually kill the claim
 
-**Show that contradiction cannot alter any closure formulation.** If a genuine closure statement can be exhibited whose wording, scope, formalization, dependency, and status are all permanently immune to contradiction while it still does the work of a closure claim, then closure *does* deliver an exhaustive, fixed account — and the inequality `closed medium != exhaustive local account` is false. Equivalently, the claim dies if the operational test above can be shown to be empty, drawing no line between a closed-yet-revisable formulation and a closed-yet-complete one. Either result would demote this page from FT to defeated, and the demotion pathway is itself one of the marks the page insists every closure claim must carry.
+The non-implication fails if completeness follows from closure alone under the stated definitions, or if its supporting argument contains an unrepaired invalid step. A complete account existing within a closed medium does not establish that implication: its completeness may have independent grounds.
+
+The operational criterion requires revision if it cannot distinguish effective corrective reach from immunity. An immune formulation is evidence of a failure of answerability; immunity does not establish that the formulation exhausts its subject. Conversely, a complete account for a declared purpose can remain answerable. Evaluate these claims separately and revise the affected argument or test.
 
 ## Prohibited misreadings
 

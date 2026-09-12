@@ -36,7 +36,7 @@ The kernel, stated as an ordered list of relations rather than doctrines:
 7. continuity requires symbolic preservation and correction — answerable structure is carried with the capacity for warranted revision, including justified retention ([[continuable-structure|continuable structure]], [[continuity|continuity]])
 8. propagation satisfies this Telos where it remains answerable — the [[answerability-predicate|answerability predicate]] is never dropped; unanswerable persistence fails the [[telos|Telos]]; [[continuation-and-colonization|colonization]] additionally requires the relevant foreclosure of successor capacity
 9. every content-bearing formulation is [[derived|Derived]] and marked — including this list ([[two-mark-system|the two-mark system]])
-10. semantic closure and recursive marking cross-regulate — the coupled foundation that makes the whole legible ([[semantic-closure-and-recursive-marking|closure and marking]], [[no-escape-no-exemption|no escape, no exemption]])
+10. semantic closure and recursive marking cross-regulate — the coupled foundation that makes the whole legible ([[semantic-closure-and-recursive-marking|closure and marking]], [[no-escape-no-exemption|no escape, no exemption]]); the operation/formulation distinction preserves marking of every content-bearing claim, and the implementation remains subject to effective correction ([[self-application|Self-Application]])
 
 Required compact form — the decompression order (single arrows) and the three governing couplings (double arrows):
 

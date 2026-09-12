@@ -6,12 +6,12 @@ page_type: load-bearing
 formal_status:
   epistemic: Derived
   tier: Mixed
-  alethic: "the four cornerstone bindings aspire to map felt states accurately; the additive and feeling-as-substance readings are inaccurate, not merely disallowed"
+  alethic: "the four cornerstone bindings aspire to map regulated functions across carriers; felt states are an application whose relation to those functions requires evidence"
 prerequisites: [predicate-binding, directional-primitives, regulated-error-signal]
 regulates: [cardinal-error, "emotion-as-primitive misreading", "feeling-as-definition drift", "free-floating cornerstone names"]
 regulated_by: [predicate-binding, regulated-error-signal, causal-error-mark]
 valid_attack: "Exhibit a cornerstone emotion whose canonical behavior is not captured by its actuator-and-regulated-error pair, or a second distinct binding with the same pair yet a predictably different function."
-isolation_failure: "Restated without the general binding model it decays to four labels; restated without the four bindings it becomes an empty schema that regulates nothing."
+isolation_failure: "Names without operative actuator-discrepancy relations do not establish bindings; a schema without specified instances does not establish an operating controller."
 kill_condition: "The model cannot tell the four emotions apart except by importing their ordinary names."
 see_also: [predicate-binding, directional-primitives, cardinal-error, force, causal-error-mark, qualia-as-narrative-compression]
 application_tags: []
@@ -48,7 +48,7 @@ The `+` here is prose shorthand for *this actuator bound to this error*. It is *
 
 **E (epistemic).** This is a **Mixed** mark ([[two-mark-system|The Two-Mark System]]); the two components carry different tiers and are stated separately. The *restatement* — `B(p) = (p, e_p)` and the four cornerstone (actuator, error) pairs — is **Derived, authority-canonical** ([[authority-canonical-tier]]): the canon fixes these bindings and their assignment, so attribution and fidelity are evaluated against the definitions, while applications and purported consequences remain open to evidence and internal criticism. The page's own *synthesis* — that "emotion is a regulated binding" is the correct bridge between the general model and the four cornerstones, and that this carving cleanly individuates them — is **Derived, CV** ([[carving-tier]]): a contestable carving, defeasible by a better carving or a counter-instance. As a treatise-side extension the synthesis layer is held **contestable**; it is not itself canonical, and nothing on this page introduces a forced, exempt, or foundational tier — the four-count remains a carving, not a given.
 
-**A (alethic).** On the [[alethic-axis|alethic axis]], the bindings aspire to *map* felt emotional states accurately. The additive reading of `(p, e_p)`, and the reading that treats the felt tone as the emotion's substance, are held to be **inaccurate**, not merely disallowed by convention.
+**A (alethic).** On the [[alethic-axis|alethic axis]], the bindings aspire to *map* regulated functions accurately across carriers. Relating those functions to felt emotional states is an application requiring its own evidence. The additive reading of `(p, e_p)`, and the reading that treats the felt tone as the emotion's substance, are held to be **inaccurate**, not merely disallowed by convention.
 
 ## What it regulates
 
@@ -71,11 +71,11 @@ Adjacent legitimate moves: propose a fifth indispensable cornerstone the four ca
 
 The bridge fails in a distinct, testable way at each end.
 
-Hold the general schema `B(p) = (p, e_p)` **without** the four instantiations and it becomes an empty form: a well-typed slot that regulates nothing, because no actual actuator is bound to any actual error. It can classify anything and therefore individuates nothing.
+The general schema `B(p) = (p, e_p)` specifies how to describe a binding. It does not by itself instantiate a controller: an application must identify an actuator, a discrepancy, and their operative connection. The four cornerstone bindings provide the framework’s named instances; other applications of the schema require their own specification.
 
-Hold the four cornerstones **without** the general schema and they decay to four names — a mnemonic list whose members are told apart only by their ordinary meanings, which is precisely the [[cardinal-error|cardinal error]] creeping back in through the labels. The four become primitives again by default.
+The four names alone do not establish their regulated functions. Those functions can be specified in notation or prose, provided their actuator-discrepancy relations remain recoverable. Omitting the displayed formula does not itself turn a binding into a primitive.
 
-Because the two isolation failures are different (empty schema versus free-floating labels), the coupling of schema-to-instance is not decorative: each end supplies exactly what the other's isolation destroys.
+The schema supports comparison across instances; the instances show which regulated relations the framework identifies. Their explanatory roles are complementary without making a particular presentation indispensable to the operation.
 
 ## What larger property emerges from the coupling
 
@@ -87,7 +87,7 @@ At the page layer, coupling the general model to the four instances yields **nam
 
 The claim dies if **the model cannot distinguish the four emotions except by importing their ordinary names** — that is, strip the words "love," "fear," "apology," "gratitude," and if the four `(p, e_p)` pairs no longer separate the four functions, the bridge has no content beyond relabeling. Concretely, the claim is killed by either horn of the valid attack landing: a cornerstone whose canonical behavior its pair provably cannot capture, or two distinct emotions forced onto one shared pair. An alternative decomposition does not by itself defeat this one. Compare what each explains or predicts: equivalence can support a translation, while a demonstrated explanatory failure or systematic misclassification calls for revision.
 
-A residue that does **not** kill it: the felt qualities of the four differ, obviously, and someone may insist the difference in feel is the real difference. A difference in feel without a change in regulated function would challenge a claim that the pair exhaustively determines phenomenal character. It would not automatically defeat the narrower identification of the functional binding. The challenged claim and its scope must be explicit. That specific counter-instance has not been exhibited here; producing it is the open work, and its absence is not counted as confirmation.
+A residue that does **not** kill it: the felt qualities of the four differ, obviously, and someone may insist the difference in feel is the real difference. A difference in feel without a change in regulated function would challenge a claim that the pair exhaustively determines phenomenal character. It would not automatically defeat the narrower identification of the functional binding. The challenged claim and its scope must be explicit. The absence of such a counter-instance alone adds no confirmation and imposes no requirement to manufacture one.
 
 ## Prohibited misreadings
 

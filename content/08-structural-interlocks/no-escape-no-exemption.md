@@ -102,7 +102,7 @@ Concretely: show a case in which something is genuinely received by, matters to,
 - **Reading "no exemption" as "everything is probably wrong."** Contestable is an epistemic-exposure mark; it does not predict accuracy. A claim can be at once maximally accurate and fully open to correction. Contestable never means probably wrong or merely optional. See [[two-mark-system]], [[derived]].
 - **Treating the pair itself as an exempt tier.** "No escape, no exemption" is not a new founded, forced, or unmarked level. The page that forbids exemption cannot exempt itself; to do so is the [[textual-nephilim|Textual Nephilim]]. Its status is Derived, like every other content-bearing claim.
 - **Mistaking cross-regulation for circular proof.** The pair does not prove itself in a loop. Each term bounds the other's excess, and isolation yields distinct, testable failures; that is necessary architecture, not self-certification. See [[cross-regulated-necessity]], [[semantic-closure-and-recursive-marking]].
-- **Counting a failed attack as confirmation.** A refuted objection is a refuted objection. It never upgrades the claim toward forced or proven.
+- **Counting a failed attack as confirmation.** A refuted objection is a refuted objection. The objection’s failure alone supplies no proof. A discriminating result obtained during the examination can support the specific claim it tests without granting exemption.
 
 ## See also
 

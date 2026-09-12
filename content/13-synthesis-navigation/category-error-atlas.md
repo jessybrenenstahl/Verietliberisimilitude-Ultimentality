@@ -40,6 +40,14 @@ Use this guide to locate a mistaken inference, then examine the linked claim. It
 
 The atlas's assignments can be wrong. A successful correction changes the row and the affected formulations; merely naming a category error does not settle the dispute.
 
+## Use the atlas as a routing aid
+
+When a proposed objection appears to cross layers, identify the exact target, type, abstraction level, and possible causal effect before assigning it a row. Then examine the linked source page. A same-level counter-instance can pass through the atlas and still defeat a claim; the atlas protects a distinction only when that distinction does work in the case.
+
+## Formal status
+
+> **E:** Derived, Exposition — a revisable index of recurring mistaken inferences. **A:** aims to identify the level and type boundary that an actual error crosses, while leaving each assignment open to a better classification. **Provenance:** treatise-side navigation derived from the prohibited-collapse index, attack rules, and linked source pages.
+
 ## See also
 
 [[prohibited-collapses|The Prohibited Collapses]] · [[same-level-attack-rule|The Same-Level Attack Rule]] · [[attack-type-matching|Attack-Type Matching]] · [[outcomes-of-attack|The Outcomes of Attack]] · [[cardinal-error|The Cardinal Error]] · [[interaction-matrix|The Interaction Matrix]] · [[kill-table|The Kill-Table]]

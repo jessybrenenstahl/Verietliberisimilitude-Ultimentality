@@ -1,3 +1,21 @@
+---
+slug: force
+title: Force
+section: two-forces
+page_type: load-bearing
+formal_status:
+  epistemic: Derived
+  tier: Mixed
+  alethic: "maps coupled-controller composition through an emergent property; particular mechanisms and exhaustive inventory remain contestable"
+prerequisites: [predicate-binding]
+regulates: ["coupled controllers read as an arithmetic sum", "a composite property attributed to an isolated component", "a named Force treated as a primitive binding"]
+regulated_by: [cross-regulated-necessity, two-mark-system, submission, reconciliation]
+valid_attack: "Show that the named composite property survives removal of a controller, or that the `⊕` relation adds no behavior beyond its isolated components."
+isolation_failure: "Reading a Force as a sum loses the operative relation between its bindings; reading it as a primitive loses its component structure. The specific direction and timing of influence require their own account."
+kill_condition: "A purported Force retains its defining behavior after one controller is removed, or an equivalent isolated term explains the behavior without the coupling."
+see_also: [predicate-binding, submission, reconciliation, opposed-gradient-contention, sequential-gating]
+application_tags: []
+---
 [[home|← Ultimentality Wiki]]
 
 # Force (the ⊕ coupled-controller)

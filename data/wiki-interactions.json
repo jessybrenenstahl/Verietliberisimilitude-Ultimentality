@@ -7,6 +7,27 @@
     "target_in_wiki": true
   },
   {
+    "source": "apology",
+    "target": "an apology expression treated as the correction itself",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
+  },
+  {
+    "source": "apology",
+    "target": "correction detached from the action it is meant to change",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
+  },
+  {
+    "source": "apology",
+    "target": "self-model error treated as a fixed identity",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
+  },
+  {
     "source": "attack-surface-matrix",
     "target": "attack/claim-type mismatch",
     "relation": "regulates",
@@ -183,6 +204,13 @@
   },
   {
     "source": "causal-error-mark",
+    "target": "apology",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-error-mark",
     "target": "capture-of-corrective-layer",
     "relation": "regulates",
     "source_in_wiki": true,
@@ -232,6 +260,13 @@
   },
   {
     "source": "causal-error-mark",
+    "target": "gratitude",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-error-mark",
     "target": "integrity-rule",
     "relation": "regulates",
     "source_in_wiki": true,
@@ -253,6 +288,13 @@
   },
   {
     "source": "causal-error-mark",
+    "target": "reconciliation",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-error-mark",
     "target": "refusal-as-participation",
     "relation": "regulates",
     "source_in_wiki": true,
@@ -268,6 +310,13 @@
   {
     "source": "causal-error-mark",
     "target": "scar-record",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
+  },
+  {
+    "source": "causal-error-mark",
+    "target": "sequential-gating",
     "relation": "regulates",
     "source_in_wiki": true,
     "target_in_wiki": true
@@ -547,6 +596,13 @@
   },
   {
     "source": "correction-without-regress",
+    "target": "sequential-gating",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
+  },
+  {
+    "source": "correction-without-regress",
     "target": "the demand for an extra-symbolic certifier",
     "relation": "regulates",
     "source_in_wiki": true,
@@ -586,6 +642,13 @@
     "relation": "regulates",
     "source_in_wiki": true,
     "target_in_wiki": false
+  },
+  {
+    "source": "cross-regulated-necessity",
+    "target": "force",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
   },
   {
     "source": "cross-regulated-necessity",
@@ -882,6 +945,55 @@
     "target_in_wiki": false
   },
   {
+    "source": "fear",
+    "target": "Fear granted a privileged relationship to Reconciliation",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
+  },
+  {
+    "source": "fear",
+    "target": "an object of Reconciliation treated as one of its components",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
+  },
+  {
+    "source": "fear",
+    "target": "boundary violation treated as a primitive or feeling",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
+  },
+  {
+    "source": "force",
+    "target": "a composite property attributed to an isolated component",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
+  },
+  {
+    "source": "force",
+    "target": "a named Force treated as a primitive binding",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
+  },
+  {
+    "source": "force",
+    "target": "coupled controllers read as an arithmetic sum",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
+  },
+  {
+    "source": "force",
+    "target": "submission",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
+  },
+  {
     "source": "formal-closure-claim",
     "target": "externality-without-extra-symbolic-access",
     "relation": "regulates",
@@ -922,6 +1034,27 @@
     "relation": "regulates",
     "source_in_wiki": true,
     "target_in_wiki": true
+  },
+  {
+    "source": "gratitude",
+    "target": "Gratitude made contingent on a prior fault or Apology",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
+  },
+  {
+    "source": "gratitude",
+    "target": "a feeling or expression treated as the binding",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
+  },
+  {
+    "source": "gratitude",
+    "target": "received value hoarded instead of carried forward",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
   },
   {
     "source": "hypercompression",
@@ -1062,6 +1195,27 @@
     "relation": "regulates",
     "source_in_wiki": false,
     "target_in_wiki": true
+  },
+  {
+    "source": "love",
+    "target": "Love treated as a primitive rather than a binding",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
+  },
+  {
+    "source": "love",
+    "target": "relational gap treated as a feeling or label",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
+  },
+  {
+    "source": "love",
+    "target": "toward-coupling mistaken for fusion",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
   },
   {
     "source": "manual review of wiki-interactions.json against the pages each cell claims to index",
@@ -1372,6 +1526,13 @@
     "target_in_wiki": true
   },
   {
+    "source": "opposed-gradient-contention",
+    "target": "submission",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
+  },
+  {
     "source": "outcomes-of-attack",
     "target": "attack-type-matching",
     "relation": "regulates",
@@ -1506,7 +1667,35 @@
   },
   {
     "source": "predicate-binding",
+    "target": "apology",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
+  },
+  {
+    "source": "predicate-binding",
     "target": "emotion-as-regulated-binding",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
+  },
+  {
+    "source": "predicate-binding",
+    "target": "fear",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
+  },
+  {
+    "source": "predicate-binding",
+    "target": "gratitude",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
+  },
+  {
+    "source": "predicate-binding",
+    "target": "love",
     "relation": "regulates",
     "source_in_wiki": true,
     "target_in_wiki": true
@@ -1619,6 +1808,62 @@
   {
     "source": "reciprocal-attack-surfaces",
     "target": "totalization-boundary",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
+  },
+  {
+    "source": "reconciliation",
+    "target": "a local repair dependency universalized into a timetable",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
+  },
+  {
+    "source": "reconciliation",
+    "target": "an object treated as a component of the process",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
+  },
+  {
+    "source": "reconciliation",
+    "target": "apology",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
+  },
+  {
+    "source": "reconciliation",
+    "target": "force",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
+  },
+  {
+    "source": "reconciliation",
+    "target": "gratitude",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
+  },
+  {
+    "source": "reconciliation",
+    "target": "outward value substituted for correction",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
+  },
+  {
+    "source": "reconciliation",
+    "target": "sequential-gating",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
+  },
+  {
+    "source": "reconciliation",
+    "target": "submission",
     "relation": "regulates",
     "source_in_wiki": true,
     "target_in_wiki": true
@@ -2394,6 +2639,34 @@
     "target_in_wiki": true
   },
   {
+    "source": "sequential-gating",
+    "target": "a gate treated as the composition of Reconciliation",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
+  },
+  {
+    "source": "sequential-gating",
+    "target": "a local repair dependency universalized into a timetable",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
+  },
+  {
+    "source": "sequential-gating",
+    "target": "direction mistaken for timing",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
+  },
+  {
+    "source": "sequential-gating",
+    "target": "reconciliation",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
+  },
+  {
     "source": "strengthening-without-absolutization",
     "target": "absolutization",
     "relation": "regulates",
@@ -2448,6 +2721,48 @@
     "relation": "regulates",
     "source_in_wiki": true,
     "target_in_wiki": true
+  },
+  {
+    "source": "submission",
+    "target": "Fear or Love isolated from the coupled relation",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
+  },
+  {
+    "source": "submission",
+    "target": "fear",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
+  },
+  {
+    "source": "submission",
+    "target": "fear-gain dominance treated as the identity of Submission",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
+  },
+  {
+    "source": "submission",
+    "target": "force",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
+  },
+  {
+    "source": "submission",
+    "target": "love",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
+  },
+  {
+    "source": "submission",
+    "target": "yielding read as fusion or flight",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": false
   },
   {
     "source": "symbolic-is-not-linguistic",
@@ -2676,6 +2991,13 @@
   {
     "source": "two-mark-system",
     "target": "description-length-and-explanatory-surface",
+    "relation": "regulates",
+    "source_in_wiki": true,
+    "target_in_wiki": true
+  },
+  {
+    "source": "two-mark-system",
+    "target": "force",
     "relation": "regulates",
     "source_in_wiki": true,
     "target_in_wiki": true

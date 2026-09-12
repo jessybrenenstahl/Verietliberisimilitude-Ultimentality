@@ -20,7 +20,7 @@ content/                     # source of truth — one Markdown page per concept
   extensions/                # explicitly treatise-side extension pages
 tools/
   build_site.py              # static-site generator (Markdown → HTML, search, backlinks, downloads)
-  check_links.py             # validator: every [[wikilink]] resolves; every page has a backlink
+  check_links.py             # validator: links, backlinks, excluded slugs, and visible status marks
 .github/workflows/build.yml  # CI: validate → build → deploy to GitHub Pages
 site/                        # generated (git-ignored); produced by tools/build_site.py
 ```
@@ -52,7 +52,7 @@ Every built page carries a footer linking to: its own page `.md`, the kernel (`U
 
 ## Continuous integration
 
-`.github/workflows/build.yml` runs on every push to `main`: it installs pandoc, runs `make check`, builds the site, and deploys it to **GitHub Pages**. A red check means a dangling wikilink, a missing backlink, or a build failure.
+`.github/workflows/build.yml` runs on every push to `main`: it installs pandoc, runs `make check`, builds the site, and deploys it to **GitHub Pages**. A red check means a dangling wikilink, a missing backlink or visible status mark, an excluded reference, or a build failure.
 
 ## License
 

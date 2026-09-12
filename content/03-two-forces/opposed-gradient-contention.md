@@ -6,7 +6,7 @@
 
 ## The basic picture
 
-[[love|Love]] pulls [[toward|toward]], working to reduce a relational gap; [[fear|Fear]] pushes [[away|away]], working to reduce a boundary violation. Set side by side, these look like they should cancel — one wants nearness, the other wants distance. They do not. Compare two ropes pulling a stake in opposite directions: the stake does not fly off in either direction, nor does it sit at "zero"; it holds a *tensioned* position that neither rope alone could produce. That tensioned position is the analogue of [[submission|Submission]]. The opposition is what does the work.
+[[love|Love]] pulls [[toward|toward]], working to reduce a relational gap; [[fear|Fear]] pushes [[away|away]], working to reduce a boundary violation. Set side by side, these look like they should cancel — one wants nearness, the other wants distance. They do not. Compare two ropes pulling a stake in opposite directions: the stake can have zero net movement while remaining under tension; that equilibrium depends on both ropes. Zero net movement does not mean the contributions have ceased to operate. That tensioned position is the analogue of [[submission|Submission]]. The opposition is what does the work.
 
 ## How it works
 
@@ -28,7 +28,7 @@ Opposed-gradient contention describes the organization of [[submission|Submissio
 
 ## Common misreadings
 
-Contention is **not** cancellation: the opposed gradients do not net to zero, they co-require each other, each defining the bound the other works against. It is also not addition — reading it that way is the [[cardinal-error|Cardinal Error]]. And it must not be confused with [[sequential-gating|sequential gating]]: gating is a temporal order (inward, then outward), while contention is simultaneous opposition. Finally, keep the two marks apart — the *fact* that Submission couples by opposed contention is canonical, but the exact phrase "opposed-gradient contention" is the writer's chosen label, contestable by counter-instance.
+Contention does not erase the controllers: a stable net outcome can coexist with their distinct contributions to relation and boundary. It is also not addition — reading it that way is the [[cardinal-error|Cardinal Error]]. And it must not be confused with [[sequential-gating|sequential gating]]: gating makes an operation conditional on sufficient completion of a prerequisite; contention concerns opposed regulatory contributions within a shared transition. Neither description alone fixes every execution schedule. Finally, keep the two marks apart — the *fact* that Submission couples by opposed contention is canonical, but the exact phrase "opposed-gradient contention" is the writer's chosen label, contestable by counter-instance.
 
 ## Formal status
 
